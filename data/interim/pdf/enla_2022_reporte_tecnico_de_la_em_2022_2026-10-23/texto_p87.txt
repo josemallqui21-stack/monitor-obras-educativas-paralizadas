@@ -1,0 +1,43 @@
+Reporte técnico evaluaciones 2022 Capítulo 4
+puede graficarse por medio de las curvas características del ítem (CCI), que brindan
+información concreta sobre la probabilidad de respuesta de una persona ante dicho
+ítem. Al trazar estas curvas, se establecen las siguientes relaciones en caso de tener
+ítems dicotómicos:
+En el primer caso, si la habilidad de la persona es mayor que la dificultad del ítem,
+la probabilidad de responder correctamente el ítem es mayor que 0,5 (50 %). En
+el segundo caso, si la habilidad de la persona es menor que la dificultad del ítem,
+la probabilidad de responder correctamente dicho ítem es menor que 0,5 (50 %).
+Finalmente, en el tercer caso, si la habilidad de la persona es igual a la dificultad del ítem,
+la probabilidad de responder correctamente dicho ítem es igual que 0,5 (50 %). Como
+señala Ingebo (1997), de esta manera, se puede comprobar empíricamente la teoría
+de que los estudiantes con mayores conocimientos tienen mayores probabilidades de
+responder correctamente una pregunta, a diferencia de los estudiantes con menores
+conocimientos. Matemáticamente, la CCI se grafica con la siguiente función:
+Donde representa el rasgo latente de cada persona n, y representa la medida
+de dificultad de cada ítem i. Esta relación entre la habilidad de una persona y la
+θ β
+dificultad de un ítem se presenta en la figura 4.1.
+Figura 4.1 Curva característica del ítem y probabilidades de tres personas de
+responder correctamente dicho ítem
+1.0
+0.9 0,86 Curva
+0.8 característica
+del ítem (CCI)
+0.7
+0.6
+0.5 0,50
+0.4
+0.3 0,29
+0.2
+0.1
+0.0
+−5 −4 −3 −2 −1 0 1 2 3 4 5
+Medida de habilidad de la persona/dificultad del ítem
+85
+metí
+le
+etnematcerroc
+rednopser
+ed
+dadilibaborP
+Juan −0,90 Martín 0,00 Jorge 1,80

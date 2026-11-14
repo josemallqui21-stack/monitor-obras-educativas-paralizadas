@@ -1,0 +1,45 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P117_11_M C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+11. Incendio forestal/urbano
+¿Es mitigable?
+P117_12 C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+12. Avalanchas
+P117_12_F C (10) 117. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+12. Avalanchas
+Última fecha de ocurrencia
+P117_12_M C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+12. Avalanchas
+¿Es mitigable?
+P117_13 C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+13. Huaycos
+P117_13_F C (10) 117. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+13. Huaycos
+Última fecha de ocurrencia
+P117_13_M C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+13. Huaycos
+¿Es mitigable?
+P117_14 C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+14. Deslizamientos
+P117_14_F C (10) 117. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+14. Deslizamientos
+Última fecha de ocurrencia
+P117_14_M C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+14. Deslizamientos
+¿Es mitigable?
+P117_15 C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+15. Erosión
+-- 24 --

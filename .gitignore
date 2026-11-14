@@ -1,0 +1,29 @@
+# --- entorno y archivos personales (R, VS Code, Jupyter) ---
+.venv/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+.vscode/
+.ipynb_checkpoints/
+
+# --- respaldos y entregas comprimidas (los datos crudos van en el Release "datos-crudos", no en el repositorio) ---
+_respaldo_antes_de_la_corrida_limpia/
+*.zip
+*.rar
+*.7z
+
+# --- datos crudos y temporales (se bajan de los portales o del Release) ---
+data/raw/
+data/interim/escale/
+data/interim/infobras_navegador.lock
+
+# --- copias derivadas que se regeneran solas ---
+data/processed/*.rds
+data/processed/*.xlsx
+data/interim/componentes/*.xlsx
+
+# --- depuracion (capturas de errores y registros de ejecucion) ---
+docs/capturas/
+docs/log_*.txt

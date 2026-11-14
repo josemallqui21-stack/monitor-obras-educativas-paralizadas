@@ -1,0 +1,55 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P501_Aulas.dbf [ Matriz 12: Aulas en el Local Educativo ]
+Variable Tipo Descripción Valor
+P501_24_D3 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+10. Cuna
+3. Cantidad en regular estado
+P501_24_D4 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+10. Cuna
+4. Cantidad en mal estado
+P501_24_O1 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+11. Reposo de pies
+1. Cantidad Total
+P501_24_O2 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+11. Reposo de pies
+2. Cantidad en buen estado
+P501_24_O3 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+11. Reposo de pies
+3. Cantidad en regular estado
+P501_24_O4 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+11. Reposo de pies
+4. Cantidad en mal estado
+Tabla 01: Códigos de Niveles Educativos Tabla 02: Códigos de Material
+Código Descripción predominante de las puertas
+A1 Inicial Cuna Código Descripción
+A2 Inicial Jardín 01 Madera
+A3 Inicial Cuna Jardín
+02 Mallas metálicas
+B0 Primaria EBR
+03 Rejas metálicas
+F0 Secundaria EBR
+04 Planchas metálicas
+D1 EBA – Inicial e Intermedio
+05 Drywall
+D2 EBA - Avanzado
+06 Vidrio
+E0 PRITE - Programa de Intervención Temprana
+07 Otro
+E1 EBE - Inicial
+08 No tiene, pero lo Requiere
+E2 EBE - Primaria
+09 No tiene y No Requiere
+L0 CETPRO - Técnico Productiva
+K0 Educación Superior Pedagógica
+T0 Educación Superior Tecnológica
+M0 Escuela de Formación Artística
+P0 Escuela de Educación Superior Pedagógica
+S0 Escuela de Educación Superior Tecnológica
+-- 60 --

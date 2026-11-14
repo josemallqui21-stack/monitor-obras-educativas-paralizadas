@@ -1,0 +1,48 @@
+Archivo: Loc_P61_Aulas.dbf [ Matriz 11: Aulas en el Local Educativo ]
+Variable Tipo Descripción Valor
+P61_7_2 N (7,2) 7. Dimensiones del ambiente 9999.99
+2. Ancho (m)
+P61_7_3 N (5,2) 7. Dimensiones del ambiente 99.99
+3. Alto (m)
+P61_8 C (1) 8. ¿Cuenta con señalización de seguridad? 1: Sí
+2: No
+P61_9_1 N (5) 9. Puertas 99999
+1. Cantidad
+P61_9_2 C (2) 9. Puertas Ver código en
+2. Material Predominante Tabla 02
+P61_9_3 C (2) 9. Puertas (BU:NA)
+3. Estado de Conservación
+BU: Bueno
+RE: Regular
+MA: Malo
+NA: No Aplica
+P61_9_4 N (5,2) 9. Puertas 99.99
+4. Ancho (m)
+P61_10_1 N (5) 10. Cerraduras 99999
+1. Cantidad
+P61_10_2 C (2) 10. Cerraduras (BU:NA)
+2. Estado de Conservación
+BU: Bueno
+RE: Regular
+MA: Malo
+NA: No Aplica
+P61_11_1 N (5) 11. Ventanas 99999
+1. Cantidad
+P61_11_2 C (2) 11. Ventanas Ver código en
+2. Material Predominante del marco de la ventana Tabla 03
+P61_11_3 C (2) 11. Ventanas (BU:NA)
+3. Estado de Conservación del marco de la ventana
+BU: Bueno
+RE: Regular
+MA: Malo
+NA: No Aplica
+P61_11_4 C (1) 11. Ventanas 1: Sí
+4. Favorecen la ventilación cruzada (las ventanas de 2: No
+encuentran frente a otras ventanas)
+P61_11_5 C (2) 11. Ventanas (BU:NA)
+5. Estado de Conservación de los vidrios
+BU: Bueno
+RE: Regular
+MA: Malo
+NA: No Aplica
+39

@@ -1,0 +1,41 @@
+name: Ejecutar el cuaderno de Jupyter completo
+
+# Manual (boton "Run workflow"). Arma notebooks/proyecto_completo.ipynb desde src, lo ejecuta de punta a punta y guarda el cuaderno con sus resultados.
+# Demuestra que el cuaderno unico corre solo, sin intervencion. Tarda unos 15 minutos.
+on:
+  workflow_dispatch:
+
+jobs:
+  cuaderno:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Instalar las librerias
+        run: pip install -r requirements.txt
+
+      - name: Bajar los datos crudos del Release «datos-crudos»
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download datos-crudos --repo "$GITHUB_REPOSITORY" --pattern "*.zip" --dir "$RUNNER_TEMP/crudos"
+          python -c "import glob, os, zipfile; [zipfile.ZipFile(z).extractall('.') for z in sorted(glob.glob(os.environ['RUNNER_TEMP'] + '/crudos/*.zip'))]"
+
+      - name: Armar y ejecutar el cuaderno
+        run: python generar_cuaderno.py --ejecutar
+
+      - name: Guardar el cuaderno ejecutado y el CSV
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cuaderno-ejecutado
+          path: |
+            notebooks/proyecto_completo.ipynb
+            data/final/
+          retention-days: 30

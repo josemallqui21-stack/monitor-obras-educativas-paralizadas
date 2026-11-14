@@ -1,0 +1,46 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P801_RecTec.dbf [ Matriz 17 : Recursos Tecnológicos en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+P801_3_34 N (5) 3. Cantidad de recursos tecnológicos operativos 99999
+3. Según antigüedad en el local educativo
+4. De 3 a menos de 4 años
+P801_3_35 N (5) 3. Cantidad de recursos tecnológicos operativos 99999
+3. Según antigüedad en el local educativo
+5. De 4 a más años
+P801_4_11 N (5) 4. Cantidad de recursos tecnológicos operativos por tipo de 99999
+conexión a internet, según uso
+1. Conectados por cable
+1. De uso estrictamente pedagógico
+P801_4_12 N (5) 4. Cantidad de recursos tecnológicos operativos por tipo de 99999
+conexión a internet, según uso
+1. Conectados por cable
+2. De uso pedagógico y administrativo
+P801_4_13 N (5) 4. Cantidad de recursos tecnológicos operativos por tipo de 99999
+conexión a internet, según uso
+1. Conectados por cable
+3. De uso estrictamente administrativo
+P801_4_21 N (5) 4. Cantidad de recursos tecnológicos operativos por tipo de 99999
+conexión a internet, según uso
+2. Conectados por wifi
+1. De uso estrictamente pedagógico
+P801_4_22 N (5) 4. Cantidad de recursos tecnológicos operativos por tipo de 99999
+conexión a internet, según uso
+2. Conectados por wifi
+2. De uso pedagógico y administrativo
+P801_4_23 N (5) 4. Cantidad de recursos tecnológicos operativos por tipo de 99999
+conexión a internet, según uso
+2. Conectados por wifi
+3. De uso estrictamente administrativo
+P801_4_31 N (5) 4. Cantidad de recursos tecnológicos operativos por tipo de 99999
+conexión a internet, según uso
+3. No conectados
+1. De uso estrictamente pedagógico
+P801_4_32 N (5) 4. Cantidad de recursos tecnológicos operativos por tipo de 99999
+conexión a internet, según uso
+3. No conectados
+2. De uso pedagógico y administrativo
+P801_4_33 N (5) 4. Cantidad de recursos tecnológicos operativos por tipo de 99999
+conexión a internet, según uso
+3. No conectados
+3. De uso estrictamente administrativo
+76

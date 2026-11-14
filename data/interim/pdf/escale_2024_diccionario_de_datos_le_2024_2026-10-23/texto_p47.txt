@@ -1,0 +1,45 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P401_Edific.dbf [ Matriz 11: Edificaciones en el Local Educativo ]
+Variable Tipo Descripción Valor
+P401_15_3 N (6,2) 15. En el caso el acceso sea mediante rampa(s), indique 999.99
+si cuenta con las siguientes características
+3. Desnivel (m)
+P401_15_4 C (1) 15. En el caso el acceso sea mediante rampa(s), indique 1: Sí
+si cuenta con las siguientes características 2: No
+4. ¿Los descansos tienen una longitud mínima de
+largo de 1.50 m?
+P401_15_5 C (1) 15. En el caso el acceso sea mediante rampa(s), indique 1: Sí
+si cuenta con las siguientes características 2: No
+5. ¿El piso de la rampa es homogéneo y
+antideslizante?
+P401_15_6 C (1) 15. En el caso el acceso sea mediante rampa(s), indique 1: Sí
+si cuenta con las siguientes características 2: No
+6. ¿Tiene pasamanos o baranda a ambos lados?
+P401_15_7 C (1) 15. En el caso el acceso sea mediante rampa(s), indique 1: Sí
+si cuenta con las siguientes características 2: No
+7. ¿Los pasamanos tienen una altura de 0.85 m o 0.90
+m?
+P401_15_8 C (1) 15. En el caso el acceso sea mediante rampa(s), indique 1: Sí
+si cuenta con las siguientes características 2: No
+8. ¿Tiene un pasamano adicional entre los 0.45 m y
+los 0.60 m de altura?
+P401_15_9 C (1) 15. En el caso el acceso sea mediante rampa(s), indique 1: Sí
+si cuenta con las siguientes características 2: No
+9. ¿El inicio y final de la rampa tiene un espacio libre
+de 1.50 m para el giro de una silla de ruedas?
+P401_15_10 C (1) 15. En el caso el acceso sea mediante rampa(s), indique 1: Sí
+si cuenta con las siguientes características 2: No
+10. ¿Cuenta con señalización para personas con
+discapacidad visual? (piso podotáctil)
+P401_16 C (2) 16. ¿Cómo se conectan los espacios interiores en un Ver código en Tabla 06
+mismo piso?
+P401_17_1 C (2) 17. Instalaciones Eléctricas Ver código en Tabla 07
+1. Tipo de Instalación del Cableado
+P401_17_21 N (5) 17. Instalaciones Eléctricas 99999
+2. Tablero
+1. Cantidad
+P401_17_22 C (2) 17. Instalaciones Eléctricas Ver código en Tabla 04
+2. Tablero
+2. Estado de Conservación
+-- 46 --

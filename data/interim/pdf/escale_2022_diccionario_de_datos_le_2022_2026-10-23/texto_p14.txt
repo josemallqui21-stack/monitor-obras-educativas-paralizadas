@@ -1,0 +1,56 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Nombre de archivo: Local_lineal_01.dbf
+SECCIÓN: 100. CARACTERÍSTICAS DEL LOCAL EDUCATIVO
+TABLA: LOCAL_LINEAL_01.DBF
+Campo Formato Descripción de variable Valor de variable
+P119_9_1 N (9,2) 119. Características del emplazamiento (1:999999)
+(interferencias) (marcar SI o NO en todas las
+alternativas)
+9. Cercano a corredor vial del sur
+Distancia aprox. en mts.
+P119_10 C (2) 119. Características del emplazamiento SI / NO
+(interferencias) (marcar SI o NO en todas las
+alternativas)
+10. Cercano a circuito petrolero
+P119_10_1 N (9,2) 119. Características del emplazamiento (1:999999)
+(interferencias) (marcar SI o NO en todas las
+alternativas)
+10. Cercano a circuito petrolero
+Distancia aprox. en mts.
+P119_11 C (2) 119. Características del emplazamiento SI / NO
+(interferencias) (marcar SI o NO en todas las
+alternativas)
+11. Cercano a una vía de alto tránsito vehicular
+P119_11_1 N (9,2) 119. Características del emplazamiento (1:999999)
+(interferencias) (marcar SI o NO en todas las
+alternativas)
+11. Cercano a una vía de alto tránsito vehicular
+Distancia aprox. en mts.
+P119_12 C (2) 119. Características del emplazamiento SI / NO
+(interferencias) (marcar SI o NO en todas las
+alternativas)
+12. Otro
+P119_12_1 N (9,2) 119. Características del emplazamiento (1:999999)
+(interferencias) (marcar SI o NO en todas las
+alternativas)
+12. Otro
+Distancia aprox. en mts.
+P119_12_E C (80) 119. Características del emplazamiento (A:Z)
+(interferencias) (marcar SI o NO en todas las
+alternativas)
+12. Otro--Especificar
+P120_1 C (2) 120. Peligros naturales potenciales (marcar SI o SI / NO
+NO en todas las alternativas)
+1. Sismos
+P120_1_1F C (10) 120. Peligros naturales potenciales (marcar SI o DD/MM/AAAA
+NO en todas las alternativas)
+1. Sismos
+Última fecha de ocurrencia
+P120_1_1M C (2) 120. Peligros naturales potenciales (marcar SI o SI / NO
+NO en todas las alternativas)
+1. Sismos
+¿Es mitigable?
+P120_2 C (2) 120. Peligros naturales potenciales (marcar SI o SI / NO
+NO en todas las alternativas)
+2. Lluvias intensas
+13

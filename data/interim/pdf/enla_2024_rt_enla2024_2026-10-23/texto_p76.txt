@@ -1,0 +1,29 @@
+En la fórmula anterior, los residuales están ponderados por sus varianzas individuales.
+En cuanto a la interpretación de los valores infit y outfit, puede señalarse como
+ejemplo que un valor de ajuste de 1,25 indica que los datos presentan un 25 % más
+de “ruido” que el modelado.
+Además de los índices antes mencionados, se puede calcular la correlación de
+Pearson entre la respuesta al ítem y la medida estimada para cada persona (ptme). A
+continuación, se presenta la fórmula para calcularlo (Linacre, 2024):
+Donde X ,…,X son las respuestas de las personas a los ítems, y θ ̂ ,…,θ ̂ son las
+N
+medidas estimadas para cada persona.
+1 1 N
+Siguiendo las recomendaciones de Linacre (2024), se espera que los ítems con un
+ajuste adecuado al modelo Rasch tengan valores infit y outfit entre 0,50 y 1,50; sin
+embargo, dentro de este grupo, se prefieren los valores entre 0,70 y 1,30 (Wright y
+Linacre, 1994). Algunos autores (Schulz, 1990) señalan que debe prestársele mayor
+atención al infit, ya que es menos sensible a las variaciones en el tamaño de la
+muestra utilizada para calibrar los ítems. Además, se esperan correlaciones ítem-
+medida (ptme) positivas (Linacre, 2024).
+Asimismo, se calcula el promedio de puntaje por ítem (p), que corresponde a la tasa
+de acierto en un ítem dicotómico y al promedio ponderado de las respuestas en el
+caso de un ítem de crédito parcial.
+4.2.4 Evidencias de validez vinculadas a la estructura interna
+La evidencia de validez basa en la estructura interna requiere, en primer lugar,
+que se tenga claridad conceptual sobre dicha estructura dado el constructo de
+interés (Wilson, 2005). En este sentido, un tipo de evidencia está relacionado con
+la unidimensionalidad de las medidas derivadas de la aplicación de la prueba. El
+concepto de unidimensionalidad implica que un solo rasgo latente o constructo
+se encuentra en la base de un conjunto de ítems (Hattie, 1985). En otras palabras,
+74

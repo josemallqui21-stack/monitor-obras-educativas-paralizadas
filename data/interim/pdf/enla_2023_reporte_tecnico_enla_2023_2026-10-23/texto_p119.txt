@@ -1,0 +1,42 @@
+Reporte técnico evaluaciones 2022 Capítulo 4
+Un requisito importante para realizar la comparación del rendimiento entre dos o
+más grupos es asegurar la invarianza de la dificultad de los ítems de la prueba a lo
+largo del tiempo (Kolen y Brennan, 2004). Esto supone que el grado de dificultad de
+cada ítem debe mantenerse constante², independientemente del grupo poblacional
+en el que se aplique. En caso de no cumplirse con este supuesto, se dice que el ítem
+presenta un funcionamiento diferencial (FDI) a lo largo del tiempo. Por ello, todos
+los ítems utilizados para el proceso de equiparación son sometidos a un análisis de
+FDI según la metodología propuesta por Bond et al. (2021). De esta manera, solo se
+utilizan en la equiparación los ítems sin FDI a lo largo del tiempo.
+Desde la tabla 4.15 hasta la 4.23, se presentan los resultados del proceso de
+equiparación por ítems comunes de las pruebas aplicadas en la ENLA muestral
+2023. Dichos resultados nos permiten señalar que este proceso de equiparación ha
+sido realizado siguiendo rigurosos criterios técnicos, que sustentan la comparación
+entre los resultados de las evaluaciones realizadas en años diferentes.
+Tabla 4.13 Análisis de FDI de las medidas, prueba de Lectura de 2.° grado de
+primaria, usadas en la equiparación de 2022 con 2023
+2022 2023 EQP FDI
+Ítem Medida
+Medida Error Medida Error Medida Error
+equiparada
+CT006 1,385 0,006 -0,315 0,023 1,429 -0,044 0,024
+CT007 1,717 0,006 0,041 0,023 1,768 -0,051 0,024
+CT009 1,252 0,006 -0,364 0,024 1,383 -0,131 0,025
+CT011 0,759 0,007 -0,954 0,026 0,822 -0,063 0,027
+CT012 2,732 0,006 1,043 0,023 2,720 0,012 0,024
+CT013 2,118 0,006 0,678 0,022 2,373 -0,255 0,023
+CT014 1,839 0,006 0,260 0,022 1,976 -0,137 0,023
+CT015 1,819 0,006 0,184 0,022 1,904 -0,085 0,023
+CT016 0,589 0,007 -1,323 0,028 0,471 0,118 0,029
+CT017 2,217 0,006 0,651 0,022 2,348 -0,131 0,023
+CT018 2,165 0,006 0,432 0,022 2,139 0,026 0,023
+CT023 2,376 0,008 0,664 0,031 2,360 0,016 0,032
+CT024 1,166 0,006 -0,461 0,024 1,290 -0,124 0,025
+CT025 0,202 0,007 -1,585 0,030 0,222 -0,020 0,031
+CT026 2,566 0,008 0,771 0,031 2,462 0,104 0,032
+CT027 2,971 0,009 1,361 0,033 3,023 -0,052 0,034
+CT028 2,070 0,008 0,263 0,031 1,979 0,091 0,032
+CT029 2,449 0,008 0,763 0,031 2,454 -0,005 0,032
+2 En realidad, la dificultad del ítem debe mantenerse dentro de ciertos márgenes de error al comparar su
+dificultad en dos poblaciones diferentes.
+117

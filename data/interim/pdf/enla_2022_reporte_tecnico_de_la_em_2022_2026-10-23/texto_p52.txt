@@ -1,0 +1,34 @@
+Reporte técnico evaluaciones 2022
+calculó considerando la cantidad de estudiantes que llegan a la evaluación final del
+año escolar en cada IE, según la información del Siagie para el 2022.
+Tabla 2.1 Cobertura de la EM 2022 a nivel de IE y estudiantes, 2.° grado de primaria
+2.° grado de Programados Evaluados Cobertura (%)
+primaria IE Estudiantes IE Estudiantes IE Estudiantes
+Nacional 4 877 151 553 4 874 142 602 99,9 94,1
+Amazonas 210 3 464 210 3 315 100,0 95,7
+Áncash 154 5 260 154 4 949 100,0 94,1
+Apurímac 116 3 838 116 3 747 100,0 97,6
+Arequipa 218 8 208 218 7 866 100,0 95,8
+Ayacucho 165 5 029 165 4 878 100,0 97,0
+Cajamarca 541 9 010 541 8 610 100,0 95,6
+Callao 101 5 268 101 4 792 100,0 91,0
+Cusco 190 7 502 190 7 341 100,0 97,9
+Huancavelica 210 3 353 210 3 209 100,0 95,7
+Huánuco 212 4 951 212 4 679 100,0 94,5
+Ica 178 7 746 178 7 257 100,0 93,7
+Junín 258 7 420 258 7 037 100,0 94,8
+La Libertad 230 7 517 229 7 089 99,6 94,3
+Lambayeque 182 7 475 182 6 899 100,0 92,3
+Lima Metropolitana 201 10 822 201 9 805 100,0 90,6
+Lima Provincias 146 5 167 146 4 861 100,0 94,1
+Loreto 205 6 538 205 5 798 100,0 88,7
+Madre de Dios 51 2 270 51 2 141 100,0 94,3
+Moquegua 42 1 727 42 1 662 100,0 96,2
+Pasco 155 3 150 155 2 958 100,0 93,9
+Piura 316 10 113 316 9 515 100,0 94,1
+Puno 192 6 201 192 6 039 100,0 97,4
+San Martín 310 7 300 310 6 884 100,0 94,3
+Tacna 80 3 596 80 3 475 100,0 96,6
+Tumbes 59 2 390 59 2 206 100,0 92,3
+Ucayali 155 6 238 153 5 590 98,7 89,6
+50

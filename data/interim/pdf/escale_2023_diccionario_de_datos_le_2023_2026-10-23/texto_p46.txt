@@ -1,0 +1,47 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P401_Edific.dbf [ Matriz 12 : Edificaciones en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+P401_19 C (1) 19. La edificación ¿Se encuentra en riesgo de colapso o 1: Sí
+presenta riesgo estructural? 2: No
+P401_20 C (1) 20. ¿Cuenta con un informe o certificado que diagnostique 1: Sí
+esta situación? (Sólo si seleccionó “SI” en el numeral “19”) 2: No
+P401_21 C (1) 21. La edificación es considerada Patrimonio Cultural 1: Sí
+2: No
+P401_22_1 C (1) 22. La edificación cuenta con: 1: Sí
+1. Señalización de seguridad 2: No
+P401_22_2 C (1) 22. La edificación cuenta con: 1: Sí
+2. Alarmas y/o botones de emergencia 2: No
+P401_22_3 C (1) 22. La edificación cuenta con: 1: Sí
+3. Botiquín debidamente equipado 2: No
+P401_22_4 C (1) 22. La edificación cuenta con: 1: Sí
+4. Luces de emergencia operativas 2: No
+P401_23_1 N (5) 23. Extintores 99999
+1. Cantidad Total (Operativos + Inoperativos)
+P401_23_2 N (5) 23. Extintores 99999
+2. Total Operativos
+P401_23_3 N (5) 23. Extintores 99999
+- Según Estado de Conservación
+3. En Buen Estado
+P401_23_4 N (5) 23. Extintores 99999
+- Según Estado de Conservación
+4. Necesitan Reparación
+P401_23_5 N (5) 23. Extintores 99999
+- Según Antigüedad en el Local Educativo
+5. Menos de 1 año
+P401_23_6 N (5) 23. Extintores 99999
+- Según Antigüedad en el Local Educativo
+6. De 1 a 2 años
+P401_23_7 N (5) 23. Extintores 99999
+- Según Antigüedad en el Local Educativo
+7. Más de 2 años
+P401_24_1 N (5) 24. Gabinete Contra Incendios 99999
+1. Cantidad Total (Operativos + Inoperativos)
+P401_24_2 N (5) 24. Gabinete Contra Incendios 99999
+2. Total Operativos
+P401_24_3 N (5) 24. Gabinete Contra Incendios 99999
+- Según Estado de Conservación
+3. En Buen Estado
+P401_24_4 N (5) 24. Gabinete Contra Incendios 99999
+- Según Estado de Conservación
+4. Necesitan Reparación
+45

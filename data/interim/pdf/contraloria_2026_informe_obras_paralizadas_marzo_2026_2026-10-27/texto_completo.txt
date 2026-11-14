@@ -1,0 +1,914 @@
+=== pagina 1 ===
+INFORME DE OBRAS PARALIZADAS EN EL TERRITORIO
+2026
+N° 001-2026-CG/SESNC
+Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control Lima, mayo 2026
+
+=== pagina 2 ===
+Tabla de contenido
+1. GENERALIDADES ............................................................................................ 3
+1.1. Marco normativo que regula la inversión pública .................................... 3
+1.2. Modalidades de implementación de las inversiones ............................... 4
+1.3. Definiciones importantes .......................................................................... 6
+1.4 Fuentes de información consultadas ....................................................... 8
+2. LAS OBRAS PÚBLICAS PARALIZADAS ......................................................... 9
+2.1. Definición de obra pública paralizada ...................................................... 9
+2.2. Obras públicas paralizadas en el territorio nacional ................................ 9
+2.3. Obras públicas paralizadas por nivel de gobierno ................................. 10
+2.4. Obras públicas paralizadas por sector de gobierno .............................. 11
+2.5. Obras públicas paralizadas por modalidad de ejecución ...................... 11
+2.6. Obras públicas paralizadas por rangos de costo de inversión
+actualizados ......................................................................................................... 12
+2.7. Avance físico de las obras públicas paralizadas ................................... 13
+2.8. Obras públicas paralizadas según su causal u origen de paralización . 13
+2.9. Obras públicas paralizadas según evento asociado ............................. 14
+2.10. Obras públicas paralizadas por administración directa o por contrata .. 15
+2.11. Obras públicas paralizadas enmarcadas bajo la Ley N.º 31589 ........... 15
+2.12. Obras públicas paralizadas según PIM al 2026 .................................... 17
+3. SERVICIOS DE CONTROL EFECTUADOS EN LOS DEPARTAMENTOS
+CON OBRAS PÚBLICAS PARALIZADAS ...................................................... 18
+4. CONCLUSIONES ............................................................................................ 20
+ANEXOS .................................................................................................................. 21
+ANEXO N.°01 - Quince principales obras públicas paralizadas por departamento
+por modalidad de ejecución por Contrata y Administración directa
+............................................................................................................... 21
+ANEXO N.°02 - Base de datos con la lista de obras públicas paralizadas en el
+territorio Nacional ................................................................................................ 21
+ANEXO N.°03 - Base de datos con el listado de servicios de control efectuados
+a las paralizadas.................................................................................................. 21
+
+=== pagina 3 ===
+1. GENERALIDADES
+1.1. Marco normativo que regula la inversión pública
+En el Perú las inversiones públicas se desarrollan bajo el marco de dos sistemas
+del sector público: el Sistema Nacional de Programación Multianual y Gestión
+de Inversiones (SNPMGI) conocido como Invierte.pe y el Sistema Nacional de
+Promoción de la Inversión Privada (SNPIP), los cuales detallaremos a
+continuación.
+a) El Sistema Nacional de Programación Multianual y Gestión de
+Inversiones (Invierte.pe)
+Es un sistema administrativo que tiene como finalidad orientar el uso de los
+recursos públicos destinados a la inversión para la efectiva prestación de
+servicios y la provisión de la infraestructura necesaria para el desarrollo del
+país. Invierte.pe es de aplicación para todas las entidades y empresas del
+sector público no financiero, abarcando así a los sectores del gobierno
+nacional, los gobiernos regionales y los gobiernos locales, así como a sus
+entidades y empresas adscritas.
+En tal sentido, toda inversión que se financie total o parcialmente con
+recursos públicos debe pasar por el ciclo de inversiones, es decir por la
+programación, formulación y evaluación, ejecución y funcionamiento, bajo el
+marco normativo de Invierte.pe
+b) El Sistema Nacional de Promoción de la Inversión Privada (SNPIP)
+Es un sistema funcional que establece los principios, normas,
+procedimientos, lineamientos y directivas técnico normativas para promover
+y agilizar la inversión privada, a través del desarrollo de las Asociaciones
+Público-Privadas (APP) y Proyectos en Activos.
+Asimismo, el SNPIP contempla bajo su ámbito al mecanismo de Obras por
+Impuestos (OxI), por medio del cual las empresas privadas adelantan el
+pago de su impuesto a la renta para financiar y ejecutar directamente
+proyectos de inversión que los gobiernos subnacionales y las entidades del
+gobierno nacional priorizan.
+Tanto el Sistema Invierte.pe como el SNPIP se encuentran bajo la rectoría del
+Ministerio de Economía y Finanzas, a través de la Dirección General de
+Programación Multianual de Inversiones (DGPMI) y la Dirección General de
+Política de Promoción de la Inversión Privada (DGPIP), respectivamente.
+Ambos sistemas se articulan debido a que toda inversión que contemple el uso
+de recursos públicos debe cumplir el ciclo de inversiones establecido por
+Invierte.pe. Al respecto, en el caso de las inversiones con participación privada,
+se establece en sus normas específicas las etapas y procesos a seguir, sin
+perjuicio de la aplicación del ciclo de inversiones de Invierte.pe.
+
+=== pagina 4 ===
+Tabla 1. Marco normativo para la ejecución de inversiones
+Sistema Nacional de Programación Multianual y Gestión de Inversiones (SNPMGI)
+Sistema Nacional de Promoción de la Inversión Privada (SNPIP)
+Inversión Pública APP Proyectos en Activos OxI
+•D. L. N°1252 que crea •Ley N°32441 regula la •D. L. N°1362 que regula •Ley N°29230, Ley que
+el Sistema Nacional de promoción de la la promoción de la impulsa la inversión
+Programación Multianual inversión privada inversión privada pública regional y local
+y Gestión de Inversiones mediante asociaciones mediante Asociaciones con participación del
+y sus modificatorias. público privadas y Público Privadas y sector privadoy sus
+proyectos en activos. Proyectos en Activos. modificatorias.
+•R. D. Nº 001-2019-
+EF/63.01 que aprueba la •D. S. N°240-2018-EF •D. S. N°036-2017-EF,
+Directiva Nº 001-2019- que aprueba el que aprueba el
+EF/63.01, Directiva Reglamento del D. L. N° Reglamento de la Ley
+General del Sistema 1362, el cual regula la que impulsa la inversión
+Nacional de Promoción de la pública regional y local
+Programación Multianual Inversión Privada con participación del
+y Gestión de Inversiones mediante Asociaciones sector privado y sus
+y sus modificatorias Público Privadas y modificatorias.
+Proyectos en Activos.
+•D. S. N°294-2018-EF,
+que aprueba el Texto
+Único Ordenado de la
+Ley N°29230.
+•D. S. N°295-2018-EF,
+que aprueba el Texto
+Único Ordenado del
+Reglamento de la Ley
+N°29230.
+1.2. Modalidades de implementación de las inversiones
+Considerando el marco normativo presentado en la figura anterior, las
+inversiones públicas pueden ser ejecutadas bajo distintas modalidades, de
+ejecución:
+a) Administración Directa: La entidad pública utiliza su propia administración,
+personal y maquinaria para ejecutar la inversión.
+b) Administración Indirecta:
+▪ Por Contrata: Es la modalidad donde una entidad pública contrata a una
+empresa privada (contratista) para ejecutar una obra, bajo el marco de
+la Ley de Contrataciones del Estado1.
+▪ Obras por Impuestos (OxI): Empresas privadas financian y ejecutan
+proyectos públicos a cuenta de sus impuestos a la renta.
+▪ Asociaciones Público-Privadas (APP): Participación de capital privado
+en el diseño, financiamiento, construcción y operación de la inversión.
+1 Se rige por la Ley de Contrataciones del Estado o por las políticas de contratación del ente cooperante.
+
+=== pagina 5 ===
+▪ Núcleos Ejecutores: La propia comunidad organizada ejecuta el
+proyecto (común en infraestructura rural).
+▪ Gobierno a gobierno: Es un mecanismo de contratación donde el
+Estado peruano contrata directamente a otro gobierno extranjero para
+ejecutar obras, servicios o gestionar proyectos complejos, fuera de los
+procesos de licitación convencionales.
+Las mismas que cuentan con la regulación específica que se presenta a
+continuación:
+Tabla 2. Modalidades de ejecución de la inversión pública
+Ley o norma
+Modalidad Definición Características
+específica
+1. Administración Directiva Nº017- Es aquella en la cual la • Es requisito indispensable
+directa 2023-CG/GMPL entidad ejecuta las obras contar con el Expediente
+aprobada con utilizando sus propios Técnico probado por el nivel
+Resolución de recursos presupuestales, competente.
+Contraloría N°432- capacidad técnica- • No se ejecutan la obra por
+2023-CG del 22 de administrativa propia, terceros o privados (salvo
+diciembre de 2023 infraestructura, equipos o algunos componentes de la
+maquinarias, acorde con la misma como supervisor de
+naturaleza y complejidad de obra).
+la obra, cumpliendo las • Deben contar con la
+disposiciones establecidas asignación presupuestal, con
+en la presente directiva. personal técnico y los equipos
+necesarios.
+• La entidad asume la totalidad
+de la responsabilidad en la
+ejecución de la obra pública.
+2. Por Ley N°32069, Ley Es el resultado de un proceso • La entidad encarga a una
+Administración General de a través del cual una entidad empresa constructora
+Indirecta: Por Contrataciones se abastece de (contratista) ejecutar la obra,
+contrata públicas (24 de infraestructura pública contra el pago de una
+junio del 2024 y su (edificaciones, estructuras, retribución según los avances
+vigencia el 22 de excavación, perforaciones, logrados (valorizaciones).
+abril del 2025) y su carreteras, puentes, etc.), • En el modelo tradicional, se
+Reglamento, buscando las mejores traslada al contratista los
+publicada el 22 de condiciones de calidad y riesgos del proceso
+e nero de 2025. precio, para el cumplimiento constructivo, en tanto la
+de la finalidad pública. entidad mantiene los riesgos
+de diseño y de la ocurrencia de
+las necesidades de cambios en
+el proyecto.
+• Enfoque de administración por
+objetivos que busca
+incrementar la eficacia y el
+impacto de las políticas del
+sector público.
+• Garantiza la libre competencia
+de los procedimientos de
+selección a fin de que las
+entidades obtengan el bien,
+
+=== pagina 6 ===
+Ley o norma
+Modalidad Definición Características
+específica
+servicio y obra en las mejores
+condiciones.
+Por Administración Ley Nº 31015, Ley Es una organización • Posee mecanismos de gestión
+Indirecta: Núcleos que autoriza la conformada por la comunal.
+ejecutores ejecución de comunidad que nace con el • Capacidad de trabajo en
+intervenciones en objetivo de gestionar el equipo comunal,
+infraestructura financiamiento de un principalmente mano de obra,
+social básica, proyecto seleccionado por la así como también del terreno y
+productiva y natural, población para ejecutar otros bienes y servicios
+mediante núcleos intervenciones de locales.
+ejecutores. infraestructura social básica, • Los proyectos seleccionados
+Ley Nº 30533, Ley infraestructura productiva e responden a una necesidad de
+que autoriza al infraestructura natural. El la población.
+Ministerio de financiamiento es otorgado a • Cuentan con personería
+Vivienda, los Núcleos Ejecutores bajo jurídica con derechos privado,
+Construcción y la modalidad de “donación lo cual implica que no está
+Saneamiento a con cargo”, lo que implica inmerso en la normativa que
+realizar ejecutar el proyecto y rendir rigen las adquisiciones y
+intervenciones a cuenta por los gastos contrataciones a cargo del
+través de núcleos realizados. Estado.
+ejecutores.
+Otras normas
+específicas.
+Por Administración Normas específicas Es un mecanismo de • Transferencia de conocimiento
+Indirecta: De contratación donde el Estado (know how) y aplicación de
+gobierno a gobierno (Se regulan bajo los peruano contrata buenas prácticas
+alcances del directamente a otro gobierno • Exclusión del ámbito de la Ley
+comercio extranjero para ejecutar de Contrataciones del Estado.
+internacional y por obras, servicios o gestionar • Asistencia técnica a través del
+las proyectos complejos, fuera Project Management Office
+normas y principios de los procesos de licitación (PMO).
+del derecho convencionales. Buscan • Procedimientos de selección
+internacional- asegurar transparencia, más rápidos y eficaces y se
+Disposiciones eficiencia y transferencia de garantizan ofertas de mayor
+Complementarias conocimientos técnicos, calidad.
+Finales de la Ley garantizando la calidad con
+• Uso de esquemas ágiles de
+32069: Ley de estándares internacionales.
+procura, con reducción de
+Contrataciones del
+costos y riesgos.
+E stado)
+• Reglas flexibles basadas en
+r esultados y metas.
+Fuente: Sitio web del Ministerio de Economía y Finanzas, apartados de Inversión Pública e Inversión Privada
+1.3. Definiciones importantes
+Antes de desarrollar el análisis estadístico descriptivo que se presentará en los
+numerales siguientes, es pertinente revisar las definiciones más importantes
+vinculados a las inversiones y sus procesos establecidos en el Reglamento2 y la
+2 Aprobado mediante DECRETO SUPREMO Nº 284-2018-EF, publicado el 09 diciembre de 2018, modificado por el Decreto
+Supremo Nº 179-2020-EF, publicado el 7 de julio de 2020 en el Diario Oficial El Peruano.
+
+=== pagina 7 ===
+Directiva General3 del Sistema Nacional de Programación Multianual y Gestión
+de Inversiones, los cuales se detallan a continuación:
+• Brecha de infraestructura o de acceso a servicios: es la diferencia entre
+la oferta optimizada disponible de infraestructura (la cual incluye la
+infraestructura natural) o acceso a servicios y la demanda de servicios, en
+un ámbito geográfico determinado en una fecha determinada. Puede ser
+expresada en términos de cobertura y/o calidad de un servicio.
+• Inversiones: Son intervenciones temporales y comprenden a los proyectos
+de inversión y a las inversiones de optimización, de ampliación marginal, de
+rehabilitación y de reposición. No comprenden gastos de operación y
+mantenimiento.
+• Proyecto de inversión: corresponde a intervenciones temporales que se
+financian total o parcialmente con recursos públicos, destinadas a la
+formación de capital físico, humano, institucional, intelectual o natural, que
+tenga como propósito crear, ampliar, mejorar o recuperar la capacidad de
+producción de bienes o servicios. Asimismo, se debe tener en cuenta lo
+siguiente:
+o Su ejecución puede realizarse en más de un año fiscal, conforme lo
+establezca su cronograma de ejecución tentativo previsto en la
+formulación y evaluación.
+o No son proyectos de inversión las IOARR, así como las
+intervenciones que constituyen gastos de operación y
+mantenimiento.
+• Inversiones de Optimización, de Ampliación Marginal, de
+Rehabilitación y de Reposición (IOARR): Es una intervención puntual
+sobre uno o más activos estratégicos (AE) que integran una Unidad
+Productora (UP) en funcionamiento y que tienen por objeto adaptar el nivel
+de utilización de la capacidad actual o evitar la interrupción del servicio de
+una UP.
+• Unidad productora: es el conjunto de recursos o factores productivos
+(infraestructura, equipos, personal, organización, capacidades de gestión,
+entre otros) que, articulados entre sí, tienen la capacidad de proveer bienes
+o servicios a la población objetivo. Constituye el producto generado o
+modificado por un proyecto de inversión.
+• Concepción técnica: se refiere a la alternativa de solución con la que se
+busca lograr el objetivo central del proyecto de inversión, acorde con la
+evaluación técnica y económica realizada en la ficha técnica o el estudio de
+preinversión, según corresponda. La ejecución de dicha alternativa de
+solución debe permitir lograr la meta de producto asociada al cierre de las
+3 Aprobada por la Resolución Directoral Nº 001-2019-EF/63.01, publicada el 23 de enero de 2019, modificada por la Resolución
+Directoral N° 006-2020-EF/63.01, publicada el 19 de julio de 2020, y por la Resolución Directoral N° 008-2020-EF/63.01,
+publicada el 28 de octubre de 2020 en el Diario Oficial El Peruano.
+
+=== pagina 8 ===
+brechas identificadas y priorizadas en la programación multianual de
+inversiones.
+• Consistencia: es la acción por la cual la Unidad Formuladora (UF)
+corrobora que la concepción técnica permanece inalterada y cumplen las
+condiciones de dimensionamiento y viabilidad del proyecto de inversión.
+Otras definiciones:
+• Obra pública: Construcción, reconstrucción, mejoramiento, ampliación,
+rehabilitación, demolición, remodelación, refacción y cualquier contratación
+que requiera expediente técnico, dirección técnica, mano de obra,
+materiales y/o equipos, relacionados al componente de edificación o
+infraestructura4.
+1.4 Fuentes de información consultadas
+Para los fines de revisión del estado de las obras contenidas en el presente
+documento, se consultaron las siguientes fuentes de información:
+• Sistema de Seguimiento de Inversiones (SSI): a través de esta plataforma
+se consulta el estado de las inversiones públicas a cargo de las diferentes
+entidades públicas, contiene información sistematizada de las inversiones
+públicas y se puede acceder directamente a los formatos de Seguimiento de
+ejecución de las inversiones Formato N°12-B, Formato de cierre de inversión
+pública Formato N° 09, entre otros formatos.
+• Sistema Integrado de Administración Financiera (SIAF): es una
+herramienta informática diseñada para apoyar la administración financiera
+de las entidades públicas en los tres niveles de gobierno: Nacional, regional
+y Local, donde se registra todas las operaciones relacionadas con los
+ingresos y el gasto presupuestales, así como las actividades financieras y
+patrimoniales,
+• Sistema de información de obras públicas (Infobras): es un sistema de
+información de obras públicas, implementado por la Contraloría General,
+donde se registra, articula y publica la información de las obras públicas, con
+la finalidad de transparentar la información de las obras públicas que facilite
+el seguimiento para el correcto uso de los recursos públicos.
+A través de esta plataforma, las entidades públicas reportan periódicamente
+la ejecución física de las obras públicas que tienen a su cargo. La Directiva
+Nº 005-2023-CG/GMPL establece que las entidades de los tres niveles de
+gobierno están obligadas a registrar en este sistema la información de las
+obras que ejecutan, independientemente de la modalidad de ejecución,
+régimen legal o fuente de financiamiento. Cabe destacar que las entidades
+deben registrar o actualizar mensualmente la información relacionada al
+estado de avance de obra.
+4 Definición obtenida del Reglamento de la Ley N°32069, Ley General de Contrataciones Públicas (Anexo I. Definiciones)
+
+=== pagina 9 ===
+2. LAS OBRAS PÚBLICAS PARALIZADAS
+2.1. Definición de obra pública paralizada
+Para efectos del seguimiento del presente informe, se entiende por obra pública
+paralizada aquella obra que cumple las siguientes condiciones:
+• La obra se ejecuta bajo las modalidades por contrata, administración
+directa, Asociaciones Público-Privadas, Obras por Impuestos, núcleos
+ejecutores u otras modalidades establecidas por ley, que contengan
+componente de edificación o infraestructura.
+• La obra inició la ejecución física de acuerdo con las condiciones
+establecidas para su inicio en el marco normativo de cada modalidad.
+• La obra que no presenta avance físico en un periodo mínimo de seis (6)
+meses, así como toda aquella obra que tiene contrato resuelto o nulo no
+culminado5, por causas atribuibles a situaciones de controversia,
+abandono, deficiencias del expediente técnico, factores climáticos,
+situaciones imprevisibles posteriores al perfeccionamiento del contrato u
+otras causas que puedan ocasionar la suspensión prolongada del plazo
+de ejecución física de la obra.
+2.2. Obras públicas paralizadas en el territorio nacional
+De la información recibida por las unidades orgánicas de la Contraloría General
+de la República, del Sistema Nacional de Información de Obras Públicas
+(INFOBRAS), así como del Sistema de Seguimiento de Inversiones (SSI),
+Sistema Integrado de Administración Financiera (SIAF) y el Inventario de obras
+públicas paralizadas del Banco de Inversiones, en todo el territorio nacional se
+cuenta con un total de 2 241 obras públicas paralizadas, en los tres niveles de
+gobierno, por un monto de inversión superior a los S/ 73 mil 166 millones; de los
+cuales falta ejecutar un saldo de más de S/ 32 mil 196 millones, al 31 de marzo
+del 2026.
+Tabla 3. Ubicación geográfica de las obras públicas paralizadas y costos de
+inversión
+*Costo de inversión
+Obras paralizadas
+Actualizado S/ Saldo de Inversión por
+Departamento
+ejecutar S/
+S/* % N° %
+Lima 23,514,143,359 32.1% 164 7.3% 8,747,511,313
+La Libertad 8,517,477,648 11.6% 83 3.7% 4,925,928,025
+Arequipa 8,383,127,703 11.5% 126 5.6% 5,605,782,805
+Piura 3,847,990,996 5.3% 123 5.5% 1,734,529,054
+Ancash 3,756,142,154 5.1% 188 8.4% 1,344,234,915
+Cajamarca 3,343,866,949 4.6% 140 6.2% 1,850,192,791
+5 De acuerdo a la Directiva N°004-2025-CG/VCST “Control Preventivo a las Obras Públicas Paralizadas” aprobada mediante
+Resolución de Contraloría N°220-2025-CG del 6 de junio de 2025.
+
+=== pagina 10 ===
+*Costo de inversión
+Obras paralizadas
+Actualizado S/ Saldo de Inversión por
+Departamento
+ejecutar S/
+S/* % N° %
+Puno 3,083,456,976 4.2% 221 9.9% 2,027,950,508
+Cusco 2,502,337,410 3.4% 338 15.1% 935,476,344
+Huánuco 2,351,721,855 3.2% 76 3.4% 2,000,188,305
+Lambayeque 1,838,382,711 2.5% 72 3.2% 550,882,552
+Ica 1,316,360,619 1.8% 31 1.4% 698,658,503
+Tacna 1,233,240,479 1.7% 40 1.8% 687,189,803
+Apurímac 1,108,038,007 1.5% 87 3.9% 504,041,365
+Amazonas 1,101,576,360 1.5% 44 2.0% 452,702,075
+Ucayali 1,095,810,084 1.5% 27 1.2% 293,785,814
+Moquegua 1,071,587,020 1.5% 40 1.8% 365,457,962
+Tumbes 987,386,273 1.3% 12 0.5% 460,131,510
+Junin 961,417,861 1.3% 81 3.6% 508,810,748
+Loreto 776,066,615 1.1% 39 1.7% 325,274,130
+Huancavelica 579,820,251 0.8% 85 3.8% 268,957,922
+Ayacucho 569,190,212 0.8% 140 6.2% 264,664,125
+San Martin 398,605,724 0.5% 16 0.7% 197,117,433
+Pasco 354,761,217 0.5% 28 1.2% 143,482,163
+Madre de dios 325,718,024 0.4% 34 1.5% 190,476,691
+P C del callao 147,777,572 0.2% 6 0.3% 113,040,678
+Total 73,166,004,078 100% 2241 100% 35,196,467,535
+*El valor es obtenido de la Consulta Avanzada de Inversiones del Banco de Inversiones del MEF.
+Fuente: Sistema Nacional de Obras Públicas - Infobras y Banco de Inversiones del MEF
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2026
+Cabe señalar que, los departamentos que concentran el mayor número de obras
+públicas paralizadas son Cusco (338), Puno (221), Áncash (188), Lima (164),
+Cajamarca (140) y Ayacucho (140).
+2.3. Obras públicas paralizadas por nivel de gobierno
+El mayor número de obras públicas paralizadas corresponde a entidades a nivel
+de Gobierno Local con 1 533 obras públicas paralizadas por un monto de
+inversión S/ 12 mil 091 millones; seguido de entidades pertenecientes al
+Gobierno Nacional con 391 obras, con monto de inversión de S/ 42 mil 564
+millones; en tanto que las entidades a nivel de Gobierno Regional cuentan con
+317 obras, cuyo monto de inversión asciende a S/ 18 mil 509 millones, tal como
+se muestra en el siguiente cuadro.
+
+=== pagina 11 ===
+Tabla 4. Obras públicas paralizadas por nivel de gobierno
+Costo de inversión
+Nivel de Actualizado S/ Obras paralizadas Saldo de inversión por ejecutar
+Gobierno
+S/ % N° % S/ %
+G. Nacional 42,564,363,505 58.2% 391 17.4% 17,044,688,732 48.4%
+G. Regional 18,509,662,122 25.3% 317 14.1% 11,384,187,772 32.3%
+G. Local 12,091,978,451 16.5% 1533 68.4% 6,767,591,032 19.2%
+Total 73,166,004,078 100% 2241 100% 35,196,467,535 100%
+Fuente: Sistema Nacional de Obras Públicas – Banco de Inversiones/MEF
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2026
+2.4. Obras públicas paralizadas por sector de gobierno
+Las obras públicas paralizadas se encuentran relacionadas con diversos
+sectores de gobierno y a su vez con los niveles de Gobierno Nacional, Regional
+y Local, como se detalla a continuación:
+Tabla 5. Obras públicas paralizadas por sector de gobierno
+Nivel de gobierno
+Costo de inversión
+Sector G. Nacional G. Regional G. Local Total
+Actualizado
+N.° N.° N.° N.° % S/ %
+Transportes y
+68 76 482 626 36.4% 32,055,796,575 43.8%
+comunicaciones
+Vivienda, construcción
+79 61 400 540 19.7% 9,312,797,863 12.7%
+y saneamiento
+Agricultura 66 64 147 277 3.8% 11,980,673,354 16.4%
+Educación 58 50 89 197 3.7% 2,802,739,647 3.8%
+Salud 11 28 38 77 5.3% 4,836,235,098 6.6%
+Otros sectores 109 38 377 524 31.2% 12,177,761,540 16.6%
+Total 391 317 1533 2241 100% 73,166,004,078 100%
+Fuente: Sistema Nacional de Obras Públicas – Banco de Inversiones/MEF
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2026
+Conforme al cuadro precedente, el sector de Transportes y Comunicaciones
+concentra 626 obras públicas paralizadas, lo que representa el 36.4% del total
+nacional, de los cuales 482 corresponden a entidades de Gobierno Local, 76 a
+Gobierno Regional y 68 a Gobierno Nacional; seguido del sector de Vivienda,
+Construcción y Saneamiento, con una representatividad del 19.7%.
+2.5. Obras públicas paralizadas por modalidad de ejecución
+Las modalidades de ejecución de las 2 241 obras públicas paralizadas a cargo
+de entidades del Gobierno Nacional, Regional y Local, corresponden a contrata,
+administración directa, núcleos ejecutores, Obras por Impuestos, Asociaciones
+Público-Privadas y por convenio entre entidades como se muestra en el
+siguiente cuadro:
+
+=== pagina 12 ===
+Tabla 6. Obras públicas paralizadas por modalidad de ejecución
+Gobierno Nacional Gobierno Regional Gobierno Local Total N.°
+Modalidad de
+Ejecución Costo Costo Costo
+N.° N.° N.° N° % S/ %
+Actualizado S/ Actualizado S/ Actualizado S/
+Contrata 321 36,231,423,122 241 6,884,715,331 564 7,709,014,478 1126 50.2% 50,825,152,930 69.5%
+Administración
+26 298,359,233 73 2,365,452,905 965 4,264,738,144 1064 47.5% 6,928,550,283 9.5%
+directa
+Por núcleo ejecutor 24 29,401,366 24 1.1% 29,401,366 0.0%
+Gobierno a
+19 5,956,937,134 19 0.8% 5,956,937,134 8.1%
+Gobierno
+Obras por
+1 48,242,650 4 118,225,829 5 0.2% 166,468,479 0.2%
+impuestos
+Asociación Pública
+2 9,257,353,369 2 0.1% 9,257,353,369 12.7%
+Privada - APP
+Por convenio entre
+1 2,140,517 1 0.0% 2,140,517 0.0%
+entidades
+Total 391 42,564,363,505 317 18,509,662,122 1533 12,091,978,451 2241 100% 73,166,004,078 100%
+Fuente: Sistema Nacional de Obras Públicas -Infobras – Banco de Inversiones/MEF
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2026
+En el cuadro precedente se observa que el mayor número de obras públicas
+paralizadas corresponde a la modalidad de ejecución Por Contrata, las cuales
+suman 1 126 que representa el 50.2%. De ellas, 564 corresponden a entidades
+de Gobierno Local, 241 obras a entidades del Gobierno Regional y 321 obras a
+entidades del Gobierno Nacional.
+2.6. Obras públicas paralizadas por rangos de costo de inversión actualizados
+A continuación, se muestran las obras públicas paralizadas clasificadas por
+rangos de costo actualizado, donde destaca un alto número de inversiones
+menores o iguales a un millón de soles (716 obras que representan el 32% del
+total).
+Tabla 7. Obras públicas paralizadas por rango de costo actualizado
+Saldo de Inversión por
+Rango de costo Obras paralizadas Costo Actualizado ejecutar
+actualizado S/
+N° % S/ % S/ %
+< =1 millón 716 32.0% 326,752,126 0.4% 143,441,513 0.4%
+> 1 - 3 millones 428 19.1% 801,461,625 1.1% 330,813,034 0.9%
+> 3 - 10 millones 589 26.3% 3,382,409,964 4.6% 1,307,809,331 3.7%
+> 10 - 100 millones 413 18.4% 11,595,989,096 15.8% 4,873,347,903 13.8%
+> 100 - 200 millones 35 1.6% 4,393,834,348 6.0% 2,212,931,387 6.3%
+> 200 - 1000 millones 53 2.4% 20,617,685,342 28.2% 9,415,346,950 26.8%
+> 1000 millones 7 0.3% 32,047,871,577 43.8% 16,912,777,417 48.1%
+Total 2241 100% 73,166,004,078 100% 35,196,467,535 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras – Banco de Inversiones/MEF
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2026
+
+=== pagina 13 ===
+2.7. Avance físico de las obras públicas paralizadas
+De otro lado, se presenta una clasificación de las obras públicas paralizadas en
+función al porcentaje de avance físico según la información proporcionada por el
+portal Infobras y el Banco de Inversiones, donde se aprecia que la mayor cantidad
+de obras (278) registra un avance físico entre el 60% al 70%, representando un
+monto de inversión de S/ 9 mil 410 millones, seguido de 270 registros que se
+encuentran con un avance físico entre el 80% al 90% con un monto inversión de
+S/ 3 mil 450 millones, como se detalla a continuación:
+Tabla 8. Obras públicas paralizadas por rango de avance físico
+Obras paralizadas Costo Actualizado Saldo de Inversión por ejecutar
+Rango de
+avance físico %
+N° % S/ % S/ %
+90 - 100 % 267 11.9% 6,772,848,255 9.3% 2,636,202,585 7.5%
+80 - 90 % 270 12.0% 3,450,001,073 4.7% 824,028,679 2.3%
+70 - 80 % 235 10.5% 4,436,343,743 6.1% 1,550,435,951 4.4%
+60 - 70 % 278 12.4% 9,410,215,915 12.9% 5,533,658,331 15.7%
+50 - 60 % 228 10.2% 3,627,781,654 5.0% 1,638,114,659 4.7%
+40 - 50 % 196 8.7% 22,505,598,303 30.8% 8,077,050,416 22.9%
+30 - 40 % 197 8.8% 4,220,940,448 5.8% 2,209,274,273 6.3%
+20 - 30 % 170 7.6% 6,782,487,844 9.3% 4,817,868,405 13.7%
+10 - 20 % 163 7.3% 4,570,283,198 6.2% 3,448,166,066 9.8%
+0 - 10 % 237 10.6% 7,389,503,645 10.1% 4,461,668,172 12.7%
+Total 2241 100% 73,166,004,078 100% 35,196,467,535 100%
+Fuente: Sistema Nacional de Obras Públicas – Infobras – Banco de Inversiones/MEF
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2026
+2.8. Obras públicas paralizadas según su causal u origen de paralización
+Según la información declarada oficialmente por la entidad ejecutora, el 27.6%
+del total de obras públicas paralizadas se encuentra en dicha situación por
+incumplimientos contractuales, el 24.2% por falta de recursos financieros y
+liquidez, el 9.1% por deficiencias en el expediente técnico, el 9.1% por
+discrepancias, controversias o arbitraje, entre otras causales de paralización.
+Tabla 9. Obras públicas paralizadas según causal de paralización reportado por las
+entidades públicas
+Saldo de Inversión por
+Obras paralizadas Costo Actualizado
+Causales de paralización ejecutar
+N° % S/ % S/ %
+Incumplimiento de contrato 619 27.6% 36,810,067,308 50.3% 15,046,295,052 42.7%
+Falta de recursos financieros y
+542 24.2% 5,918,143,017 8.1% 1,977,548,889 5.6%
+liquidez
+Deficiencia en el expediente
+203 9.1% 4,078,511,332 5.6% 1,918,114,755 5.4%
+técnico
+
+=== pagina 14 ===
+Saldo de Inversión por
+Obras paralizadas Costo Actualizado
+Causales de paralización ejecutar
+N° % S/ % S/ %
+Discrepancias, controversias y
+203 9.1% 16,462,473,830 22.5% 10,395,137,467 29.5%
+arbitraje
+Abandono de obra 169 7.5% 1,373,494,941 1.9% 1,030,852,532 2.9%
+Incumplimiento del pago de
+77 3.4% 1,321,605,884 1.8% 655,910,412 1.9%
+valorizaciones u otros
+Conflictos sociales 72 3.2% 891,600,186 1.2% 417,688,579 1.2%
+Disponibilidad de terreno 51 2.3% 1,534,849,475 2.1% 1,081,425,329 3.1%
+Eventos climáticos 44 2.0% 311,142,135 0.4% 114,832,710 0.3%
+Falta de permisos, licencias y
+46 2.1% 487,726,022 0.7% 189,418,328 0.5%
+autorizaciones
+Desabastecimiento sostenido de
+32 1.4% 252,534,276 0.3% 100,061,093 0.3%
+materiales
+Interferencias 30 1.3% 1,616,518,641 2.2% 1,536,116,482 4.4%
+Falta de personal clave 5 0.2% 36,997,520 0.1% 15,465,371 0.0%
+Otras situaciones imprevisibles
+posteriores al perfeccionamiento 5 0.2% 8,497,105 0.0% 3,816,178 0.0%
+del contrato
+Nulidad de oficio del contrato 1 0.0% 7,972,052 0.0% 5,913,120 0.0%
+Eventos climáticos 6 0.3% 74,281,702 0.1% 12,985,452 0.0%
+Otros* 136 6.1% 1,979,588,653 2.7% 694,885,787 2.0%
+Total 2241 100% 73,166,004,078 100% 35,196,467,535 100%
+(*) Comprende causas no imprevistas, no atribuibles a ambas partes, entre otros.
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2026
+Cabe precisar que, las causales de paralización son reportadas por las
+entidades públicas en los distintos sistemas consultados como Infobras y en el
+Banco de Inversiones del MEF.
+2.9. Obras públicas paralizadas según evento asociado
+A continuación, se presenta el desagregado de las obras públicas paralizadas
+según el evento asociado y nivel de gobierno. Cabe señalar que, provenientes
+de la Reconstrucción con Cambios, existen 202 obras públicas paralizadas con
+un monto de inversión de S/ 10 mil 081 millones.
+
+=== pagina 15 ===
+Tabla 10. Obras públicas paralizadas según el evento registrado en el sistema Infobras, por nivel
+de gobierno y costo de inversión actualizado
+G. Nacional G. Regional G. Local Total
+Evento Costo Costo actualizado Costo actualizado Costo %
+N.° N.° N.° N.°
+actualizado S/ S/ S/ actualizado S/ Costo
+Proceso Normal6 273 33,446,703,790 292 17,517,923,047 1452 11,182,743,871 2017 62,147,370,708 84.9%
+Reconstrucción
+117 8,664,745,201 19 813,953,895 66 602,576,247 202 10,081,275,343 13.8%
+con Cambios7
+Reactivación
+1 452,914,515 6 177,785,179 15 306,658,334 22 937,358,027 1.3%
+Económica8
+Total 391 42,564,363,505 317 18,509,662,122 1533 12,091,978,451 2241 73,166,004,078 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2026
+2.10. Obras públicas paralizadas por administración directa o por contrata
+El 97.7% (2190) de las 2241 obras públicas paralizadas a nivel nacional son
+ejecutadas bajo la modalidad de administración directa (1064) o por contrata
+(1126), en los tres niveles de gobierno. El monto de inversión asciende a S/ 57
+mil 753 millones, como se detalla a continuación:
+Tabla 11. Obras públicas paralizadas según modalidad de ejecución
+G. Nacional G. Regional G. Local Total
+Modalidad de
+Ejecución Costo Costo Costo Costo
+N.° N.° N.° N.° % %
+actualizado S/ actualizado S/ actualizado S/ actualizado S/
+Administración
+26 298,359,233 73 2,365,452,905 965 4,264,738,144 1064 48.6% 6,928,550,283 12.0%
+directa
+Por Contrata 321 36,231,423,122 241 6,884,715,331 564 7,709,014,478 1126 51.4% 50,825,152,930 88.0%
+Total 347 36,529,782,355 314 9,250,168,236 1529 11,973,752,622 2190 100% 57,753,703,213 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2026
+2.11. Obras públicas paralizadas enmarcadas bajo la Ley N.º 31589
+A través de la Ley N.º 31589 se establece el marco legal que garantiza la
+reactivación de las obras públicas paralizadas que forman parte de las inversiones
+de las entidades del Estado, y siempre que cumplan con determinados requisitos
+establecidos en el TUO de la Ley N° 31589, tales como:
+• Las obras públicas paralizadas contratadas bajo la aplicación de la Ley de
+Contrataciones del Estado, que cuenten con un avance físico igual o mayor
+al 40% y que, cumplen con alguno de los siguientes supuestos: (i) el contrato
+se encuentra vigente, pero sin reportar ejecución física por un período igual
+6 Obras no asociadas a ningún evento.
+7 Obras que fueron consideradas el Plan Integral de Reconstrucción con Cambios de la infraestructura física dañada y
+destruida por el Fenómeno de El Niño Costero.
+8 Obras que fueron consideradas en los Decretos de Reactivación Económica del año 2018, entre otros, el Decreto Supremo
+Nº 050-2018-EF.
+
+=== pagina 16 ===
+o mayor a 6 (seis) meses; o, (ii) provenga de un contrato resuelto o
+declarado nulo, y (iii) deben estar priorizada en el Programa Multianual de
+Inversiones.
+• La obra pública paralizada iniciada bajo la modalidad de administración
+directa, que cuente con un avance físico igual o mayor al 50% y que no
+reporte ejecución física por un período mayor a 6 (seis) meses o más.
+• La paralización incluye situaciones de controversias, abandono, deficiencias
+del expediente técnico, causas no previsibles en el expediente técnico u
+otras situaciones imprevisibles posteriores al perfeccionamiento del contrato
+que impidan su continuidad, culminación o puesta en funcionamiento.
+Al respecto, 1179 obras públicas paralizadas se encuentran bajo los alcances de
+este marco normativo, es decir aptas para iniciar el proceso de reactivación
+sujetándose a su disponibilidad presupuestal (previo informe del estado situacional
+y lista de priorización). A continuación, se procede a detallar estos casos por nivel
+de gobierno:
+Tabla 14. Obras públicas paralizadas bajo el marco normativo de la Ley N.º 31589
+Costo Actualizado de inversión Obras Paralizadas Saldo de la
+Nivel de Gobierno
+Inversión S/
+S/ % N.° %
+G. Nacional 25,459,591,306 70.6% 167 14.2% 8,994,027,973
+G. Regional 4,423,042,114 12.3% 206 17.5% 1,614,713,238
+G. Local 6,167,877,318 17.1% 806 68.4% 2,822,116,364
+Total 36,050,510,738 100% 1179 100% 13,430,857,575
+Fuente: Inventario de obras públicas paralizadas del Banco de Inversiones del MEF.
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/03/2026
+Por otra parte, según el artículo 3 del Ley N.º 31589 y como punto de partida, las
+entidades, elaboran un inventario de obras públicas paralizadas que se encuentren
+a su cargo, el cual debe ser registrado por Unidad Ejecutora de Inversiones (UEI) en
+el aplicativo informático del Banco de Inversiones. En ese sentido, según lo
+informado por la Dirección General de Programación Multianual de Inversiones del
+Ministerio de Economía y Finanzas a marzo de 2026, en el inventario de obras
+públicas paralizadas existen 717 registros que permanecen paralizadas (incluidas
+dentro de las 1 179 de la tabla 14).
+Así mismo, de las 717 obras públicas paralizadas registradas en el inventario, el
+60.8% aun no cuentan con el informe de estado situacional registrado en el Banco
+de Inversiones en el cual, se detalla el análisis técnico legal y financiero
+considerando como mínimo el reporte de la inspección de la obra, la revisión del
+expediente técnico y de la documentación relacionada a su ejecución; así como la
+identificación de las partidas de obra faltantes para su continuidad, culminación y/o
+puesta en funcionamiento; necesario para iniciar la reactivación de obra pública
+paralizada.
+
+=== pagina 17 ===
+Tabla 15. Obras públicas paralizadas registradas en el inventario con informe de estado
+situacional
+Con Informe de estado Obras Paralizadas Costo Actualizado
+Saldo de la Inversión S/
+situacional
+N.° % S/ %
+SI 281 39.2% 11,234,373,440 56.4% 4,673,111,441
+NO 436 60.8% 8,687,801,921 43.6% 4,709,309,722
+Total 717 100% 19,922,175,361 100% 9,382,421,164
+Fuente: Inventario de obras públicas paralizadas del Banco de Inversiones del MEF.
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/03/2026
+2.12. Obras públicas paralizadas según PIM al 2026
+El Presupuesto Institucional Modificado (PIM) es el presupuesto actualizado de
+la entidad pública a consecuencia de las modificaciones presupuestarias, tanto
+a nivel institucional como a nivel funcional programático, efectuadas durante el
+año fiscal, a partir del Presupuesto Institucional de Apertura (PIA).
+Al respecto, de acuerdo a la información obtenida de la Consulta Avanzada de
+Inversiones del Banco de Inversiones; de las 2 241 obras paralizadas, solo 689
+obras cuentan con PIM al 2026 representando el 30.7% del total de obras
+paralizadas con un monto asignado de S/ 4 610 millones.
+Tabla 16. Asignación de PIM 2026
+Obras Paralizadas Costo Actualizado PIM 2025
+Con PIM 2025
+S/
+N.° % S/ %
+SI 689 30.7% 61,991,485,329 84.7% 4,610,212,642
+NO* 1552 69.3% 11,174,518,749 15.3% -
+Total 2241 100.00% 73,166,004,078 100.00% 4,610,212,642
+(*) Incluye las obras que no tienen Código único de inversiones.
+Fuente: Consulta Avanzada de Inversiones del Banco de Inversiones
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/03/2026
+A continuación, se muestran la cantidad de obras públicas paralizadas que
+cuentan con PIM al 2026 por departamento.
+Tabla 17. Asignación de PIM 2026 por Departamento
+Con PIM 2025 Sin PIM 2025
+Departamento Total
+N.° % N.° %
+Amazonas 18 41% 26 59% 44
+Ancash 78 41% 110 59% 188
+Apurímac 24 28% 63 72% 87
+Arequipa 63 50% 63 50% 126
+Ayacucho 36 26% 104 74% 140
+
+=== pagina 18 ===
+Con PIM 2025 Sin PIM 2025
+Departamento Total
+N.° % N.° %
+Cajamarca 41 29% 99 71% 140
+Cusco 73 22% 265 78% 338
+Huancavelica 16 19% 69 81% 85
+Huánuco 29 38% 47 62% 76
+Ica 9 29% 22 71% 31
+Junin 20 25% 61 75% 81
+La Libertad 39 47% 44 53% 83
+Lambayeque 29 40% 43 60% 72
+Lima 38 23% 126 77% 164
+Loreto 15 38% 24 62% 39
+Madre de Dios 12 35% 22 65% 34
+Moquegua 10 25% 30 75% 40
+PC del Callao 2 33% 4 67% 6
+Pasco 9 32% 19 68% 28
+Piura 46 37% 77 63% 123
+Puno 33 15% 188 85% 221
+San Martín 8 50% 8 50% 16
+Tacna 17 43% 23 58% 40
+Tumbes 7 58% 5 42% 12
+Ucayali 17 63% 10 37% 27
+Total 689 31% 1552 69% 2241
+Fuente: Consulta Avanzada de Inversiones del Banco de Inversiones
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/03/2026
+3. SERVICIOS DE CONTROL EFECTUADOS EN LOS DEPARTAMENTOS CON
+OBRAS PÚBLICAS PARALIZADAS
+A nivel nacional, la Contraloría ha ejecutado 3 858 servicios de control a las
+obras públicas paralizadas al 31 de marzo de 2026, de los cuales, el 95.2% (3
+672) corresponde a servicios de Control Simultáneo, el 3,9% (152) a Control
+Posterior y el 0.9% (34) a Control Previo, tal como se muestra en el siguiente
+cuadro.
+Tabla 18. Total de servicios de control efectuados
+Tipo de servicio de control Cantidad %
+Control Previo 34 0.9%
+Control Simultáneo 3672 95.2%
+Control Posterior 152 3.9%
+Total 3858 100%
+Fuente: Sistemas de servicios de control de la CGR.
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/032026
+
+=== pagina 19 ===
+Como se ha señalado, los órganos auditores del Sistema Nacional de Control
+han realizado 3 858 servicios de control, de los cuales 1901 (49%) corresponden
+al nivel de Gobierno Nacional, 843 (21%) servicios de control se ejecutaron a
+nivel del Gobierno Regional y, finalmente, 1136 (29%) servicios de control se
+realizaron a nivel de Gobierno Local.
+Cabe destacar que se han priorizado los servicios de Control Simultáneo, de los
+cuales, 1 102 servicios se han efectuado en obras a nivel de Gobierno Local,
+766 servicios se efectuaron en obras de los Gobiernos Regionales y 1 806
+servicios a nivel del Gobierno Nacional, como puede apreciarse en el siguiente
+cuadro:
+Tabla 19. Servicios de control por nivel de gobierno
+Gobierno
+Tipo de Servicio de Nacional Gobierno Regional Gobierno Local Total
+Control
+N.° % N.° % N.° % N.° %
+Control Previo 4 0.1% 18 0.5% 12 0.3% 34 0.9%
+Control Simultáneo 1806 46.8% 766 19.9% 1102 28.6% 3672 95.2%
+Control Posterior 91 2.4% 39 1.0% 22 0.6% 152 3.9%
+Total 1901 49% 823 21% 1136 29% 3858 100%
+Fuente: Sistemas de servicios de control de la CGR.
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/12/2025
+A continuación, se muestran los servicios de control realizados por ubicación
+geográfica y tipo de servicio:
+Tabla 20. Servicios de control a obras públicas paralizadas, por departamento
+N° de servicios de N° de servicios N° de servicios Total de
+Departamento
+Control Previo Control Simultáneo (*) Control Posterior servicios
+Amazonas 5 138 3 146
+Ancash 2 405 13 420
+Apurímac 108 7 115
+Arequipa 1 266 4 271
+Ayacucho 135 10 145
+Cajamarca 1 186 4 191
+Cusco 1 225 7 233
+Huancavelica 105 10 115
+Huánuco 1 124 4 129
+Ica 1 49 9 59
+Junin 1 94 4 99
+La Libertad 1 321 6 328
+Lambayeque 198 12 210
+Lima 277 13 290
+Loreto 39 39
+Madre de Dios 49 4 53
+Moquegua 74 2 76
+P. C. del Callao 22 2 24
+Pasco 32 1 33
+
+=== pagina 20 ===
+N° de servicios de N° de servicios N° de servicios Total de
+Departamento
+Control Previo Control Simultáneo (*) Control Posterior servicios
+Piura 3 311 19 333
+Puno 1 153 4 158
+San Martin 64 64
+Tacna 1 240 7 248
+Tumbes 34 2 36
+Ucayali 15 87 5 107
+Total 34 3672 152 3858
+(*) Servicios de Control Simultáneo efectuados a más de una obra en más de un departamento
+Fuente: Sistemas de servicios de control de la CGR.
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/12/2025
+4. CONCLUSIONES
+• A marzo de 2026 se tiene un total de 2 241 obras públicas paralizadas a
+nivel nacional, con un monto de inversión ascendente S/ 73 mil 166 millones,
+de los cuales falta ejecutar un saldo de más de S/ 35 mil 196 millones.
+• Los departamentos que concentran el mayor número de obras públicas
+paralizadas son Cusco (338), Puno (221), Áncash (188), Lima (164),
+Cajamarca (140) y Ayacucho (140).
+• El mayor número de obras públicas paralizadas corresponde a entidades a
+nivel de Gobierno Local con 1 533 (68.4%) obras públicas paralizadas por
+un monto de inversión S/ 12 mil 091 millones; seguido de entidades del
+Gobierno Nacional con 391 obras (17.4%) que concentra el mayor un monto
+de inversión de S/ 42 mil 564 millones; en tanto que las entidades a nivel de
+Gobierno Regional cuentan con 317 obras (14.1%), cuyo monto de inversión
+asciende a S/ 18 mil 509 millones.
+• Cabe precisar que, el sector de Transportes y Comunicaciones concentra
+626 obras públicas paralizadas, lo que representa el 36.4% del total
+nacional; de los cuales 482 corresponden a entidades de Gobierno Local,
+76 del Gobierno Regional y 68 a Gobierno Nacional; seguido del sector de
+Vivienda, Construcción y Saneamiento, con una representatividad del
+19.7% del total nacional.
+• El 50.2% (1126) de las 2 241 obras públicas paralizadas a nivel nacional
+son ejecutadas bajo la modalidad por contrata y el 47.5% (1064) por
+administración directa.
+• Según la información registrada por las entidades públicas, las obras se
+encuentran paralizadas principalmente debido a incumplimientos
+contractuales (27.6%), falta de recursos financieros y liquidez (24.2%),
+deficiencias en el Expediente técnico (9.1%), discrepancias, controversias o
+arbitraje (9.1%), entre otras causales de paralización.
+• Las obras públicas paralizadas que se encuentran bajo los alcances del
+marco normativo de la Ley N.º 31589, a la fecha del presente informe,
+ascienden a 1 179 obras públicas paralizadas, por un monto de inversión de
+S/ 36 mil 050 millones, siendo beneficiadas por un marco legal que garantice
+su reactivación y culminación para ser puestos en beneficio de la sociedad.
+• De acuerdo a la información obtenida de la Consulta Avanzada de
+Inversiones del Banco de Inversiones; de las 2 241 obras paralizadas, solo
+689 obras cuentan con PIM al 2026 representando el 30.7%.
+
+=== pagina 21 ===
+▪ Se ejecutaron 3 858 servicios de control a los departamentos con obras
+públicas paralizadas detalladas en el presente informe, de los cuales, el
+95.2% (3 672) corresponde a servicios de Control Simultáneo, el 3.9% (152)
+a Control Posterior y el 0.9% (34) a Control Previo.
+_______________________________________________________
+Documento firmado digitalmente
+Carlos Martin Loyola Escajadillo
+Subgerente de Seguimiento y Evaluación del Sistema Nacional de Control
+Contraloría General de la República
+ANEXOS
+ANEXO N.°01 - Quince principales obras públicas paralizadas por
+departamento por modalidad de ejecución por Contrata y Administración
+directa
+ANEXO N.°02 - Base de datos con la lista de obras públicas paralizadas en
+el territorio Nacional
+ANEXO N.°03 - Base de datos con el listado de servicios de control
+efectuados a las paralizadas
+
+=== pagina 22 ===
+

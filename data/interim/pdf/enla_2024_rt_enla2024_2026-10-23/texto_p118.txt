@@ -1,0 +1,33 @@
+Código de
+Grado Actor Nombre CFI TLI SRMR
+constructo
+EST6PMAT_ Motivación hacia la
+0,997 0,995 0,027
+MOTMAT Matemática
+EST6PHSE_ Clima de apoyo
+0,999 0,998 0,019
+APACAD académico
+EST6PHSE_
+M Bienestar subjetivo 0,998 0,995 0,017
+BIESUB
+EST6PHSE_
+Deseabilidad Social 0,962 0,949 0,056
+DESEA
+6.° grado
+Estudiante
+de primaria
+EST6PHSE_
+Estilos parentales 0,984 0,981 0,053
+ESTPA
+EST6PHSE_
+Transgresión a la ley 0 1,000 0 1,000 0 0,005
+LEY
+EST6PHSE_
+Conducta prosocial 0,989 0,986 0,052
+PROSO
+Soporte
+EST6PHSE_
+socioemocional del 0,997 0,996 0,027
+SOEMO
+docente
+116

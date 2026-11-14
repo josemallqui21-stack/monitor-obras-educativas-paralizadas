@@ -1,0 +1,22 @@
+y la varianza del error. En el contexto de la TRI, las puntuaciones verdaderas son los
+valores θno observables que se estiman con un error estándar especificado a partir
+de los patrones de respuesta. El cálculo del coeficiente lleva la siguiente fórmula:
+Donde VAR(θ) es la varianza de los valores θ verdaderos y VAR(error) es la media
+aritmética de los errores estándar luego de haber sido elevados al cuadrado.
+Figura 4.6 Curva de información de la prueba y curva de errores estándar.
+En la TRI, la función de información de la prueba se utiliza para calcular el error
+estándar de medición y, por ende, también puede emplearse para generar coeficientes
+con interpretaciones similares a los coeficientes de confiabilidad (AERA et al., 2014;
+DeMars, 2010). La información de la prueba, I(θ), es una función del rasgo evaluado
+y de los ítems que lo componen, proporcionando una medida de la precisión en
+cada nivel de habilidad. Estas funciones de información de la prueba se representan
+gráficamente en una curva de información, que se muestra en color negro en la figura
+4.6. En dicha figura, se observa que hay más información, principalmente entre los
+valores -2 y 0 de la escala, y menor información fuera de este rango.
+Además, la información de la prueba refleja que cada uno de los ítems contribuye
+potencialmente a reducir la incertidumbre sobre la localización de una persona,
+independientemente de los demás ítems del instrumento. Gracias a esta
+independencia entre ítems, es posible sumar las contribuciones de cada uno para
+obtener la información (total) de la prueba (De Ayala, 2022). La contribución individual
+de cada ítem se conoce como información del ítem, Ii (θ).
+130

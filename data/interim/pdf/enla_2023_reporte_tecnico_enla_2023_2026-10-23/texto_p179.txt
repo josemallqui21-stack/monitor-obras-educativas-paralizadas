@@ -1,0 +1,38 @@
+Reporte técnico evaluaciones 2022 Referencias
+Schulz, E. M. (1990). Functional assessment of fit. En J. M. Linacre (Ed.), Rasch
+Measurement Transactions, 1990 (p. 82). MESA Press
+Schumacker, R. E., y Smith, E. V. (2007). Reliability: A Rasch perspective.
+Educational and Psychological Measurement, 67(3), 394-409. https://doi.
+org/10.1177/0013164406294776
+Sheaffer, R. L., Mendelhall, W., & Ott, L. (2006). Elementary survey sampling (6th ed.).
+Thomson Brooks
+Shepard, L. (1980). Standard setting issues and methods. Applied Psychological
+Measurement, 4(4), 447-467. https://doi.org/10.1177/014662168000400403
+Smith, R., y Kramer, G. (1989). Response pattern analysis with supplemental score
+reports. En J. M. Linacre (Ed.), Rasch Measurement Transactions Part 1,
+1995 (pp.33-35). MESA Press.
+Stehr-Green, P., Stehr-Green, J., & Nelson, A. (2003). Developing a questionnaire.
+Focus on Field Epidemiology, 2(2), 1-6. https://nciph.sph.unc.edu/focus/vol2/
+issue2/2-2Questionnaire_issue.pdf
+Suen, H. (1990). The psychometric process. Pennsylvania State University.
+Willis, G. B. (2008). Cognitive interviewing. En: Encyclopedia of Survey
+Research Methods (pp. 107-109). Sage Publications. https://doi.
+org/10.4135/9781412963947
+Wilson, M. (2005). Constructing measures. An item response modeling approach.
+Lawrence Erlbaum Associates.
+Wind, S., y Hua, C. (2022). Rasch measurement theory analysis in R. Chapman & Hall.
+Wright, B. & Linacre, J. (1989). Observations are always ordinal; Measurements,
+however, must be interval. Archives of Physical Medicine and Rehabilitation,
+70(12), 857-860.
+Wright, B. D. (1999). Model selection: Rating Scale Model (RSM) or Partial Credit
+Model (PCM)? Rasch Measurement Transactions, 12(3), 641-642. https://
+www.rasch.org/rmt/rmt1231.htm
+Wright, B. D., y Linacre, J. M. (1994). Reasonable mean-square fit values. En J. M.
+Linacre (Ed.), Rasch Measurement Transactions, 1994 (p. 370). MESA Press
+Wright, B. D., y Stone, M. (1998). Diseño de mejores pruebas. CENEVAL.
+Wrigth, B. D., y Masters, G. (1982). Rating scale analysis. MESA Press.
+Wu, M. (2005). The role of plausible values in large-scale surveys. Studies in Educational
+Evaluation, 31(2-3), 114-128. https://doi.org/10.1016/j.stueduc.2005.05.005
+Zhu, W. (1998). Test equating: What, why, how? Research Quarterly for Exercise and
+Sport, 69(1), 11-23. https://doi.org/10.1080/02701367.1998.10607662
+177

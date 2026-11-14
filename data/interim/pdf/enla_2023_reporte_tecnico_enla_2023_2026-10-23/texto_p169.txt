@@ -1,0 +1,74 @@
+Reporte técnico evaluaciones 2022 Capítulo 5
+Código de
+Grado Actor Nombre general Sub escala omega
+constructo
+DOC2SCSS_ Percepción de Relacionadas al 0,943
+PROBIEE situaciones estudiante
+DOC2SCSS_ problemáticas en la
+PROBIER escuela Falta de recursos 0,814
+DOC2CSS_
+Cognitiva 0,812
+EDUINCG
+Docente de DOC2SCSS_ Actitudes hacia la Afectiva 0,845
+Ciencias EDUINAF educación inclusiva
+Sociales
+DOC2SCSS_
+Conductual 0,884
+EDUINCD
+DOC2SCSS_ Criterios erróneos
+0,788
+EVFORMCR de evaluación
+Creencias sobre la
+evaluación formativa Creencias
+DOC2SCSS_
+erróneas sobre 0,671
+EVFORMRE
+retroalimentación
+DOC2SLEC_ Enseñanza sobre
+0,878
+ESTRLEC estrategias de lectura
+DOC2SLEC_
+Decodificación 0,701
+COMPDEC Prácticas
+pedagógicas en
+DOC2SLEC_
+Comunicación Significado 0,789
+COMPLECSIG
+con énfasis en la
+2.°
+DOC2SLEC_ repetición
+grado de Repetición 0,878
+COMPREP
+secundaria
+Autoeficacia de
+DOC2SLEC_ docente para la
+0,816
+AUTLEC enseñanza de la
+lectura
+DOC2SLEC_ Motivación a la
+0,758
+MOTLEC enseñanza de lectura
+Docente de
+Comunicación DOC2SLEC_ Percepción de Relacionadas al 0,927
+PROBIEE situaciones estudiante
+DOC2SLEC_ problemáticas en la
+PROBIER escuela Falta de recursos 0,789
+DOC2SLEC_
+Afectiva 0,837
+EDUINAF
+DOC2SLEC_ Actitudes hacia la
+Conductual 0,883
+EDUINCD educación inclusiva
+DOC2SLEC_
+Cognitiva 0,822
+EDUINCG
+DOC2SLEC_ Criterios erróneos
+0,797
+EVFORMCR de evaluación
+Creencias sobre la
+evaluación formativa Creencias
+DOC2SLEC_
+erróneas sobre 0,719
+EVFORMRE
+retroalimentación
+167

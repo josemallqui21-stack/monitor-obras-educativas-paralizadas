@@ -1,0 +1,40 @@
+Referencias
+American Educational Research Association, American Psychological Association
+y National Council of Measurement in Education. (2014). Standards for
+educational and psychological testing. American Educational Research
+Association.
+Andrich, D. (1978). A rating formulation for ordered response categories.
+Psychometrika, 43, 561–573. https://doi.org/10.1007/BF02293814
+Bandalos, D. L. (2018). Measurement theory and applications for the social sciences.
+Guilford Publications.
+Bollen, K. A., & Bauldry, S. (2011). Three Cs in measurement models: Causal
+indicators, composite indicators, and covariates. Psychological Methods,
+16(3), 265–284. https://doi.org/10.1037/a0024448
+Bollen, K. A., & Diamantopoulos, A. (2017). In defense of causal-formative indicators:
+A minority report. Psychological Methods, 22(3), 581–596. https://doi.
+org/10.1037/met0000056
+Bond, T. G., Yan, Z. & Heene, M. (2021). Applying the Rasch model. Fundamental
+measurement in the human Sciences (4a ed.). Routledge
+Browning, D. (2003). Common definitions: Adaptations, accomodations, modifications.
+http://www.pent.ca.gov/acc/commondefinitions_accom-mod.pdf
+Charter, R. A. (2003). A breakdown of reliability coefficients by test type and reliability
+method, and the clinical implications of low reliability. The Journal of General
+Psychology, 130(3), 290-304. https://doi.org/10.1080/00221300309601160
+Chen, F., Carolina, N., Curran, P. J., Bollen, K. A., & Kirby, J. (2008). An empirical
+evaluation of the use of fixed cutoff points in RMSEA test statistic in structural
+equation models. Social Methods Research, 36(4), 1-31. https://doi.
+org/10.1177/0049124108314720
+Cizek, G. J. (1993). Reconsidering standards and criteria. Journal of Educational
+Measurement, 30(2), 93-106. https://doi.org/10.1111/j.1745-3984.1993.
+tb01068.x
+Cizek, G. J., & Bunch, M. B. (2007). Standard settings. SAGE.
+Cronbach, L. J. (1951). Coefficient alpha and the internal structure of tests.
+Psychometrika, 16(3), 297-334. https://doi.org/10.1007/BF02310555
+DiStefano, C., & Morgan, G. B. (2014). A comparison of diagonal weighted least
+squares robust estimation techniques for ordinal data. Structural Equation
+Modeling: A Multidisciplinary Journal, 21(3), 425–438. https://doi.org/10.108
+0/10705511.2014.915373
+DiStefano, C., Zhu, M., & Mindrila, D. (2009). Understanding and using factor scores:
+Considerations for the applied researcher. Practical Assessment, Research,
+and Evaluation, 14, Article 20. https://doi.org/10.7275/da8t-4g52
+140

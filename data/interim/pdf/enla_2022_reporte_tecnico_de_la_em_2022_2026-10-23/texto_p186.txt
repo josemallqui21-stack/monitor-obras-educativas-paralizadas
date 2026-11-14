@@ -1,0 +1,32 @@
+Cantidad de Cantidad de Porcentaje
+Tipo de Correlativo
+Género ítems por ítems por por tipo de
+texto del texto
+cada texto tipo de texto texto
+Artículo 7 6
+Descriptivo enciclopédico 8 6 18 14,8 %
+Infografía 9 6
+10 6
+Artículo de 11 6
+opinión 12 6
+Argumentativo 36 29,5 %
+13 6
+Reseña 14 6
+Infografía 15 6
+16 7
+Artículo de 17 6
+Expositivo divulgación 18 6 31 25,4 %
+19 6
+Afiche 20 6
+Total 122 122 100 %
+Tabla A.22 Matemática. Distribución de ítems por competencias evaluadas en la
+prueba
+Cantidad
+Competencias Porcentaje
+de ítems
+Resuelve problemas de cantidad 34 27,9 %
+Resuelve problemas de regularidad, equivalencia y cambio 33 27,0 %
+Resuelve problemas de forma, movimiento y localización 28 23,0 %
+Resuelve problemas de gestión de datos e incertidumbre 27 22,1 %
+Total 122 100,0 %
+184

@@ -1,0 +1,46 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_2.dbf
+Variable Tipo Descripción Valor
+P214_NO_OT C (80) 214. Si no tiene conexión a red pública: ¿se ha tramitado Texto
+el acceso a red pública?
+--> No
+¿Por qué razones?
+3: Otro --- Especifique
+P215 C (1) 215. ¿El local cuenta con una planta de tratamiento de 1: Sí
+aguas residuales provenientes de la actividad humana? 2: No
+P215_SI C (1) 215. ¿El local cuenta con una planta de tratamiento de 1: Sí
+aguas residuales provenientes de la actividad humana? 2: No
+--> Sí
+¿El volumen tratado por día es mayor a 20m3 (20 mil
+litros)?
+Archivo: Loc_P200_ServBa.dbf [ Matriz 07: Servicios Básicos en el Local Educativo - Luz ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de pregunta C216
+NUMERO C (1) Número de procedencia de abastecimiento de energía (1:6)
+eléctrica
+1: Red pública (de una empresa distribuidora de energía
+eléctrica)
+2: Grupo electrógeno
+3: Paneles solares (energía fotovoltaica)
+4: Energía eólica
+5: Otro
+6: No tiene
+TIPO C (50) Nombre de la procedencia de abastecimiento de energía Texto
+eléctrica
+DESCRIP_OT C (80) 7: Otro --- Especifique Texto
+FRECUENCIA C (1) A. Indicar todos los tipos de abastecimiento, que recibe en el "X"
+Local Educativo, con frecuencia
+TERRENO_1 C (1) Registre por cada terreno (solo si tiene más de 1 terreno) "X"
+Terreno N° 01
+TERRENO_2 C (1) Registre por cada terreno (solo si tiene más de 1 terreno) "X"
+Terreno N° 02
+TERRENO_3 C (1) Registre por cada terreno (solo si tiene más de 1 terreno) "X"
+Terreno N° 03
+TERRENO_4 C (1) Registre por cada terreno (solo si tiene más de 1 terreno) "X"
+Terreno N° 04
+PREDOMINA C (1) B. ¿Cuál es el tipo de abastecimiento de energía eléctrica "X"
+que predomina en el Local Educativo?
+-- 32 --

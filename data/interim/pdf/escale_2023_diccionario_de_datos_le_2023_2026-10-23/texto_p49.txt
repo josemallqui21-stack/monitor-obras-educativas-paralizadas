@@ -1,0 +1,42 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_2.dbf
+Variable Formato Descripción de variable Valor de variable
+P501_1 N (5) 501. Número de aulas o espacios acondicionados como aulas 99999
+1. Total
+P501_2 N (5) 501. Número de aulas o espacios acondicionados como aulas 99999
+2. Bueno
+P501_3 N (5) 501. Número de aulas o espacios acondicionados como aulas 99999
+3. Regular
+P501_4 N (5) 501. Número de aulas o espacios acondicionados como aulas 99999
+4. Malo
+Archivo : Loc_P501_Aulas.dbf [ Matriz 13 : Aulas en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de pregunta C501
+NUMERO C (3) Número de orden 999
+ID_EDIF C (3) 1.Número de edificación "E" + [Correlativo
+a 2 dígitos]
+P501_2 N (2) 2. Número de piso 99
+P501_3 C (1) 3. ¿El ambiente se encuentra en uso? 1: Sí
+2: No
+P501_3_1 N (1) 3.1. Cantidad de días en una semana que se usa el ambiente 9
+P501_4_11 C (2) 4. Niveles educativos de la Educación Básica/ETP y/o Ver código en
+Carreras/Programas de la Educación Superior que usan el Tabla 01
+ambiente
+- Cantidad de estudiantes por aula y turno
+1. Turno Mañana
+1. Nivel
+P501_4_12 C (11) 4. Niveles educativos de la Educación Básica/ETP y/o (1:9)-(1:9)-(1:9)-
+Carreras/Programas de la Educación Superior que usan el (1:9)-(1:9)-(1:9) /
+ambiente (A:Z)-(A:Z)-(A:Z)-
+- Cantidad de estudiantes por aula y turno (A:Z)-(A:Z)-(A:Z)
+1. Turno Mañana
+2. Edad/Grado/Ciclo
+P501_4_13 C (1) 4. Niveles educativos de la Educación Básica/ETP y/o (A:Z)
+Carreras/Programas de la Educación Superior que usan el
+ambiente
+- Cantidad de estudiantes por aula y turno
+1. Turno Mañana
+3. Sección
+48

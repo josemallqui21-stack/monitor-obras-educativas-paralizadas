@@ -1,0 +1,45 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P501_Aulas.dbf [ Matriz 12: Aulas en el Local Educativo ]
+Variable Tipo Descripción Valor
+P501_10_3 C (2) 10. Puertas Ver código en Tabla 07
+3. Estado de Conservación
+P501_11_1 N (5) 11. Cerraduras 99999
+1. Cantidad
+P501_11_2 C (2) 11. Cerraduras Ver código en Tabla 07
+2. Estado de Conservación
+P501_12_1 N (5) 12. Ventanas 99999
+1. Cantidad
+P501_12_2 C (2) 12. Ventanas Ver código en Tabla 03
+2. Material Predominante del marco de la ventana
+P501_12_3 C (2) 12. Ventanas Ver código en Tabla 07
+3. Estado de Conservación del marco de la ventana
+P501_12_4 C (1) 12. Ventanas 1: Sí
+4. Favorecen la ventilación cruzada (las ventanas de 2: No
+encuentran frente a otras ventanas)
+P501_12_5 C (2) 12. Ventanas Ver código en Tabla 07
+5. Estado de Conservación de los vidrios
+P501_13_1 C (2) 13. Paredes Ver código en Tabla 04
+1. Material Predominante
+P501_13_2 C (2) 13. Paredes Ver código en Tabla 07
+2. Estado de Conservación
+P501_14_1 C (2) 14. Techo Ver código en Tabla 05
+1. Material Predominante
+P501_14_2 C (2) 14. Techo Ver código en Tabla 07
+2. Estado de Conservación
+P501_15_1 C (2) 15. Piso Ver código en Tabla 06
+1. Material Predominante
+P501_15_2 C (2) 15. Piso Ver código en Tabla 07
+2. Estado de Conservación
+P501_16_1 C (1) 16. Instalaciones Eléctricas 1: Sí
+1. ¿Tiene? 2: No
+P501_16_2 C (2) 16. Instalaciones Eléctricas Ver código en Tabla 07
+2. Estado de Conservación
+P501_17 C (1) 17. ¿Cuenta con Conexión a Internet? 1: Sí
+2: No
+P501_18_1 N (5) 18. Mesas Unipersonales 99999
+1. Cantidad Total
+P501_18_2 N (5) 18. Mesas Unipersonales 99999
+- Cantidad por Estado de Conservación
+2. En Buen Estado
+-- 54 --

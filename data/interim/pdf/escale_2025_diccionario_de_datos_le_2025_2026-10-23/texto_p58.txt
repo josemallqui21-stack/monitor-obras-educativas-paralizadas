@@ -1,0 +1,52 @@
+Archivo: Loc_P77_OtEspA.dbf [ Matriz 13: Espacios deportivos abiertos y espacios exteriores ]
+Variable Tipo Descripción Valor
+P77_6_1 N (8,2) 6. Dimensiones de ambiente 99999.99
+1. Largo (m)
+P77_6_2 N (8,2) 6. Dimensiones de ambiente 99999.99
+2. Ancho (m)
+P77_7_1 C (1) Solo para espacios deportivos 1: Sí
+7. Protección contra la radiación solar 2: No
+1. ¿El espacio cuenta con una cubierta que protege
+contra la radiación solar?
+P77_7_2 C (2) Solo para espacios deportivos (01:03)
+7. Protección contra la radiación solar
+2. ¿Cuál es el material de la cubierta?
+01: Mallas raschel
+02: Techo de calamina
+03: Otro
+P77_7_3 C (2) Solo para espacios deportivos 01: Total
+7. Protección contra la radiación solar 02: Parcial
+3. Alcance de la cubierta
+P77_7_4 C (2) Solo para espacios deportivos (BU:MA)
+7. Protección contra la radiación solar
+4. Estado de conservación
+BU: Bueno
+RE: Regular
+MA: Malo
+P77_8 C (2) Solo para espacios deportivos (01:03)
+8. ¿Cuenta con medidas reglamentarias?
+01: Sí
+02: No
+03: No Aplica
+Tabla 01: Tipo de espacio abierto o espacio exterior/de relación con la naturaleza
+Código Descripción Código Descripción
+Losa multiuso tipo I 15 x 28 (3 deportes/no
+111 120 Área de ingreso
+patios) - para Ed. Básica o Ed. Superior o ETP
+Losa multiuso tipo II 20 x 40 (5 deportes/no
+112 121 Pasadizos y circulaciones
+patios) - para Ed. Básica o Ed. Superior o ETP
+Pista de velocidad y saltos (80 a 120 metros
+113 122 Patio
+lineales) - para Ed. Básica
+114 Piscina semiolímpica sin techar (Ed. Básica) 123 Área de recreación (PRITE y CEBE)
+115 Piscina olímpica sin techar (Ed. Básica) 124 Áreas verdes y jardines (Ed. Básica)
+116 Campo de fútbol y campo atlético (Ed. Básica) 125 Espacio de cultivo (EBR o Ed. Superior o ETP)
+Espacio de crianza de animales (EBR o Ed.
+117 Solo campo de fútbol (Ed. Básica) 126
+Superior o ETP)
+118 Solo campo atlético (Ed. Básica) 127 Tribuna / Gradería
+Otro espacio exterior y de relación con la
+119 Otro espacio deportivo abierto 128
+naturaleza
+57

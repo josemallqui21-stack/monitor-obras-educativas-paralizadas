@@ -1,0 +1,50 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P101_Nivel.dbf [ Matriz 02: Niveles ]
+Variable Tipo Descripción Valor
+NIV_MOD C (2) 5. Código de nivel y/o modalidad del servicio/nivel (A1:S0)
+educativo
+A1: Inicial Cuna
+A2: Inicial Jardín
+A3: Inicial Cuna-Jardín
+B0: Primaria EBR
+F0: Secundaria EBR
+D1: EBA - Inicial e Intermedio
+D2: EBA - Avanzado
+E0: PRITE - Programa de Intervención Temprana
+E1: EBE - Inicial
+E2: EBE - Primaria
+L0: CETPRO - Técnico Productiva
+K0: Educación Superior Pedagógica
+T0: Educación Superior Tecnológica
+M0: Escuela de Formación Artística
+P0: Escuela de Educación Superior Pedagógica
+S0: Escuela de Educación Superior Tecnológica
+MSE C (2) 6. Modelo de servicio educativo (01:12)
+01: Educación Intercultural Bilingüe - DEIB (DIGEIBIRA)
+02: Jornada Escolar Completa - DES
+03: Colegio de Alto Rendimiento (COAR)
+04: Secundaria Tutorial
+05: Secundaria con Formación Técnica - DES
+06: Secundaria con Residencia
+07: Secundaria con Alternancia
+08: Educación Técnico Productiva
+09: Educación Superior Tecnológica
+10: Tecnológico de Excelencia
+11: Educación Superior Pedagógica
+12: No corresponde
+P101_7_1 C (1) 7. Sobre Residencia Estudiantil (RE) 1: Sí
+1. ¿Cuenta con RE? 2: No
+P101_7_2 N (5) 7. Sobre Residencia Estudiantil (RE) 99999
+2. Cantidad de alumnos en la RE
+P101_7_3 C (1) 7. Sobre Residencia Estudiantil (RE) 1: Sí
+3. ¿La RE se encuentra en el local principal de la IE? 2: No
+P101_7_4 N (8,2) 7. Sobre Residencia Estudiantil (RE) 99999,99
+3. ¿La RE se encuentra en el local principal de la IE?
+- NO --> 4. Señalar la distancia en metros
+P101_7_5 C (1) 7. Sobre Residencia Estudiantil (RE) 1: Sí
+5. ¿Los ambientes de la residencia estudiantil se 2: No
+encuentran en los terrenos propios del local educativo?
+P101_8_1 C (1) 8. Sobre el(los) Local(es) Adicional(es) 1: Sí
+1. ¿Cuenta con un Local Adicional? 2: No
+-- 11 --

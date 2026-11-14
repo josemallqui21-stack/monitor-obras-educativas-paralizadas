@@ -1,0 +1,40 @@
+Cabe destacar que se han priorizado los servicios de control simultáneo, de los cuales,
+1782 servicios se han efectuado en obras a nivel de Gobierno Local, 701 servicios se
+efectuaron en obras de los Gobiernos Regionales y 883 servicios a nivel del Gobierno
+Nacional, como puede apreciarse en el siguiente cuadro:
+Tabla 22. Servicios de control por nivel de gobierno
+Gobierno Gobierno
+Tipo de Servicio de Nacional Regional Gobierno Local Total
+Control
+N.° % N.° % N.° % N.° %
+Control previo 12 0.3% 27 0.7% 5 0.1% 44 1.2%
+Control simultáneo 883 24.4% 701 19.4% 1782 49.3% 3366 93.2%
+Control posterior 37 1.0% 52 1.4% 113 3.1% 202 5.6%
+Total 932 25.8% 780 21.6% 1900 52.6% 3612 100%
+Fuente: Sistemas de servicios de control de la CGR.
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 30/09/2024
+A continuación, se muestran los servicios de control realizados por ubicación geográfica y
+tipo de servicio:
+Tabla 23. Servicios de control a obras paralizadas, por departamento
+N° de servicios de N° de servicios N° de servicios Total de
+Departamento
+control previo control simultáneo control posterior servicios
+AMAZONAS 6 117 3 126
+ANCASH 2 335 11 348
+APURIMAC 64 6 70
+AREQUIPA 3 248 13 264
+AYACUCHO 131 8 139
+CAJAMARCA 11 207 7 225
+CUSCO 1 169 13 183
+HUANCAVELICA 104 17 121
+HUANUCO 108 4 112
+ICA 1 51 12 64
+JUNIN 119 12 131
+LA LIBERTAD 1 241 6 248
+LAMBAYEQUE 216 17 233
+LIMA 259 19 278
+LORETO 49 1 50
+MADRE DE DIOS 18 4 22
+MOQUEGUA 91 4 95
+P. C. DEL CALLAO 15 2 17

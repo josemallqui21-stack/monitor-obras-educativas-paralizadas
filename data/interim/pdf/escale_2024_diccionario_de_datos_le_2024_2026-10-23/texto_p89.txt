@@ -1,0 +1,37 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_2.dbf
+Variable Tipo Descripción Valor
+P904 C (1) 904. Alguno de los espacios deportivos (ya sean cerrados o 1: Sí
+abiertos), ¿se encuentran en concesión? 2: No
+P905 C (1) 905. Alguno de los espacios deportivos (ya sean cerrados o 1: Sí
+abiertos), ¿se encuentra ocupado por alguna infraestructura 2: No
+portátil, u otro?
+P905_SI_OT C (80) 905. Alguno de los espacios deportivos (ya sean cerrados o Texto
+abiertos), ¿se encuentra ocupado por alguna infraestructura
+portátil, u otro?
+- Sí --> Especifique
+P906_1 C (1) 906. Al menos uno de los espacios deportivos (ya sean cerrados o "X"
+abiertos), ¿cuenta con el siguiente equipamiento deportivo?
+1. Arcos - Fútbol
+P906_2 C (1) 906. Al menos uno de los espacios deportivos (ya sean cerrados o "X"
+abiertos), ¿cuenta con el siguiente equipamiento deportivo?
+2. Arcos con mallas - Fútbol
+P906_3 C (1) 906. Al menos uno de los espacios deportivos (ya sean cerrados o "X"
+abiertos), ¿cuenta con el siguiente equipamiento deportivo?
+3. Tableros con aros - Baloncesto
+P906_4 C (1) 906. Al menos uno de los espacios deportivos (ya sean cerrados o "X"
+abiertos), ¿cuenta con el siguiente equipamiento deportivo?
+4. Aro y malla - Baloncesto
+P906_5 C (1) 906. al menos uno de los espacios deportivos (ya sean cerrados o "X"
+abiertos), ¿cuenta con el siguiente equipamiento deportivo?
+5. Parantes - Vóley
+P906_6 C (1) 906. Al menos uno de los espacios deportivos (ya sean cerrados o "X"
+abiertos), ¿cuenta con el siguiente equipamiento deportivo?
+6. Net - Vóley
+P906_7 C (1) 906. Al menos uno de los espacios deportivos (ya sean cerrados o "X"
+abiertos), ¿cuenta con el siguiente equipamiento deportivo?
+7. Ninguno de los anteriores
+ANOTACION C (200) 1000. Anotaciones complementarias que considere importante Texto
+agregar
+-- 88 --

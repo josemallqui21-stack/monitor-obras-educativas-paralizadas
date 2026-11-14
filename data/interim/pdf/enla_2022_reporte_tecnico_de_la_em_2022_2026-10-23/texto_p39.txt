@@ -1,0 +1,41 @@
+Reporte técnico evaluaciones 2022 Capítulo 1
+De las 12 formas ensambladas, cada estudiante evaluado se enfrentó a dos de ellas
+(una por cada día de aplicación). En consecuencia, de los 102 ítems que tiene esta
+prueba, cada estudiante respondió 50.
+Diseño de bloques de las pruebas de Matemática de 6.° grado de primaria
+La prueba de Matemática de 6.° grado de primaria elaborada para la EM 2022 estuvo
+conformada por un total de 94 ítems distribuidos en 10 formas. Cada forma contiene
+25 ítems, 12 ítems comunes organizados en 3 bloques comunes y 13 ítems no
+comunes que corresponden a bloques que varían de una forma a otra. Las diferentes
+combinaciones de los bloques permitieron ensamblar 6 formas de mayor dificultad
+y 4 de menor dificultad. De acuerdo con esta distribución, cada forma y el conjunto
+de estas reflejan los contenidos (competencias, capacidades, conocimientos,
+indicadores, entre otros) de las tablas de especificaciones de la prueba. Dentro de
+su tipo (de mayor o menor dificultad), estas formas presentan una dificultad similar
+entre sí, pero una dificultad diferenciada, según el grupo de estudiantes al que están
+dirigidas.
+Tabla 1.14 Matriz de bloques de la prueba de Matemática de 6.° grado de primaria.
+Día 2
+Forma Bloque Ítems por forma
+B01
+B09
+B17
+1 25
+B21
+B10
+B02
+B03
+B11
+B18
+2 25
+B21
+B12
+B04
+B05
+B13
+B19
+3 25
+B21
+B14
+B06
+37

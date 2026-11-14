@@ -1,0 +1,32 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P101_Nivel.dbf [ Matriz 02: Niveles ]
+Variable Tipo Descripción Valor
+P101_8_2 C (1) 8. Sobre el(los) Local(es) Adicional(es) 1: Sí
+2. ¿Tiene Código de Local Educativo? 2: No
+P101_8_3 C (6) 8. Sobre el(los) Local(es) Adicional(es) 999999
+2. ¿Tiene Código de Local Educativo?
+- Sí --> 3. Código de Local Educativo
+Archivo: Loc_P102_Carrer.dbf [ Matriz 03: Listado de Carreras o Programas ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de la Pregunta C102
+N_ORD C (2) Número de orden 99
+NIV_SUP C (2) Código de Nivel de Educación Superior No Universitaria (K0:S0)
+K0: Educación Superior Pedagógica
+T0: Educación Superior Tecnológica
+M0: Escuela de Formación Artística
+P0: Escuela de Educación Superior Pedagógica
+S0: Escuela de Educación Superior Tecnológica
+CODCARR C (10) Código de Carrera o Programa de estudio Id Carrera
+NAME_CAR C (150) Nombre de la carrera o programa de estudio ofrecida por Texto
+el Instituto o Escuela de Educación Superior No
+Universitaria
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P103 N (5) 103. Cantidad de Terrenos que conforma el Local Educativo 99999
+P104 N (5) 104. Cantidad de Edificaciones que tiene el Local Educativo 99999
+P105 N (10,2) 105. Área Total Del Terreno 9999999,99
+P106 N (10,2) 106. Área Techada Total 9999999,99
+-- 12 --

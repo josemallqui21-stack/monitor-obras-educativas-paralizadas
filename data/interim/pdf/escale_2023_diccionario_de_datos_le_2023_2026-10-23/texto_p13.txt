@@ -1,0 +1,45 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P114_Tramo.dbf [ Matriz 06 : Tramos del perímetro del terreno ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de la Pregunta C114
+N_TRAMO C (2) Número de Tramo 99
+P114_1 N (6) Longitud del tramo (mts) 999999
+- Parte Entera
+P114_2 C (2) Longitud del tramo (mts) 99
+- Parte Decimal
+Archivo : Loc_Lineal_1.dbf
+Variable Formato Descripción de variable Valor de variable
+P115_1_1 C (1) 115.1. ¿En el ingreso principal, con qué tipo de acceso "X"
+cuenta el local educativo?
+1. Gradas
+P115_1_2 C (1) 115.1. ¿En el ingreso principal, con qué tipo de acceso "X"
+cuenta el local educativo?
+2. Rampa
+P115_1_3 C (1) 115.1. ¿En el ingreso principal, con qué tipo de acceso "X"
+cuenta el local educativo?
+3. Directo sin desnivel
+P115_1_4 C (1) 115.1. ¿En el ingreso principal, con qué tipo de acceso "X"
+cuenta el local educativo?
+4. Otros
+P115_1_OTR C (80) 115.1. ¿En el ingreso principal, con qué tipo de acceso Texto
+cuenta el local educativo?
+4. Otros --- Especificar
+P115_1_1OK C (1) 115.1. ¿En el ingreso principal, con qué tipo de acceso 1: Sí
+cuenta el local educativo? 2: No
+1. Gradas
+¿Cumple con las características de acuerdo a la
+norma?
+P115_1_2OK C (1) 115.1. ¿En el ingreso principal, con qué tipo de acceso 1: Sí
+cuenta el local educativo? 2: No
+2. Rampa
+¿Cumple con las características de acuerdo a la
+norma?
+P115_2_1 C (1) 115.2. ¿Cómo se conectan las edificaciones y espacios "X"
+dentro del local educativo?
+1. Gradas
+P115_2_2 C (1) 115.2. ¿Cómo se conectan las edificaciones y espacios "X"
+dentro del local educativo?
+2. Rampa
+12

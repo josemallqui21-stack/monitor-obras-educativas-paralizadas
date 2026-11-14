@@ -1,0 +1,60 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+5. Mal estado
+P701_13_21 N (6) 13. Sobre los lavatorios o lavamanos en los (000001:999999)
+SS.HH.
+Corridos
+1. Total
+P701_13_22 N (6) 13. Sobre los lavatorios o lavamanos en los (000001:999999)
+SS.HH.
+Corridos
+2. Operativos
+P701_13_23 N (6) 10. Sobre los lavatorios o lavamanos en los (00001:99999)
+SS.HH.
+Corridos
+3. Buen estado
+P701_13_24 N (6) 10. Sobre los lavatorios o lavamanos en los (00001:99999)
+SS.HH.
+Corridos
+4. Regular estado
+P701_13_25 N (6) 10. Sobre los lavatorios o lavamanos en los (00001:99999)
+SS.HH.
+Corridos
+5. Mal estado
+P701_14_11 N (6) 14. Sobre los urinarios en los SS.HH. (00001:99999)
+1. Urinarios Individuales
+Cantidad de urinarios individuales
+1. Total
+P701_14_12 N (6) 14. Sobre los urinarios en los SS.HH. (00001:99999)
+1. Urinarios Individuales
+Cantidad de urinarios individuales
+2. Operativos
+P701_14_13 N (6) 14. Sobre los urinarios en los SS.HH. (00001:99999)
+1. Urinarios Individuales
+Cantidad de urinarios operativos según estado
+de conservación
+3. Buen estado
+P701_14_14 N (6) 14. Sobre los urinarios en los SS.HH. (00001:99999)
+1. Urinarios Individuales
+Cantidad de urinarios operativos según estado
+de conservación
+4. Regular estado
+P701_14_15 N (6) 14. Sobre los urinarios en los SS.HH. (00001:99999)
+1. Urinarios Individuales
+Cantidad de urinarios operativos según estado
+de conservación
+5. Mal estado
+P701_14_16 N (6) 14. Sobre los urinarios en los SS.HH. (00001:99999)
+1. Urinarios Individuales
+6. del total de operativos ¿Cuántos tienen
+función de descarga?
+P701_14_21 N (6) 14. Sobre los urinarios en los SS.HH. (00001:99999)
+2. Urinarios Corridos
+Cantidad de urinarios corridos
+1. Total
+P701_14_22 N (6) 14. Sobre los urinarios en los SS.HH. (000001:999999)
+2. Urinarios Corridos
+Cantidad de urinarios corridos
+2. Operativos
+P701_14_23 N (6) 14. Sobre los urinarios en los SS.HH. (000001:999999)
+2. Urinarios Corridos
+67

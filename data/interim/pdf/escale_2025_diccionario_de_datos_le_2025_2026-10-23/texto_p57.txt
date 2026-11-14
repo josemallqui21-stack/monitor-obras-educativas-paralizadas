@@ -1,0 +1,48 @@
+Archivo: Loc_Lineal_2.dbf
+Variable Tipo Descripción Valor
+P72 C (1) 7.2. ¿Los talleres para el área de educación para el trabajo cuentan 1: Sí
+con el equipamiento básico para el desarrollo de la especialidad que 2: No
+oferta?
+P73 C (1) 7.3. El equipamiento de los talleres para el área de educación para el 1: Sí
+trabajo, ¿se encuentran operativos y en uso? 2: No
+P74 C (1) 7.4. ¿Su inventario se encuentra registrado en la UGEL? 1: Sí
+2: No
+P75 C (1) 7.5. ¿Cuál es el motivo principal por el cual la biblioteca no está (1:5)
+funcionando?
+1: Por estar en reparación y/o mantenimiento
+2: Por falta de libros y/o mobiliario
+3: Por falta de personal
+4: En proyecto
+5: Otro
+P75_5_OT C (80) 7.5. ¿Cuál es el motivo principal por el cual la biblioteca no está Texto
+funcionando?
+5: Otro --- Especifique
+P76 C (1) 7.6. ¿El local educativo cuenta con laboratorios que utilicen solo 1: Sí
+insumos químicos? 2: No
+Archivo: Loc_P77_OtEspA.dbf [ Matriz 13: Espacios deportivos abiertos y espacios exteriores ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Respecto a los espacios deportivos abiertos y espacios exteriores/de C077
+relación con la naturaleza
+NUMERO C (2) Número de orden 99
+P77_1 C (3) 1. Detalle del Espacio Ver código en
+- Código Tabla 01
+P77_2 C (1) 2. El espacio, ¿se encuentra en uso? 1: Sí
+2: No
+P77_3 C (2) 3. Estado de conservación (BU:MA)
+BU: Bueno
+RE: Regular
+MA: Malo
+P77_4_1 C (44) 4. Niveles educativos de la Educación Básica/ETP y/o (A. … A.-B0-F0-
+Carreras/Programas de la Educación Superior que usan el ambiente D1-D2-E0-E1-E2-
+1. Niveles de Educación Básica y ETP L0-K0-T0-M0-P0-
+S0)
+P77_4_2 C (60) 4. Niveles educativos de la Educación Básica/ETP y/o (01 … 01-02-03-
+Carreras/Programas de la Educación Superior que usan el ambiente 04-05-06-07-08-
+2. Carreras/Programas de Educación Superior (Según 09-10-11-12-13-
+lo declarado en la pregunta 1.2.3) 14-15-16-17-18-
+19-20)
+P77_5 C (1) 5. ¿Tiene forma de cuadrilátero? 1: Sí
+2: No
+56

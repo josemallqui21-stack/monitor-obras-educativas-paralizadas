@@ -1,0 +1,51 @@
+Tabla 01: Finalidad de uso del Tabla 02: Entidad Ejecutora
+módulo prefabricado
+Código Descripción
+Código Descripción
+01 Gobierno Nacional
+01 Situación de emergencia
+02 Gobierno Regional
+Uso temporal (durante la
+03 Gobierno Local
+02 ejecución de una
+inversión)
+04 APAFA / Autoconstrucción
+03 Uso permanente
+05 Entidades Cooperantes / ONG’s
+06 Empresa Privada
+07 No Especifica
+Tabla 03: Sistema Estructural Predominante
+Tabla 04: Estado de Conservación
+Código Descripción Código Descripción
+Código Descripción
+01 Concreto armado 06 Acero Estructural
+BU Buen Estado
+02 Albañilería confinada 07 Módulo prefabricado - PRONIED
+RE Regular Estado
+MA Mal Estado
+03 Albañilería sin confinar 08 Módulo prefabricado - Otro
+NA No Aplica
+04 Adobe / Tapial 09 Precario
+05 Madera Estructural 10 Otro
+Puede considerar los códigos
+11 No Tiene pero Requiere
+11 y 12 adicionales a los
+anteriores, solo para el
+12 No Tiene y No Requiere
+numeral 11
+Tabla 07: Tipo de Instalación de
+Tabla 05: Material predominante de la Cobertura de los Techos
+Cableado
+Código Descripción Código Descripción
+Código Descripción
+01 Concreto 06 Calaminón
+01 Circuito canalizado
+02 Madera 07 Caña con barro
+Circuito sin canalizar o sin
+02 03 Teja 08 Lata o latón
+conductor adecuado
+04 Fibra de cemento 09 Otro
+03 No especifica
+05 Calamina 10 No Tiene pero lo Requiere
+11 No Tiene y No Requiere
+36

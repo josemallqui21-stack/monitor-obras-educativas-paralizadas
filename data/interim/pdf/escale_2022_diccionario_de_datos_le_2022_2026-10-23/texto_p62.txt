@@ -1,0 +1,15 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Tabla 06: Códigos de Material Tabla 07: Códigos de Material
+predominante de los techos predominante de los pisos
+Código Descripción Código Descripción
+01 Concreto armado 01 Parquet o madera pulida
+02 Madera 02 Vinilico, pisopak o similar
+03 Teja 03 Loseta, cerámico o similar
+04 Fibra de cemento 04 Cemento
+05 Calamina 05 Madera entablada
+06 Calaminon 06 Tierra
+07 Eternit 07 Otro
+08 Caña con barro
+09 Lata o latón
+10 Otro
+61

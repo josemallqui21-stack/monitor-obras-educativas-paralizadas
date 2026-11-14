@@ -1,0 +1,37 @@
+Ítem Bloque Posición Medida Error Infit Outfit PTME p Nivel
+MA083 B20 3 -1,475 0,007 1,03 1,04 0,45 0,71 2
+MA084 B02 7 -0,300 0,008 1,04 1,03 0,45 0,57 3
+MA085 B04 1 -2,448 0,011 0,87 0,77 0,44 0,86 1
+MA086 B10 1 0,317 0,083 0,84 0,74 0,60 0,41 3
+MA087_1 B12 1 -1,401 0,056 1,00 1,00 0,63 1,25 2
+MA087_2 B12 1 -0,318 0,056 1,00 1,00 0,63 1,25 3
+MA088 B09 1 1,773 0,100 1,00 0,90 0,44 0,20 4
+MA089 B01 5 - - - - - - -
+MA090 B08 4 - - - - - - -
+MA091 B04 6 - - - - - - -
+MA092 B01 6 -0,491 0,010 1,00 0,99 0,47 0,60 3
+MA093 B08 5 -1,253 0,009 0,87 0,81 0,57 0,63 2
+MA094 B15 5 -0,660 0,012 0,86 0,78 0,59 0,58 3
+MA095 B16 3 -0,241 0,011 0,90 0,89 0,56 0,51 3
+MA096 B08 1 -2,982 0,012 0,99 1,07 0,37 0,86 1
+MA097 B14 1 -1,949 0,013 0,96 0,89 0,47 0,77 2
+MA098 B18 5 -0,702 0,012 0,94 0,90 0,54 0,59 3
+MA099 B13 1 -2,208 0,014 1,03 1,11 0,38 0,81 1
+MA100 B07 6 -1,248 0,012 0,94 0,89 0,54 0,57 2
+MA101 B17 6 -1,262 0,012 0,80 0,73 0,60 0,67 2
+MA102 B07 3 -2,072 0,013 0,97 1,03 0,46 0,70 1
+Los ítems CT002 CT057 y CT068 de la prueba de Lectura, así como MA003, MA035,
+MA055, MA064, MA089, MA090 y MA091 de la prueba de Matemática no presentaron
+un buen ajuste al modelo Rasch. Por ello, dichos ítems no fueron incluidos en la
+estimación de las medidas de habilidad de los estudiantes evaluados en 4.° grado
+de primaria.
+Tabla 4.5 Dificultad y ajuste de los ítems al modelo Rasch, Lectura – 2.° grado de
+secundaria
+Ítem Bloque Posición Medida Error Infit Outfit PTME p Nivel
+CT001 B13 1 2,498 0,012 0,90 0,88 0,48 0,28 4
+CT002 B13 2 1,758 0,011 0,99 1,01 0,42 0,44 3
+CT003 B13 3 1,325 0,011 1,06 1,08 0,36 0,55 3
+CT004_1 B13 4 0,351 0,008 1,13 1,14 0,46 1,21 2
+CT004_2 B13 4 1,815 0,008 1,13 1,14 0,46 1,21 4
+CT005_1 B13 5 0,573 0,008 1,15 1,18 0,44 1,06 2
+102

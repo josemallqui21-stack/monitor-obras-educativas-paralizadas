@@ -1,0 +1,36 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+DESCRIPCIÓN DE LAS TABLAS DE LA CÉDULA
+Los valores de las variables de la cédula censal número 11 Local Educativo: Ficha Unificada de
+Infraestructura Educativa (FUIE) esta almacenada en diferentes tablas para un mejor detalle. A
+continuación, se describen las tablas y su relación con las preguntas de las cédulas.
+Las preguntas lineales de toda la cédula están incorporadas en dos tablas:
+1. Local_lineal_01.dbf: Desde campo “PERIODO” hasta el campo “P120_13_1M”
+(pregunta 120 ítem 13. Huaycos, opción ¿Es mitigable?)
+2. Local_lineal_02.dbf: Desde campo “P120_14” (Pregunta 120 ítem 14.
+Deslizamientos) hasta el campo “ANOTACIONES”
+Local_Niveles.dbf: Detalla información registrada en la pregunta 101. Servicios
+niveles/educativos que funcionan en el local educativo.
+Local_Carreras.dbf: Detalla información registrada en la pregunta 102. Listado de
+carreras o programas de estudio ofrecidos en este local educativo por el instituto o escuela
+de educación superior.
+Local_Topog.dbf: Detalla información registrada en la pregunta 107. Levantamiento
+Topográfico
+Local_Tramos.dbf: Detalla información registrada en la pregunta 114. ¿Con cuántos
+tramos cuenta el perímetro del terreno o área asignada al Local Educativo?
+Local_Trayectos.dbf: Detalla información registrada en las preguntas 117.1. Traslado
+desde la UGEL al Local Educativo y 117.3. Traslado desde la capital distrital al local
+educativo
+Local_Servicios_Basicos.dbf: Detalla información registrada en las preguntas 202.
+Procedencia del abastecimiento de agua, 206. Tipo de conexión de desagüe y 207.
+Procedencia de la energía eléctrica
+Local_Internet.dbf: Detalla información registrada en la pregunta 222.3 Líneas
+contratadas en el local educativo
+Local_Sec302.dbf: Detalla información registrada en la pregunta 302. Número de tramos
+del cerco perimétrico
+Local_Sec303.dbf: Detalla información registrada en la pregunta 303. Otros elementos
+en el local educativo
+Local_Sec400.dbf: Detalla información registrada en la pregunta 401. Número de
+edificaciones en el local educativo
+Local_Sec500.dbf: Detalla información registrada en la pregunta 501. Número de aulas
+o espacios acondicionados como aulas
+2

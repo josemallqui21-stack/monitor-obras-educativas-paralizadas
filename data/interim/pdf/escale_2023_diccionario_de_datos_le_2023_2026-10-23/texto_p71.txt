@@ -1,0 +1,44 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P701_SSHH.dbf [ Matriz 16 : Características de los SS.HH. en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+P701_9_1 C (2) 9. Techo Ver código en Tabla
+1. Material Predominante 03
+P701_9_2 C (2) 9. Techo Ver código en Tabla
+2. Estado de Conservación 02
+P701_10_1 C (2) 10. Piso Ver código en Tabla
+1. Material Predominante 04
+P701_10_2 C (2) 10. Piso Ver código en Tabla
+2. Estado de Conservación 02
+P701_11_1 N (5) 11. Sobre las letrinas en los SS.HH. 99999
+- Cantidad de letrinas
+1. Total
+P701_11_2 N (5) 11. Sobre las letrinas en los SS.HH. 99999
+- Cantidad de letrinas
+2. Operativas
+P701_11_3 N (5) 11. Sobre las letrinas en los SS.HH. 99999
+- Letrinas operativas según estado de conservación
+3. Buen estado
+P701_11_4 N (5) 11. Sobre las letrinas en los SS.HH. 99999
+- Letrinas operativas según estado de conservación
+4. Regular estado
+P701_11_5 N (5) 11. Sobre las letrinas en los SS.HH. 99999
+- Letrinas operativas según estado de conservación
+5. Mal estado
+P701_12_1 C(2) 12. Sobre los inodoros y/o wáter en los SS.HH. 01: Niños
+1. El diseño y finalidad de uso de los inodoros y/o wáter 02: Adultos
+de este ambiente es para:
+P701_12_2 N (5) 12. Sobre los inodoros y/o wáter en los SS.HH. 99999
+- Cantidad de inodoros y/o wáter
+2. Total
+P701_12_3 N (5) 12. Sobre los inodoros y/o wáter en los SS.HH. 99999
+- Cantidad de inodoros y/o wáter
+3. Operativas
+P701_12_4 N (5) 12. Sobre los inodoros y/o wáter en los SS.HH. 99999
+- Cantidad de inodoros y/o wáter operativos según estado
+de conservación
+4. Buen estado
+P701_12_5 N (5) 12. Sobre los inodoros y/o wáter en los SS.HH. 99999
+- Cantidad de inodoros y/o wáter operativos según estado
+de conservación
+5. Regular estado
+70

@@ -1,0 +1,51 @@
+Archivo: Loc_P71_OtEsp.dbf [ Matriz 12: Otros espacios educativos distintos al aula ]
+Variable Tipo Descripción Valor
+P71_21_71 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en los 99999
+otros ambientes
+7. Mueble de Kitchenette
+1. Cantidad en buen estado
+P71_21_72 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en los 99999
+otros ambientes
+7. Mueble de Kitchenette
+2. Cantidad en regular estado
+P71_21_73 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en los 99999
+otros ambientes
+7. Mueble de Kitchenette
+3. Cantidad en mal estado
+P71_21_81 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en los 99999
+otros ambientes
+8. Vitrinas y camillas para tópico
+1. Cantidad en buen estado
+P71_21_82 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en los 99999
+otros ambientes
+8. Vitrinas y camillas para tópico
+2. Cantidad en regular estado
+P71_21_83 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en los 99999
+otros ambientes
+8. Vitrinas y camillas para tópico
+3. Cantidad en mal estado
+P71_21_91 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en los 99999
+otros ambientes
+9. Casa Psicomotricidad
+1. Cantidad en buen estado
+P71_21_92 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en los 99999
+otros ambientes
+9. Casa Psicomotricidad
+2. Cantidad en regular estado
+P71_21_93 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en los 99999
+otros ambientes
+9. Casa Psicomotricidad
+3. Cantidad en mal estado
+P71_21_D1 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en los 99999
+otros ambientes
+10. Dispositivo para trepar o saltar
+1. Cantidad en buen estado
+P71_21_D2 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en los 99999
+otros ambientes
+10. Dispositivo para trepar o saltar
+2. Cantidad en regular estado
+P71_21_D3 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en los 99999
+otros ambientes
+10. Dispositivo para trepar o saltar
+3. Cantidad en mal estado
+49

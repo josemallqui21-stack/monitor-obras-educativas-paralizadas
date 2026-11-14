@@ -1,0 +1,43 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+OL_2_2 C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o "X"
+infraestructura de otro espacio, se encuentra(n) operando
+el (los) servicio(s) educativo(s) actualmente?
+2. Espacio diferente a un local educativo
+2.2. Parque/estadio/coliseo
+OL_2_2_OP C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o 1: Todos
+infraestructura de otro espacio, se encuentra(n) operando 2: Algunos
+el (los) servicio(s) educativo(s) actualmente?
+2. Espacio diferente a un local educativo
+2.2. Parque/estadio/coliseo
+SSEE que operan en este otro lugar
+OL_2_3 C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o "X"
+infraestructura de otro espacio, se encuentra(n) operando
+el (los) servicio(s) educativo(s) actualmente?
+2. Espacio diferente a un local educativo
+2.3. Infraestructura nueva sin código de local asignado
+OL_2_3_OP C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o 1: Todos
+infraestructura de otro espacio, se encuentra(n) operando 2: Algunos
+el (los) servicio(s) educativo(s) actualmente?
+2. Espacio diferente a un local educativo
+2.3. Infraestructura nueva sin código de local asignado
+SSEE que operan en este otro lugar
+OL_2_4 C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o "X"
+infraestructura de otro espacio, se encuentra(n) operando
+el (los) servicio(s) educativo(s) actualmente?
+2. Espacio diferente a un local educativo
+2.4. Otro
+OL_2_4_OP C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o 1: Todos
+infraestructura de otro espacio, se encuentra(n) operando 2: Algunos
+el (los) servicio(s) educativo(s) actualmente?
+2. Espacio diferente a un local educativo
+2.4. Otro
+SSEE que operan en este otro lugar
+OL_2_4_OT C (80) 12.2. Según su respuesta anterior, ¿en qué otro lugar o Texto
+infraestructura de otro espacio, se encuentra(n) operando
+el (los) servicio(s) educativo(s) actualmente?
+2. Espacio diferente a un local educativo
+2.4. Otro --- Especifique
+-- 8 --

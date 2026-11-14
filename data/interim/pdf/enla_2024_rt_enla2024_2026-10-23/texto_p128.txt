@@ -1,0 +1,47 @@
+Código de
+Grado Actor Nombre general Sub escala Omega
+constructo
+EST6PCCSS_ Pensamiento social del
+Negativo 0,261
+PENSOCNE estudiante
+EST6PCCSS_ Pensamiento social del
+Positivo 0,780
+PENSOCPO estudiante
+Promoción del
+EST6PCCSS_
+pensamiento social en Negativo 0,624
+PENSODON
+clases
+Promoción del
+EST6PCCSS_
+pensamiento social en Positivo 0,601
+PENSODOP
+clases
+EST6PGEN_ Dificultad percibida de
+0,560
+DIFTEXT los textos
+Estrategias de
+6.° grado EST6PGEN_
+Estudiante Estrategias de estudio estudio de baja 0,495
+de primaria ESTESTRE
+elaboración
+Estrategias de
+EST6PGEN_
+Estrategias de estudio estudio de alta 0,737
+ESTESTSI
+elaboración
+EST6PGEN_ Interés por los textos en
+0,735
+INTEXT la escuela
+EST6PGEN_ Motivación hacia la Motivación
+0,797
+MOTLAU lectura: tiempo libre autónoma
+EST6PGEN_ Motivación hacia la Motivación
+0,775
+MOTLCO lectura: tiempo libre controlada
+Diposición del docente
+EST6PGEN_
+para participación en Negativo 0,679
+OPARDOCN
+clase
+126

@@ -1,0 +1,56 @@
+Tabla 10. Obras públicas paralizadas según el evento registrado en el sistema Infobras, por nivel de gobierno
+y costo actualizado
+G. Nacional G. Regional G. Local Total
+Evento Costo Costo actualizado Costo actualizado Costo %
+N.° N.° N.° N.°
+actualizado S/ S/ S/ actualizado S/ Costo
+Proceso Normal5 269 32,769,405,686 310 17,451,953,556 1604 9,562,227,851 2183 59,783,587,093 89.0%
+Reconstrucción
+116 4,210,633,471 20 782,295,026 74 614,849,359 210 5,607,777,856 8.4%
+con Cambios6
+Reactivación
+1 452,914,515 7 946,521,821 15 348,329,014 23 1,747,765,349 2.6%
+Económica7
+Total 386 37,432,953,672 337 19,180,770,403 1693 10,525,406,224 2416 67,139,130,298 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/12/2025
+2.10. Obras públicas paralizadas por administración directa o por contrata
+El 98.5% (2 379) de las 2 416 obras públicas paralizadas a nivel nacional son ejecutadas
+bajo la modalidad de administración directa o por contrata, en los tres niveles de gobierno.
+El monto de inversión asciende a S/ 56 mil 235 millones, como se detalla a continuación:
+Tabla 11. Obras públicas paralizadas según modalidad de ejecución
+G. Nacional G. Regional G. Local Total
+Modalidad de
+Ejecución Costo Costo Costo Costo
+N.° N.° N.° N.° % %
+actualizado S/ actualizado S/ actualizado S/ actualizado S/
+Administración
+30 236,658,630 72 1,593,157,491 1069 2,461,946,209 1171 49.2% 4,291,762,331 7.6%
+directa
+Por Contrata 327 35,465,880,248 261 8,515,436,753 620 7,962,380,150 1208 50.8% 51,943,697,152 92.4%
+Total 357 35,702,538,879 333 10,108,594,244 1689 10,424,326,360 2379 100% 56,235,459,482 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/12/2025
+2.11. Obras públicas paralizadas enmarcadas bajo la Ley N.º 31589
+A través de la Ley N.º 31589 se establece el marco legal que garantiza la reactivación de las
+obras públicas paralizadas que forman parte de las inversiones de las entidades del Estado, y
+siempre que cumplan con determinados requisitos establecidos en el TUO de la Ley N° 31589,
+tales como:
+• Las obras públicas paralizadas contratadas bajo la aplicación de la Ley de
+Contrataciones del Estado, que cuenten con un avance físico igual o mayor al 40% y
+que, cumplen con alguno de los siguientes supuestos: (i) el contrato se encuentra
+vigente, pero sin reportar ejecución física por un período igual o mayor a 6 (seis) meses;
+o, (ii) provenga de un contrato resuelto o declarado nulo.
+• La obra pública paralizada iniciada bajo la modalidad de administración directa, que
+cuente con un avance físico igual o mayor al 50% y que no reporte ejecución física por
+un período mayor a 6 (seis) meses o más.
+• La paralización incluye situaciones de controversias, abandono, deficiencias del
+expediente técnico, causas no previsibles en el expediente técnico u otras situaciones
+imprevisibles posteriores al perfeccionamiento del contrato que impidan su continuidad,
+5 Obras no asociadas a ningún evento.
+6 Obras que fueron consideradas el Plan Integral de Reconstrucción con Cambios de la infraestructura física dañada y destruida por el Fenómeno
+de El Niño Costero.
+7 Obras que fueron consideradas en los Decretos de Reactivación Económica del año 2018, entre otros, el Decreto Supremo Nº 050-2018-EF.
+13

@@ -1,0 +1,42 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P802_Equip.dbf [ Matriz 18 : Equipamiento en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+P802_3_33 N (5) 3. Cantidad de equipos operativos 99999
+3. Según antigüedad en el local educativo
+3. De 2 a menos de 3 años
+P802_3_34 N (5) 3. Cantidad de equipos operativos 99999
+3. Según antigüedad en el local educativo
+4. De 3 a menos de 4 años
+P802_3_35 N (5) 3. Cantidad de equipos operativos 99999
+3. Según antigüedad en el local educativo
+5. De 4 a más años
+P802_4_1 N (5) 4. Cantidad de equipos operativos según uso 99999
+1. De uso estrictamente pedagógico
+P802_4_2 N (5) 4. Cantidad de equipos operativos según uso 99999
+2. De uso pedagógico y administrativo
+P802_4_3 N (5) 4. Cantidad de equipos operativos según uso 99999
+3. De uso estrictamente administrativo
+Archivo : Loc_Lineal_2.dbf
+Variable Formato Descripción de variable Valor de variable
+P803 C (1) 803. Equipos de Interconexión y Protección de Energía 1: Sí
+- ¿Cuenta con al menos un equipo de la siguiente lista? 2: No
+Archivo : Loc_P803_IntPro.dbf
+[ Matriz 19 : Equipos de interconexión y protección de energía en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de pregunta C803
+NUMERO C (2) Número de orden (01:06)
+P803_1 C (60) 1. Equipos de interconexión y protección Texto
+Nro. + ": " + Descripción (Texto)
+01: Switch para pared
+02: Modem
+03: Router
+04: Access Point
+05: UPS
+06: Estabilizadores
+P803_2 N (5) 2. Cantidad total 99999
+P803_3_1 N (5) 3. Cantidad de equipos de interconexión y protección 99999
+operativos
+1. Total de operativos
+78

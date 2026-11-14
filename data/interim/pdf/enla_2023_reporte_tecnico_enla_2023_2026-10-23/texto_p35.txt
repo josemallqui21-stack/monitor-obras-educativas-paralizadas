@@ -1,0 +1,42 @@
+Reporte técnico evaluaciones 2022 Capítulo 1
+contenidos (capacidades, conocimientos, indicadores, entre otros) de las tablas de
+especificaciones de la prueba. Dentro de su tipo (de zona A o de zona B), estas
+formas presentan una dificultad similar entre sí, pero diferenciada según el grupo de
+estudiantes al que están dirigidas.
+Tabla 1.11 Matriz de bloques de la prueba de Matemática de 2.° grado de primaria.
+Día 1
+Forma Bloque Ítems por forma
+B01
+B09
+1 23
+B14
+B02
+B02
+B10
+2 23
+B13
+B01
+B05
+B09
+3 23
+B13
+B06
+B06
+B10
+4 23
+B14
+B05
+Tabla 1.12 Matriz de bloques de la prueba de Matemática de 2.° grado de primaria.
+Día 2
+Forma Bloque Ítems por forma
+B03
+B11
+5 23
+B16
+B04
+B04
+B12
+6 23
+B15
+B03
+33

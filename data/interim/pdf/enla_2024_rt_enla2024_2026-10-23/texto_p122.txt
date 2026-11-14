@@ -1,0 +1,44 @@
+Donde son las cargas factoriales de cada indicador y la varianza residual de
+cada indicador. Para el cálculo de , se utilizó la función compRelSEM del paquete
+semTooλls del software estadístico R (Jorgensen et al., 2θ022). Los resultados de
+confiabilidad aparecen en la tabla 5ω.3.
+Tabla 5.3. Confiabilidad de las escalas según grado y actor
+Código de
+Grado Actor Nombre general Sub escala Omega
+constructo
+DIRP_ Colaboración entre
+0,842
+COLABDOC docentes
+Situaciones
+DIRPGEN_
+problemáticas en la Falta de recursos 0,976
+SITPROBR
+escuela
+Situaciones
+DIRPGEN_
+problemáticas en la Docentes 0,890
+SITPROBD
+escuela
+Autonomía para realizar
+DIRP_AUTIE 0,896
+mejoras en la escuela
+4.° y 6.°
+grado de Director
+primaria
+Satisfacción con el
+DIRP_
+apoyo recibido por la Apoyo a docentes 0,875
+SATUGELDOC
+UGEL
+Satisfacción con el
+DIRP_
+apoyo recibido por la Apoyo a directores 0,948
+SATUGELDIR
+UGEL
+D DIRP_ Liderazgo educativo de Fomento de la
+0,913
+LIDUGCONF la UGEL confianza
+DIRP_ Liderazgo educativo de Fomento de la
+0,882
+LIDUGCOL la UGEL colaboración
+120

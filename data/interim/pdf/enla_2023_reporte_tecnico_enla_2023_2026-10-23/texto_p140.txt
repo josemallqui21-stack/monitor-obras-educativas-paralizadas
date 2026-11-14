@@ -1,0 +1,39 @@
+Tabla 4.23 Indicadores del análisis de precisión y consistencia de la clasificación
+usando las medidas derivadas de la prueba de Lectura en castellano como
+segunda lengua para 4.° grado de primaria EIB
+Lectura
+Precisión Consistencia
+Nacional 0,77 0,67
+Hombre 0,77 0,67
+Mujer 0,77 0,67
+Polidocente Completo 0,77 0,68
+Unidocente / Multigrado 0,76 0,67
+Lenguas andinas 0,77 0,68
+Lenguas amazónicas 0,75 0,65
+4.7 Niveles de logro y preparación de resultados
+El diseño de las evaluaciones permite estimar, a partir de su desempeño en las
+pruebas, lo que los estudiantes saben y hacen respecto de lo que deberían saber
+y hacer. De acuerdo con ello, la interpretación de los resultados de la ENLA está
+referida a criterios o estándares de logro (Muñiz, 1998). Para hacerlo, es necesario
+establecer puntos de corte, lo que constituye un procedimiento estándar utilizado
+para delimitar numéricamente dos o más niveles de desempeño de una competencia
+(Cizek y Bunch, 2007). Estos niveles de desempeño, conceptualmente, corresponden
+a un juicio compartido por una comunidad de expertos (docentes, evaluadores,
+tomadores de decisiones), la cual determina qué es lo que un estudiante mínimamente
+competente debe poder hacer para ser considerado parte de un determinado nivel
+en pruebas referidas a criterios (Cizek, 1993; Shepard, 1980).
+Este procedimiento se realiza por única vez al inicio de un ciclo de evaluaciones, con
+la intención de sostener los mismos puntos de corte en las ediciones posteriores y
+así asegurar que los resultados sean comparables en el tiempo. Este año, ha sido
+utilizado para determinar los niveles de la prueba de Lectura en castellano como
+segunda lengua en 4.° grado de primaria EIB.
+Para establecer puntos de corte, se utiliza el método Bookmark (Cizek y Bunch, 2007;
+Karantonis y Sireci, 2006; Lewis et al., 1996), el cual es consistente con el modelo
+de medición utilizado por la UMC en las distintas evaluaciones que conduce. Como
+consecuencia, el juicio sobre los cortes considera también los ítems de respuesta
+construida y con créditos parciales, dado que estos se incluyen en la misma métrica
+que los de opción múltiple. El método Bookmark, en términos generales, implica
+colocar marcas (tantas como cortes se hayan preestablecido) en un cuadernillo de
+ítems ordenado por dificultad (la cual es estimada mediante procedimientos Rasch
+o de teoría de respuesta al ítem). La pregunta típica que guía el establecimiento de
+138

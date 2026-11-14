@@ -1,0 +1,44 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P401_Edific.dbf [ Matriz 12 : Edificaciones en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+P401_13_3 C (1) 13. Formas de Acceso 1: Sí
+3. ¿Tiene escalera? 2: No
+P401_13_41 C (1) 13. Formas de Acceso 1: Sí
+4. Ascensor 2: No
+1. ¿Tiene?
+P401_13_42 C (1) 13. Formas de Acceso 1: Sí
+4. Ascensor 2: No
+2. ¿Está operativo?
+P401_13_43 C (4) 13. Formas de Acceso 9999
+4. Ascensor
+3. Último año de mantenimiento
+P401_13_5 C (1) 13. Formas de Acceso 1: Sí
+5. ¿Tiene otras formas de acceso? 2: No
+P401_14_1 C (1) 14. En el caso el acceso sea mediante rampa(s), indique si 1: Sí
+cuenta con las siguientes características 2: No
+1. ¿Cuenta con ancho mínimo de 1m?
+P401_14_2 N (9,2) 14. En el caso el acceso sea mediante rampa(s), indique si 999999.99
+cuenta con las siguientes características
+2. Longitud (m)
+P401_14_3 N (9,2) 14. En el caso el acceso sea mediante rampa(s), indique si 999999.99
+cuenta con las siguientes características
+3. Desnivel (m)
+P401_14_4 C (1) 14. En el caso el acceso sea mediante rampa(s), indique si 1: Sí
+cuenta con las siguientes características 2: No
+4. ¿Los descansos tienen una longitud mínima de largo de
+1.50m?
+P401_14_5 C (1) 14. En el caso el acceso sea mediante rampa(s), indique si 1: Sí
+cuenta con las siguientes características 2: No
+5. ¿El piso de la rampa es estable, compacto, uniforme y
+antideslizante?
+P401_14_6 C (1) 14. En el caso el acceso sea mediante rampa(s), indique si 1: Sí
+cuenta con las siguientes características 2: No
+6. ¿Tiene pasamanos o baranda a ambos lados?
+P401_14_7 C (1) 14. En el caso el acceso sea mediante rampa(s), indique si 1: Sí
+cuenta con las siguientes características 2: No
+7. ¿Los pasamanos tienen una altura de 0.85m o 0.90m?
+P401_14_8 C (1) 14. En el caso el acceso sea mediante rampa(s), indique si 1: Sí
+cuenta con las siguientes características 2: No
+8. ¿Tiene un pasamano adicional entre los 0.45m y los
+0.60m de altura?
+43

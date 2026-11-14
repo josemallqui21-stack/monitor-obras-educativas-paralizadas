@@ -1,0 +1,44 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P601_OtEsp.dbf [ Matriz 14 : Otros espacios educativos distintos al aula ]
+Variable Formato Descripción de variable Valor de variable
+P601_18_12 N (5) 18. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+1. Escritorio
+2. Cantidad en buen estado
+P601_18_13 N (5) 18. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+1. Escritorio
+3. Cantidad en regular estado
+P601_18_14 N (5) 18. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+1. Escritorio
+4. Cantidad en mal estado
+P601_18_21 N (5) 18. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+2. Silla
+1. Cantidad Total
+P601_18_22 N (5) 18. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+2. Silla
+2. Cantidad en buen estado
+P601_18_23 N (5) 18. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+2. Silla
+3. Cantidad en regular estado
+P601_18_24 N (5) 18. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+2. Silla
+4. Cantidad en mal estado
+P601_18_31 N (5) 18. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+3. Armario
+1. Cantidad Total
+P601_18_32 N (5) 18. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+3. Armario
+2. Cantidad en buen estado
+P601_18_33 N (5) 18. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+3. Armario
+3. Cantidad en regular estado
+60

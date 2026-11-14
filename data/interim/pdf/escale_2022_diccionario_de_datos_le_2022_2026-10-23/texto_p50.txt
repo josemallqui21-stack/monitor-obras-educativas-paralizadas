@@ -1,0 +1,60 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+1. Turno mañana
+4. Número de estudiantes
+P501_17_21 C (2) 17. Cantidad de estudiantes por aula y turno Ver código en
+2. Turno tarde tabla 08
+1. Nivel
+P501_17_22 C (50) 17. Cantidad de estudiantes por aula y turno (1:9)(1:9)(1:9) /
+2. Turno tarde (A:Z)(A:Z)(A:Z)
+2. Edad, grado, ciclo
+P501_17_23 C (1) 17. Cantidad de estudiantes por aula y turno (A:Z)
+2. Turno tarde
+3. Sección
+P501_17_24 N (5) 17. Cantidad de estudiantes por aula y turno (00001:99999)
+2. Turno tarde
+4. Número de estudiantes
+P501_17_31 C (2) 17. Cantidad de estudiantes por aula y turno Ver código en
+3. Turno noche tabla 08
+1. Nivel
+P501_17_32 C (50) 17. Cantidad de estudiantes por aula y turno (1:9)(1:9)(1:9) /
+3. Turno noche (A:Z)(A:Z)(A:Z)
+2. Edad, grado, ciclo
+P501_17_33 C (1) 17. Cantidad de estudiantes por aula y turno (A:Z)
+3. Turno noche
+3. Sección
+P501_17_34 N (5) 17. Cantidad de estudiantes por aula y turno (00001:99999)
+3. Turno noche
+4. Número de estudiantes
+P501_18_1 N (6) 18. Mesas unipersonales (000001:999999)
+1. Cantidad Total
+P501_18_2 N (6) 18. Mesas unipersonales (000001:999999)
+Cantidad por estado de conservación
+2. En buen estado
+P501_18_3 N (5) 18. Mesas unipersonales (00001:99999)
+Cantidad por estado de conservación
+3. Requieren mantenimiento
+P501_18_4 N (5) 18. Mesas unipersonales (00001:99999)
+Cantidad por estado de conservación
+4. Requieren sustituirse
+P501_18_5 N (6) 18. Mesas unipersonales (000001:999999)
+5. Cantidad de estudiantes que no tienen mesas
+unipersonales
+P501_19_1 N (6) 19. Mesas múltiples (000001:999999)
+1. Cantidad Total
+P501_19_2 N (6) 19. Mesas múltiples (000001:999999)
+Cantidad por estado de conservación
+2. En buen estado
+P501_19_3 N (5) 19. Mesas múltiples (00001:99999)
+Cantidad por estado de conservación
+3. Requieren mantenimiento
+P501_19_4 N (5) 19. Mesas múltiples (00001:99999)
+Cantidad por estado de conservación
+4. Requieren sustituirse
+P501_19_5 N (6) 19. Mesas múltiples (000001:999999)
+5. Cantidad de estudiantes que no tienen mesas
+múltiples
+P501_20_1 N (6) 20. Carpetas unipersonales (000001:999999)
+1. Cantidad Total
+P501_21_1 N (6) 21. Carpetas bipersonales (000001:999999)
+1. cantidad Total
+49

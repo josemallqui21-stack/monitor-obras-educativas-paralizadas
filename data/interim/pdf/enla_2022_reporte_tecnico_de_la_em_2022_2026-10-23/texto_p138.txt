@@ -1,0 +1,31 @@
+Tabla 4.15 Indicadores del análisis de precisión y consistencia de la clasificación
+usando las medidas derivadas de las pruebas de 2.° grado de primaria
+Lectura Matemática
+Precisión Consistencia Precisión Consistencia
+Nacional 0,89 0,84 0,89 0,85
+Hombre 0,88 0,84 0,89 0,85
+Mujer 0,89 0,84 0,89 0,85
+Urbano 0,89 0,85 0,89 0,84
+Rural 0,87 0,81 0,91 0,87
+Estatal 0,88 0,83 0,90 0,86
+No estatal 0,91 0,87 0,87 0,82
+Polidocente Completo 0,89 0,84 0,89 0,84
+Unidocente / Multigrado 0,86 0,81 0,92 0,89
+Alta habilidad 0,89 0,85 0,88 0,84
+Baja habilidad 0,87 0,81 0,91 0,88
+Tabla 4.16 Indicadores del análisis de precisión y consistencia de la clasificación
+usando las medidas derivadas de las pruebas de 4.° grado de primaria
+Lectura Matemática
+Precisión Consistencia Precisión Consistencia
+Nacional 0,79 0,70 0,81 0,74
+Hombre 0,79 0,70 0,82 0,74
+Mujer 0,79 0,71 0,81 0,73
+Urbano 0,79 0,71 0,81 0,73
+Rural 0,78 0,69 0,83 0,76
+Estatal 0,78 0,70 0,81 0,74
+No estatal 0,81 0,74 0,81 0,73
+Polidocente completo 0,79 0,71 0,81 0,73
+Unidocente / multigrado 0,78 0,69 0,83 0,76
+Alta habilidad 0,79 0,71 0,81 0,73
+Baja habilidad 0,78 0,69 0,82 0,75
+136

@@ -1,0 +1,30 @@
+6.4 Presentación de resultados
+Las medidas de habilidad de las personas fueron estimadas con la metodología de
+valores plausibles4. Se utilizaron cinco valores plausibles por cada persona evaluada,
+ya que se ha demostrado que esta metodología permite obtener estimaciones más
+precisas de la variabilidad de la habilidad de los estudiantes a nivel poblacional,
+en comparación con otras estimaciones puntuales como el Maximum Likelihood
+Estimation o el Weighted Maximum Likelihood (Wu, 2005). Para la estimación de
+tales valores plausibles se empleó una regresión latente, el cual es un modelo que
+predice dichos valores a partir de covariables observables, con el fin de aproximarse
+a la habilidad verdadera de los estudiantes. En este caso, se consideraron como
+predictores el sexo, el tipo de gestión de la institución educativa y el área geográfica.
+Para la presentación de los resultados descriptivos se optó por expresarlos
+en porcentajes con el objetivo de facilitar su interpretación y su comunicación
+a la comunidad educativa. De esta manera, se aplicó un umbral de inclusión de
+casos basado en una presencia mínima de valores perdidos en las respuestas del
+cuestionario; es decir, solo se incluyeron en el análisis descriptivo los cuestionarios
+de los estudiantes que respondieron al menos una cantidad mínima de ítems.
+Específicamente, se excluyeron del análisis aquellos estudiantes que no respondieron
+al menos el 75 % de los ítems; es decir, se consideró un mínimo de 17 de los 22
+ítems totales. Posteriormente, se recodificaron las respuestas de la escala tipo Likert
+de cinco puntos (Totalmente en desacuerdo, En desacuerdo, Ni de acuerdo ni en
+desacuerdo, De acuerdo y Totalmente de acuerdo), agrupando las dos categorías
+más altas (De acuerdo y Totalmente de acuerdo) en una única categoría denominada
+“respuesta positiva”. A partir de esta nueva codificación, se calculó, para cada ítem,
+el porcentaje de estudiantes que emitieron una respuesta positiva. Finalmente, se
+estimó la proporción promedio de respuestas positivas en el total de la escala.
+4 Los valores plausibles son estimaciones posibles del puntaje real de una persona en una prueba, calculadas
+a partir de su desempeño y de un modelo estadístico. En vez de dar un solo puntaje, se generan varios
+valores probables para representar mejor la incertidumbre de la medición.
+138

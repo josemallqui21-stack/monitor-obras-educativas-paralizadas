@@ -1,0 +1,36 @@
+Diversas síntesis teóricas que tratan sobre la equiparación de puntuaciones (Kolen
+y Brennan, 2014; Navas, 1996), citan los trabajos de Angoff y Lord (ambos de la
+primera mitad de la década de 1980) como los pioneros. Estos autores entienden
+la equiparación como el desarrollo de un sistema de conversión de las unidades de
+una prueba a las unidades de otra, de manera que sus resultados sean comparables
+o equivalentes.
+La finalidad es tener una métrica común para dos o más medidas de un mismo
+rasgo, de modo que se puedan comparar los resultados de personas a las que se
+les aplican diferentes instrumentos que miden el mismo rasgo. Por ejemplo, si se
+deseara equiparar dos pruebas distintas X e Y, el objetivo sería encontrar un sistema
+o función para convertir la métrica de X en Y.
+Considerando la literatura sobre el tema (Ho y Osborn, 2005; Kolen y Brennan, 2014;
+Livingston, 2004; Navas, 1996; Zhu, 1998), se puede señalar que existen tres tipos
+de diseños de equiparación: de un solo grupo, de grupos equivalentes y de grupos
+no equivalentes con ítems comunes. Este último diseño fue utilizado para colocar las
+medidas de las pruebas de las distintas evaluaciones de 2.° grado de primaria en
+la misma métrica que las pruebas aplicadas en el 2007 por la UMC. En este diseño,
+se trabaja con dos muestras de personas que no necesariamente han sido extraídas
+de la misma población; en cada muestra, se aplica una única forma de la prueba. Lo
+esencial de este método es que, en cada grupo, se administra un conjunto de ítems
+o una prueba común que permite establecer la equivalencia entre las pruebas que
+se quieren equiparar.
+Una vez obtenidos los datos, se utiliza la transformación lineal: se consideran
+equivalentes las puntuaciones directas que corresponden a la misma puntuación
+típica. En el contexto de la teoría de respuesta al ítem (TRI), se denomina a este
+método mean/sigma (Kolen y Brennan, 2014), e implica el cálculo de dos constantes
+de equiparación a y b, de tal manera que surge la siguiente fórmula:
+medida = b + a x medida
+equiparada actual
+Donde:
+Smedida
+a = anterior
+Smedida
+actual
+b = Xmedidaanterior - a x Xmedidaanterior
+116

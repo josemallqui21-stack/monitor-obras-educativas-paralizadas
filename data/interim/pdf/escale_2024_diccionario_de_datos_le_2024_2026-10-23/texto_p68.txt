@@ -1,0 +1,45 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P601_OtEsp.dbf [ Matriz 13: Otros espacios educativos distintos al aula ]
+Variable Tipo Descripción Valor
+P601_21_82 N (5) 21. Tenencia y estado de conservación del mobiliario en uso 99999
+en los otros ambientes
+8. Vitrinas y camillas para tópico
+2. Cantidad en buen estado
+P601_21_83 N (5) 21. Tenencia y estado de conservación del mobiliario en uso 99999
+en los otros ambientes
+8. Vitrinas y camillas para tópico
+3. Cantidad en regular estado
+P601_21_84 N (5) 21. Tenencia y estado de conservación del mobiliario en uso 99999
+en los otros ambientes
+8. Vitrinas y camillas para tópico
+4. Cantidad en mal estado
+P601_21_91 N (5) 21. Tenencia y estado de conservación del mobiliario en uso 99999
+en los otros ambientes
+9. Casa Psicomotricidad
+1. Cantidad Total
+P601_21_92 N (5) 21. Tenencia y estado de conservación del mobiliario en uso 99999
+en los otros ambientes
+9. Casa Psicomotricidad
+2. Cantidad en buen estado
+P601_21_93 N (5) 21. Tenencia y estado de conservación del mobiliario en uso 99999
+en los otros ambientes
+9. Casa Psicomotricidad
+3. Cantidad en regular estado
+P601_21_94 N (5) 21. Tenencia y estado de conservación del mobiliario en uso 99999
+en los otros ambientes
+9. Casa Psicomotricidad
+4. Cantidad en mal estado
+P601_21_D1 N (5) 21. Tenencia y estado de conservación del mobiliario en uso 99999
+en los otros ambientes
+10. Dispositivo para trepar o saltar
+1. Cantidad Total
+P601_21_D2 N (5) 21. Tenencia y estado de conservación del mobiliario en uso 99999
+en los otros ambientes
+10. Dispositivo para trepar o saltar
+2. Cantidad en buen estado
+P601_21_D3 N (5) 21. Tenencia y estado de conservación del mobiliario en uso 99999
+en los otros ambientes
+10. Dispositivo para trepar o saltar
+3. Cantidad en regular estado
+-- 67 --

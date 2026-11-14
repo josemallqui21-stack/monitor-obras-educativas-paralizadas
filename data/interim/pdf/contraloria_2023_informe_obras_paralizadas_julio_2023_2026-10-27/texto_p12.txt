@@ -1,0 +1,57 @@
+Tabla 6. Obras paralizadas por modalidad de ejecución
+Gobierno Nacional Gobierno Regional Gobierno Local Total
+Costo Costo
+Modalidad de Costo Costo
+N° N° actualizado N° actualizado N° % %
+ejecución actualizado S/. actualizado S/
+S/ S/
+Adm. Directa 31 194,750,827 68 907,228,790 1043 1,873,166,894 1142 55.6% 2,975,146,512 11.7%
+Por Contrata 244 9,286,536,294 167 5,022,073,576 456 4,585,608,325 867 42.3% 18,894,218,196 74.3%
+Núcleos
+38 46,775,918 1 1,077,532 39 1.9% 47,853,449 0.2%
+Ejecutores
+Obras por
+1 4,580,637 1 144,602,568 3 28,415,639 5 0.2% 177,598,843 0.7%
+impuesto
+APP /
+1 3,148,962,778 1 0.0% 3,148,962,778 12.4%
+Concesiones
+Convenio con
+Organismos 1 177,954,129 1 0.0% 177,954,129 0.7%
+Internacionales
+Total 315 9,710,597,805 237 9,222,867,713 1503 6,488,268,390 2055 100% 25,421,733,908 100%
+Fuente: Sistema Nacional de Obras Públicas -Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/07/2023
+En el cuadro precedente se observa que el mayor número de obras paralizadas corresponde
+a la modalidad de ejecución de obra por administración directa, las cuales suman 1 142. De
+ellas, 1 043 corresponden a entidades de Gobierno Local, 68 obras a entidades del Gobierno
+Regional y 31 obras a entidades del Gobierno Nacional.
+2.6. Obras paralizadas por rangos de inversión
+A continuación, se muestran las obras paralizadas clasificadas por rangos de monto del costo
+actualizado, donde destaca un alto número de inversiones menores a un millón de soles (840
+obras que representan el 40.9% del total).
+Tabla 7. Obras paralizadas por rango de costo actualizado
+Cantidad de Saldo de
+Rango de costo Costo
+obras % % inversión por %
+actualizado S/ actualizado S/
+paralizadas ejecutar S/
+Hasta 1 millón 840 40.9% 381,587,861 1.4% 199,893,444 1.6%
+1 - 3 millones 411 20.0% 730,823,082 2.9% 346,888,207 2.7%
+3 - 10 millones 501 24.4% 2,913,077,523 11.5% 1,181,183,766 9.3%
+10 a 100 millones 260 12.7% 6,151,669,394 24.2% 2,384,240,602 18.8%
+100 a 200 millones 22 1.0% 2,950,633,381 11.6% 1,601,808,010 12.6%
+200 a 1000 millones 18 0.9% 6,733,755,905 26.5% 3,308,267,199 26.1%
+De más de 1000 millones 3 0.1% 5,560,186,762 21.9% 3,658,847,746 28.9%
+Total 2055 100.0% 25,421,733,908 100% 12,681,128,974 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/07/2023
+2.7. Avance físico de las obras paralizadas
+De otro lado, se presenta una clasificación de las obras paralizadas en función al porcentaje
+de avance físico según la información proporcionada por el portal Infobras, donde se aprecia
+que la mayor cantidad de obras (246) registra un avance físico del 80% a 90%, representando
+un monto de inversión de S/ 1 699 millones, seguido de 238 registros que se encuentran con
+un avance físico del 60% a 70% con un monto inversión de S/ 1 974 millones, como se detalla
+a continuación:

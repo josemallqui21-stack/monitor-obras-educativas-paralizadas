@@ -1,0 +1,47 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+NOMBVIA C (80) 8. Dirección principal del Local Educativo Texto
+Nombre de Vía
+NUMERO C (20) Dirección principal del Local Educativo (0:9),(A:Z)
+Número de puerta
+MANZANA C (10) 8. Dirección principal del Local Educativo (0:9),(A:Z)
+Manzana
+LOTE C (15) 8. Dirección principal del Local Educativo (0:9)
+Lote
+SECTOR C (30) 8. Dirección principal del Local Educativo (0:9)
+Sector
+ZONA C (15) 8. Dirección principal del Local Educativo (0:9),(A:Z)
+Zona
+ETAPA C (15) 8. Dirección principal del Local Educativo (0:9),(A:Z)
+Etapa
+OTROS C (30) 8. Dirección principal del Local Educativo Texto
+Otro
+REFERENCIA C (200) 9. Referencia de la dirección del Local Educativo Texto
+LATITUD N (15,8) 10. Puntos de Georreferenciación 999999.99999999
+Latitud
+LONGITUD N (15,8) 10. Puntos de Georreferenciación 999999.99999999
+Longitud
+ALTITUD N (6) 10. Puntos de Georreferenciación 999999
+Altura
+CLIMA C (1) 11. Clima (1:9)
+1: Desértico costero / marino
+2: Desértico
+3: Interandino bajo
+4: Mesoandino
+5: Altoandino
+6: Nevado
+7: Ceja de montaña
+8: Subtropical húmedo
+9: Tropical húmedo
+OTRO_LUG C (1) 12.1. Los servicios educativos autorizados a funcionar en este local 1: Sí, todos
+educativo, según “ESCALE” (código de local), ¿se encuentran 2: Sí, algunos
+operando en algún otro lugar o en la infraestructura de otro 3: No, ninguno
+espacio, al momento de la aplicación del censo educativo?
+OL_1A C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o "X"
+infraestructura de otro espacio, se encuentra(n) operando el (los)
+servicio(s) educativo(s) actualmente?
+1. Otro local educativo
+A. Indique el código de local 01:
+-- 5 --

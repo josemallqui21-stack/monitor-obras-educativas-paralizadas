@@ -1,0 +1,46 @@
+Archivo: Loc_P81_SSHH.dbf [ Matriz 14: Características de los SS.HH. En el Local Educativo ]
+Variable Tipo Descripción Valor
+P81_15 C (1) 15. El ambiente del SSHH o vestidor, ¿se encuentra habilitado con 1: Sí
+duchas operativas? 2: No
+Tabla 01: Material predominante de las paredes Tabla 02: Estado de conservación
+Código Descripción
+Código Descripción
+BU Buen estado
+01 Ladrillo o concreto
+RE Regular estado
+02 Adobe o tapial
+MA Mal estado
+03 Quincha
+NA No Aplica
+04 Piedra con barro, cal o cemento
+05 Madera
+06 Triplay
+07 Eternit o fibra de concreto
+08 Estera, cartón o plástico
+09 Otro
+10 No tiene, pero lo Requiere
+11 No tiene y No Requiere
+Tabla 03: Material predominante de los techos Tabla 04: Material predominante de los
+Código Descripción pisos
+01 Concreto armado Código Descripción
+02 Madera
+01 Parquet o madera pulida
+03 Teja
+02 Vinílico, pisopak o similar
+04 Fibra de cemento
+03 Loseta, cerámico o similar
+05 Calamina
+04 Cemento
+06 Calaminón
+05 Madera entablada
+07 Eternit
+06 Tierra
+08 Caña con barro
+07 Otro
+09 Lata o latón
+08 No tiene, pero lo Requiere
+10 Otro
+09 No tiene y No Requiere
+11 No tiene, pero lo Requiere
+12 No tiene y No Requiere
+63

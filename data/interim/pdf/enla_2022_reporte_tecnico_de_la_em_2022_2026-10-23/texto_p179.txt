@@ -1,0 +1,45 @@
+Reporte técnico evaluaciones 2022 Anexo A
+Tabla A.9 Lectura. Distribución de ítems por tipos de textos presentes en la prueba
+Cantidad de Cantidad de Porcentaje
+Correlativo
+Tipo de texto Género ítems por ítems por de ítems por
+del texto
+cada texto tipo de texto tipo de texto
+Cuento 1 6
+Historieta 2 6
+Narrativo Noticia 3 6 24 25,0 %
+4 3
+Anécdota
+5 3
+Artículo 6 6
+enciclopédico 7 6
+Artículo
+Descriptivo 8 6 30 31,0 %
+periodístico
+9 6
+Infografía
+10 6
+Manual de 11 6
+Instructivo 12 12,5 %
+procedimientos 12 6
+Infografía 13 6
+Afiche 14 6
+Argumentativo 18 19,0 %
+Artículo de
+15 6
+opinión
+Artículo de 16 6
+Expositivo 12 12,5 %
+divulgación 17 6
+Total 96 100 %
+Tabla A.10 Matemática. Distribución de ítems por competencias evaluadas en la
+prueba
+Cantidad
+Competencias Porcentaje
+de ítems
+Resuelve problemas de cantidad 38 37,3 %
+Resuelve problemas de regularidad, equivalencia y cambio 27 26,5 %
+Resuelve problemas de forma, movimiento y localización 19 18,6 %
+Resuelve problemas de gestión de datos e incertidumbre 18 17,6 %
+Total 102 100 %
+177

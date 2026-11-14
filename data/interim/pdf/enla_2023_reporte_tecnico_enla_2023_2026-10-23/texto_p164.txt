@@ -1,0 +1,71 @@
+Donde λ son las cargas factoriales de cada indicador y θ la varianza residual de
+cada indicador. Para el cálculo de ω, se utilizó la función compRelSEM del paquete
+semTools del software estadístico R (Jorgensen et al., 2022). Los resultados de
+confiabilidad aparecen en la tabla 5.3.
+Tabla 5.3. Confiabilidad de las escalas según grado y actor
+Código de
+Grado Actor Nombre general Sub escala omega
+constructo
+DIRPGEN_
+Docentes 0,81
+SITPROBD
+Situaciones
+DIRPGEN_ Relacionadas al
+problemáticas en la 0,903
+SITPROBE estudiante
+escuela
+DIRPGEN_
+Falta de recursos 0,821
+SITPROBR
+Director
+DIRPGEN_
+Afectiva 0,83
+DEDUINAF
+DIRPGEN_ Actitudes hacia la
+Conductual 0,894
+DEDUINCD educación inclusiva
+DIRPGEN_
+Cognitiva 0,82
+DEDUINCG
+DOC2PLEC_
+Decodificación 0,623
+ESTLECDE
+Estrategias para
+DOC2PLEC_
+la enseñanza de la Repetición 0,891
+ESTLECRE
+comprensión lectora
+DOC2PLEC_
+2.° grado Significado 0,759
+ESTLECSI
+de primaria
+DOC2PMAT_
+Constructivista 0,81
+ESTMATCO Estrategias para
+le enseñanza de la
+DOC2PMAT_ matemática
+Tradicional 0,805
+ESTMATTR
+Confianza de los
+DOC2PMAT_
+Docente docentes para 0,899
+CONF
+enseñar matemática
+Dificultades para
+el desarrollo de
+DOC2PMAT_
+la capacidad de 0,859
+DIFMAT
+Resuelve problemas
+de cantidad
+DOC2PGEN_ Relacionadas al
+Percepción de 0,899
+PROBIEE estudiante
+situaciones
+DOC2PGEN_ problemáticas en la
+Falta de recursos 0,797
+PROBIER escuela
+DOC2PMAT_ Autoeficacia hacia la
+0,79
+AUTMAT matemática
+162

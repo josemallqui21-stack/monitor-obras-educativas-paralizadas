@@ -1,0 +1,53 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+(*) Matriz Local_Sec605.dbf (Pregunta 605)
+Nombre de archivo: Local_Sec605.dbf
+605. RESPECTO A LOS ESPACIOS DEPORTIVOS ABIERTOS Y ESPACIOS EXTERIORES/DE
+RELACIÓN CON LA NATURALEZA
+TABLA: Local_Sec605.dbf
+Campo Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo (000001:999999)
+NROCED C (3) Número de cédula 11
+CUADRO C (4) 605. Respecto a los espacios deportivos abiertos y C605
+espacios exteriores/de relación con la naturaleza
+NUMERO C (3) N° (1:99)
+P605_1 C (3) 1. Detalle del espacio Ver tabla 01 en la
+Código - Detalle parte inferior
+P605_1desc C (90) 1. Detalle del espacio - Descripción (A:Z)
+P605_2_1 C (50) 5. Niveles educativos de la Educación Ver códigos de
+Básica/ETP y/o Carreras/Programas de Tabla 01 de la
+la Educación Superior que usan el página 51
+ambiente
+6.
+Niveles de la Educación Básica y ETP
+P605_2_2 C (60) 4. Niveles educativos de la Educación Básica/ETP Ver las carreras
+y/o Carreras/Programas de la Educación Superior registradas según
+que usan el ambiente lo declarado en
+pregunta N° 102
+Carreras y/o programas de Educación Superior de esta cédula
+P605_3 C (2) 3. El ambiente, ¿Se encuentra en uso? SI / NO
+P605_4 C (2) 4. ¿Tiene forma de cuadrilátero? SI / NO
+P605_5_1 N (8,2) 5. Dimensiones del ambiente (1:999999)
+1. Largo
+P605_5_2 N (8,2) 5. Dimensiones del ambiente (1:999999)
+2. Ancho
+P605_6 C (2) 6. Estado de conservación (1:3)
+1: Bueno
+2: regular
+3: Malo
+P605_7_1 C (2) 7. Cubierta contra la radiación solar SI / NO
+1. ¿Cuenta con cubierta contra la radiación
+solar?
+P605_7_2 C (2) 7. Cubierta contra la radiación solar (01:03)
+Tipo de cubierta
+2. Material
+01: Cubierta liviana con mallas raschel
+02: Techo de calamina
+03: Otro
+P605_7_3 C (2) 7. Cubierta contra la radiación solar 01: Total
+Tipo de cubierta 02: Parcial
+3. Alcance
+P605_8 C (2) 7. ¿Cuenta con medidas reglamentarias? (01:03)
+01: Sí
+02: No
+03: No aplica
+63

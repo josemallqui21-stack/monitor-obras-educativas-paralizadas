@@ -1,0 +1,38 @@
+Reporte técnico evaluaciones 2022
+Tabla 2.3 Cobertura de la EM 2022 a nivel de IE y estudiantes, 6.° grado de primaria
+6.° grado de Programados Evaluados Cobertura (%)
+primaria IE Estudiantes IE Estudiantes IE Estudiantes
+Nacional 268 10 179 267 9 694 99,6 95,2
+Estatal 209 7 780 209 7 433 100,0 95,5
+No estatal 59 2 399 58 2 261 98,3 94,2
+Urbano 140 8 206 139 7 836 99,3 95,5
+Rural 128 1 973 128 1 858 100,0 94,2
+Polidocente
+171 9 227 170 8 808 99,4 95,5
+completo
+Unidocente /
+97 952 97 886 100,0 93,1
+multigrado
+Tabla 2.4 Cobertura de la EM 2022 a nivel de IE y estudiantes, 2.° de grado
+secundaria
+2.° de grado Programados Evaluados Cobertura (%)
+secundaria IE Estudiantes IE Estudiantes IE Estudiantes
+Nacional 2 733 132 381 2 733 123 948 100,0 93,6
+Amazonas 162 5 859 162 5 261 100,0 89,8
+Áncash 117 5 673 117 5 380 100,0 94,8
+Apurímac 98 3 974 98 3 866 100,0 97,3
+Arequipa 116 6 085 116 5 962 100,0 98,0
+Ayacucho 129 4 510 129 4 320 100,0 95,8
+Cajamarca 173 6 816 173 6 452 100,0 94,7
+Callao 63 4 297 63 4 072 100,0 94,8
+Cusco 140 6 490 140 6 284 100,0 96,8
+Huancavelica 115 2 906 115 2 757 100,0 94,9
+Huánuco 112 4 763 112 4 317 100,0 90,6
+Ica 61 4 248 61 4 078 100,0 96,0
+Junín 164 7 580 164 7 079 100,0 93,4
+La Libertad 106 5 867 106 5 421 100,0 92,4
+Lambayeque 84 5 164 84 4 883 100,0 94,6
+Lima Metropolitana 144 9 271 144 8 812 100,0 95,0
+Lima Provincias 79 4 379 79 4 174 100,0 95,3
+Loreto 148 7 282 148 6 244 100,0 85,7
+52

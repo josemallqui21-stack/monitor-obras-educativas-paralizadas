@@ -1,0 +1,35 @@
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+TABLA 9. OBRAS PARALIZADAS SEGÚN EL EVENTO REGISTRADO EN EL SISTEMA INFOBRAS,
+POR NIVEL DE GOBIERNO Y COSTO ACTUALIZADO
+Gobierno Nacional Gobierno Regional Gobierno Local Total
+Evento
+N° Costo N° Costo N° Costo N° Costo %
+actualizado S/ actualizado S/ actualizado S/ actualizado S/
+Proceso 258 8 379 943 419 153 3 515 140 662 1262 4 996 664 701 1673 16 891 748 781 78.2
+normal
+Reactivación 3 99 997 687 18 1 063 884 872 22 486 894 901 43 1 650 777 460 7.6
+económica
+Reconstrucción 90 2 223 565 742 22 556 329 270 51 272 621 069 163 3 052 516 080 14.1
+con Cambios
+Total 351 10 703 506 847 193 5 135 354 804 1335 5 756 180 671 1879 21 595 042 322 100%
+FUENTE: Sistema Nacional de Obras Públicas - Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC) / FECHA: 31/12/2022
+De 163 obras enmarcada bajo el marco normativo de la Reconstrucción con Cambios, según su nivel de gobierno, tenemos
+que un 54.7% corresponden al nivel de Gobierno Nacional, mientras que un 12.4% corresponde al nivel de Gobierno
+Regional; y un 32.9% corresponde al Gobierno Local.
+16
+TABLA 10. OBRAS PARALIZADAS BAJO EL MARCO NORMATIVO
+DE LA RECONSTRUCCIÓN CON CAMBIOS, SEGÚN SU NIVEL DE GOBIERNO
+Obras paralizadas Monto actualizado de la inversión
+Nivel de gobierno Saldo de inversión S/
+N° % S/ %
+Gobierno Nacional 90 54.7 2 223 565 742 72.8 1 189 859 896
+Gobierno Regional 22 12.4 556 329 270 18.2 158 019 794
+Gobierno Local 51 32.9 272 621 069 8.9 82 326 011
+Total 163 100% 3 052 516 080 100% 1 430 205 700
+FUENTE: Sistema Nacional de Obras Públicas -Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC) / FECHA: 31/12/2022
+2.10. Obras paralizadas por administración directa o por contrata
+El 96% (1801) de las 1879 obras públicas paralizadas a nivel nacional son ejecutadas bajo la modalidad de administración
+directa o por contrata, en los tres niveles de gobierno. El monto de inversión asciende a S/ 17 mil 977 millones, como se
+detalla a continuación:

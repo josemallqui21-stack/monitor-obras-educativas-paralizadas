@@ -1,0 +1,46 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P200_ServBa.dbf [ Matriz 08 : Servicios Básicos en el Local Educativo - Agua ]
+Variable Formato Descripción de variable Valor de variable
+EMPRESA_2 C (90) 2. Empresa concesionaria/administradora del servicio Texto
+SUMINIS_2 C (20) 2. Empresa concesionaria/administradora del servicio (0:9),(A:Z)
+- Número de suministro
+Archivo : Loc_Lineal_2.dbf
+Variable Formato Descripción de variable Valor de variable
+P203 C (1) 203. El local educativo ¿cuenta el servicio de agua potable 1: Sí
+todos los días de la semana? 2: No
+P203_NO_1 C (1) 203. El local educativo ¿cuenta el servicio de agua potable "X"
+todos los días de la semana?
+- Días a la semana que tiene el servicio
+1: Lunes
+P203_NO_2 C (1) 203. El local educativo ¿cuenta el servicio de agua potable "X"
+todos los días de la semana?
+- Días a la semana que tiene el servicio
+2: Martes
+P203_NO_3 C (1) 203. El local educativo ¿cuenta el servicio de agua potable "X"
+todos los días de la semana?
+- Días a la semana que tiene el servicio
+3: Miércoles
+P203_NO_4 C (1) 203. El local educativo ¿cuenta el servicio de agua potable "X"
+todos los días de la semana?
+- Días a la semana que tiene el servicio
+4: Jueves
+P203_NO_5 C (1) 203. El local educativo ¿cuenta el servicio de agua potable "X"
+todos los días de la semana?
+- Días a la semana que tiene el servicio
+5: Viernes
+P204 C (1) 204. Horario que tiene el servicio de agua potable (1:3)
+1: Todo el día
+2: Solo por algunas horas
+3: Solo durante el horario de clases
+P204_23_1 C (1) 204. Horario que tiene el servicio de agua potable "X"
+Solo por algunas horas/Solo durante el horario de clases
+1: Mañana
+P204_23_1D C (5) 204. Horario que tiene el servicio de agua potable HH:MM
+Solo por algunas horas/Solo durante el horario de clases
+1: Mañana
+Desde
+P204_23_1H C (5) 204. Horario que tiene el servicio de agua potable HH:MM
+Solo por algunas horas/Solo durante el horario de clases
+1: Mañana
+Hasta
+26

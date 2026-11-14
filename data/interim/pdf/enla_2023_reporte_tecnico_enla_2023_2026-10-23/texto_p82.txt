@@ -1,0 +1,30 @@
+- Longitud y tipo de dato de todos los campos según diccionario de datos.
+- Valores fuera de rango permitido según diccionario de datos.
+- Campos de identificación completos.
+- Correspondencia entre la data capturada y la imagen del documento de una
+muestra aleatoria de 50 casos de todo el archivo.
+4.1.3 Depuración de datos
+En esta etapa, se verifica que todos los campos de las bases de datos contengan
+respuestas que estén dentro de los márgenes permitidos, y que haya coherencia
+entre los campos y la información adicional que se maneja en la evaluación. Para ello,
+la UMC ha elaborado un Manual del depurador, el cual contiene el detalle de todas
+las revisiones a realizarse en cada campo de todas las bases de datos. Con este
+manual se capacita a todo el personal que participe en el proceso.
+Durante esta etapa, algunas de las revisiones realizadas son las siguientes:
+• Revisiones iniciales:
+- Correspondencia de registros según el reporte de inventario de instrumentos.
+- Registros únicos en los campos de identificación del instrumento (como el
+código de barras).
+- Correspondencia entre el código modular y el correlativo Minedu (según padrón
+de IE).
+- Hojas faltantes en cada ficha óptica.
+• Revisiones principales (por tipo de documento):
+- Caracteres no válidos en los DNI de los estudiantes.
+- Duplicados en los DNI de los estudiantes.
+- Caracteres no válidos en los nombres y apellidos de los estudiantes.
+- Duplicados en los apellidos y nombres de los estudiantes.
+- Caracteres no válidos en los correlativos de los estudiantes.
+- Duplicados en los correlativos de los estudiantes.
+- Caracteres no válidos en el sexo de los estudiantes.
+- Caracteres no válidos en la lengua materna de los estudiantes.
+80

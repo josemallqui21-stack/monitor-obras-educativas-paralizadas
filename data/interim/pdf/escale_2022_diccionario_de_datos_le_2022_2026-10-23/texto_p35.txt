@@ -1,0 +1,38 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Nombre de archivo: Local_Servicios_Basicos.dbf
+206. TIPO DE CONEXIÓN DE DESAGÜE
+Tabla: Local_Servicios_Basicos.dbf
+Campo Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo (000001:999999)
+NROCED C (5) Número de cédula 11
+CUADRO C (6) 206. Tipo de conexión de desagüe C206
+NUMERO C (2) Número de tipo de conexión de desagüe (1:9)
+Descrip C (60) Descripción de tipo de conexión de desagüe (*)
+Tipo C (2) Tipo de conexión predominante en el local “X”
+educativo
+Predio_01 C (2) Registre por cada predio del local educativo (solo “X”
+si tiene más de 1 predio)
+Predio N° 01
+Predio_02 C (2) Registre por cada predio del local educativo (solo “X”
+si tiene más de 1 predio)
+Predio N° 02
+Predio_03 C (2) Registre por cada predio del local educativo (solo “X”
+si tiene más de 1 predio)
+Predio N° 03
+Predio_04 C (2) Registre por cada predio del local educativo (solo “X”
+si tiene más de 1 predio)
+Predio N° 04
+Descri_otr C (80) Descripción de tipo de conexión de desagüe (A:Z)
+8: Otro --- Especificar
+Empresa_1 C (90) Empresa concesionaria/administradora del servicio (A:Z)
+(*) Descripción de tipo de conexión de desagüe
+ 1: Red pública
+ 2: Río, acequia o canal
+ 3: Tanque séptico
+ 4: Pozo percolador
+ 5: Zanja filtrante
+ 6: Biodigestor
+ 7: Pozo sin tratamiento
+ 8: Otro
+ 9: No tiene
+34

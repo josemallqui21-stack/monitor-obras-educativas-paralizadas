@@ -1,0 +1,41 @@
+Reporte técnico evaluaciones 2024 Referencias
+Embretson, S., & Reise, S. (2000). Item Response Theory for psychologists. Lawrence
+Erlbaum Associates.
+Fisher, W. (1992). Reliability statistics. En J. M. Linacre (Ed.), Rasch Measurement
+Transactions Part 2, 1996 (p. 238). MESA Press.
+Flora, D. B., & Curran, P. J. (2004). An empirical evaluation of alternative methods of
+estimation for confirmatory factor analysis with ordinal data. Psychological
+Methods, 9(4), 466–491. https://doi.org/10.1037/1082-989X.9.4.466
+Ford, J. K., MacCallum, R. C., & Tait, M. (1986). The application of exploratory factor
+analysis in applied psychology: A critical review and analysis. Personnel
+Psychology, 39(2), 291-314.
+Fox, C. (1999). An introduction to the Partial Credit model for developing nursing
+assessments. Journal of Nursing Education, 38(8), 340-346. https://doi.
+org/10.3928/0148-4834-19991101-04
+Furr, R. M. (2013). Scale construction and psychometrics for social and personality
+psychology. SAGE Publications.
+Gross, J. J. (2015). Emotion regulation: Current status and future prospects. Psychological
+Inquiry, 26(1), 1–26. https://doi.org/10.1080/1047840X.2014.940781
+Hambleton, R., Swaminathan, H. & Rogers, J. (1991). Fundamentals of Item Response
+Theory. SAGE.
+Hattie, J. (1985). Methodology review: Assessing unidimensionality of tests and
+items. Applied Psychological Measurement, 9(2), 139-164. https://doi.
+org/10.1177/014662168500900204
+Ho, C., & Osborn, S. E. (2005). Test equating by common items and common subjects:
+Concepts and applications. Practical Assessment, Research & Evaluation,
+10, Article 4. https://doi.org/10.7275/68dy-z131
+Hu, L. T., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure
+analysis: Conventional criteria versus new alternatives. Structural Equation
+Modeling, 6(1), 1–55. https://doi.org/10.1080/10705519909540118
+Ingebo, G. (1997). Probability in the measure of achievement. MESA Press.
+Jarvis, C. B., MacKenzie, S. B., & Podsakoff, P. M. (2003). A critical review of construct
+indicators and measurement model misspecification in marketing and
+consumer research. Journal of Consumer Research, 30(2), 199-218. https://
+doi.org/10.1086/376806
+Jolliffe, I. T., & Cadima, J. (2016). Principal component analysis: a review and recent
+developments. Philosophical Transactions of the Royal Society A, 374, 1-16.
+https://doi.org/10.1098/rsta.2015.0202
+Jorgensen, T. D., Pornprasertmanit, S., Schoemann, A. M., & Rosseel, Y. (2022).
+semTools: Useful tools for structural equation modeling. R package version
+0.5-6. https://CRAN.R-project.org/package=semTools
+114411

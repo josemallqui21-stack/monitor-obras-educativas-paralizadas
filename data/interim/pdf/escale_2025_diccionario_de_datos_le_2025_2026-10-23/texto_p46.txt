@@ -1,0 +1,52 @@
+Tabla 06: Material
+Tabla 05: Material predominante de los Techos
+predominante de los Pisos
+Código Descripción Código Descripción
+01 Concreto armado 01 Parquet o madera pulida
+02 Madera Vinilico, pisopak o
+02
+similar
+03 Teja
+Loseta, cerámico o
+03
+04 Fibra de cemento similar
+05 Calamina 04 Cemento
+05 Madera entablada
+06 Calaminón
+06 Tierra
+07 Eternit
+07 Otro
+08 Caña con barro
+09 Lata o latón
+10 Otro
+Archivo: Loc_Lineal_2.dbf
+Variable Tipo Descripción Valor
+Capítulo 7: Características de otros ambientes educativos y de soporte distintos al aula en el local educativo
+P71 N (5) 7.1. Cantidad de otros ambientes educativos y de soporte distintos al 99999
+aula
+Archivo: Loc_P71_OtEsp.dbf [ Matriz 12: Otros espacios educativos distintos al aula ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) características de otros ambientes distintos al aula de clase C071
+NUMERO C (3) Número de orden 999
+ID_EDIF C (3) 1.Número de edificación "E" + [Correlativo
+de 2 digitos]
+P71_2 N (3) 2. Número del piso donde se ubica el ambiente 999
+P71_3 C (3) 3. Detalle del ambiente Ver código en
+- Código Tabla 01
+P71_4 C (1) 4. ¿El ambiente se encuentra en uso para tal fin? 1: Sí
+2: No
+P71_5 C (1) 5. El ambiente detallado, ¿ha sido:? 1: Construido
+para tal fin
+2: Adaptado
+P71_6_1 C (44) 6. Niveles educativos de la Educación Básica/ETP y/o (A.. … A..-B0-F0-
+Carreras/Programas de la Educación Superior que usan el ambiente D1-D2-E0-E1-E2-
+1. Niveles de Educación Básica y ETP L0-K0-T0-M0-P0-
+S0)
+P71_6_2 C (60) 6. Niveles educativos de la Educación Básica/ETP y/o (01 … 01-02-03-
+Carreras/Programas de la Educación Superior que usan el ambiente 04-05-06-07-08-
+2. Carreras/Programas de Educación Superior (Según 09-10-11-12-13-
+lo declarado en la pregunta 1.2.3) 14-15-16-17-18-
+19-20)
+45

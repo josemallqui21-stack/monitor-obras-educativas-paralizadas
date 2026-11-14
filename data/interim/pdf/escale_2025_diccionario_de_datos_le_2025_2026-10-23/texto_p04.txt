@@ -1,0 +1,37 @@
+DESCRIPCIÓN DE LAS TABLAS DE LA CÉDULA
+Los valores de las variables de la Ficha Unificada de Infraestructura Educativa (FUIE) están almacenada en
+diferentes tablas. A continuación, se describen las tablas y su relación con las preguntas de las cédulas.
+Tablas lineales:
+1. Loc_Lineal_1.dbf: Desde Variable “PERIODO” hasta la Variable “P3238_6_OT”, contiene la primera
+parte de las variables que guardan datos sobre preguntas de tipo lineal (no matricial).
+2. Loc_Lineal_2.dbf: Desde Variable “P41” hasta la Variable “ANOTACIONES”, contiene la segunda
+parte de las variables que guardan datos sobre preguntas de tipo lineal (no matricial).
+Loc_P121_Niveles.dbf: Detalla información registrada en la pregunta 1.2.1. Servicios/niveles educativos
+que funcionan en el local educativo.
+Loc_P123_Carrer.dbf: Detalla información registrada en la pregunta 1.2.3. Listado de carreras o
+programas de estudio ofrecidos en este local educativo por el instituto o escuela de educación superior.
+Loc_214_InfObra.dbf: Detalla información sobre la(s) obra(s) registrada(s) en la pregunta 2.1.4. Sobre la
+construcción/reconstrucción parcial del local educativo, indique:
+Loc_P233_SaFiLe.dbf: Detalla información registrada en la pregunta 2.3.3. Saneamiento físico legal del
+terreno o terrenos que ocupa el local educativo.
+Loc_P236_Tramos.dbf: Detalla información registrada en la pregunta 2.3.6. ¿Con cuántos tramos cuenta
+el perímetro del terreno del local educativo?
+Loc_Trayectos.dbf: Detalla información registrada acerca de los trayectos desde el local educativo hacia
+la UGEL (cuadro C251) y trayectos desde el local educativo hacia la capital distrital (cuadro C253).
+Loc_P3230_Inter.dbf: Detalla información de las líneas de internet con las que cuenta el local educativo.
+Loc_P3239_OtElem.dbf: Detalla información registrada en la pregunta 3.2.39. Otros elementos en el local
+educativo.
+Loc_P43_Cerco.dbf: Detalla información registrada en la pregunta 4.3. Complete información por cada
+tramo del cerco perimétrico del local educativo.
+Loc_P53_Edific.dbf: Detalla información registrada en la pregunta 5.3. Edificaciones en el local
+educativo.
+Loc_P61_Aulas.dbf: Detalla información registrada en la pregunta 6.1. Número de aulas o ambientes
+acondicionados como aulas.
+Loc_P71_OtEsp.dbf: Detalla información registrada en la pregunta 7.1. Cantidad de otros ambientes
+educativos y de soporte distintos al aula.
+Loc_P77_OtEspA.dbf: Detalla información registrada en la pregunta 7.7. Respecto a los espacios
+deportivos abiertos y espacios exteriores/de relación con la naturaleza.
+Loc_P81_SSHH.dbf: Detalla información registrada en la pregunta 8.1. Cantidad de ambientes usados
+como servicios higiénicos.
+Loc_P91_RecTec.dbf: Detalla información registrada en la pregunta 9.1. Recursos Tecnológicos.
+3

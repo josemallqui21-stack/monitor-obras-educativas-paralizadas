@@ -1,0 +1,48 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+OL_1D C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o "X"
+infraestructura de otro espacio, se encuentra(n) operando el (los)
+servicio(s) educativo(s) actualmente?
+1. Otro local educativo
+D. Indique el código de local 04:
+OL_1D_C C (6) 12.2. Según su respuesta anterior, ¿en qué otro lugar o 999999
+infraestructura de otro espacio, se encuentra(n) operando el (los)
+servicio(s) educativo(s) actualmente?
+1. Otro local educativo
+D. Indique el código de local 04: Código de local 04
+OL_1D_C_OP C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o 1: Todos
+infraestructura de otro espacio, se encuentra(n) operando el (los) 2: Algunos
+servicio(s) educativo(s) actualmente?
+1. Otro local educativo
+D. Indique el código de local 04: Código de local 04
+SSEE que operan en este otro lugar
+OL_1E C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o "X"
+infraestructura de otro espacio, se encuentra(n) operando el (los)
+servicio(s) educativo(s) actualmente?
+1. Otro local educativo
+E. Indique el código de local 05:
+OL_1E_C C (6) 12.2. Según su respuesta anterior, ¿en qué otro lugar o 999999
+infraestructura de otro espacio, se encuentra(n) operando el (los)
+servicio(s) educativo(s) actualmente?
+1. Otro local educativo
+E. Indique el código de local 05: Código de local 05
+OL_1E_C_OP C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o 1: Todos
+infraestructura de otro espacio, se encuentra(n) operando el (los) 2: Algunos
+servicio(s) educativo(s) actualmente?
+1. Otro local educativo
+E. Indique el código de local 05: Código de local 05
+SSEE que operan en este otro lugar
+OL_2_1 C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o "X"
+infraestructura de otro espacio, se encuentra(n) operando el (los)
+servicio(s) educativo(s) actualmente?
+2. Espacio diferente a un local educativo
+2.1. Vivienda privada
+OL_2_1_OP C (1) 12.2. Según su respuesta anterior, ¿en qué otro lugar o 1: Todos
+infraestructura de otro espacio, se encuentra(n) operando el (los) 2: Algunos
+servicio(s) educativo(s) actualmente?
+2. Espacio diferente a un local educativo
+2.1. Vivienda privada
+SSEE que operan en este otro lugar
+-- 7 --

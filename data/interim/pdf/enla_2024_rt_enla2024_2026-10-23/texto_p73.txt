@@ -1,0 +1,26 @@
+Reporte técnico evaluaciones 2024 Capítulo 4
+Los parámetros δij se encuentran en la intersección de las curvas de las categorías de
+respuesta. Se les denomina umbrales Rasch-Andrich (Linacre, 2001) y representan
+el valor en la escala del rasgo latente en el cual es igualmente probable recibir un
+puntaje o el inmediatamente adyacente. En algunos casos (Linacre, 2001), δij es
+descompuesto en dos términos, Di y Fij, de tal manera que
+En este ejemplo, el primer umbral con un valor de –1,74 representa la medida en la
+cual es igualmente probable recibir 0 o 1 punto en el ítem. A partir de la figura 4.3,
+además, se pueden señalar tres situaciones para una persona: si esta tiene una
+medida del rasgo latente menor a –1,74, lo más probable es que reciba 0 puntos
+(crédito 0) en este ítem; si su medida se encuentra entre –1,74 y 0,52, lo más probable
+es que reciba 1 punto (crédito 1); y, si su medida de habilidad es mayor que 0,52, lo
+más probable es que reciba 2 puntos (crédito 2).
+Para expresar matemáticamente el modelo de crédito parcial, se debe partir del
+supuesto de que los ítems pueden recibir puntuaciones desde 0 hasta un máximo (2,
+3, etc.). Ello se expresa del siguiente modo:
+Donde:
+n : identificador (número) de persona
+i : identificador (número) de ítem
+Xni : puntaje obtenido por una persona n en un ítem i
+x: puntaje observado
+mi : crédito máximo posible en un ítem i
+La probabilidad de obtener cierto puntaje en un ítem viene dada por el modelo de
+crédito parcial, el cual se representa usando una adaptación de la notación original
+propuesta por Masters (1982):
+71

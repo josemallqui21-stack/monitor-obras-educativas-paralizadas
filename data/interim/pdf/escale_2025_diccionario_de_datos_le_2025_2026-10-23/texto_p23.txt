@@ -1,0 +1,45 @@
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P3217_6_OT C (80) 3.2.17. La energía eléctrica que predomina en el local educativo Texto
+proviene de:
+7: Otro --- Especifique
+P3218 C (1) 3.2.18. El servicio de energía eléctrica, ¿lo tiene en todos los terrenos? 1: Sí
+2: No
+P3218_NO N (3) 3.2.18. El servicio de energía eléctrica, ¿lo tiene en todos los terrenos? 999
+- No--> ¿En cuántos terrenos los tiene?
+P3219 C (90) 3.2.19. ¿Cuál es el nombre de la entidad prestadora del servicio de Texto
+energía eléctrica?
+P3220 N (3) 3.2.20. ¿Cuántos suministros de energía eléctrica tiene el local 999
+educativo?
+P3221_1 C (20) 3.2.21. Detalle el(los) número(s) de suministro(s) (0:9),(A:Z)
+1. Suministro 01
+P3221_2 C (20) 3.2.21. Detalle el(los) número(s) de suministro(s) (0:9),(A:Z)
+2. Suministro 02
+P3221_3 C (20) 3.2.21. Detalle el(los) número(s) de suministro(s) (0:9),(A:Z)
+3. Suministro 03
+P3222 C (1) 3.2.22. ¿Qué tipo de sistema eléctrico tiene? 1: Monofásico
+2: Trifásico
+P3223 C (1) 3.2.23. ¿Cuenta con medidor de suministro de energía eléctrica? 1: Sí
+2: No
+P3223_S_M N (3) 3.2.23 ¿Cuenta con medidor de suministro de energía eléctrica? 999
+Nro. total de medidores
+P3223_S_MF N (3) 3.2.23 ¿Cuenta con medidor de suministro de energía eléctrica? 999
+Nro. de medidores en funcionamiento
+P3224 C (1) 3.2.24. El local educativo, ¿cuenta con el servicio de energía eléctrica 1: Sí
+todos los días de la semana? 2: No
+P3224_NO_1 C (1) 3.2.24. El local educativo, ¿cuenta con el servicio de energía eléctrica "X"
+todos los días de la semana?
+- No--> Marque los días de la semana que tiene el servicio de energía
+eléctrica
+1. Lunes
+P3224_NO_2 C (1) 3.2.24. El local educativo, ¿cuenta con el servicio de energía eléctrica "X"
+todos los días de la semana?
+- No--> Marque los días de la semana que tiene el servicio de energía
+eléctrica
+2. Martes
+P3224_NO_3 C (1) 3.2.24. El local educativo, ¿cuenta con el servicio de energía eléctrica "X"
+todos los días de la semana?
+- No--> Marque los días de la semana que tiene el servicio de energía
+eléctrica
+3. Miércoles
+22

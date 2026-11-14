@@ -1,0 +1,39 @@
+4.2.5 Confiabilidad y consistencia de la clasificación
+El índice de confiabilidad de separación de las personas (Rp) es el coeficiente
+utilizado para las pruebas aplicadas por la UMC. Este índice es análogo al de
+consistencia interna alpha (α) (Cronbach, 1951), pero produce mejores estimaciones,
+pues los valores numéricos son lineales si los datos se ajustan al modelo Rasch
+aplicado (Wind y Hua, 2022). Además, utiliza la varianza de error promedio de la
+muestra en lugar de la varianza de error de una persona promedio (Schumacker y
+Smith, 2007). El coeficiente sirve para indicar la capacidad de las medidas de un test
+para diferenciar las cantidades del rasgo latente que poseen los evaluados (Wrigth
+y Masters, 1982). En ese sentido, indica la replicabilidad del ordenamiento de las
+personas según su medida de habilidad si se les da otro conjunto de ítems que
+miden el mismo constructo (Bond et al., 2021).
+Un índice menor a 0,50 indica que las diferencias entre las medidas son producidas
+principalmente por el error de medición (Fisher, 1992). Sobre los valores mínimos
+aceptables de los coeficientes de confiabilidad, Charter (2003) ha realizado una
+revisión de numerosas investigaciones que proponen diferentes niveles mínimos. En
+ese estudio, encontró mucha variabilidad; asimismo, observó valores propuestos con
+los diversos métodos para obtener la confiabilidad, los cuales oscilan entre 0,60 y
+0,95. A pesar de esta gran variabilidad, un estándar mínimo aceptable que aparece
+con frecuencia en la literatura es el de 0,70, señalado por Nunnally y Bernstein (1995).
+Estos coeficientes también pueden ser expresados como índices de separación de
+personas. Estos índices se refieren a la dispersión de los datos medidos como el
+número de errores estándar que separan a las personas (Schumacker y Smith, 2007).
+Otros indicadores importantes para el análisis son los de consistencia y precisión
+de la clasificación. Por un lado, la consistencia de la clasificación es el grado de
+acuerdo en dos aplicaciones independientes o paralelas de un instrumento de
+medición. Se espera que el alumno sea clasificado en la misma categoría al repetirse
+la evaluación. Por su parte, la precisión de la clasificación implica el grado en el cual
+la clasificación observada coincide con la clasificación verdadera (Kim et al., 2006).
+En las evaluaciones realizadas, se utilizó el método de Rudner (una aproximación
+de tipo individual) pues calcula la consistencia de clasificación para cada persona
+y luego las promedia (Lee, 2010). Además, asume que los errores de estimación
+se distribuyen normalmente. A medida que aumenta el número de ítems, dadas las
+propiedades del estimador θ̂basado en un método de máxima verosimilitud, este
+supuesto es más plausible.
+4.3 Resultados del análisis psicométrico en Lectura y Matemática
+4.3.1 Calibración de los ítems
+En las tablas a continuación, se presenta los bloques, la posición por bloques,
+76

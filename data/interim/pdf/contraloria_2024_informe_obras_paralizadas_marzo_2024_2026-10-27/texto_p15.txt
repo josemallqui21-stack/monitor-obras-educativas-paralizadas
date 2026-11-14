@@ -1,0 +1,50 @@
+Tabla 12. Sectores con obras paralizadas con nivel de avance físico del 90% a 100%
+(ejecutadas por administración directa o contrata)
+Rango de avance físico del 90% a 100 %
+N° de Costo Saldo
+Tipo de obra
+obras actualizado S/ inversión S/
+VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO 63 1,008,577,125 135,804,924
+EDUCACIÓN 43 216,263,700 49,226,796
+TRANSPORTES Y COMUNICACIONES 39 392,339,835 100,984,442
+AGRICULTURA 25 169,499,877 21,353,686
+ENERGÍA Y MINAS 8 25,535,131 5,467,285
+SALUD 4 10,835,440 1,122,402
+ORDEN PÚBLICO/DEFENSA Y SEGURIDAD 3 22,980,500 1,776,713
+CULTURA 1 20,893,325 11,217,301
+OTRAS INFRAESTRUCTURAS 20 149,479,674 30,604,445
+Total 206 2,016,404,607 357,557,995
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC)
+Fecha:31/03/2024
+*Otras Infraestructuras. - Comprende obras de parques, instalaciones eléctricas, residuos sólidos, centros recreacionales,
+entre otros.
+A continuación, se presenta el desagregado de los sectores que tienen saldo por ejecutar de
+obras que se encuentran en el rango de 80% a 90% de avance físico, en el cual se advierte que
+el mayor monto de inversión lo tiene el sector Vivienda, Construcción y Saneamiento con 71
+obras paralizadas, con una inversión de S/ 1 163 millones; seguido del sector Transportes y
+Comunicaciones con 56 obras, con un importe de inversión de S/ 232 millones, como se muestra
+a continuación:
+Tabla 13. Sectores con obras paralizadas con nivel de avance físico del 80% a 90%
+(ejecutadas por administración directa o contrata)
+Rango de avance físico del 80% a 90 %
+Costo Saldo
+Tipo de obra N° Obras
+Actualizado S/. Inversión S/.
+VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO 71 1,163,374,038 168,895,406
+TRANSPORTES Y COMUNICACIONES 56 232,797,645 41,701,579
+EDUCACIÓN 41 284,015,635 60,483,697
+AGRICULTURA 33 122,894,349 20,570,982
+OTRAS INFRAESTRUCTURAS 22 56,380,158 30,301,593
+ENERGÍA Y MINAS 11 29,161,012 11,584,814
+ORDEN PÚBLICO/DEFENSA Y SEGURIDAD 6 64,597,579 13,971,541
+SALUD 4 147,735,133 36,020,666
+INTERIOR 2 162,396,028 21,689,670
+CULTURA 2 672,692 97,178
+DESARROLLO E INCLUSIÓN SOCIAL 1 973,196 505,296
+Total 249 2,264,997,463 405,822,423
+Fuente: Sistema Nacional de Obras Públicas -Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC)
+Fecha: 31/03/2024
+*Otras Infraestructuras. - Siendo estas obras de parques, instalaciones eléctricas, residuos sólidos, centros recreacionales,
+etc.

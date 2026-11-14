@@ -1,0 +1,47 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P116_8 C (1) 116. Características de la ubicación física (Marcar SI o 1: Sí
+NO en todas las alternativas) 2: No
+8. Elevado en zona monumental
+P116_8_D N (9,2) 116. Características de la ubicación física (Marcar SI o 999999.99
+NO en todas las alternativas)
+8. Elevado en zona monumental
+Distancia aproximada en mts.
+P116_9 C (1) 116. Características de la ubicación física (Marcar SI o 1: Sí
+NO en todas las alternativas) 2: No
+9. Enclavado en ambiente urbano monumental
+P116_9_D N (9,2) 116. Características de la ubicación física (Marcar SI o 999999.99
+NO en todas las alternativas)
+9. Enclavado en ambiente urbano monumental
+Distancia aproximada en mts.
+P116_10 C (1) 116. Características de la ubicación física (Marcar SI o 1: Sí
+NO en todas las alternativas) 2: No
+10. Cercano a corredor vial del sur (CVS)
+P116_10_D N (9,2) 116. Características de la ubicación física (Marcar SI o 999999.99
+NO en todas las alternativas)
+10. Cercano a corredor vial del sur (CVS)
+Distancia aproximada en mts.
+P116_11 C (1) 116. Características de la ubicación física (Marcar SI o 1: Sí
+NO en todas las alternativas) 2: No
+11. Cercano a circuito petrolero
+P116_11_D N (9,2) 116. Características de la ubicación física (Marcar SI o 999999.99
+NO en todas las alternativas)
+11. Cercano a circuito petrolero
+Distancia aproximada en mts.
+P116_12 C (1) 116. Características de la ubicación física (Marcar SI o 1: Sí
+NO en todas las alternativas) 2: No
+12. Cercano a una vía de alto tránsito vehicular
+P116_12_D N (9,2) 116. Características de la ubicación física (Marcar SI o 999999.99
+NO en todas las alternativas)
+12. Cercano a una vía de alto tránsito vehicular
+Distancia aproximada en mts.
+P116_13 C (1) 116. Características de la ubicación física (Marcar SI o 1: Sí
+NO en todas las alternativas) 2: No
+13. Otro
+P116_13_D N (9,2) 116. Características de la ubicación física (Marcar SI o 999999.99
+NO en todas las alternativas)
+13. Otro
+Distancia aproximada en mts.
+-- 20 --

@@ -1,0 +1,58 @@
+TIPO DE ESPACIO CODIGO NOMBRE DE ESPACIO EDUCATIVO Y DE SOPORTE DISTINTOS A AULAS
+133 SS.HH. PARA ESTUDIANTES Y ADMINISTRATIVOS
+134 SS.HH. PARA ESTUDIANTES, DOCENTES Y ADMINISTRATIVOS
+SERVICIOS
+135 SS.HH. PARA DOCENTES Y ADMINISTRATIVOS
+HIGIÉNICOS
+136 VESTIDORES PARA ESTUDIANTES
+137 VESTIDORES PARA DOCENTES Y ADMINISTRATIVOS
+Tabla 02: Material predominante de las puertas
+Tabla 03: Material predominante del marco de la ventana
+Código Descripción
+Código Descripción
+01 Madera
+Carpintería metálica (fierro, acero, acero
+02 Mallas metálicas 01
+inoxidable, aluminio, entre otros)
+03 Rejas metálicas
+02 Carpintería de madera
+04 Planchas metálicas
+03 Carpintería de PVC
+05 Drywall
+04 Carpintería mixta (varios materiales)
+06 Vidrio
+05 Otro
+07 Otro
+06 No tiene, pero lo Requiere
+08 No tiene, pero lo Requiere
+07 No tiene y No Requiere
+09 No tiene y No Requiere
+Tabla 04: Estado de conservación Tabla 05: Material predominante de las paredes
+Código Descripción
+Código Descripción
+01 Buen estado
+01 Ladrillo o concreto
+02 Regular estado
+02 Adobe o tapial
+03 Mal estado
+03 Quincha
+04 No Aplica
+04 Piedra con barro, cal o cemento
+05 Madera
+06 Triplay
+07 Eternit o fibra de concreto
+08 Estera, cartón o plástico
+09 Otro
+Tabla 06: Material predominante de los techos Tabla 07: Material predominante de los pisos
+Código Descripción Código Descripción
+01 Concreto armado 01 Parquet o madera pulida
+02 Madera 02 Vinílico, pisopak o similar
+03 Teja 03 Loseta, cerámico o similar
+04 Fibra de cemento 04 Cemento
+05 Calamina 05 Madera entablada
+06 Calaminón 06 Tierra
+07 Eternit 07 Otro
+08 Caña con barro
+09 Lata o latón
+10 Otro
+55

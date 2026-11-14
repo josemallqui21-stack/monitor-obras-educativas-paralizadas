@@ -1,0 +1,46 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_1.dbf
+Variable Formato Descripción de variable Valor de variable
+P118_1 C (1) 118. Vulnerabilidad por cercanía a factores naturales 1: Sí
+de riesgo (Marcar SI o NO en todas las alternativas) 2: No
+1. Cercano al mar
+P118_1_D N (9,2) 118. Vulnerabilidad por cercanía a factores naturales 999999.99
+de riesgo (Marcar SI o NO en todas las alternativas)
+1. Cercano al mar
+Distancia aproximada en mts.
+P118_2 C (1) 118. Vulnerabilidad por cercanía a factores naturales 1: Sí
+de riesgo (Marcar SI o NO en todas las alternativas) 2: No
+2. Cercano a un río
+P118_2_D N (9,2) 118. Vulnerabilidad por cercanía a factores naturales 999999.99
+de riesgo (Marcar SI o NO en todas las alternativas)
+2. Cercano a un río
+Distancia aproximada en mts.
+P118_3 C (1) 118. Vulnerabilidad por cercanía a factores naturales 1: Sí
+de riesgo (Marcar SI o NO en todas las alternativas) 2: No
+3. Cercano a un volcán
+P118_3_D N (9,2) 118. Vulnerabilidad por cercanía a factores naturales 999999.99
+de riesgo (Marcar SI o NO en todas las alternativas)
+3. Cercano a un volcán
+Distancia aproximada en mts.
+P118_4 C (1) 118. Vulnerabilidad por cercanía a factores naturales 1: Sí
+de riesgo (Marcar SI o NO en todas las alternativas) 2: No
+4. Cruce de huayco o quebrada
+P118_4_D N (9,2) 118. Vulnerabilidad por cercanía a factores naturales 999999.99
+de riesgo (Marcar SI o NO en todas las alternativas)
+4. Cruce de huayco o quebrada
+Distancia aproximada en mts.
+P118_5 C (1) 118. Vulnerabilidad por cercanía a factores naturales 1: Sí
+de riesgo (Marcar SI o NO en todas las alternativas) 2: No
+5. Acequias o canales de regadio
+P118_5_D N (9,2) 118. Vulnerabilidad por cercanía a factores naturales 999999.99
+de riesgo (Marcar SI o NO en todas las alternativas)
+5. Acequias o canales de regadio
+Distancia aproximada en mts.
+P118_6 C (1) 118. Vulnerabilidad por cercanía a factores naturales 1: Sí
+de riesgo (Marcar SI o NO en todas las alternativas) 2: No
+6. Erosión de suelos
+P118_6_D N (9,2) 118. Vulnerabilidad por cercanía a factores naturales 999999.99
+de riesgo (Marcar SI o NO en todas las alternativas)
+6. Erosión de suelos
+Distancia aproximada en mts.
+16

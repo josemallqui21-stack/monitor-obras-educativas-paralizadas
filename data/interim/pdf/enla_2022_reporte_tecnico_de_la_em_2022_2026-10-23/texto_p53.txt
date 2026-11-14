@@ -1,0 +1,32 @@
+Reporte técnico evaluaciones 2022 Capítulo 2
+Tabla 2.2 Cobertura de la EM 2022 a nivel de IE y estudiantes, 4.° grado de primaria
+4.° grado de Programados Evaluados Cobertura (%)
+primaria IE Estudiantes IE Estudiantes IE Estudiantes
+Nacional 3 946 128 856 3 942 121 635 99,9 94,4
+Amazonas 146 2 657 146 2 547 100,0 95,9
+Áncash 178 6 090 178 5 734 100,0 94,2
+Apurímac 91 3 261 91 3 216 100,0 98,6
+Arequipa 142 5 718 142 5 554 100,0 97,1
+Ayacucho 129 4 260 129 4 145 100,0 97,3
+Cajamarca 407 7 097 406 6 743 99,8 95,0
+Callao 90 5 263 90 4 847 100,0 92,1
+Cusco 148 5 946 148 5 808 100,0 97,7
+Huancavelica 167 2 896 167 2 793 100,0 96,4
+Huánuco 220 5 121 220 4 839 100,0 94,5
+Ica 118 5 179 118 4 938 100,0 95,3
+Junín 230 6 387 230 6 116 100,0 95,8
+La Libertad 237 8 204 235 7 530 99,2 91,8
+Lambayeque 130 5 742 130 5 312 100,0 92,5
+Lima Metropolitana 120 6 727 120 6 105 100,0 90,8
+Lima Provincias 105 3 704 105 3 503 100,0 94,6
+Loreto 137 4 541 136 3 997 99,3 88,0
+Madre de Dios 61 2 516 61 2 374 100,0 94,4
+Moquegua 41 1 483 41 1 445 100,0 97,4
+Pasco 137 3 077 137 2 880 100,0 93,6
+Piura 250 8 947 250 8 487 100,0 94,9
+Puno 161 5 714 161 5 592 100,0 97,9
+San Martín 238 6 665 238 6 338 100,0 95,1
+Tacna 80 3 648 80 3 545 100,0 97,2
+Tumbes 68 2 994 68 2 749 100,0 91,8
+Ucayali 115 5 019 115 4 498 100,0 89,6
+51

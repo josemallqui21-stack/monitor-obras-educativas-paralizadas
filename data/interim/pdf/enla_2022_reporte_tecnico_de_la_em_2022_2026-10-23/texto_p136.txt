@@ -1,0 +1,34 @@
+Tabla 4.11 Análisis de unidimensionalidad de las medidas derivadas de las
+pruebas de primaria
+Varianza de Varianza Primer
+Primer
+Prueba la dimensión modelada autovalor
+autovalor
+principal (%) (%) (%)
+Lectura, 2.° grado de primaria 27,1 27,2 2,43 2,0
+Matemática, 2.° grado de primaria 32,0 31,5 1,93 1,5
+Lectura, 4.° grado de primaria 28,0 37,9 2,11 1,6
+Matemática, 4.° grado de primaria 32,2 32,0 1,73 1,2
+Lectura, 6.° grado de primaria 31,4 31,6 1,50 1,0
+Matemática, 6.° grado de primaria 33,2 32,8 1,40 1,0
+Linacre (2023) afirma que, aunque no existen parámetros absolutos para interpretar
+los resultados del análisis de componentes principales de los residuos, si el primer
+autovalor contiene menos del 5 % de varianza o si su valor es menor que 3, entonces
+no existen evidencias serias que atenten contra el supuesto de unidimensionalidad,
+por lo que los datos se pueden analizar adecuadamente utilizando modelos Rasch.
+Además, se está frente a datos unidimensionales cuando la cantidad de varianza
+empírica es similar a la cantidad de varianza predicha por el modelo.
+Todas estas condiciones se cumplen en las pruebas analizadas. Por ende, no hay
+evidencias contundentes en contra del supuesto de unidimensionalidad del conjunto
+de ítems incluidos en estos instrumentos de medición.
+4.3.3 Confiabilidad y consistencia de la clasificación
+Para expresar los resultados de estos análisis, se utilizan tanto el índice de
+confiabilidad de la separación de las personas (Rp) como el índice de separación
+de personas (GP).
+Tabla 4.12 Análisis de confiabilidad de las medidas derivadas de la aplicación de
+la EM 2022 de 2.° grado de secundaria
+Prueba Rp Gp
+Lectura, 2.° grado de secundaria 0,88 2,73
+Matemática, 2.° grado de secundaria 0,87 2,63
+Ciencia y Tecnología, 2.° grado de secundaria 0,77 1,85
+134

@@ -1,0 +1,44 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_2.dbf
+Variable Tipo Descripción Valor
+P611 C (1) 611. El local educativo cuenta con laboratorios que utilicen solo 1: Sí
+insumos químicos? 2: No
+P612 C (1) 612. ¿El local cuenta con instalaciones destinadas al desarrollo de 1: Sí
+al menos uno de los siguientes procesos productivos:? 2: No
+(i) Actividades de acuicultura con una producción anual mayor a
+las 3.5 toneladas brutas.
+(ii) Beneficio animales considerando un número de individuos
+igual o mayor a 10 cabezas de ganado vacuno/día, 20 cabezas de
+cerdos o camélidos sudamericanos/día, 30 cabezas de ovino o
+caprino/día o su equivalente a un consumo superior de 5000
+litros de agua por día para otro tipo de animales.
+(iii) Acopio de leche fresca en plantas con una capacidad igual o
+mayor a 10 000 litros de leche por día.
+P613_Q N (5) 613. Respecto a los espacios deportivos abiertos y espacios 99999
+exteriores/de relación con la naturaleza
+- Cantidad de espacios deportivos abiertos y espacios exteriores
+Archivo: Loc_P613_OtEspA.dbf [ Matriz 14: Espacios deportivos abiertos y espacios exteriores ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de pregunta C605
+NUMERO C (2) Número de orden 99
+P613_1 C (3) 1. Detalle del Espacio Ver código en Tabla 01
+- Código
+P613_2 C (1) 2. ¿El ambiente se encuentra en uso? 1: Sí
+2: No
+P613_3_1 C (33) 3. Niveles educativos de la Educación Básica/ETP y/o (A … A-B0-F0-D1-D2-E0-
+Carreras/Programas de la Educación Superior que usan el E1-E2-L0)
+ambiente
+1. Niveles de Educación Básica y ETP
+P613_3_2 C (60) 3. Niveles educativos de la Educación Básica/ETP y/o (01 … 01-02-03-04-05-06-
+Carreras/Programas de la Educación Superior que usan el 07-08-09-10-11-12-13-14-
+ambiente 15-16-17-18-19-20)
+2. Carreras/Programas de Educación Superior (Según lo
+declarado en la tabla 102)
+P613_4 C (1) 4. ¿Tiene forma de cuadrilátero? 1: Sí
+2: No
+P613_5_1 N (8,2) 5. Dimensiones de ambiente 99999.99
+1. Largo (m)
+-- 72 --

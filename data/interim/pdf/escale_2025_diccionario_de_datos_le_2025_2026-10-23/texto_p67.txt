@@ -1,0 +1,47 @@
+Archivo: Loc_P91_RecTec.dbf [ Matriz 15: Recursos Tecnológicos en el Local Educativo ]
+Variable Tipo Descripción Valor
+P91_3_433 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+3. No conectados
+3. Laboratorio y/o talleres
+P91_3_4341 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+3. No conectados
+4. Otros ambientes
+1. Pedagógicos
+P91_3_4342 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+3. No conectados
+4. Otros ambientes
+2. Administrativos
+Archivo: Loc_Lineal_2.dbf
+Variable Tipo Descripción Valor
+P92 C (1) 9.2. Equipamiento 1: Sí
+- ¿Cuenta con al menos un dispositivo de la siguiente lista? 2: No
+Archivo: Loc_P92_Equip.dbf [ Matriz 16: Equipamiento en el Local Educativo ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) 9.2. Equipamiento C092
+NUMERO C (2) Número de orden (01:16)
+P92_1 C (60) 1.Equipos Descripción
+Nro. + ": " + Descripción (Texto)
+01: Televisor (es)
+02: DVD / BLUERAY
+03: Radio, minicomponente
+04: Equipo de sonido (consolas separadas)
+05. Parlante portátil
+06: Parlante pasivo (necesitan amplificador para funcionar)
+07: Sólo fotocopiadora
+08. Sólo escáner
+09: Sólo impresora
+10: Multifuncional (fotocopia, escanea e imprime)
+11: Pantalla de proyección ECRAN
+12: Equipos de robótica educativa
+13: Equipos de talleres ligeros
+14: Equipos de talleres pesados
+15. Equipos de aire acondicionado y/o climatización
+16: Extractores de aire
+17: Otro (especifique)
+P92_2 N (5) 2. Cantidad total (operativos + inoperativos) 99999
+66

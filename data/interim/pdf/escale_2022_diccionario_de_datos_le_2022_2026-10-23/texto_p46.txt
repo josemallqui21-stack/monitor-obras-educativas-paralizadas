@@ -1,0 +1,51 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Según antigüedad en el Local Educativo
+6. De 1 a 2 años
+P401_24_7 N (6) 24. Extintores (000001:999999)
+Según antigüedad en el Local Educativo
+7. Más de 2 años
+P401_25_1 N (6) 25. Gabinete contra incendios (000001:999999)
+1. Cantidad total (operativos + inoperativos)
+P401_25_2 N (6) 25. Gabinete contra incendios (000001:999999)
+2. Total operativos
+P401_25_3 N (6) 25. Gabinete contra incendios (000001:999999)
+Según estado de conservación
+3. En buen estado
+P401_25_4 N (6) 25. Gabinete contra incendios (000001:999999)
+Según estado de conservación
+4. Necesitan reparación
+P401_25_5 N (6) 25. Gabinete contra incendios (000001:999999)
+Según antigüedad en el Local Educativo
+5. Menos de 1 año
+P401_25_6 N (6) 25. Gabinete contra incendios (000001:999999)
+Según antigüedad en el Local Educativo
+6. De 1 a 2 años
+P401_25_7 N (6) 25. Gabinete contra incendios (000001:999999)
+Según antigüedad en el Local Educativo
+7. Más de 2 años
+P401_26_1 N (6) 26. Detectores de humo (000001:999999)
+1. Cantidad total (operativos + inoperativos)
+P401_26_2 N (6) 26. Detectores de humo (000001:999999)
+2. Total operativos
+P401_26_3 N (6) 26. Detectores de humo (000001:999999)
+Según estado de conservación
+3. En buen estado
+P401_26_4 N (6) 26. Detectores de humo (000001:999999)
+Según estado de conservación
+4. Necesitan reparación
+P401_26_5 N (6) 26. Detectores de humo (000001:999999)
+Según antigüedad en el Local Educativo
+5. Menos de 1 año
+P401_26_6 N (6) 26. Detectores de humo (000001:999999)
+Según antigüedad en el Local Educativo
+6. De 1 a 2 años
+P401_26_7 N (6) 26. Detectores de humo (000001:999999)
+Según antigüedad en el Local Educativo
+7. Más de 2 años
+(*) Número de la edificación:
+ E01
+ E02
+ E03
+ ..
+ E40
+45

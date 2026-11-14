@@ -1,0 +1,41 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P115_2 C (1) 115.2. ¿El local educativo, se encuentra ubicado en la capital 1: Sí
+distrital donde se encuentra la sede de la UGEL? 2: No
+P115_3 N (3) 115.3. Traslado desde tu local educativo la capital distrital 999
+¿Cuántos trayectos tiene la ruta que utiliza habitualmente para
+trasladarse desde el local educativo hasta la capital distrital
+(plaza de armas)?
+- N° de Trayectos
+Archivo: Loc_P115_Trayec.dbf [ Matriz 06: Trayectos - LE-Capital ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (5) Número de la Pregunta C1153
+N_TRAYECTO C (2) Número de Trayecto 99
+HORAS N (3) Tiempo aproximado de recorrido de cada trayecto 999
+- Horas
+MINUTOS N (2) Tiempo aproximado de recorrido de cada trayecto 99
+- Minutos
+MEDIO C (2) Medio de transporte y vía utilizado (01:06)
+01: Vehicular por vía asfaltada
+02: Vehicular por vía afirmada
+03: Vehicular por trocha carrozable
+04: Peatonal
+05: Fluvial
+06: Otro
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P116_1 C (1) 116. Características de la ubicación física (Marcar SI o NO 1: Sí
+en todas las alternativas) 2: No
+1. Cercano a zona arqueológica (MC)
+P116_1_D N (9,2) 116. Características de la ubicación física (Marcar SI o NO 999999.99
+en todas las alternativas)
+1. Cercano a zona arqueológica (MC)
+Distancia aproximada en mts.
+P116_2 C (1) 116. Características de la ubicación física (Marcar SI o NO 1: Sí
+en todas las alternativas) 2: No
+2. Cercano a faja marginal (ANA-MINAGRI)
+-- 18 --

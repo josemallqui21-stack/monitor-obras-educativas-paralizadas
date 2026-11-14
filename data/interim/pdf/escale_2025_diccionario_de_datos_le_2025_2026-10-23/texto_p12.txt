@@ -1,0 +1,43 @@
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+Sección 2: Servicios educativos ubicados en otro lugar
+P221 C (1) 2.2.1. ¿Los servicios educativos autorizados a funcionar en este local 1: Sí, todos
+están funcionando en otro lugar al momento del censo educativo? 2: Sí, algunos
+3: No, ninguno
+P222_1 C (1) 2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los "X"
+servicios educativos?
+1: Otro(s) Local(es) Educativo(s)
+P222_2 C (1) 2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los "X"
+servicios educativos?
+2: Vivienda privada
+P222_3 C (1) 2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los "X"
+servicios educativos?
+3: Parque/estadio/coliseo
+P222_4 C (1) 2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los "X"
+servicios educativos?
+4: Infraestructura nueva sin código de local asignado
+P222_5 C (1) 2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los "X"
+servicios educativos?
+5: Otro
+P222_1_COD C (34) 2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los CódigoLocal01-
+servicios educativos? CódigoLocal02-
+1: Otro(s) Local(es) Educativo(s) CódigoLocal03-
+Indique el o los códigos de local, según corresponda: CódigoLocal04-
+CódigoLocal05
+P222_5_OT C (80) 2.2.2 ¿En qué otro lugar se encuentra funcionando actualmente los Texto
+servicios educativos?
+5: Otro
+P223 C (1) 2.2.3. ¿Por qué razón todos o algunos de los servicios educativos están (1:7)
+funcionando en otro lugar?
+1: El local educativo se encuentra en proceso de
+construcción/reconstrucción total, lo cual impide su uso temporal
+2: La construcción/reconstrucción del local educativo está terminada,
+pero aún no ha sido entregado oficialmente para su uso educativo
+3: Todos los ambientes del local educativo han sido declarados
+inhabitables
+4: El local educativo está en construcción/reconstrucción parcial
+5: El local educativo no cuenta con suficientes ambientes
+6: Algunos ambientes del local educativo han sido declarados
+inhabitables
+7: Otro
+11

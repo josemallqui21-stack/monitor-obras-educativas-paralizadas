@@ -1,0 +1,43 @@
+Como ya se señaló, el modelo de crédito parcial intenta captar diferentes niveles
+de conocimiento frente a un mismo ítem. Por ejemplo, en un ítem de dos pasos,
+se modela la probabilidad de obtener más de 0 puntos y, luego, la probabilidad
+de obtener más de 1 punto. Este proceso se puede representar con dos curvas
+características del ítem, una para cada paso, como se muestra en la figura 4.4.
+Figura 4.4 Curva de categorías de respuestas con umbrales Rasch-Thurstone
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5 βi1 βi2
+0.4
+0.3
+0.2
+0.1
+0.0
+−5 −4 −3 −2 −1 0 1 2 3 4 5
+Medida de habilidad de la persona/dificultad del ítem
+La curva de la izquierda se refiere a la probabilidad de recibir 1 o 2 puntos en lugar
+de 0. La curva de la derecha indica la probabilidad de recibir 2 puntos frente a 1 o 0
+puntos. Es decir, una persona con una medida de rasgo latente de –1,83 tiene una
+probabilidad igual al 50 % de superar el primer paso (tener más de 0), mientras que
+una persona con una medida de 0,61 tiene una probabilidad del 50 % de superar el
+segundo paso (más de 1 punto). A dichos valores (–1,83 y 0,61), se les denomina
+umbrales Rasch-Thurstone (Linacre, 2001).
+4.2.3 Análisis de ítems
+El buen ajuste a un modelo es una parte importante en cualquier análisis estadístico,
+pero, en el caso del análisis Rasch, es una parte esencial (Wilson, 2005). Las
+relaciones datos-modelo son muy diferentes de lo que usualmente se aplica en el
+análisis estadístico tradicional, en el cual el desajuste de los datos respecto del
+modelo suele dar lugar a la desestimación del modelo estadístico. En el caso del
+análisis Rasch, los valores que no ajustan (misfit) conducen al rechazo de los datos,
+ya que no cumplen con los requisitos del modelo. Por lo tanto, se debe entender el
+modelo Rasch como un modelo prescriptivo en el que se investiga cómo los datos se
+ajustan al modelo y no cómo el modelo se ajusta a los datos (Bond et al., 2021). Como
+90
+metí
+le
+etnematcerroc
+rednopser
+ed
+dadilibaborP

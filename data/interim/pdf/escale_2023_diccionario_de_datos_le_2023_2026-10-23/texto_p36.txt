@@ -1,0 +1,45 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P222_Inter.dbf [ Matriz 09 : Servicios de Internet en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (5) Número de pregunta C2223
+NUMERO C (1) Número de orden 9
+P222_3_1 C (8) 1. Número de Línea "Linea" + [Correlativo a
+2 dígitos]
+P222_3_2 C (1) 2. ¿La línea se encuentra activa? 1: Sí
+2: No
+P222_3_3 C (2) 3. Tipo de conexión (01:09)
+01: Red Cableada - ADSL-P (Cable telefónico)
+02: Red Cableada - FTTH (Fibra óptica)
+03: Red Cableada - HFC (Híbrido de fibra+coaxial)
+04: Red Cableada - Cable (Cable coaxial)
+05: Internet Satelital
+06: Red Inalámbrica por WIFI
+07: Red Inalámbrica por Internet Portátil/USB Modem
+08: Red Inalámbrica por Radioenlace
+09: Otro
+P222_3_4 C (2) 4. Empresa operadora que brinda el servicio (01:08)
+01: Movistar/Telefónica Movistar del Perú S.A.A.
+02: Claro
+03: Entel
+04: BITEL/VIETTEL PERU S.A.C
+05: VSAT/MINEDU
+06: LEVEL3
+07: WIN
+08: Otro
+P222_3_5 C (2) 5. Entidad que financia el Servicio (01:11)
+01: MINEDU
+02: Unidad Ejecutora/UGEL/DRE
+03: Gobierno Regional
+04: Gobierno Local/Municipal
+05: MTC (Concesión/Convenio)
+06: Comunidad
+07: Recursos propios de la IE/Autofinanciado por la IE
+08: APAFA/Padres de familia
+09: Personal de la I.E.
+10: Empresa Privada u Organización
+11: Otro
+P222_3_6 N (4) 6. Velocidad contratada Mbps (considere según recibo o 9999
+contrato)
+35

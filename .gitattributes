@@ -1,0 +1,8 @@
+# Los datos se guardan byte a byte (con su BOM y sus saltos de linea) para que el CSV generado en GitHub sea identico al local.
+*.csv -text
+*.jsonl -text
+*.json -text
+*.ipynb text eol=lf
+*.bat text eol=crlf
+*.sh text eol=lf
+*.yml text eol=lf

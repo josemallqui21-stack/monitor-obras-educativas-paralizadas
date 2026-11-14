@@ -1,0 +1,41 @@
+Reporte técnico evaluaciones 2024 Capítulo 1
+de ciertas tareas. Si bien se pueden formular ítems cerrados de opción múltiple para
+evaluar estas habilidades complejas, los ítems de respuesta construida permiten
+medirlas en toda su dimensión y con mayor profundidad.
+Las respuestas de los estudiantes a un ítem de respuesta construida son codificadas
+por expertos en el área, especialmente capacitados para este fin. Los codificadores
+pasan por un riguroso proceso de capacitación que les permite apropiarse de la
+lógica de los ítems, los criterios de codificación y los posibles tipos de respuestas.
+Tanto para el proceso de capacitación como para la codificación en sí, se utiliza un
+manual de codificación que especifica el indicador y el descriptor que el ítem evalúa,
+estableciendo los tipos de respuesta (de crédito total, crédito parcial o sin crédito),
+así como los criterios de codificación para cada uno ellos. Además, este manual
+brinda al menos cuatro ejemplos de respuestas reales de los estudiantes para cada
+uno de los criterios establecidos.
+Las respuestas de crédito total son aquellas que muestran el logro completo de los
+procedimientos y de las habilidades implicadas en la resolución de la tarea. En este
+proceso, un estudiante puede utilizar diferentes procedimientos. Por su parte, las
+respuestas de crédito parcial son aquellas que reflejan un logro parcial del estudiante
+en la resolución de la tarea, mientras que las respuestas sin crédito evidencian una
+comprensión errada y, por lo tanto, no responden a los criterios de codificación
+establecidos.
+En las pruebas de las evaluaciones nacionales de logros de aprendizaje, hay una
+menor cantidad de ítems de respuesta construida en relación con los ítems de opción
+múltiple. Esto se debe a que el procesamiento de las respuestas de este tipo de
+ítems es complejo y, en aplicaciones masivas como la ENLA 2024, demanda muchos
+recursos y tiempo.
+1.2 Procesos de validación de los instrumentos de evaluación
+Estos procesos se realizan para obtener evidencias de validez vinculadas al contenido
+de las pruebas. Este tipo de evidencias se vincula con la necesidad de garantizar
+que la prueba sea una muestra adecuada y representativa de los contenidos que
+pretende evaluar (McGartland et al., 2003; Muñiz, 1998). En esta misma línea, Suen
+(1990) indica que los ítems en un test o prueba, constituyen supuestamente una
+muestra representativa de todos los ítems que se pueden emplear para medir el
+constructo de interés. Si este supuesto se cumple, entonces se podrá decir que
+la prueba tiene adecuadas evidencias de validez referidas a su contenido. Esta se
+definiría, entonces, como la representatividad de los ítems empleados en un test para
+medir un constructo particular. A su vez, la representatividad de un test sería definido
+como la precisión con que se puede hacer inferencias acerca de la puntuación de
+la persona en el universo de indicadores a partir de la puntuación en la muestra de
+ítems que constituyen la prueba (Paz, 1996).
+13

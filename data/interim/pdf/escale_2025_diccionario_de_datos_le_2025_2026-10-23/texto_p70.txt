@@ -1,0 +1,47 @@
+Archivo: Loc_P93_IntPro.dbf - Matriz 17: Equipos de interconexión y protección de energía en el Local Educativo ]
+Variable Tipo Descripción Valor
+P93_3_52 N (5) 3. Cantidad de equipos operativos 99999
+5. Cantidad de equipos según número de puertos
+2. De 5 a 8 puertos
+P93_3_53 N (5) 3. Cantidad de equipos operativos 99999
+5. Cantidad de equipos según número de puertos
+3. De 12 a 16 puertos
+P93_3_54 N (5) 3. Cantidad de equipos operativos 99999
+5. Cantidad de equipos según número de puertos
+4. De 24 puertos
+P93_3_55 N (5) 3. Cantidad de equipos operativos 99999
+5. Cantidad de equipos según número de puertos
+5. De 48 puertos
+Capítulo 10: Información específica por espacio educativo y/o administrativo (solo para gestión privada)
+Archivo: Loc_P10_1_EduAdm.dbf [ Matriz 18: Espacios educativos y/o administrativos de I.E. Privada ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) 10.1. Respecto a los espacios educativos y/o administrativos, C101
+indique:
+CODIGO C (3) Código de tipo de espacio educativo y/o administrativo (000:137)
+DESCRIP C (100) Descripción Texto (Ver descripción
+en tabla 01)
+P10_1_1 C (1) 1. El local educativo cuenta con: 1: Sí
+2: No
+P10_1_2_1 N (5) Cantidad de espacios 99999
+2. En uso
+- Estado de conservación
+1. Total
+P10_1_2_2 N (5) Cantidad de espacios 99999
+2. En uso
+- Estado de conservación
+2. Buen estado
+P10_1_2_3 N (5) Cantidad de espacios 99999
+2. En uso
+- Estado de conservación
+3. Regular estado
+P10_1_2_4 N (5) Cantidad de espacios 99999
+2. En uso
+- Estado de conservación
+4. Mal estado
+P10_1_3_1 N (5) Cantidad de espacios 99999
+3. Sin uso
+- Estado de conservación
+1. Total
+69

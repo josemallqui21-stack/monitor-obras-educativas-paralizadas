@@ -1,0 +1,47 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P401_Edific.dbf [ Matriz 11: Edificaciones en el Local Educativo ]
+Variable Tipo Descripción Valor
+P401_6 N (2) 6. Número de pisos 99
+P401_7 N (10,2) 7. Área techada total 9999999.99
+P401_8_1 C (4) 8. Datos de construcción de la obra 9999
+1. Año de término
+P401_8_2 C (2) 8. Datos de construcción de la obra Ver código en Tabla 02
+2. Tipo de Entidad Ejecutora
+P401_9 C (1) 9. ¿La edificación posee más de un tipo de sistema 1: Sí
+estructural? 2: No
+P401_10 C (2) 10. Sistema Estructural Predominante Ver código en Tabla 03
+P401_11_11 C (2) 11. Elementos Estructurales Ver código en Tabla 03
+1. Muros
+1. Material Predominante
+P401_11_12 C (2) 11. Elementos Estructurales Ver código en Tabla 04
+1. Muros
+2. Estado de Conservación
+P401_11_21 C (2) 11. Elementos Estructurales Ver código en Tabla 03
+2. Columnas
+1. Material Predominante
+P401_11_22 C (2) 11. Elementos Estructurales Ver código en Tabla 04
+2. Columnas
+2. Estado de Conservación
+P401_11_31 C (2) 11. Elementos Estructurales Ver código en Tabla 03
+3. Vigas
+1. Material Predominante
+P401_11_32 C (2) 11. Elementos Estructurales Ver código en Tabla 04
+3. Vigas
+2. Estado de Conservación
+P401_11_41 C (2) 11. Elementos Estructurales Ver código en Tabla 03
+4. Estructura de Techos
+1. Material Predominante
+P401_11_42 C (2) 11. Elementos Estructurales Ver código en Tabla 04
+4. Estructura de Techos
+2. Estado de Conservación
+P401_12_11 C (2) 12. Elementos No Estructurales Ver código en Tabla 05
+1. Cobertura de Techos
+1. Material Predominante
+P401_12_12 C (2) 12. Elementos No Estructurales Ver código en Tabla 04
+1. Cobertura de Techos
+2. Estado de Conservación
+P401_12_21 C (2) 12. Elementos No Estructurales Ver código en Tabla 04
+2. Estado de Conservación
+1. Techo y Entrepisos
+-- 44 --

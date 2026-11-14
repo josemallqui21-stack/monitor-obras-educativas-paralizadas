@@ -1,0 +1,265 @@
+﻿fecha_corte,anio,causal,causa_grupo,causa_macro,obras_paralizadas,pct_obras,costo_actualizado_soles,saldo_inversion_soles,fuente_pdf,pagina
+2022-06-30,2022,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,2,,5251249.0,1076459.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,15
+2022-06-30,2022,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,59,,533796741.0,297772889.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,15
+2022-06-30,2022,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,22,,259752143.0,133219253.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,15
+2022-06-30,2022,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,117,,4358283860.0,2783779930.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,15
+2022-06-30,2022,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,16,,258824516.0,136132368.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,15
+2022-06-30,2022,EVENTOS CLIMATICOS,clima,fuerza_mayor,245,,1455278026.0,496980738.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,15
+2022-06-30,2022,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,27,,411909695.0,116973106.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,15
+2022-06-30,2022,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,611,,2757693629.0,1234579254.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,15
+2022-06-30,2022,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,314,,9568323713.0,4840583487.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,15
+2022-06-30,2022,INTERFERENCIAS,interferencias,entorno_social_y_territorial,11,,23002476.0,4355001.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,15
+2022-06-30,2022,OTROS,otros,sin_clasificar,911,,9530700233.0,4436050795.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,15
+2022-06-30,2022,PANDEMIA COVID-19,pandemia,fuerza_mayor,11,,569391552.0,172193586.0,contraloria_2022_informe_obras_paralizadas_junio_2022_2026-10-27.pdf,15
+2022-09-30,2022,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,3,,10559176.0,2823689.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,15
+2022-09-30,2022,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,64,,186269565.0,34487860.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,15
+2022-09-30,2022,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,18,,122969855.0,19063982.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,15
+2022-09-30,2022,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,150,,5856421767.0,3788821935.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,15
+2022-09-30,2022,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,23,,592466255.0,348581521.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,15
+2022-09-30,2022,EVENTOS CLIMATICOS,clima,fuerza_mayor,84,,346040613.0,61522060.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,15
+2022-09-30,2022,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,25,,17464411967.0,17170679787.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,15
+2022-09-30,2022,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,515,,1662494353.0,515557562.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,15
+2022-09-30,2022,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,299,,9658611720.0,4237154414.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,15
+2022-09-30,2022,INTERFERENCIAS,interferencias,entorno_social_y_territorial,18,,160809523.0,6553440.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,15
+2022-09-30,2022,OTROS,otros,sin_clasificar,1093,,5788631244.0,1853507083.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,15
+2022-09-30,2022,PANDEMIA COVID-19,pandemia,fuerza_mayor,10,,17467903.0,4594619.0,contraloria_2022_informe_obras_paralizadas_setiembre_2022_2026-10-27.pdf,15
+2022-12-31,2022,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,4,,9529488.0,2326806.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,15
+2022-12-31,2022,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,37,,555912875.0,303946832.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,15
+2022-12-31,2022,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,13,,509258160.0,179318099.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,15
+2022-12-31,2022,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,111,,5664281340.0,3513550547.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,15
+2022-12-31,2022,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,12,,427531150.0,184341903.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,15
+2022-12-31,2022,EVENTOS CLIMATICOS,clima,fuerza_mayor,37,,357072890.0,99555250.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,15
+2022-12-31,2022,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,5,,14847962.0,6794303.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,15
+2022-12-31,2022,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,421,,1655409086.0,775046611.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,15
+2022-12-31,2022,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,247,,7316670464.0,3451749035.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,15
+2022-12-31,2022,INTERFERENCIAS,interferencias,entorno_social_y_territorial,7,,399461656.0,39013578.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,15
+2022-12-31,2022,OTROS,otros,sin_clasificar,985,,4685067253.0,1818640230.0,contraloria_2022_informe_obras_paralizadas_diciembre_2022_2026-10-27.pdf,15
+2023-02-28,2023,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,8,0.4,42935233.0,10039620.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,13
+2023-02-28,2023,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,32,2.3,83587307.0,42287274.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,13
+2023-02-28,2023,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,10,0.7,411310930.0,401622094.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,13
+2023-02-28,2023,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,102,5.4,4801205242.0,3043621256.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,13
+2023-02-28,2023,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,7,0.4,129167535.0,48985858.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,13
+2023-02-28,2023,EVENTOS CLIMATICOS,clima,fuerza_mayor,31,2.3,111037190.0,17608382.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,13
+2023-02-28,2023,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,8,0.6,106303496.0,39040224.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,13
+2023-02-28,2023,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,328,20.4,996110025.0,396226400.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,13
+2023-02-28,2023,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,279,17.1,9981520848.0,5129183256.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,13
+2023-02-28,2023,INTERFERENCIAS,interferencias,entorno_social_y_territorial,4,0.3,347028221.0,12103590.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,13
+2023-02-28,2023,OTROS,otros,sin_clasificar,942,50.1,5767889083.0,2280731662.0,contraloria_2023_informe_obras_paralizadas_febrero_2023_2026-10-27.pdf,13
+2023-05-31,2023,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,22,1.7,115054612.0,61243238.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13
+2023-05-31,2023,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,10,0.7,333135070.0,216748964.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13
+2023-05-31,2023,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,27,1.9,489389497.0,295111775.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13
+2023-05-31,2023,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,65,3.9,5263977135.0,2915733951.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13
+2023-05-31,2023,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,11,0.9,177732289.0,30939165.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13
+2023-05-31,2023,EVENTOS CLIMATICOS,clima,fuerza_mayor,14,1.2,180347606.0,45906684.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13
+2023-05-31,2023,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,8,0.7,1396963727.0,533512721.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13
+2023-05-31,2023,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,118,9.7,555437635.0,212965574.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13
+2023-05-31,2023,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,167,12.0,7834652657.0,4171502793.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13
+2023-05-31,2023,INTERFERENCIAS,interferencias,entorno_social_y_territorial,6,0.5,43667090.0,29449713.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13
+2023-05-31,2023,OTROS,otros,sin_clasificar,1161,67.0,6258592583.0,2751449412.0,contraloria_2023_informe_obras_paralizadas_mayo_2023_2026-10-27.pdf,13
+2023-06-30,2023,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,15,0.9,64600500.0,21579325.0,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13
+2023-06-30,2023,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,38,2.4,418128590.0,259466480.0,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13
+2023-06-30,2023,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,31,2.5,465569199.0,275183051.0,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13
+2023-06-30,2023,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,83,3.7,6069531585.0,3640785993.0,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13
+2023-06-30,2023,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,15,1.0,213942140.0,52510770.0,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13
+2023-06-30,2023,EVENTOS CLIMATICOS,clima,fuerza_mayor,19,1.6,478113312.0,227495129.0,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13
+2023-06-30,2023,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,12,0.9,1642076349.0,735062872.0,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13
+2023-06-30,2023,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,353,22.5,1181346491.0,459899313.0,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13
+2023-06-30,2023,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,273,16.0,8881813996.0,4544383823.0,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13
+2023-06-30,2023,INTERFERENCIAS,interferencias,entorno_social_y_territorial,4,0.2,36879414.0,24502713.0,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13
+2023-06-30,2023,OTROS,otros,sin_clasificar,983,48.2,4638360234.0,1535964364.0,contraloria_2023_informe_obras_paralizadas_junio_2023_2026-10-27.pdf,13
+2023-07-31,2023,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,8,0.4,31980465.0,15879240.0,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13
+2023-07-31,2023,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,56,2.7,522213118.0,301239881.0,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13
+2023-07-31,2023,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,30,1.5,273931963.0,111096334.0,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13
+2023-07-31,2023,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,72,3.5,5691893886.0,3439379128.0,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13
+2023-07-31,2023,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,9,0.4,106665304.0,12927651.0,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13
+2023-07-31,2023,EVENTOS CLIMATICOS,clima,fuerza_mayor,30,1.5,302073022.0,182673032.0,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13
+2023-07-31,2023,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,9,0.4,1626747898.0,728031324.0,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13
+2023-07-31,2023,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,372,18.1,1411329783.0,629796656.0,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13
+2023-07-31,2023,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,277,13.5,9077707834.0,4894106211.0,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13
+2023-07-31,2023,INTERFERENCIAS,interferencias,entorno_social_y_territorial,11,0.5,61402297.0,29128185.0,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13
+2023-07-31,2023,OTROS,otros,sin_clasificar,1181,57.5,6315788337.0,2336871334.0,contraloria_2023_informe_obras_paralizadas_julio_2023_2026-10-27.pdf,13
+2023-08-31,2023,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,10,0.5,25653207.0,8078735.0,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13
+2023-08-31,2023,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,58,2.9,573167575.0,358751112.0,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13
+2023-08-31,2023,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,30,1.5,227608587.0,78097912.0,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13
+2023-08-31,2023,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,79,3.9,8221502328.0,3367644912.0,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13
+2023-08-31,2023,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,9,0.4,105745779.0,26090727.0,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13
+2023-08-31,2023,EVENTOS CLIMATICOS,clima,fuerza_mayor,27,1.3,282251685.0,127308482.0,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13
+2023-08-31,2023,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,13,0.6,1583722272.0,634341747.0,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13
+2023-08-31,2023,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,361,18.0,1200563831.0,539567101.0,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13
+2023-08-31,2023,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,248,12.3,9085604543.0,4807486967.0,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13
+2023-08-31,2023,INTERFERENCIAS,interferencias,entorno_social_y_territorial,1,0.0,693819.0,547321.0,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13
+2023-08-31,2023,OTROS,otros,sin_clasificar,1174,58.4,5677992814.0,2344377446.0,contraloria_2023_informe_obras_paralizadas_agosto_2023_2026-10-27.pdf,13
+2023-09-30,2023,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,10,0.5,25957902.0,8362731.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13
+2023-09-30,2023,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,80,3.9,629381134.0,385289408.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13
+2023-09-30,2023,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,32,1.5,291950386.0,110549985.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13
+2023-09-30,2023,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,91,4.4,7647940714.0,4755862238.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13
+2023-09-30,2023,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,9,0.4,90337381.0,11835643.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13
+2023-09-30,2023,EVENTOS CLIMATICOS,clima,fuerza_mayor,34,1.7,207620789.0,114413136.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13
+2023-09-30,2023,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,11,0.5,1583961364.0,632767480.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13
+2023-09-30,2023,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,436,21.1,1181853314.0,538244502.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13
+2023-09-30,2023,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,717,34.8,12021914623.0,5876441775.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13
+2023-09-30,2023,INTERFERENCIAS,interferencias,entorno_social_y_territorial,1,0.0,2875344.0,3567.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13
+2023-09-30,2023,OTROS,otros,sin_clasificar,645,31.2,3420759616.0,1588751927.0,contraloria_2023_informe_obras_paralizadas_setiembre_2023_2026-10-27.pdf,13
+2023-10-31,2023,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,10,0.5,25957902.0,8362731.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13
+2023-10-31,2023,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,87,4.0,589365609.0,361316696.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13
+2023-10-31,2023,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,28,1.3,218686856.0,76056520.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13
+2023-10-31,2023,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,88,4.1,7526926752.0,4724988049.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13
+2023-10-31,2023,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,7,0.3,60646633.0,7524394.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13
+2023-10-31,2023,EVENTOS CLIMATICOS,clima,fuerza_mayor,32,1.5,190777308.0,111261516.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13
+2023-10-31,2023,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,10,0.5,1578342184.0,627853515.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13
+2023-10-31,2023,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,463,21.3,943799566.0,344040101.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13
+2023-10-31,2023,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,834,38.4,13912549820.0,7005830181.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13
+2023-10-31,2023,INTERFERENCIAS,interferencias,entorno_social_y_territorial,1,0.0,2875344.0,3567.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13
+2023-10-31,2023,OTROS,otros,sin_clasificar,611,28.1,3149890188.0,1499195007.0,contraloria_2023_informe_obras_paralizadas_octubre_2023_2026-10-27.pdf,13
+2023-12-31,2023,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,15,0.7,112754768.0,29779130.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13
+2023-12-31,2023,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,101,4.4,612836550.0,363896143.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13
+2023-12-31,2023,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,74,3.2,466246791.0,173884503.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13
+2023-12-31,2023,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,109,4.7,8156116322.0,4928787475.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13
+2023-12-31,2023,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,8,0.3,83724214.0,58076545.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13
+2023-12-31,2023,EVENTOS CLIMATICOS,clima,fuerza_mayor,46,2.0,282431002.0,89760191.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13
+2023-12-31,2023,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,8,0.4,1440268475.0,541667302.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13
+2023-12-31,2023,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,515,22.4,1082035492.0,436386515.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13
+2023-12-31,2023,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,540,23.5,11875025218.0,6091723040.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13
+2023-12-31,2023,INTERFERENCIAS,interferencias,entorno_social_y_territorial,3,0.1,31044607.0,22451573.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13
+2023-12-31,2023,OTROS,otros,sin_clasificar,879,38.3,2849716176.0,1036003952.0,contraloria_2023_informe_obras_paralizadas_diciembre_2023_2026-10-27.pdf,13
+2024-03-31,2024,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,26,1.1,965169449.0,242119800.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13
+2024-03-31,2024,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,106,4.6,963161281.0,385270893.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13
+2024-03-31,2024,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,91,3.9,996888104.0,494205150.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13
+2024-03-31,2024,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,159,6.8,9404235492.0,6115007498.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13
+2024-03-31,2024,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,14,0.6,78097174.0,48538797.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13
+2024-03-31,2024,EVENTOS CLIMATICOS,clima,fuerza_mayor,64,2.8,545237736.0,229206549.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13
+2024-03-31,2024,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,9,0.4,44993391.0,27299477.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13
+2024-03-31,2024,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,553,23.8,949064788.0,417369691.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13
+2024-03-31,2024,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,531,22.8,12921163283.0,5950922194.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13
+2024-03-31,2024,INTERFERENCIAS,interferencias,entorno_social_y_territorial,8,0.3,86486764.0,30917311.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13
+2024-03-31,2024,OTROS,otros,sin_clasificar,763,32.8,6212660613.0,2296556510.0,contraloria_2024_informe_obras_paralizadas_marzo_2024_2026-10-27.pdf,13
+2024-06-30,2024,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,29,1.3,984836530.0,213664276.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,13
+2024-06-30,2024,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,102,4.5,972917645.0,415992397.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,13
+2024-06-30,2024,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,85,3.8,926774738.0,470484662.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,13
+2024-06-30,2024,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,147,6.5,9748979716.0,6255367746.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,13
+2024-06-30,2024,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,13,0.6,83514205.0,51642301.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,13
+2024-06-30,2024,EVENTOS CLIMATICOS,clima,fuerza_mayor,71,3.1,671734113.0,302885107.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,13
+2024-06-30,2024,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,8,0.4,43607905.0,27119491.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,13
+2024-06-30,2024,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,484,21.5,963253882.0,403012746.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,13
+2024-06-30,2024,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,494,21.9,13584485065.0,6051950706.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,13
+2024-06-30,2024,INTERFERENCIAS,interferencias,entorno_social_y_territorial,9,0.4,186554695.0,35241796.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,13
+2024-06-30,2024,OTROS,otros,sin_clasificar,814,36.1,7955669394.0,3000694848.0,contraloria_2024_informe_obras_paralizadas_junio_2024_2026-10-27.pdf,13
+2024-09-30,2024,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,292,11.0,1037933484.0,453665764.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,73,3.0,673636380.0,344476767.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,237,9.0,2325701354.0,907790558.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,DESABASTECIMIENTO SOSTENIDO DE MATERIALES,materiales_logistica,logistica,15,1.0,217445285.0,78458373.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,307,12.0,13581386844.0,6925479570.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,80,3.0,1169610113.0,742314246.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,EVENTOS CLIMATICOS,clima,fuerza_mayor,70,3.0,538673121.0,146229853.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,49,2.0,313935385.0,62408640.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,582,22.0,2307050095.0,1061931529.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,636,24.0,18767232462.0,7371636168.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,INCUMPLIMIENTO DEL PAGO DE VALORIZACIONES U OTROS,recursos_financieros,financiera,30,1.0,141437302.0,61732135.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,INTERFERENCIAS,interferencias,entorno_social_y_territorial,33,1.0,266392192.0,170719138.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,OTROS,otros,sin_clasificar,242,9.0,2195403459.0,851334245.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-09-30,2024,TRANSFERENCIA DE GESTION,otros,sin_clasificar,2,0.0,19478287.0,531921.0,contraloria_2024_informe_obras_paralizadas_setiembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,247,10.0,699547172.0,302126314.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,71,2.9,707650280.0,375626816.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,271,10.9,3217759554.0,1840093749.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,DESABASTECIMIENTO SOSTENIDO DE MATERIALES,materiales_logistica,logistica,25,1.0,402530046.0,119825425.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,225,9.1,14889369274.0,9362424287.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,56,2.3,1030860782.0,682291366.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,EVENTOS CLIMATICOS,clima,fuerza_mayor,70,2.8,987029228.0,621409020.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,45,1.8,297174127.0,83479969.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,526,21.2,2140423302.0,1085995848.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,628,25.4,15913406757.0,6782197450.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,INCUMPLIMIENTO DEL PAGO DE VALORIZACIONES U OTROS,recursos_financieros,financiera,71,2.9,951833672.0,448798257.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,INTERFERENCIAS,interferencias,entorno_social_y_territorial,27,1.1,289242304.0,201763811.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2024-12-31,2024,OTROS,otros,sin_clasificar,214,8.6,1592054707.0,695053773.0,contraloria_2024_informe_obras_paralizadas_diciembre_2024_2026-10-27.pdf,13
+2025-03-31,2025,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,245,9.5,712615867.0,301021289.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-03-31,2025,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,76,3.0,726737229.0,383736912.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-03-31,2025,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,255,9.9,2528395958.0,1470942252.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-03-31,2025,DESABASTECIMIENTO SOSTENIDO DE MATERIALES,materiales_logistica,logistica,37,1.4,472240137.0,160475060.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-03-31,2025,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,212,8.2,14980277594.0,9254341484.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-03-31,2025,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,56,2.2,1036470832.0,677189759.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-03-31,2025,EVENTOS CLIMATICOS,clima,fuerza_mayor,82,3.2,1151050431.0,671069659.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-03-31,2025,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,47,1.8,325580105.0,117838200.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-03-31,2025,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,537,20.9,2160479718.0,1095382786.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-03-31,2025,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,600,23.3,15358918528.0,6610389355.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-03-31,2025,INCUMPLIMIENTO DEL PAGO DE VALORIZACIONES U OTROS,recursos_financieros,financiera,65,2.5,946025910.0,466502621.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-03-31,2025,INTERFERENCIAS,interferencias,entorno_social_y_territorial,26,1.0,281653777.0,200217760.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-03-31,2025,OTROS,otros,sin_clasificar,334,13.0,2482921220.0,1102950963.0,contraloria_2025_informe_obras_paralizadas_marzo_2025_2026-10-27.pdf,13
+2025-06-30,2025,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,193,7.9,664699839.0,214453533.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,72,3.0,733250004.0,381132252.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,249,10.3,2477325856.0,1375151894.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,DESABASTECIMIENTO SOSTENIDO DE MATERIALES,materiales_logistica,logistica,36,1.5,301965958.0,92658052.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,222,9.1,15878564408.0,9636064315.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,55,2.3,1040638060.0,639305922.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,EVENTOS CLIMATICOS,clima,fuerza_mayor,49,2.0,925530049.0,495626657.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,47,1.9,324911137.0,106142138.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,FALTA DE PERSONAL CLAVE,personal_clave,tecnica,3,0.1,28939639.0,13204144.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,516,21.3,1908884150.0,944207475.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,610,25.1,16180588128.0,6585275672.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,INCUMPLIMIENTO DEL PAGO DE VALORIZACIONES U OTROS,recursos_financieros,financiera,89,3.7,1856677150.0,525122120.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,INTERFERENCIAS,interferencias,entorno_social_y_territorial,27,1.1,259112663.0,147370599.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,OBRA JUDICIALIZADA,controversias_arbitraje,contractual_y_legal,1,0.0,10660118.0,1017053.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-06-30,2025,OTROS,otros,sin_clasificar,259,10.7,1706206816.0,656047028.0,contraloria_2025_informe_obras_paralizadas_junio_2025_2026-10-27.pdf,13
+2025-09-30,2025,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,175,7.9,597464951.0,194007666.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,67,3.0,732590416.0,377700877.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,218,9.8,2371271934.0,1278206611.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,DESABASTECIMIENTO SOSTENIDO DE MATERIALES,materiales_logistica,logistica,27,1.2,255612847.0,83887385.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,203,9.2,15160669623.0,9364016913.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,51,2.3,999758118.0,629130608.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,EVENTOS CLIMATICOS,clima,fuerza_mayor,39,1.8,205141222.0,71549683.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,43,1.9,303355322.0,82001249.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,FALTA DE PERSONAL CLAVE,personal_clave,tecnica,2,0.1,20698152.0,9311779.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,461,20.8,1766066862.0,886281435.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,584,26.4,15636719250.0,6223525494.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,INCUMPLIMIENTO DEL PAGO DE VALORIZACIONES U OTROS,recursos_financieros,financiera,81,3.7,1844748095.0,528852454.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,INTERFERENCIAS,interferencias,entorno_social_y_territorial,27,1.2,261571948.0,145323419.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,OTRAS SITUACIONES IMPREVISIBLES POSTERIORES AL PERFECCIONAMIENTO DEL CONTRATO,otros,sin_clasificar,6,0.3,59721940.0,9894049.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-09-30,2025,OTROS,otros,sin_clasificar,231,10.4,2110241002.0,834195059.0,contraloria_2025_informe_obras_paralizadas_setiembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,183,7.6,596300287.0,220874215.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,80,3.3,843193992.0,420884522.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,220,9.1,3293125412.0,1770433289.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,DESABASTECIMIENTO SOSTENIDO DE MATERIALES,materiales_logistica,logistica,31,1.3,251348025.0,79813354.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,211,8.7,17038792694.0,10710457645.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,55,2.3,1629603838.0,1175981118.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,EVENTOS CLIMATICOS,clima,fuerza_mayor,44,1.8,301556285.0,121650327.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,EVENTOS CLIMATICOS,clima,fuerza_mayor,1,0.0,855090.0,87171.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,41,1.7,320837906.0,83782009.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,FALTA DE PERSONAL CLAVE,personal_clave,tecnica,6,0.2,52902819.0,431800171.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,554,22.9,3940106844.0,1527653083.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,634,26.2,35664836599.0,14367556853.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,INCUMPLIMIENTO DEL PAGO DE VALORIZACIONES U OTROS,recursos_financieros,financiera,93,3.8,1407054017.0,649143781.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,INTERFERENCIAS,interferencias,entorno_social_y_territorial,27,1.1,259420198.0,173320933.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,NULIDAD DE OFICIO DEL CONTRATO,incumplimiento_contractual,contractual_y_legal,1,0.0,0.0,5913120.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,OTRAS SITUACIONES IMPREVISIBLES POSTERIORES AL PERFECCIONAMIENTO DEL CONTRATO,otros,sin_clasificar,3,0.1,2129980.0,871331.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2025-12-31,2025,OTROS,otros,sin_clasificar,232,9.6,1537066315.0,503272024.0,contraloria_2025_informe_obras_paralizadas_diciembre_2025_2026-10-27.pdf,13
+2026-03-31,2026,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,169,7.5,1373494941.0,1030852532.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,72,3.2,891600186.0,417688579.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,203,9.1,4078511332.0,1918114755.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,DESABASTECIMIENTO SOSTENIDO DE MATERIALES,materiales_logistica,logistica,32,1.4,252534276.0,100061093.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,203,9.1,16462473830.0,10395137467.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,51,2.3,1534849475.0,1081425329.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,EVENTOS CLIMATICOS,clima,fuerza_mayor,44,2.0,311142135.0,114832710.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,EVENTOS CLIMATICOS,clima,fuerza_mayor,6,0.3,74281702.0,12985452.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,46,2.1,487726022.0,189418328.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,FALTA DE PERSONAL CLAVE,personal_clave,tecnica,5,0.2,36997520.0,15465371.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,542,24.2,5918143017.0,1977548889.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,619,27.6,36810067308.0,15046295052.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,INCUMPLIMIENTO DEL PAGO DE VALORIZACIONES U OTROS,recursos_financieros,financiera,77,3.4,1321605884.0,655910412.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,INTERFERENCIAS,interferencias,entorno_social_y_territorial,30,1.3,1616518641.0,1536116482.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,NULIDAD DE OFICIO DEL CONTRATO,incumplimiento_contractual,contractual_y_legal,1,0.0,7972052.0,5913120.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,OTRAS SITUACIONES IMPREVISIBLES POSTERIORES AL PERFECCIONAMIENTO DEL CONTRATO,otros,sin_clasificar,5,0.2,8497105.0,3816178.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-03-31,2026,OTROS,otros,sin_clasificar,136,6.1,1979588653.0,694885787.0,contraloria_2026_informe_obras_paralizadas_marzo_2026_2026-10-27.pdf,13
+2026-06-30,2026,ABANDONO DE OBRA,incumplimiento_contractual,contractual_y_legal,104,4.6,1210229377.0,968714016.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,CONFLICTOS SOCIALES,conflictos_sociales,entorno_social_y_territorial,74,3.3,812208846.0,388406393.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,DEFICIENCIA EN EL EXPEDIENTE TECNICO,expediente_tecnico,tecnica,164,7.3,5585199405.0,3615955593.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,DESABASTECIMIENTO SOSTENIDO DE MATERIALES,materiales_logistica,logistica,65,2.9,180060258.0,62932048.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,"DISCREPANCIAS, CONTROVERSIAS Y ARBITRAJE",controversias_arbitraje,contractual_y_legal,185,8.2,6141362098.0,2704300819.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,DISPONIBILIDAD DE TERRENO,terreno_saneamiento,entorno_social_y_territorial,58,2.6,1225293208.0,811257159.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,EVENTOS CLIMATICOS,clima,fuerza_mayor,81,3.6,853521818.0,293644404.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,"FALTA DE PERMISOS, LICENCIAS Y AUTORIZACIONES",permisos_licencias,entorno_social_y_territorial,48,2.1,813035847.0,550113834.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,FALTA DE PERSONAL CLAVE,personal_clave,tecnica,2,0.1,18998468.0,9559820.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,FALTA DE RECURSOS FINANCIEROS Y LIQUIDEZ,recursos_financieros,financiera,625,27.6,2941250084.0,1392996509.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,INCUMPLIMIENTO DE CONTRATO,incumplimiento_contractual,contractual_y_legal,592,26.2,39337514710.0,15452691208.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,INCUMPLIMIENTO DEL PAGO DE VALORIZACIONES U OTROS,recursos_financieros,financiera,72,3.2,597785798.0,359100544.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,INTERFERENCIAS,interferencias,entorno_social_y_territorial,30,1.3,683721511.0,333197227.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,OTRAS SITUACIONES IMPREVISIBLES POSTERIORES AL PERFECCIONAMIENTO DEL CONTRATO,otros,sin_clasificar,4,0.2,2440673.0,900189.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13
+2026-06-30,2026,OTROS,otros,sin_clasificar,158,7.0,2425991745.0,604251288.0,contraloria_2026_informe_obras_paralizadas_junio_2026_2026-10-27.pdf,13

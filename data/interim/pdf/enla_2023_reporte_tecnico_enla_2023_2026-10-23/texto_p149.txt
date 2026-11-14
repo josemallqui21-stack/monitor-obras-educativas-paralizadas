@@ -1,0 +1,41 @@
+Reporte técnico evaluaciones 2022 Capítulo 5
+Con el objetivo de asegurar la calidad del recojo de la información, de tal manera
+que sea sensible a las características de los participantes y pueda responder
+correctamente a los objetivos y preguntas de investigación, es importante considerar
+su correcta elaboración y validación. En ese sentido, la presente sección detalla el
+proceso realizado para la preparación de los cuestionarios.
+5.1.1. Algunos conceptos claves
+Antes de comenzar con la descripción del procedimiento en sí mismo, es importante
+mencionar algunos términos que serán usados en esta sección: indicadores, índices,
+escalas y constructos. Al hablar de indicador, se hace referencia a una característica
+específica que se puede medir a través de una variable o ítem utilizado. Los
+indicadores son elementos básicos, usualmente observables o medibles que, en
+suma, pueden componer una escala o un índice (Bandalos, 2018). Algunos ejemplos
+de indicadores son los siguientes: número de estudiantes por aula, principal material
+con el que están construidas las paredes de una vivienda, nivel educativo más alto
+de un docente, frecuencia con la que un estudiante piensa en realizar sus tareas de
+Ciencia y Tecnología, etc.
+Una escala se refiere a un conjunto de preguntas, ítems o indicadores diseñados para
+medir una variable específica. Los ítems en una escala suelen estar relacionados
+conceptualmente entre sí y se agrupan en una única medida compuesta (Bandalos,
+2018). Usualmente, las escalas sirven para la medición de constructos, los cuales
+hacen referencia a un conjunto de construcciones teóricas o procesos mentales que
+se comprenden como propiedades subyacentes, que no pueden observarse de
+manera directa, y que permiten explicar ciertos comportamientos de una persona
+(DeVellis & Thorpe, 2021; Leppink, 2019). Algunos constructos son relativamente
+sencillos de medir, como la simpatía por un partido político, mientras que otros
+son más complejos, como el aprendizaje autorregulado. Para ello, en primer lugar,
+es importante contar con una clara conceptualización o definición teórica del
+constructo, la cual derivará en una definición operacional que, a su vez, se traducirá
+en indicadores. Cabe señalar que el nivel de complejidad de un constructo se
+traducirá en una mayor complejidad en su operacionalización; es decir, en el número
+o extensión de las preguntas, ítems o estímulos.
+Por último, un índice es una construcción más amplia, que abarca múltiples variables,
+indicadores o aspectos que se relacionan entre sí. Estos se crean combinando
+varios indicadores o escalas para obtener una medida compuesta que representa
+una característica más amplia. Los índices pueden ser útiles cuando se desea
+capturar una idea muy compleja o multidimensional y que no puede abordarse con
+indicadores aislados o con una sola escala (Babbie, 2010). Un ejemplo de índice
+construido por los especialistas del equipo de Factores Asociados en la UMC es el
+índice socioeconómico.
+147

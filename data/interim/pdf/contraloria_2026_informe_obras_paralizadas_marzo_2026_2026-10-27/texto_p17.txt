@@ -1,0 +1,44 @@
+Tabla 15. Obras públicas paralizadas registradas en el inventario con informe de estado
+situacional
+Con Informe de estado Obras Paralizadas Costo Actualizado
+Saldo de la Inversión S/
+situacional
+N.° % S/ %
+SI 281 39.2% 11,234,373,440 56.4% 4,673,111,441
+NO 436 60.8% 8,687,801,921 43.6% 4,709,309,722
+Total 717 100% 19,922,175,361 100% 9,382,421,164
+Fuente: Inventario de obras públicas paralizadas del Banco de Inversiones del MEF.
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/03/2026
+2.12. Obras públicas paralizadas según PIM al 2026
+El Presupuesto Institucional Modificado (PIM) es el presupuesto actualizado de
+la entidad pública a consecuencia de las modificaciones presupuestarias, tanto
+a nivel institucional como a nivel funcional programático, efectuadas durante el
+año fiscal, a partir del Presupuesto Institucional de Apertura (PIA).
+Al respecto, de acuerdo a la información obtenida de la Consulta Avanzada de
+Inversiones del Banco de Inversiones; de las 2 241 obras paralizadas, solo 689
+obras cuentan con PIM al 2026 representando el 30.7% del total de obras
+paralizadas con un monto asignado de S/ 4 610 millones.
+Tabla 16. Asignación de PIM 2026
+Obras Paralizadas Costo Actualizado PIM 2025
+Con PIM 2025
+S/
+N.° % S/ %
+SI 689 30.7% 61,991,485,329 84.7% 4,610,212,642
+NO* 1552 69.3% 11,174,518,749 15.3% -
+Total 2241 100.00% 73,166,004,078 100.00% 4,610,212,642
+(*) Incluye las obras que no tienen Código único de inversiones.
+Fuente: Consulta Avanzada de Inversiones del Banco de Inversiones
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/03/2026
+A continuación, se muestran la cantidad de obras públicas paralizadas que
+cuentan con PIM al 2026 por departamento.
+Tabla 17. Asignación de PIM 2026 por Departamento
+Con PIM 2025 Sin PIM 2025
+Departamento Total
+N.° % N.° %
+Amazonas 18 41% 26 59% 44
+Ancash 78 41% 110 59% 188
+Apurímac 24 28% 63 72% 87
+Arequipa 63 50% 63 50% 126
+Ayacucho 36 26% 104 74% 140

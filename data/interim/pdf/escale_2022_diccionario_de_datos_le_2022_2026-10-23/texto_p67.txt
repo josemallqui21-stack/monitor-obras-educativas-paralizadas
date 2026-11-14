@@ -1,0 +1,60 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+P701_11_3 N (6) 11. Sobre la letrina de los SS.HH. (00001:99999)
+Letrinas operativas según estado de
+conservación
+3. Buen estado
+P701_11_4 N (6) 11. Sobre la letrina de los SS.HH. (00001:99999)
+Letrinas operativas según estado de
+conservación
+4. Regular estado
+P701_11_5 N (6) 11. Sobre la letrina de los SS.HH. (00001:99999)
+Letrinas operativas según estado de
+conservación
+5. Mal estado
+P701_12_1 C (1) 12. Sobre los inodoros y/o wáter en los SS.HH. 1: Niños
+1. El diseño y finalidad de uso de los inodoros 2: Adultos
+y/o water de este ambiente es para:
+P701_12_2 N (6) 12. Sobre los inodoros y/o wáter en los SS.HH. (000001:999999)
+Cantidad de inodoros y/o wáter
+2. Total
+P701_12_3 N (6) 12. Sobre los inodoros y/o wáter en los SS.HH. (000001:999999)
+Cantidad de inodoros y/o wáter
+3. Operativos
+P701_12_4 N (6) 12. Sobre los inodoros y/o wáter en los SS.HH. (000001:999999)
+Cantidad de inodoros y/o wáter operativos
+según estado de conservación
+4. Buen estado
+P701_12_5 N (6) 12. Sobre los inodoros y/o wáter en los SS.HH. (000001:999999)
+Cantidad de inodoros y/o wáter operativos
+según estado de conservación
+5. Regular estado
+P701_12_6 N (6) 12. Sobre los inodoros y/o wáter en los SS.HH. (000001:999999)
+Cantidad de inodoros y/o wáter operativos
+según estado de conservación
+6. Mal estado
+P701_12_7 N (6) 12. Sobre los inodoros y/o wáter en los SS.HH. (000001:999999)
+7. Del total operativos ¿cuántos tienen función
+de descarga?
+P701_12_8 N (6) 12. Sobre los inodoros y/o wáter en los SS.HH. (000001:999999)
+8. Cantidad de inodoros o water habilitados para
+una persona con discapacidad
+P701_13_11 N (6) 13. Sobre los lavatorios o lavamanos en los (000001:999999)
+SS.HH.
+Individuales
+1. Total
+P701_13_12 N (6) 13. Sobre los lavatorios o lavamanos en los (000001:999999)
+SS.HH.
+Individuales
+2. Operativos
+P701_13_13 N (6) 10. Sobre los lavatorios o lavamanos en los (00001:99999)
+SS.HH.
+Individuales
+3. Buen estado
+P701_13_14 N (6) 10. Sobre los lavatorios o lavamanos en los (00001:99999)
+SS.HH.
+Individuales
+4. Regular estado
+P701_13_15 N (6) 10. Sobre los lavatorios o lavamanos en los (00001:99999)
+SS.HH.
+Individuales
+66

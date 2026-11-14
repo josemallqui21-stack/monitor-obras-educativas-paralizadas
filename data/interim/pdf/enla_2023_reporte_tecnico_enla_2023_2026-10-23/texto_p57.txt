@@ -1,0 +1,19 @@
+Reporte técnico evaluaciones 2022 Capítulo 2
+donde:
+pfkij = peso final en la k-ésima sección, en la i-ésima IE y el j-ésimo estrato.
+pIEij = peso de la i-ésima IE en el j-ésimo estrato.
+pseci = peso por sección en la i-ésima IE.
+aki = ajuste por estudiantes no evaluados en la k-ésima sección de la i-ésima IE.
+Ajuste por no respuesta en la ECE de 4.° grado de primaria EIB
+En el caso de las evaluaciones censales no se calcula un peso muestral; sin embargo,
+es necesario el cálculo de un ajuste por no respuesta. Estos ajustes también son
+ponderadores que permiten expandir la información recolectada a toda la población,
+incluyendo aquellos que por algún motivo no pudieron participar.
+Para el cálculo del ajuste por no respuesta se construyó una estratificación
+combinando el distrito, la característica de la escuela y el tipo de lengua (andina o
+amazónica). El cálculo del ajuste por no respuesta se realizó de la siguiente manera:
+Donde:
+AJUh = Ajuste por no respuesta en el estrato h
+EVAh = Cantidad de estudiantes evaluados en el estrato h
+PROGh = Cantidad de estudiantes matriculados en el estrato h
+55

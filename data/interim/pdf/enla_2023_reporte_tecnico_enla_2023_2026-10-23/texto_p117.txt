@@ -1,0 +1,42 @@
+Reporte técnico evaluaciones 2022 Capítulo 4
+Tabla 4.11 Indicadores del análisis de precisión y consistencia de la clasificación
+usando las medidas derivadas de las pruebas de 4.° grado de primaria
+Lectura Matemática
+Precisión Consistencia Precisión Consistencia
+Nacional 0,79 0,71 0,81 0,73
+Hombre 0,79 0,71 0,81 0,74
+Mujer 0,80 0,71 0,80 0,73
+Urbano 0,80 0,72 0,81 0,73
+Rural 0,77 0,68 0,82 0,74
+Estatal 0,79 0,71 0,81 0,73
+No estatal 0,81 0,74 0,80 0,72
+Polidocente Completo 0,80 0,72 0,81 0,73
+Unidocente / Multigrado 0,78 0,69 0,82 0,75
+Alta habilidad 0,81 0,73 0,80 0,73
+Baja habilidad 0,77 0,68 0,82 0,74
+Tabla 4.12 Indicadores del análisis de precisión y consistencia de la clasificación
+usando las medidas derivadas de las pruebas de 2.° grado de secundaria
+Lectura Matemática Ciencias Sociales
+Precisión Consistencia Precisión Consistencia Precisión Consistencia
+Nacional 0,72 0,62 0,75 0,65 0,71 0,60
+Hombre 0,72 0,62 0,75 0,65 0,71 0,61
+Mujer 0,72 0,62 0,75 0,66 0,70 0,60
+Urbano 0,72 0,62 0,74 0,65 0,70 0,60
+Rural 0,73 0,63 0,77 0,69 0,72 0,62
+Estatal 0,72 0,62 0,75 0,66 0,70 0,60
+No estatal 0,72 0,62 0,73 0,63 0,71 0,61
+Alta
+0,72 0,62 0,74 0,64 0,70 0,60
+habilidad
+Baja
+0,73 0,63 0,77 0,69 0,72 0,62
+habilidad
+4.4 Equiparación de medidas de Educación Básica Regular (EBR)
+En el marco del análisis Rasch, las puntuaciones del rasgo latente tienen un origen
+y una escala de medición arbitrarios (Bond et al., 2021). Por ello, dos instrumentos
+que miden lo mismo, aplicados a distintas muestras de personas, no se encontrarán
+en la misma métrica. Para establecer las comparaciones necesarias, ambas pruebas
+deben equipararse; es decir, deben ser puestas en la misma escala. La conversión
+implica usar una constante aditiva y, en otras, el uso de una constante multiplicativa
+(Livingston, 2004).
+115

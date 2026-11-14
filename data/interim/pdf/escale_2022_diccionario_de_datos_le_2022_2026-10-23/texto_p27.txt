@@ -1,0 +1,57 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Nombre de archivo: Local_lineal_02.dbf
+SECCIÓN: 200. SERVICIOS BÁSICOS EN EL CENTRO POBLADO Y EN EL LOCAL
+EDUCATIVO
+TABLA: LOCAL_LINEAL_02.DBF
+Campo Formato Descripción de variable Valor de variable
+P201_3 C (2) 201. Servicios en el Centro Poblado SI / NO
+3. Desagüe
+P201_4 C (2) 201. Servicios en el Centro Poblado SI / NO
+4. Internet
+P201_5 C (2) 201. Servicios en el Centro Poblado SI / NO
+5. Posta médica o Centro de Salud
+P201_6 C (2) 201. Servicios en el Centro Poblado SI / NO
+6. Comedores populares
+P201_7 C (2) 201. Servicios en el Centro Poblado SI / NO
+7. Agencia bancaria
+P201_8 C (2) 201. Servicios en el Centro Poblado SI / NO
+8. Biblioteca municipal o comunal
+P201_9 C (2) 201. Servicios en el Centro Poblado SI / NO
+9. Cabina de internet
+P201_10 C (2) 201. Servicios en el Centro Poblado SI / NO
+10. Comisaria
+P201_11 C (2) 201. Servicios en el Centro Poblado SI / NO
+11. Servicio de gas
+P201_12 C (2) 201. Servicios en el Centro Poblado SI / NO
+12. Teléfono comunal
+P201_12_1 C (15) 201. Servicios en el Centro Poblado 999999999
+12. Teléfono comunal - Número de teléfono
+B. ABASTECIMIENTO DE AGUA QUE USA EL LOCAL EDUCATIVO
+P202 MATRIZ 202. Procedencia del abastecimiento de agua (Registrar Local_Servicios_
+información por cada predio del local educativo) Basicos (*)
+(Ubicado después
+de este cuadro de
+preguntas)
+P203 C (2) 203. El local educativo ¿cuenta el servicio de agua potable SI / NO
+todos los días de la semana?
+P203_1 C (1) 203. El local educativo ¿cuenta el servicio de agua potable “X”
+todos los días de la semana?
+- Días a la semana que tiene el servicio
+1: Lunes
+P203_2 C (1) 203. El local educativo ¿cuenta el servicio de agua potable “X”
+todos los días de la semana?
+- Días a la semana que tiene el servicio
+2: Martes
+P203_3 C (1) 203. El local educativo ¿cuenta el servicio de agua potable “X”
+todos los días de la semana?
+- Días a la semana que tiene el servicio
+3: Miércoles
+P203_4 C (1) 203. El local educativo ¿cuenta el servicio de agua potable “X”
+todos los días de la semana?
+- Días a la semana que tiene el servicio
+4: Jueves
+P203_5 C (1) 203. El local educativo ¿cuenta el servicio de agua potable “X”
+todos los días de la semana?
+- Días a la semana que tiene el servicio
+5: Viernes
+26

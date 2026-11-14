@@ -1,0 +1,47 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+117.3. TRASLADO DESDE LA CAPITAL DISTRITAL AL LOCAL EDUCATIVO
+¿CUÁNTOS TRAYECTOS TIENE LA RUTA QUE UTILIZA HABITUALMENTE PARA
+TRASLADARSE DESDE LA CAPITAL DISTRITAL (PLAZA DE ARMAS) HASTA EL LOCAL
+EDUCATIVO?
+Tabla: LOCAL_TRAYECTOS.dbf
+Campo Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo (000001:999999)
+CODUGEL C (6) Código de Dependencia Administrativa (000001:999999)
+NROCED C (5) Número de cédula 11
+CUADRO C (6) 117.3. Traslado desde la capital distrital al local 1172
+educativo
+¿Cuántos trayectos tiene la ruta que utiliza
+habitualmente para trasladarse desde la capital
+distrital (plaza de armas) hasta el Local
+Educativo?
+NUMERO C (2) Número de trayecto (*)
+HORAS N (6) Tiempo aproximado de recorrido de cada trayecto (0:999)
+Horas
+MINUTOS N (6) Longitud del tramo (mts) (0:59)
+Minutos
+MEDIO C (2) Medio de transporte y vía utilizado (**)
+(*) Número de trayecto:
+ “01”: 1
+ “02”: 2
+ “03”: 3
+ “04”: 4
+ ..
+ “10”: 10
+(**) Medio de transporte y vía utilizada:
+ “01”: Vehicular por vía asfaltada
+ “02”: Vehicular por vía afirmada
+ “03”: Vehicular por trocha carrozable
+ “04”: Peatonal
+ “05”: Fluvial
+ “06”: Otro
+Nombre de archivo: Local_lineal_02.dbf
+SECCIÓN: 200. SERVICIOS BÁSICOS EN EL CENTRO POBLADO Y EN EL LOCAL
+EDUCATIVO
+TABLA: Local_lineal_02.dbf
+Campo Formato Descripción de variable Valor de variable
+A. SERVICIOS EN EL CENTRO POBLADO
+P201_1 C (2) 201. Servicios en el Centro Poblado SI / NO
+1. Energía eléctrica
+P201_2 C (2) 201. Servicios en el Centro Poblado SI / NO
+2. Agua potable
+25

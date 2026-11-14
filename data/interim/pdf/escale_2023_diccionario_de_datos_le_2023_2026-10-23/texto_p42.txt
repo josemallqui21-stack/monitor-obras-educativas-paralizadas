@@ -1,0 +1,44 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_2.dbf
+Variable Formato Descripción de variable Valor de variable
+P401 N (4) 401. Número de edificaciones en el local educativo 9999
+Archivo : Loc_P401_Edific.dbf [ Matriz 12 : Edificaciones en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de pregunta C401
+NUMERO C (2) Número de orden 99
+ID_EDIF C (3) 1.Número de edificación "E" + [Correlativo
+a 2 dígitos]
+ID_TERR C (4) 2. ¿En qué terreno se encuentra la edificación? "TE" +
+[Correlativo a 2
+dígitos]
+P401_3 C (1) 3. ¿La edificación se encuentra en uso? 1: Sí
+2: No
+P401_4 C (1) 4. ¿La edificación es un módulo prefabricado? 1: Sí
+2: No
+P401_5_1 C (4) 5. Sobre el módulo prefabricado 9999
+1. Año de instalación
+P401_5_2 C (2) 5. Sobre el módulo prefabricado Ver código en
+2. ¿Cuál es la finalidad del uso del módulo prefabricado? Tabla 01
+P401_6 N (2) 6. Número de pisos 99
+P401_7 N (9,2) 7. Área techada total 999999.99
+P401_8_1 C (4) 8. Datos de construcción de la obra 9999
+1. Año de término
+P401_8_2 C (2) 8. Datos de construcción de la obra Ver código en
+2. Tipo de Entidad Ejecutora Tabla 02
+P401_9 C (2) 9. Sistema Estructural Predominante Ver código en
+Tabla 03
+P401_10_11 C (2) 10. Elementos Estructurales Ver código en
+1. Muros Tabla 03
+1. Material Predominante
+P401_10_12 C (2) 10. Elementos Estructurales Ver código en
+1. Muros Tabla 04
+2. Estado de Conservación
+P401_10_21 C (2) 10. Elementos Estructurales Ver código en
+2. Columnas Tabla 03
+1. Material Predominante
+P401_10_22 C (2) 10. Elementos Estructurales Ver código en
+2. Columnas Tabla 04
+2. Estado de Conservación
+41

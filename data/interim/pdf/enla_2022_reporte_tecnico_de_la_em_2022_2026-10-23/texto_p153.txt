@@ -1,0 +1,36 @@
+Reporte técnico evaluaciones 2022 Capítulo 4
+2019 2022 EQP FDI
+Ítem
+Medida
+Medida Error Medida Error Medida Error
+equiparada
+MA40 -1,769 0,013 -2,015 0,087 -1,684 -0,085 0,088
+MA47 -1,165 0,012 -1,338 0,078 -1,050 -0,115 0,079
+MA49 -1,155 0,012 -1,712 0,060 -1,400 0,245 0,061
+Tabla 4.27 Constantes de equiparación de la EM 2022 de 2.° grado de secundaria
+Prueba a b
+Lectura 0,839 0,898
+Matemática 0,978 0,870
+Ciencia y Tecnología 0,956 -0,190
+Tabla 4.28 Constantes de equiparación de la EM 2022 de 2.°, 4.° y 6.° grado de
+primaria
+Prueba a b
+Lectura, 2.° grado de primaria 1,115 1,818
+Matemática, 2.° grado de primaria 1,086 0,249
+Lectura, 4.° grado de primaria 0,950 -0,438
+Matemática, 4.° grado de primaria 1,100 -0,914
+Lectura, 6.° grado de primaria 0,766 0,064
+Matemática, 6.° grado de primaria 0,937 0,205
+Nota: El último reporte de 6.° grado de primaria en las áreas de Lectura y Matemática data de la EM 2013.
+Por ello, para el 2022, se ha realizado una transformación de la medida de los ítems distinta a las de los
+otros grados. Esta se conoce como escalamiento vertical (véase Kolen y Brennan, 2014) y consistió en
+escalar la métrica de 6.° grado de primaria a la de 4.° grado de primaria, previa equiparación de 4.° grado
+de primaria con el año 2019 (la cual mantiene un escrutinio histórico con la escala primaria).
+4.5 Niveles de logro y preparación de resultados
+El diseño de las evaluaciones permite estimar, a partir de su desempeño en las
+pruebas, lo que los estudiantes saben y hacen respecto de lo que deberían saber y
+hacer. De acuerdo con ello, la interpretación de los resultados de la EM está referida
+a criterios o estándares de logro (Muñiz, 1998). Para hacerlo, es necesario establecer
+puntos de corte, lo que constituye un procedimiento estándar utilizado para delimitar
+numéricamente dos o más niveles de desempeño de una competencia (Cizek y
+151

@@ -1,0 +1,41 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P101_Nivel.dbf [ Matriz 01 : Niveles ]
+Variable Formato Descripción de variable Valor de variable
+P101_6_1 C (1) 6. Sobre Residencia Estudiantil (RE) 1: Sí
+¿Cuenta con RE? 2: No
+P101_6_2 N (5) 6. Sobre Residencia Estudiantil (RE) 99999
+Cantidad de alumnos en la RE
+P101_7_1 C (1) 7. Sobre el(los) Local(es) Adicional(es) 1: Sí
+¿Cuenta con un Local Adicional? 2: No
+P101_7_2 C (1) 7. Sobre el(los) Local(es) Adicional(es) 1: Sí
+¿Tiene Código de Local Educativo? 2: No
+P101_7_3 C (6) 7. Sobre el(los) Local(es) Adicional(es) 999999
+Código de Local Educativo
+Archivo : Loc_P102_Carrer.dbf [ Matriz 02 : Listado de Carreras o Programas ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de la Pregunta C102
+N_ORD C (2) Número de orden 99
+NIV_SUP C (2) Código de Nivel de Educación Superior No Universitaria K0: Educación
+Superior
+Pedagógica
+T0: Educación
+Superior
+Tecnológica
+M0: Escuela de
+Formación
+Artística
+P0: Escuela de
+Educación
+Superior
+Pedagógica
+S0: Escuela de
+Educación
+Superior
+Tecnológica
+CODCARR C (10) Código de Carrera o Programas ofrecidos en este Local Id Carrera
+Educativo
+NAME_CAR C (150) Nombre de la carrera de Educación Superior No Texto
+Universitaria
+8

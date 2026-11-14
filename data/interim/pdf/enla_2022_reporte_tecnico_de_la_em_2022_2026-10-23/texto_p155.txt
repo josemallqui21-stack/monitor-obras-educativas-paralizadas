@@ -1,0 +1,35 @@
+Reporte técnico evaluaciones 2022 Capítulo 4
+específica de responder correctamente un ítem que posee una dificultad concreta
+(Pni).
+A partir de lo trabajado en la Evaluación Nacional de 2004 (Ministerio de Educación
+del Perú, 2005), se establece que un estudiante está en un nivel de logro si tiene una
+probabilidad mayor o igual a 0,62 de responder correctamente el ítem que marca
+el corte entre dos niveles de logro consecutivos. En este sentido, es importante
+considerar que la probabilidad de 0,62 para responder correctamente un ítem implica
+una medida de habilidad, la cual es medio logit superior a la medida de dificultad
+del ítem en cuestión. Una vez hecha esta adición para cada estudiante evaluado,
+se transforman los valores a medida 500 (M500) y se redondean a dos decimales.
+Finalmente, se asigna a cada estudiante a un determinado nivel de logro según su
+M500.
+En las tablas 4.29 y 4.30, se presentan los puntos de corte (en M500) de las
+evaluaciones muestrales del 2022.
+Tabla 4.29 Medidas (en M500) que marcan los puntos de corte de los alumnos en
+la EM 2022 de 2.° grado de secundaria
+< Nivel 1 vs. Nivel 1 vs. Nivel 2 vs
+Área
+Nivel 1 Nivel 2 Nivel 3
+Lectura 505,14 580,61 641,25
+Matemática 519,67 595,96 649,38
+Ciencia y Tecnología 374,60 509,58 628,48
+Tabla 4.30 Medida (en M500) que marcan los puntos de corte de los alumnos en
+las EM 2022 de 2.°, 4.° y 6.° grado de primaria
+< Nivel 1 vs. Nivel 1 vs. Nivel 2 vs
+Área
+Nivel 1 Nivel 2 Nivel 3
+Lectura, 2.° grado de primaria 458,39 583,66 -
+Matemática, 2.° grado de primaria 512,22 639,21 -
+Lectura, 4.° grado de primaria 356,92 444,72 522,03
+Matemática, 4.° grado de primaria 351,90 422,21 526,46
+Lectura, 6.° grado de primaria 445,46 522,17 579,14
+Matemática, 6.° grado de primaria 432,32 526,61 603,41
+153

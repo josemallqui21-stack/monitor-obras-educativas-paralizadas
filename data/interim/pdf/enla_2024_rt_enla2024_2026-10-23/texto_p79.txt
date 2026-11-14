@@ -1,0 +1,40 @@
+Reporte técnico evaluaciones 2024 Capítulo 4
+medida de dificultad, indicadores de ajuste, tasa de acierto (p) y nivel de desempeño
+para cada uno de los ítems que conforman las distintas pruebas aplicadas en la
+Evaluación Nacional de Logros de Aprendizaje (ENLA) 2024. En el caso de los ítems
+de créditos parciales se presenta los resultados para cada umbral. Las tablas 4.1 y
+4.2 presentan las medidas para los ítems de las pruebas de cuarto grado de primaria
+y las tablas 4.3 y 4.4 contienen información para los ítems de las pruebas de sexto
+grado de primaria.
+Tabla 4.1 Dificultad y ajuste de los ítems al modelo Rasch, Lectura – 4.° grado de
+primaria
+Ítem Bloque Posición Medida Error Infit Outfit PTME p Nivel
+CT001 B15 1 0,896 0,006 1,03 1,11 0,40 0,35 4
+CT002 B15 3 0,824 0,006 0,99 1,07 0,43 0,36 4
+CT003 B15 4 -0,290 0,005 0,90 0,86 0,51 0,60 3
+CT004 B15 5 -1,462 0,007 0,98 0,97 0,37 0,81 2
+CT005 B07 1 -1,375 0,006 0,94 0,90 0,43 0,79 2
+CT006 B07 2 -0,053 0,005 1,07 1,09 0,40 0,54 3
+CT007 B07 3 -0,971 0,005 0,86 0,73 0,53 0,72 2
+CT008 B07 4 -0,426 0,005 1,06 1,11 0,39 0,62 3
+CT009 B05 5 -0,786 0,006 0,91 0,85 0,49 0,70 3
+CT010 B07 5 -1,137 0,006 1,04 1,16 0,36 0,75 2
+CT011 B17 2 -0,312 0,004 0,99 0,98 0,44 0,63 3
+CT012 B17 3 -0,115 0,004 0,98 0,96 0,46 0,59 3
+CT013 B17 5 -1,051 0,005 0,97 0,99 0,41 0,76 2
+CT014 B17 4 -0,494 0,004 1,05 1,04 0,39 0,66 3
+CT015 B07 6 -0,782 0,005 0,93 0,86 0,49 0,69 3
+CT016 B17 1 -1,444 0,005 0,97 0,9 0,39 0,82 2
+CT017 B17 6 0,204 0,004 1,04 1,06 0,41 0,52 4
+CT018 B13 2 -0,899 0,007 1,06 1,06 0,39 0,62 3
+CT019 B20 1 -2,571 0,012 0,90 0,75 0,38 0,88 1
+CT020 B20 2 -2,566 0,012 0,86 0,62 0,42 0,88 1
+CT021 B20 3 -1,961 0,010 0,87 0,75 0,46 0,81 2
+CT022 B16 1 0,420 0,004 1,04 1,07 0,39 0,48 4
+CT023 B16 2 0,332 0,004 0,96 0,95 0,47 0,50 4
+CT024 B16 3 0,080 0,004 0,87 0,83 0,54 0,56 3
+CT025 B16 5 1,190 0,005 1,13 1,31 0,28 0,32 4
+CT026 B16 6 0,037 0,004 1,04 1,07 0,38 0,57 3
+CT027 B14 5 -0,760 0,003 0,88 0,79 0,52 0,70 3
+CT028 B01 5 -1,119 0,004 0,98 1,04 0,40 0,76 2
+77

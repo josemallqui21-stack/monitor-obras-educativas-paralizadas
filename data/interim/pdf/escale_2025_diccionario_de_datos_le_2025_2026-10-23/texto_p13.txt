@@ -1,0 +1,40 @@
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P223_7_OT C (80) 2.2.3. ¿Por qué razón todos o algunos de los servicios educativos están Texto
+funcionando en otro lugar?
+7: Otro --- Especifique
+Sección 3: Terreno o terrenos ocupados por el local educativo (para la gestión pública y privada)
+P231 N (6) 2.3.1. Cantidad de terrenos que ocupa el local educativo 999999
+P232 N (10,2) 2.3.2. Área total del terreno o terrenos que ocupa el local educativo 9999999,99
+Archivo: Loc_P233_SaFiLe.dbf [ Matriz 04: Saneamiento Físico Legal ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) 2.3.3. Saneamiento físico legal del terreno o terrenos que ocupa el C233
+local educativo
+ID_TERR C (4) Código del Terreno "TE" + [Correlativo
+de 2 dígitos]
+P233_1 N (10,2) 1. Área del terreno 9999999,99
+P233_2 C (2) 2. Condición de tenencia del terreno: (01:05)
+01: Propio
+02: Alquilado
+03: Prestado
+04: Cedido en uso
+05: Otro
+P233_3 C (2) 3. Propietario del terreno (01:10)
+01: Ministerio de Educación
+02: Institución Educativa
+03: Gobierno Nacional
+04: Gobierno Regional
+05: Gobierno Local - Municipalidad
+06: COFOPRI
+07: Comunidades Campesinas, Nativas
+08: Propiedad de Terceros (Privadas)
+09: No Especifica
+10: Otros
+P233_4 C (1) 4. El terreno, ¿cuenta con saneamiento Físico Legal? 1: Sí
+2: No
+P233_5 C (1) 5. ¿Se encuentra inscrito en los Registros Públicos? 1: Sí
+2: No
+P233_6 C (15) 6. N° de Partida Registral (0:9),(A:Z)
+12

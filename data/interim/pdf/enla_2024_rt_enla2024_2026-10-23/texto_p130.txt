@@ -1,0 +1,37 @@
+Código de
+Grado Actor Nombre general Sub escala Omega
+constructo
+EST6PMAT_ Ansiedad ante la
+0,903
+ANSIE matemática
+EST6PMAT_ Disrupción en clase -
+0,810
+DISRP Matemática
+EST6PMAT_ Motivación hacia la
+0,832
+MOTMAT Matemática
+EST6PHSE_ Clima de apoyo
+0,880
+APACAD académico
+EST6PHSE_
+Bienestar subjetivo 0,742
+BIESUB
+6.° grado EST6PHSE_
+Estudiante Deseabilidad Social 0,646
+de primaria DESEA
+EST6PHSE_
+Estilos parentales Compromiso 0,862
+ESTPA_COM
+EST6PHSE_ Control
+Estilos parentales 0,711
+ESTPA_CP psicológico
+EST6PHSE_
+Transgresión a la ley 0,827
+LEY
+EST6PHSE_
+Conducta prosocial 0,926
+PROSO
+EST6PHSE_ Soporte socioemocional
+0,901
+SOEMO del docente
+128

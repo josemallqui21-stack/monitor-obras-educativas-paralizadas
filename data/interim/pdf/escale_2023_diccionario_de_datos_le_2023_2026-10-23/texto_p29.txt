@@ -1,0 +1,30 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P200_ServBa.dbf [ Matriz 08 : Servicios Básicos en el Local Educativo - Desagüe ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de pregunta C206
+NUMERO C (1) Número de tipo de conexión de desagüe (1:8)
+1: Red pública
+2: Río, acequia o canal
+3: Tanque séptico
+4: Biodigestor
+5: Pozo sin tratamiento
+6: Unidades Básicas de Saneamiento con Compostera (UBS-
+C)
+7: Otro
+8: No tiene
+PREDOMIN C (50) Nombre de la procedencia Texto
+TIPO C (1) Tipo de conexión predominante en el local educativo "X"
+TERRENO_1 C (1) Registre por cada terreno (solo si tiene más de 1 terreno) "X"
+Terreno N° 01
+TERRENO_2 C (1) Registre por cada terreno (solo si tiene más de 1 terreno) "X"
+Terreno N° 02
+TERRENO_3 C (1) Registre por cada terreno (solo si tiene más de 1 terreno) "X"
+Terreno N° 03
+TERRENO_4 C (1) Registre por cada terreno (solo si tiene más de 1 terreno) "X"
+Terreno N° 04
+DESCRIP_OT C (80) Descripción de tipo de conexión de desagüe Texto
+7: Otro --- Especificar
+EMPRESA_1 C (90) 1. Empresa concesionaria/administradora del servicio Texto
+28

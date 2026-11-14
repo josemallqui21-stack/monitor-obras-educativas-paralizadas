@@ -1,0 +1,47 @@
+Tabla 7. Obras paralizadas por rango de costo actualizado
+Saldo de Inversión por
+Rango de costo actualizado Obras paralizadas Costo Actualizado ejecutar
+S/
+N° % S/ % S/ %
+< =1 millón 940 36.5% 417,978,374 1.0% 227,361,983 1.0%
+> 1 - 3 millones 515 20.0% 957,487,754 2.2% 414,078,101 1.8%
+> 3 - 10 millones 670 26.1% 3,832,660,168 8.9% 1,521,337,584 6.8%
+> 10 - 100 millones 386 15.0% 10,439,913,850 24.2% 4,341,527,314 19.3%
+> 100 - 200 millones 32 1.2% 4,460,868,723 10.3% 2,085,093,191 9.3%
+> 200 - 1000 millones 25 1.0% 11,906,782,606 27.6% 5,793,622,215 25.7%
+> 1000 millones 4 0.2% 11,147,675,832 25.8% 8,129,037,711 36.1%
+Total 2572 100% 43,163,367,307 100% 22,512,058,100 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2025
+2.7. Avance físico de las obras paralizadas
+De otro lado, se presenta una clasificación de las obras paralizadas en función al porcentaje
+de avance físico según la información proporcionada por el portal Infobras y SSI, donde se
+aprecia que la mayor cantidad de obras (306) registra un avance físico del 80% a 90%,
+representando un monto de inversión de S/ 3 mil 277 millones, seguido de 290 registros que
+se encuentran con un avance físico del 60% a 70% con un monto inversión de S/ 7 mil 845
+millones, como se detalla a continuación:
+Tabla 8. Obras paralizadas por rango de avance físico
+Obras paralizadas Costo Actualizado Saldo de Inversión por ejecutar
+Rango de avance físico %
+N° % S/ % S/ %
+90 - 100 % 251 9.8% 2,662,964,818 6.2% 570,359,569 2.5%
+80 - 90 % 306 11.9% 3,277,470,945 7.6% 684,452,261 3.0%
+70 - 80 % 266 10.3% 3,113,384,375 7.2% 999,025,334 4.4%
+60 - 70 % 290 11.3% 7,845,903,699 18.2% 5,000,092,919 22.2%
+50 - 60 % 290 11.3% 3,970,020,977 9.2% 1,599,511,614 7.1%
+40 - 50 % 244 9.5% 2,611,705,302 6.1% 928,128,080 4.2%
+30 - 40 % 241 9.3% 2,879,242,189 6.6% 1,504,203,585 6.7%
+20 - 30 % 206 8.0% 7,886,657,795 18.3% 5,313,833,167 23.6%
+10 - 20 % 220 8.6% 3,923,949,979 9.1% 2,547,202,332 11.4%
+0 - 10 % 258 10.0% 4,992,067,228 11.5% 3,365,249,239 14.9%
+Total 2572 100% 43,163,367,307 100% 22,512,058,100 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2025
+2.8. Obras paralizadas según su causal u origen de paralización
+Según la información declarada oficialmente por la entidad ejecutora, el 23.3% del total de
+obras paralizadas se encuentra en dicha situación por incumplimientos contractuales, el
+20.9% por falta de recursos financieros, el 9.9% por deficiencias en el expediente técnico,
+entre otras causales.
+11

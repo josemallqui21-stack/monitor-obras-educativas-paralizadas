@@ -1,0 +1,43 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P118_7 C (1) 118. Peligros potenciales ocasionados por el hombre (marcar SI 1: Sí
+o NO en todas las alternativas) 2: No
+7. Subversión
+P118_8 C (1) 118. Peligros potenciales ocasionados por el hombre (marcar SI 1: Sí
+o NO en todas las alternativas) 2: No
+8. Zona de acopio de desperdicios (Relleno sanitario, basurales,
+etc.)
+P118_9 C (1) 118. Peligros potenciales ocasionados por el hombre (marcar SI 1: Sí
+o NO en todas las alternativas) 2: No
+9. Zona portuaria (Aeropuertos, aeródromos, embarcaderos,
+ferroviarios, etc.)
+P119 C (1) 119. ¿Cree que la institución educativa debería ser reubicada 1: Sí
+debido a la existencia de un peligro que no puede ser mitigable? 2: No
+P119_1 C (1) 119.1. ¿Cuenta con la disponibilidad de un nuevo terreno que ha 1: Sí
+sido gestionado para el traslado de la IE? 2: No
+Archivo: Loc_Lineal_2.dbf
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+P201_1 C (1) 201. Servicios en el Centro Poblado 1: Sí
+1. Energía eléctrica 2: No
+P201_2 C (1) 201. Servicios en el Centro Poblado 1: Sí
+2. Agua potable 2: No
+P201_3 C (1) 201. Servicios en el Centro Poblado 1: Sí
+3. Desagüe 2: No
+P201_4 C (1) 201. Servicios en el Centro Poblado 1: Sí
+4. Internet 2: No
+P201_5 C (1) 201. Servicios en el Centro Poblado 1: Sí
+5. Gas 2: No
+P201_6 C (1) 201. Servicios en el Centro Poblado 1: Sí
+6. Posta médica o centro de salud 2: No
+P201_7 C (1) 201. Servicios en el Centro Poblado 1: Sí
+7. Comedores populares 2: No
+P201_8 C (1) 201. Servicios en el Centro Poblado 1: Sí
+8. Agencia bancaria 2: No
+P201_9 C (1) 201. Servicios en el Centro Poblado 1: Sí
+9. Biblioteca municipal o comunal 2: No
+P201_10 C (1) 201. Servicios en el Centro Poblado 1: Sí
+10. Comisaría 2: No
+-- 26 --

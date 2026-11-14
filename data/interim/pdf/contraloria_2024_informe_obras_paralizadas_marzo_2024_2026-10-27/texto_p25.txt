@@ -1,0 +1,48 @@
+Tabla 22. Servicios de control por nivel de gobierno
+Total
+Gobierno Local Gobierno Regional Gobierno Nacional
+general
+Tipo de Servicio de Control
+N.° % N.° % N.° % N.° %
+Control previo 4 0.2% 6 0.2% 17 0.7% 27 1.1%
+Control simultáneo 1058 49.3% 487 23.0% 479 21.6% 2024 93.8%
+Control posterior 71 2.8% 23 0.9% 33 1.3% 127 5.1%
+Total 1133 52.3% 516 24.2% 529 23.6% 2178 100.0%
+Fuente: Sistemas de servicios de control de la CGR.
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/03/2024
+A continuación, se muestran los servicios de control realizados por ubicación geográfica y
+tipo de servicio:
+Tabla 23. Servicios de control a obras paralizadas, por departamento
+N° de servicios de N° de servicios N° de servicios Total de
+Departamento
+control previo control posterior control simultáneo servicios
+AMAZONAS 0 53 0 53
+ANCASH 3 243 5 251
+APURIMAC 0 59 6 65
+AREQUIPA 2 203 9 214
+AYACUCHO 0 81 7 88
+CAJAMARCA 3 115 3 121
+CUSCO 1 90 5 96
+HUANCAVELICA 0 74 9 83
+HUANUCO 1 75 3 79
+ICA 1 48 9 58
+JUNIN 0 49 5 54
+LA LIBERTAD 1 112 4 117
+LAMBAYEQUE 0 121 10 131
+LIMA 0 170 14 184
+LORETO 0 23 0 23
+MADRE DE DIOS 0 11 1 12
+MOQUEGUA 0 25 2 27
+P. C. DEL CALLAO 0 17 4 21
+PASCO 0 18 1 19
+PIURA 0 154 12 166
+PUNO 0 111 4 115
+SAN MARTIN 0 58 4 62
+TACNA 0 91 4 95
+TUMBES 0 14 1 15
+UCAYALI 15 50 5 70
+Total 27 2024 127 2178
+Fuente: Sistemas de servicios de control de la CGR.
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/03/2024

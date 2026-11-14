@@ -1,0 +1,20 @@
+7
+Evaluación Muestral de Estudiantes 2022
+Índice Introducción Primaria Secundaria Análisis
+adicionales
+¿Cómo leer los resultados de
+habilidades socioemocionales?
+• Los resultados se reportan según las respuestas positivas de los estudiantes en la mayoría de las preguntas de cada escala de HSE.
+• Una respuesta positiva implica que el estudiante marcó alguna de las dos opciones de respuesta más altas para responder a una pregunta.
+• Por ejemplo, si las opciones de respuesta son las siguientes: (1) Totalmente en desacuerdo, (2) En desacuerdo, (3) Ni de acuerdo ni en desacuerdo, (4) De acuerdo, y (5)
+Totalmente de acuerdo, una respuesta positiva implica marcar la opción de respuesta (4) o (5).
+• La mayoría de las preguntas hace referencia por lo menos al 75 % de las preguntas de cada escala de HSE.
+• Así, por ejemplo, si una escala tuviera 8 preguntas en total, la mayoría sería, por lo menos, de 6 a 8 preguntas.
+• De igual manera, si una escala tuviera 12 preguntas en total, la mayoría sería, por lo menos, de 9 a 12 preguntas.
+• Considerando lo anterior:
+• Las escalas en donde hay un mayor porcentaje de estudiantes que responden de manera positiva, representan las HSE con el mayor nivel de desarrollo.
+• Las escalas en donde hay un menor porcentaje de estudiantes que responden de manera positiva, representan las HSE con el menor nivel de desarrollo.
+• Adicionalmente, se reportarán las diferencias estadísticamente significativas según estratos en el porcentaje de respuestas positivas. Para ello, utilizando la siguiente
+leyenda, se mostrarán iconos al final de cada resultado para indicar la existencia de diferencias a favor:
+Sexo Gestión Área
+Hombres Mujeres IE públicas urbanas IE privadas IE urbanas IE rurales

@@ -1,0 +1,60 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+8. Otros muebles
+2. Cantidad en buen estado
+P501_24_83 N (5) 24. Tenencia y estado de conservación del (00001:99999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+8. Otros muebles
+3. Cantidad en regular estado
+P501_24_84 N (5) 24. Tenencia y estado de conservación del (00001:99999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+8. Otros muebles
+4. Cantidad en mal estado
+(*) Edificación:
+ E01
+ E02
+ E03
+ ..
+ EN
+Donde N= Total de edificaciones
+Tabla 01: Códigos de Niveles Educativos Básica Tabla 02: Códigos de Material
+y ETP predominante de las puertas
+Código Descripción Código Descripción
+A1 Inicial Cuna 01 Madera
+A2 Inicial Jardín 02 Mallas metálicas
+A3 Inicial Cuna Jardín 03 Rejas metálicas
+B0 Primaria 04 Planchas metálicas
+F0 Secundaria 05 Drywall
+D1 EBA – Inicial e Intermedio 06 Vidrio
+D2 EBA - Avanzado 07 Otro
+E0 Programa de Intervención temprana
+(PRITE)
+Tabla 03: Códigos de Material
+E1 Inicial – Educación Básico Especial
+predominante del marco de la ventana
+(EBE)
+Código Descripción
+E2 Primaria – Educación Básico Especial
+01 Carpintería metálica (fierro,
+(EBE)
+acero, acero inoxidable,
+L0 Centro de Educación Técnico
+aluminio, entre otros)
+Productiva (CETPRO)
+02 Carpintería de madera
+K0 Instituto de Educación Superior
+03 Carpintería de PVC
+Pedagógico
+04 Carpintería mixta (varios
+T0 Instituto de Educación Superior
+materiales)
+Tecnológico
+05 Otro
+M0 Escuela Superior de Formación
+Artística
+P0 Escuela de Educación Superior
+Pedagógica
+S0 Escuela de Educación Superior
+Tecnológica
+53

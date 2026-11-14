@@ -1,0 +1,43 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P803_IntPro.dbf
+[ Matriz 18: Equipos de interconexión y protección de energía en el Local Educativo ]
+Variable Tipo Descripción Valor
+P803_3_41 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+1. Aula de clase
+P803_3_42 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+2. Aula de innovación pedagógica
+P803_3_43 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+3. Laboratorio y/o talleres
+P803_3_44 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+4. Otros ambientes complementarios
+P803_3_51 N (5) 3. Cantidad de equipos operativos 99999
+5. Cantidad de equipos según número de puertos
+1. De 1 a 4 puertos
+P803_3_52 N (5) 3. Cantidad de equipos operativos 99999
+5. Cantidad de equipos según número de puertos
+2. De 5 a 8 puertos
+P803_3_53 N (5) 3. Cantidad de equipos operativos 99999
+5. Cantidad de equipos según número de puertos
+3. De 12 a 16 puertos
+P803_3_54 N (5) 3. Cantidad de equipos operativos 99999
+5. Cantidad de equipos según número de puertos
+4. De 24 puertos
+P803_3_55 N (5) 3. Cantidad de equipos operativos 99999
+5. Cantidad de equipos según número de puertos
+5. De 48 puertos
+Archivo: Loc_P901_EduAdm.dbf [ Matriz 19: Espacios educativos y/o administrativos de I.E. Privada ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de pregunta C901
+CODIGO C (3) Código de tipo de espacio educativo y/o administrativo (000:140)
+DESCRIP C (100) Descripción Texto (Ver descripción
+en tabla 01)
+P901_1 C (1) 1. El local educativo cuenta con: 1: Sí
+2: No
+-- 86 --

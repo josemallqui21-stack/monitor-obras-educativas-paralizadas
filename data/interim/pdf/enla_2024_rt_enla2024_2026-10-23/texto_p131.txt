@@ -1,0 +1,44 @@
+Reporte técnico evaluaciones 2024 Capítulo 5
+Código de
+Grado Actor Nombre general Sub escala Omega
+constructo
+FAM6PGEN_ Acoso escolar al
+0,886
+ACOSVIC estudiante
+FAM6PGEN_ Malestar socioafectivo
+0,631
+BIENEST del estudiante
+FAM6PGEN_ Estereotipos de género
+0,906
+ESTDES en el desempeño
+FAM6PGEN_ Estereotipos de género
+0,836
+ESTEMO en las emociones
+Involucramiento
+parental:
+FAM6PGEN_ Involucramiento parental
+participación en 0,857
+INVESC_ACT educativo en la escuela
+las actividades de
+la escuela
+Involucramiento
+6.° grado FAM6PGEN_ Involucramiento parental parental:
+Familia 0,830
+de primaria INVESC_DOC educativo en la escuela interacción con los
+docentes
+FAM6PGEN_ Involucramiento parental Realizar
+0,735
+INVGENAC general actividades
+FAM6PGEN_ Involucramiento parental
+Conversar 0,772
+INVGENCO general
+FAM6PGEN_ Involucramiento parental
+0,887
+INVHOG educativo en el hogar
+FAM6PGEN_ Percepción sobre los
+0,895
+SERVIE servicios de la escuela
+FAM6PHSE_ Tolerancia al castigo
+0,876
+TOLCAS físico
+129

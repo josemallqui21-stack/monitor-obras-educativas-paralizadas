@@ -1,0 +1,49 @@
+Estos indicadores fueron calculados a través de matrices de correlaciones
+policóricas con los ítems para cada indicador. Las correlaciones al interior de
+cada dimensión en la ENLA 2024 fueron positivas. Todas estas estimaciones
+se realizaron utilizando el paquete psych (Revelle, 2024) del lenguaje R
+(R Core Team) y se observan en la tabla 5.2.
+Tabla 5.2. Indicadores de ajuste para constructos formativos según grado y actor
+Código de Varianza
+Grado Actor Nombre
+constructo explicada
+DIRPGEN_ Inclusión de comunidad educativa en
+52,06
+DECIACT decisiones escolares
+DIRP_ Disponibilidad de materiales educativos
+Director 59,79
+DISPMATEX textuales
+4.° y 6.°
+grado de
+primaria
+DIRP_
+Disponibilidad de materiales educativos 63,78
+DISPMAT
+Familia ISE Índice socioeconómico3 59,92
+4.°
+FAM4PGEN_
+grado de Familia Desarrollo infantil temprano 49,22
+DESINF
+primaria
+DOC6PHSE_ Facilidad para el acompañamiento
+56,66
+ACOMPA socioemocional y académico
+DOC6PHSE_ Promoción del desarrollo de las HSE en
+71,33
+DESAHSE la escuela
+6°
+DOC6PHSE_
+grado de Docente tutor Percepción de violencia entre estudiantes 62,51
+PERCVIO
+primaria
+DOC6PHSE_ Percepción de conductas de riesgo en los
+62,99
+RIESGO estudiantes
+DOC6PHSE_
+Facilidad para abordar temas en TOE 58,99
+TOE
+3 Tal como se señaló el ISE está compuesto de por otras cuatro medidas que fueron derivadas de un análisis
+de componentes principales cuyas varianzas explicadas fueron las siguientes: 1) materiales de la vivienda
+(Var. Exp. = 72,58), 2) servicios básicos en el hogar (Var. Exp. = 79,59), 3) activos en el hogar (Var. Exp. =
+60,49) y 4) acceso a otros servicios (Var. Exp. = 68,57).
+118

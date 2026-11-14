@@ -1,0 +1,70 @@
+Código de
+Grado Actor Nombre CFI TLI SRMR RMSEA
+constructo
+DOC2SLEC_ Enseñanza sobre
+0,99 0,98 0,05 0,054
+ESTRLEC estrategias de lectura
+Prácticas
+pedagógicas en
+DOC2SLEC_
+Comunicación 0,99 0,99 0,053 0,065
+ESTRCOMPLEC
+con énfasis en la
+repetición
+Autoeficacia de
+DOC2SLEC_ docente para la
+1 0,99 0,033 0,055
+AUTLEC enseñanza de la
+lectura
+Docente de
+Comunicación
+DOC2SLEC_ Motivación a la
+0,98 0,97 0,058 0,07
+MOTLEC enseñanza de lectura
+Percepción de
+DOC2SLEC_ situaciones
+0,99 0,99 0,051 0,071
+PROBIE problemáticas en la
+escuela
+DOC2SLEC_ Actitudes hacia la
+1 1 0,028 0,043
+EDUIN educación inclusiva
+DOC2SLEC_ Creencias sobre la
+0,96 0,95 0,066 0,098
+EVFORM evaluación formativa
+2.° Percepción de
+grado de DOC2SMAT_ situaciones
+0,98 0,98 0,062 0,074
+secundaria PROBIE problemáticas en la
+escuela
+Creencias sobre
+DOC2SMAT_
+la enseñanza de la 0,95 0,93 0,062 0,07
+APR
+matemática
+Creencias sobre la
+DOC2SMAT_
+Docente de naturaleza de las 0,95 0,93 0,088 0,106
+NAT
+Matemática matemáticas
+Creencias sobre la
+DOC2SMAT_
+matemática como 0,99 0,98 0,039 0,066
+HABIN
+habilidad innata
+DOC2SMAT_ Actitudes hacia la
+1 1 0,028 0,045
+EDUIN educación inclusiva
+DOC2SMAT_ Creencias sobre la
+0,96 0,95 0,062 0,094
+EVFORM evaluación formativa
+EST2SGEN_ Involucramiento
+1 1 0,03 0,057
+INVHOG parental en el hogar
+EST2SGEN_ Sentido de
+Estudiante 1 1 0,021 0,035
+SENPER pertenencia
+EST2SGEN_ Percepción de las
+1 1 0,015 0,037
+PERNORM normas y disciplina
+158

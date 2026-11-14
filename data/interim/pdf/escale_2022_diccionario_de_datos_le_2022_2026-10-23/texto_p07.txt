@@ -1,0 +1,56 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Nombre de archivo: Local_lineal_01.dbf
+SECCIÓN: UBICACIÓN E IDENTIFICACIÓN DEL LOCAL EDUCATIVO
+TABLA: LOCAL_LINEAL_01.DBF
+Campo Formato Descripción de variable Valor de
+variable
+ENTI_FINA C (1) 12.3. ¿Qué entidad está financiando la (1:6)
+construcción/reconstrucción del local educativo?
+1: MINEDU
+2: Gobierno Regional
+3: Gobierno Local
+4: Otro sector del estado
+5: Empresa privada
+6: Otro
+ESP_SECTOR C (80) 12.3. ¿Qué entidad está financiando la (A:Z)
+construcción/reconstrucción del local educativo?
+4: Otro sector del estado --- Especificar
+ESP_OTROS C (80) 12.3. ¿Qué entidad está financiando la (A:Z)
+construcción/reconstrucción del local educativo?
+6: Otro --- Especificar
+USO_LOCAL C (1) El/los servicios educativos ¿se encuentran funcionando (1:3)
+en otro predio, mientras se concluye la
+construcción/reconstrucción de su local educativo?
+1: Sí, todos
+2: Sí Algunos
+3: No
+DND_LOCAL C (1) El/los servicios educativos ¿se encuentran funcionando “X”
+en otro predio, mientras se concluye la
+construcción/reconstrucción de su local educativo?
+1: Sí, todos
+¿Dónde?
+1: En otro local educativo
+DND_VPRIV C (1) El/los servicios educativos ¿se encuentran funcionando “X”
+en otro predio, mientras se concluye la
+construcción/reconstrucción de su local educativo?
+1: Sí, todos
+¿Dónde?
+2: En una vivienda privada
+DND_PESCO C (1) El/los servicios educativos ¿se encuentran funcionando “X”
+en otro predio, mientras se concluye la
+construcción/reconstrucción de su local educativo?
+1: Sí, todos
+¿Dónde?
+3: En un parque / estadio / coliseo
+DND_OTRO C (1) El/los servicios educativos ¿se encuentran funcionando “X”
+en otro predio, mientras se concluye la
+construcción/reconstrucción de su local educativo?
+1: Sí, todos
+¿Dónde?
+4: Otro
+ESP_LUGAR C (80) El/los servicios educativos ¿se encuentran funcionando Texto
+en otro predio, mientras se concluye la
+construcción/reconstrucción de su local educativo?
+1: Sí, todos ¿Dónde?
+4: Otro --- Especificar
+6

@@ -1,0 +1,55 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+P803_3_1 N (6) 3. Cantidad de equipos de interconexión y (000001:999999)
+protección operativos
+1. Total operativos
+P803_3_21 N (5) 3. Cantidad de equipos de interconexión y (00001:99999)
+protección operativos
+2. Según estado de conservación
+1. En buen estado
+P803_3_22 N (5) 3. Cantidad de equipos de interconexión y (00001:99999)
+protección operativos
+2. Según estado de conservación
+2. Necesitan reparación
+P803_3_31 N (5) 3. Cantidad de equipos de interconexión y (00001:99999)
+protección operativos
+3. Según su antigüedad en el Local Educativo
+1. Menos de 6 meses
+P803_3_32 N (5) 3. Cantidad de equipos de interconexión y (00001:99999)
+protección operativos
+3. Según su antigüedad en el Local Educativo
+2. De 6 meses a menos de 2 años
+P803_3_33 N (5) 3. Cantidad de equipos de interconexión y (00001:99999)
+protección operativos
+3. Según su antigüedad en el Local Educativo
+3. De 2 a menos de 3 años
+P803_3_34 N (5) 3. Cantidad de equipos de interconexión y (00001:99999)
+protección operativos
+3. Según su antigüedad en el Local Educativo
+4. De 3 a menos de 4 años
+P803_3_35 N (5) 3. Cantidad de equipos de interconexión y (00001:99999)
+protección operativos
+3. Según su antigüedad en el Local Educativo
+5. De 4 a más años
+P803_4_1 N (5) 4. Cantidad de equipos operativos según número (00001:99999)
+de puertos
+1. De 1 a 4 puertos
+P803_4_2 N (5) 4. Cantidad de equipos operativos según número (00001:99999)
+de puertos
+2. De 5 a 8 puertos
+P803_4_3 N (5) 4. Cantidad de equipos operativos según número (00001:99999)
+de puertos
+3. De 12 a 16 puertos
+P803_4_4 N (5) 4. Cantidad de equipos operativos según número (00001:99999)
+de puertos
+4. De 24 puertos
+P803_4_5 N (5) 4. Cantidad de equipos operativos según número (00001:99999)
+de puertos
+5. De 48 puertos
+(*) Equipos de interconexión y protección:
+ 1: Switch para pared
+ 2: Modem
+ 3: Router
+ 4: Access Point
+ 5. UPS
+ 6: Estabilizadores
+72

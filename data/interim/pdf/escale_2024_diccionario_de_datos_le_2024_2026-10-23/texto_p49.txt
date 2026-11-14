@@ -1,0 +1,45 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P401_Edific.dbf [ Matriz 11: Edificaciones en el Local Educativo ]
+Variable Tipo Descripción Valor
+P401_25_2 N (5) 25. Extintores 99999
+2. Total Operativos
+P401_25_3 N (5) 25. Extintores 99999
+- Según Estado de Conservación
+3. En Buen Estado
+P401_25_4 N (5) 25. Extintores 99999
+- Según Estado de Conservación
+4. Necesitan Reparación
+P401_25_5 N (5) 25. Extintores 99999
+- Según Antigüedad en el Local Educativo
+5. Menos de 1 año
+P401_25_6 N (5) 25. Extintores 99999
+- Según Antigüedad en el Local Educativo
+6. De 1 a 2 años
+P401_25_7 N (5) 25. Extintores 99999
+- Según Antigüedad en el Local Educativo
+7. Más de 2 años
+P401_26_1 N (5) 26. Gabinete Contra Incendios 99999
+1. Cantidad Total (Operativos + Inoperativos)
+P401_26_2 N (5) 26. Gabinete Contra Incendios 99999
+2. Total Operativos
+P401_26_3 N (5) 26. Gabinete Contra Incendios 99999
+- Según Estado de Conservación
+3. En Buen Estado
+P401_26_4 N (5) 26. Gabinete Contra Incendios 99999
+- Según Estado de Conservación
+4. Necesitan Reparación
+P401_26_5 N (5) 26. Gabinete Contra Incendios 99999
+- Según Antigüedad en el Local Educativo
+5. Menos de 1 año
+P401_26_6 N (5) 26. Gabinete Contra Incendios 99999
+- Según Antigüedad en el Local Educativo
+6. De 1 a 2 años
+P401_26_7 N (5) 26. Gabinete Contra Incendios 99999
+- Según Antigüedad en el Local Educativo
+7. Más de 2 años
+P401_27_1 N (5) 27. Detectores de Humo 99999
+1. Cantidad Total (Operativos + Inoperativos)
+P401_27_2 N (5) 27. Detectores de Humo 99999
+2. Total Operativos
+-- 48 --

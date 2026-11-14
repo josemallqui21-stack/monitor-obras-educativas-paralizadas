@@ -1,0 +1,45 @@
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P241_7 N (7,2) 2.4.1. Tomando como referencia la puerta principal, indique las opciones 9999,99
+de acceso e ingreso al local educativo
+CARACTERÍSTICAS DE LA RAMPA
+7. Largo (en metros)
+P241_8 N (5,2) 2.4.1. Tomando como referencia la puerta principal, indique las opciones 999,99
+de acceso e ingreso al local educativo
+CARACTERÍSTICAS DE LA RAMPA
+8. Alto (en metros)
+P241_9 C (1) 2.4.1. Tomando como referencia la puerta principal, indique las opciones 1: Sí
+de acceso e ingreso al local educativo 2: No
+CARACTERÍSTICAS DE LA RAMPA
+9. ¿El piso de la rampa es homogéneo y antideslizante?
+P241_10 C (1) 2.4.1. Tomando como referencia la puerta principal, indique las opciones 1: Sí
+de acceso e ingreso al local educativo 2: No
+CARACTERÍSTICAS DE LA RAMPA
+10. ¿La rampa cuenta con piso podotáctil al inicio y al final?
+P241_11 C (1) 2.4.1. Tomando como referencia la puerta principal, indique las opciones 1: Sí
+de acceso e ingreso al local educativo 2: No
+CARACTERÍSTICAS DE LA RAMPA
+11. ¿Cuenta con baranda/pasamanos?
+P242_1 C (1) 2.4.2. ¿Qué tipo de señalización tiene el local educativo? "X"
+1. Señalización de seguridad
+P242_2 C (1) 2.4.2. ¿Qué tipo de señalización tiene el local educativo? "X"
+2. Señalización visual
+P242_3 C (1) 2.4.2. ¿Qué tipo de señalización tiene el local educativo? "X"
+3. Señalización braile y planos hápticos
+P242_4 C (1) 2.4.2. ¿Qué tipo de señalización tiene el local educativo? "X"
+4. Señalización podotáctil
+P242_5 C (1) 2.4.2. ¿Qué tipo de señalización tiene el local educativo? "X"
+5. Señales sonoras
+P242_6 C (1) 2.4.2. ¿Qué tipo de señalización tiene el local educativo? "X"
+6. Señales luminosas
+P243 C (1) 2.4.3. El local educativo, ¿cuenta con el certificado de inspección técnica 1: Sí
+de seguridad de edificaciones ITSE? 2: No
+P243_SI C (1) 2.4.3. El local educativo, ¿cuenta con el certificado de inspección técnica 1: Sí
+de seguridad de edificaciones ITSE? 2: No
+- Sí --> ¿Actualmente está vigente?
+Sección 5: Accesibilidad al local educativo
+P251 N (3) 2.5.1. ¿Cuántos trayectos tiene la ruta que utiliza habitualmente para 999
+trasladarse desde el local educativo hasta la UGEL de su jurisdicción, y
+qué medio de transporte y vía utiliza?
+- N° de trayectos
+15

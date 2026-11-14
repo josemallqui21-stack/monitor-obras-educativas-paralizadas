@@ -1,0 +1,54 @@
+G. Nacional G. Regional G. Local Total
+Evento
+Costo actualizado Costo Costo Costo
+N.° N.° N.° N.° % Costo
+S/ actualizado S/ actualizado S/ actualizado S/
+Reactivación
+1 813,532,588 13 404,279,820 20 244,440,948 34 1,462,253,357 3%
+Económica
+Total 436 17,178,925,372 335 15,729,538,202 1877 10,646,852,188 2648 43,555,315,763 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 30/09/2024
+2.10. Obras paralizadas por administración directa o por contrata
+El 98.6% (2 610) de las 2 648 obras públicas paralizadas a nivel nacional son ejecutadas
+bajo la modalidad de administración directa o por contrata, en los tres niveles de gobierno.
+El monto de inversión asciende a S/ 36 mil 500 millones, como se detalla a continuación:
+Tabla 11. Obras paralizadas según modalidad de ejecución
+G. Nacional G. Regional G. Local Total
+Modalidad de
+Costo Costo
+Ejecución Costo Costo
+N.° N.° Actualizado N.° Actualizado N° % %
+Actualizado S/. Actualizado S/
+S/. S/.
+Contrata 383 16,396,646,896 250 7,799,075,730 749 8,537,144,323 1382 53% 32,732,866,949 90%
+Administración
+25 161,481,324 81 1,619,771,872 1122 1,986,570,225 1228 47% 3,767,823,422 10%
+directa
+Total 408 16,558,128,220 331 9,418,847,602 1871 10,523,714,548 2610 100% 36,500,690,371 100.0%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 30/09/2024
+Entre las obras paralizadas que se ejecutan por administración directa o por contratan
+destacan un grupo de 610 obras que tienen un avance físico significativo.
+En el siguiente cuadro, se presenta el desagregado de los sectores que tienen saldo por
+ejecutar que se encuentran en el rango de 90% a 100% de avance físico, donde se advierte
+que el mayor monto de inversión lo tiene el sector Transporte y Comunicaciones con una
+inversión de S/ 1 mil 328 millones con 66 obras paralizadas; seguido por el sector de
+Vivienda, Construcción y Saneamiento con una inversión de S/ 1, 259 millones con 84 obras
+paralizadas, como se ve a continuación:
+Tabla 12. Sectores con obras paralizadas con nivel de avance físico del 90% a 100%
+(ejecutadas por administración directa o contrata)
+Rango de avance físico del 90% a 100 %
+N.° de Costo Saldo de la
+Sectores
+obras actualizado S/ Inversión S/
+Transportes Y Comunicaciones 66 1,328,230,224 218,063,845
+Vivienda, Construcción Y Saneamiento 84 1,259,598,869 153,356,764
+Salud 5 301,296,006 66,235,417
+Educación 48 292,717,997 38,532,839
+Agricultura 32 201,751,912 18,180,395
+Energía Y Minas 15 41,878,502 29,509,773
+Cultura 2 28,184,032 1,677,893
+Orden Público/Defensa Y Seguridad 1 21,243,820 1,373,576

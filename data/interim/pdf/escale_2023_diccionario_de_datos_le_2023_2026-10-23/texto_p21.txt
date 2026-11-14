@@ -1,0 +1,48 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_1.dbf
+Variable Formato Descripción de variable Valor de variable
+P120_2_M C (1) 120. Peligros naturales potenciales (marcar SI o NO en todas 1: Sí
+las alternativas) 2: No
+2. Lluvias intensas
+¿Es mitigable?
+P120_3 C (1) 120. Peligros naturales potenciales (marcar SI o NO en todas 1: Sí
+las alternativas) 2: No
+3. Sequias
+P120_3_F C (10) 120. Peligros naturales potenciales (marcar SI o NO en todas DD/MM/AAAA
+las alternativas)
+3. Sequias
+Última fecha de ocurrencia
+P120_3_M C (1) 120. Peligros naturales potenciales (marcar SI o NO en todas 1: Sí
+las alternativas) 2: No
+3. Sequias
+¿Es mitigable?
+P120_4 C (1) 120. Peligros naturales potenciales (marcar SI o NO en todas 1: Sí
+las alternativas) 2: No
+4. Actividades volcánicas
+P120_4_F C (10) 120. Peligros naturales potenciales (marcar SI o NO en todas DD/MM/AAAA
+las alternativas)
+4. Actividades volcánicas
+Última fecha de ocurrencia
+P120_4_M C (1) 120. Peligros naturales potenciales (marcar SI o NO en todas 1: Sí
+las alternativas) 2: No
+4. Actividades volcánicas
+¿Es mitigable?
+P120_5 C (1) 120. Peligros naturales potenciales (marcar SI o NO en todas 1: Sí
+las alternativas) 2: No
+5. Inundaciones
+P120_5_F C (10) 120. Peligros naturales potenciales (marcar SI o NO en todas DD/MM/AAAA
+las alternativas)
+5. Inundaciones
+Última fecha de ocurrencia
+P120_5_M C (1) 120. Peligros naturales potenciales (marcar SI o NO en todas 1: Sí
+las alternativas) 2: No
+5. Inundaciones
+¿Es mitigable?
+P120_6 C (1) 120. Peligros naturales potenciales (marcar SI o NO en todas 1: Sí
+las alternativas) 2: No
+6. Derrames de sustancias peligrosas
+P120_6_F C (10) 120. Peligros naturales potenciales (marcar SI o NO en todas DD/MM/AAAA
+las alternativas)
+6. Derrames de sustancias peligrosas
+Última fecha de ocurrencia
+20

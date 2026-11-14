@@ -1,0 +1,45 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_2.dbf
+Variable Formato Descripción de variable Valor de variable
+P801 C (1) 801. Recursos Tecnológicos 1: Sí
+- ¿Cuenta con al menos un recurso tecnológico de la 2: No
+siguiente lista?
+Archivo : Loc_P801_RecTec.dbf [ Matriz 17 : Recursos Tecnológicos en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de pregunta C801
+NUMERO C (2) Número de orden (01:12)
+P801_1 C (60) 1. Recurso tecnológico Texto
+Nro. + ": " + Descripción (Texto)
+01: PC de escritorio
+02: Laptop Convencional
+03: Laptop XO
+04: Servidor
+05: Microservidor o Habilitador
+06: Tablet - Aprendo en casa
+07: Tablet - PRONATEL
+08: Tablet - Otros
+09: Proyector multimedia
+10: Pizarra interactiva
+11: Consola de audio para laboratorio de idiomas
+12: Auriculares con audífonos y micrófono
+P801_2 N (5) 2. Cantidad total 99999
+P801_3_1 N (5) 3. Cantidad de recursos tecnológicos operativos 99999
+1. Total de operativos
+P801_3_21 N (5) 3. Cantidad de recursos tecnológicos operativos 99999
+2. Según estado de conservación
+1. En buen estado
+P801_3_22 N (5) 3. Cantidad de recursos tecnológicos operativos 99999
+2. Según estado de conservación
+2. Necesitan reparación
+P801_3_31 N (5) 3. Cantidad de recursos tecnológicos operativos 99999
+3. Según antigüedad en el local educativo
+1. Menos de 6 meses
+P801_3_32 N (5) 3. Cantidad de recursos tecnológicos operativos 99999
+3. Según antigüedad en el local educativo
+2. De 6 meses a menos de 2 años
+P801_3_33 N (5) 3. Cantidad de recursos tecnológicos operativos 99999
+3. Según antigüedad en el local educativo
+3. De 2 a menos de 3 años
+75

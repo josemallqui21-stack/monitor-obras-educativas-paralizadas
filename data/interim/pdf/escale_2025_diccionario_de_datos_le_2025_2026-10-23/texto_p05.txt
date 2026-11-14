@@ -1,0 +1,17 @@
+Loc_P92_Equip.dbf: Detalla información registrada en la pregunta 9.2. Equipamiento.
+Loc_P93_IntPro.dbf: Detalla información registrada en la pregunta 9.3. Equipos de interconexión y
+Protección de energía.
+Loc_P10_1_EduAdm.dbf: Detalla información registrada en la pregunta 10.1. Respecto a los espacios
+educativos y/o administrativos, indique.
+ESTRUCTURA DE LAS TABLAS
+Variable: Nombre de la variable que permite identificar uno o más datos.
+Tipo: Tipo de dato que se almacena en el Variable, estos pueden ser:
+➢ “C”: Carácter, representan datos con valores de tipo carácter.
+➢ “N”: Numérico, representan datos con valores numéricos.
+Long: Longitud o tamaño del Variable.
+Descripción de Variable: Especificación detallada de la pregunta vinculada a la Variable.
+Valor de variable: Permite mostrar el o los posibles valores que pueda tener el Variable.
+Formato: Es la unión de “Tipo” seguido de “Long” entre paréntesis, y es usado para dar a conocer el tipo
+y el tamaño establecido para una determinada variable.
+Ejemplo:
+4

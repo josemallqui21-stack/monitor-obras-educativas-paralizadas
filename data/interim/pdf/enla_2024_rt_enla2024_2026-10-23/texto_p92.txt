@@ -1,0 +1,37 @@
+condiciones se cumplen en las pruebas analizadas. Por ende, no hay evidencias
+contundentes en contra del supuesto de unidimensionalidad del conjunto de ítems
+incluidos en estos instrumentos de medición.
+4.3.3 Confiabilidad y consistencia de la clasificación
+Para expresar los resultados de estos análisis, se utilizan tanto el índice de
+confiabilidad de la separación de las personas (Rp) como el índice de separación
+de personas (Gp).
+Tabla 4.6 Análisis de confiabilidad de las medidas derivadas de la aplicación de
+las pruebas de la ENLA 2024
+Prueba Rp Gp
+Lectura, 4.° grado de primaria 0,88 2,74
+Matemática, 4.° grado de primaria 0,90 3,02
+Lectura, 6.° grado de primaria 0,80 1,98
+Matemática, 6.° grado de primaria 0,82 2,12
+Considerando el valor de Rp para la aplicación de la ENLA 2024, se observa que
+la varianza de error se encuentra entre 10% y 20% para las pruebas aplicadas. Por
+lo tanto, es posible afirmar que las medidas derivadas de aplicar dichas pruebas
+poseen adecuadas evidencias de confiabilidad.
+Como se señaló previamente, otros indicadores importantes son los índices de
+precisión y consistencia de clasificación, cuyos resultados se presentan en las tablas
+a continuación.
+Tabla 4.7 Indicadores del análisis de precisión y consistencia de la clasificación
+usando las medidas derivadas de las pruebas de 4.° grado de primaria
+Lectura Matemática
+Precisión Consistencia Precisión Consistencia
+Nacional 0,79 0,71 0,81 0,74
+Hombre 0,79 0,71 0,82 0,75
+Mujer 0,79 0,71 0,81 0,73
+Urbano 0,79 0,71 0,81 0,74
+Rural 0,77 0,68 0,81 0,74
+Estatal 0,79 0,70 0,81 0,74
+No estatal 0,80 0,72 0,82 0,74
+Polidocente Completo 0,79 0,71 0,81 0,74
+Unidocente / Multigrado 0,77 0,69 0,81 0,74
+Alta habilidad 0,79 0,71 0,81 0,74
+Baja habilidad 0,77 0,68 0,81 0,74
+90

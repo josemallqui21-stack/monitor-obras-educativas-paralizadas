@@ -1,0 +1,57 @@
+Tabla 10. Obras paralizadas según el evento registrado en el sistema Infobras, por nivel de gobierno
+y costo actualizado
+G. Nacional G. Regional G. Local Total
+Evento
+Costo Costo Costo Costo
+N.° N.° N.° N.° %
+actualizado S/ actualizado S/ actualizado S/ actualizado S/
+Proceso normal 252 8,498,601,605 145 3,453,127,737 1162 4,429,895,729 1559 16,381,625,071 71.9%
+Reactivación
+3 912,339,133 21 1,883,732,045 19 459,416,383 43 3,255,487,561 14.3%
+económica
+Reconstrucción
+83 2,467,464,022 17 390,833,855 49 282,684,601 149 3,140,982,477 13.8%
+con Cambios
+Total 338 11,878,404,760 183 5,727,693,637 1230 5,171,996,713 1751 22,778,095,110 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC)
+Fecha: 28/02/2023
+De 149 obras enmarcada bajo el marco normativo de la Reconstrucción con Cambios, según
+su nivel de gobierno, tenemos que un 54.4% corresponden al nivel de gobierno Nacional,
+mientras que un 10.8% corresponde al nivel de gobierno Regional; y un 34.8% corresponde
+al gobierno Local.
+Tabla 11. Obras paralizadas bajo el marco normativo de la Reconstrucción con Cambios, según su nivel de
+gobierno
+Obras paralizadas Monto actualizado de la inversión
+Saldo de
+Nivel de gobierno
+inversión S/
+N.° % S/. %
+G. Nacional 83 54.4% 2,467,464,022 78.6% 1,438,902,859
+G. Regional 17 10.8% 390,833,855 12.4% 123,674,793
+G. Local 49 34.8% 282,684,601 9.0% 96,631,600
+Total 149 100% 3,140,982,477 100% 1,659,209,252
+Fuente: Sistema Nacional de Obras Públicas -Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC)
+Fecha: 28/02/2023
+2.10. Obras paralizadas por administración directa o por contrata
+El 95.8% (1678) de las 1751 obras públicas paralizadas a nivel nacional son ejecutadas bajo
+la modalidad de administración directa o por contrata, en los tres niveles de gobierno. El
+monto de inversión asciende a S/ 19 mil 178 millones, como se detalla a continuación:
+Tabla 12. Obras paralizadas según modalidad de ejecución
+G. Nacional G. Regional G. Local Total
+Costo Costo
+Modalidad de Costo Costo
+N.° N.° actualizado N.° actualizado N.° % %
+ejecución actualizado S/. actualizado S/.
+S/ S/
+Administración directa 29 149,313,983 50 547,920,119 851 1,518,124,074 930 55.4% 2,215,358,175 11.6%
+Por contrata 241 8,303,175,999 131 5,034,094,538 376 3,625,457,000 748 44.6% 16,962,727,537 88.4%
+Total 270 8,452,489,982 181 5,582,014,657 1227 5,143,581,074 1678 100% 19,178,085,712 100%
+Fuente: Sistema Nacional de Obras Públicas -Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 28/02/2023
+Entre las obras paralizadas que se ejecutan por administración directa o por contratan destacan
+un grupo de 415 obras que tienen un avance físico significativo.
+12
+REPORTE DE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL

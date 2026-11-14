@@ -1,0 +1,21 @@
+¿Cómo se informan los resultados de logros de aprendizaje?
+Los resultados se informan de dos maneras: por niveles de logro y por medida promedio.
+Menor Mayor
+logro logro
+Niveles de logro
+En cada prueba, los estudiantes obtienen una medida o puntaje Previo al inicio En inicio En proceso Satisfactorio
+individual según sus respuestas. Según este puntaje indiviual, se
+ubican en alguno de los siguientes niveles de logro: Satisfactorio, El estudiante El estudiante El estudiante El estudiante
+En proceso, En inicio y Previo al inicio. Cada nivel describe un aún no ha logró logró logró
+conjunto de aprendizajes logrados por los estudiantes. logrado los aprendizajes parcialmente aprendizajes
+aprendizajes elementales aprendizajes esperados
+necesarios respecto de lo esperados para el ciclo
+Medida promedio para estar en esperado para para el ciclo evaluado
+el ciclo
+el nivel En evaluado según el CNEB.
+evaluado
+inicio según el CNEB.
+según el CNEB.
+Es el promedio aritmético de los puntajes individuales de un
+conjunto de estudiantes. Ese conjunto puede ser de los
+estudiantes de una sección, IE, DRE, UGEL o del país.

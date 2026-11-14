@@ -1,0 +1,38 @@
+Reporte técnico evaluaciones 2024 Capítulo 5
+Código de
+Grado Actor Nombre CFI TLI SRMR
+constructo
+EST6PGEN_
+Sentido de pertenencia 0,996 0,994 0,030
+SENPER
+Manifestaciones de
+EST6PGEN_
+violencia por parte de 0,998 0,996 0,026
+VIOLDOC
+los docentes
+Manifestaciones de
+EST6PGEN_
+violencia por parte de 0,999 0,998 0,021
+VIOLEST
+los estudiantes
+EST6PHSE_
+Clima social escolar 0,999 0,998 0,013
+CSEREG
+6.° grado EST6PHSE_ Estrés académico
+Estudiante 0,990 0,985 0,045
+de primaria EAA adolescente
+Activación cognitiva
+EST6PLEC_
+en clases de 0,992 0,989 0,023
+ACTCOG
+Comunicación
+EST6PMAT_ Activación cognitiva -
+0,980 0,972 0,038
+ACTCOG Matemática
+EST6PMAT_ Ansiedad ante la
+0,995 0,993 0,037
+ANSIE matemática
+EST6PMAT_ Disrupción en clase -
+0,998 0,996 0,018
+DISRP Matemática
+115

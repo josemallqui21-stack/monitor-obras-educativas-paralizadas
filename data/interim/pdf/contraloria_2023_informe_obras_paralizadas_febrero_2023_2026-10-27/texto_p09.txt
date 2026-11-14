@@ -1,0 +1,46 @@
+las entidades deben registrar o actualizar mensualmente la información relacionada al
+estado de avance de obra.
+2. LAS OBRAS PÚBLICAS PARALIZADAS
+2.1. Definición de obra pública paralizada
+Para efectos del seguimiento, se entiende por obra paralizada aquella obra que cumple las
+siguientes condiciones:
+• La obra se ejecuta bajo las modalidades por contrata, administración directa,
+convenios de Estado a Estado, Asociaciones Público-Privadas que tengan
+componente de infraestructura, Obras por Impuestos, intervenciones de
+infraestructura ejecutadas por núcleos ejecutores u otras modalidades establecidas
+por ley.
+• La obra se encuentra en ejecución física de acuerdo con las condiciones establecidas
+para su inicio en el marco normativo de cada modalidad.
+• La obra no se ha concluido y no reporta avance en su ejecución física por seis (06)
+meses o más, por causas atribuibles a situaciones de controversia, abandono,
+deficiencias del expediente técnico, factores climáticos, situaciones imprevisibles
+posteriores al perfeccionamiento del contrato u otras causas que puedan ocasionar
+la suspensión prolongada del plazo de ejecución física de la obra.
+2.2. Mapeo de las obras paralizadas en el territorio nacional
+De la información recibida por las unidades orgánicas de la Contraloría General de la
+República, del Sistema Nacional de Información de Obras Públicas (Infobras), así como del
+Sistema de Seguimiento de Inversiones (SSI), Sistema Integrado de Administración
+Financiera (SIAF) y el sistema Monitor RCC, en todo el territorio nacional se cuenta con un
+total de 1 751 obras paralizadas, en los tres niveles de gobierno, por un monto inversión
+superior a los S/ 22 mil 778 millones.
+Tabla 3. Ubicación geográfica de las obras paralizadas y costos de inversión
+Costo actualizado Obras paralizadas
+Saldo de inversión por
+Departamento
+ejecutar S/
+S/. % N° %
+LA LIBERTAD 4,509,903,455 19.8% 62 3.8% 2,924,203,526
+PIURA 2,732,868,778 12.0% 99 6.9% 995,961,260
+CAJAMARCA 1,781,884,241 7.8% 102 5.4% 1,119,800,842
+CUSCO 1,582,397,621 6.9% 282 14.0% 546,496,705
+ANCASH 1,342,041,027 5.9% 103 6.6% 832,826,784
+TACNA 1,192,711,078 5.2% 35 2.1% 639,086,833
+MOQUEGUA 1,016,386,751 4.5% 28 1.2% 436,555,371
+PUNO 1,004,241,865 4.4% 218 13.1% 528,255,244
+HUANUCO 974,105,716 4.3% 58 2.7% 544,595,768
+UCAYALI 890,838,891 3.9% 19 1.2% 156,952,351
+AREQUIPA 890,494,146 3.9% 77 4.8% 564,880,434
+HUANCAVELICA 678,024,810 3.0% 85 4.4% 441,663,625
+LIMA 665,017,861 2.9% 117 7.6% 287,943,341
+7
+REPORTE DE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL

@@ -1,0 +1,39 @@
+Reporte técnico evaluaciones 2024 Capítulo 5
+Figura 5.2. Representación gráfica de un constructo reflexivo
+ɳ
+Creencias tradicionales
+sobre la historia
+Y2 Y3 Y4
+En historia solo existe Los grandes Cuando aprendo historia, lo La historia está escrita
+una verdadera versión personajes son los más importante es recordar por autores célebres
+de los hechos que hacen la historia las fechas de los hechos
+ε ε ε ε
+1 2 3 4
+La variable latente en el ejemplo (creencias tradicionales sobre la historia) es
+comúnmente representada con una elipse. Los ítems o variables observables son
+representadas con cuadrados y los residuos, con círculos. Las flechas parten
+desde la variable latente hacia las variables observables, debido a que es un
+constructo reflexivo .
+A partir de una estructura teórica, se estiman parámetros que generan una
+matriz reproducida, la cual se compara con la empírica para evaluar su ajuste.
+Debido a la naturaleza de las respuestas de los cuestionarios, se ajustan modelos
+pertinentes para ítems categóricos. Por ello, el estimador utilizado fue el de
+Mínimos Cuadrados Ponderados por Media y Varianza (WLSMV, por sus siglas
+en inglés) (Muthén et al., 1997; Flora y Curran, 2004; DiStefano y Morgan, 2014),
+el cual usa matrices de correlaciones policóricas entre los ítems que componen
+cada indicador. El tratamiento de valores perdidos se realizó mediante eliminación
+pairwise, siguiendo el procedimiento implementado por el paquete lavaan. Este
+enfoque permite estimar los parámetros del modelo a partir de información
+disponible en cada par de variables, sin requerir la imputación de valores faltantes.
+La bondad de ajuste de los modelos es examinada a través de los siguientes
+indicadores: Índice de Ajuste Comparativo (CFI), Índice de Tucker-Lewis (TLI),
+Error Cuadrático Medio de Aproximación (RMSEA) y el Residual Estandarizado
+de la Raíz Cuadrada Media (SRMR) (Marsh et al., 2004; Chen et al., 2009; Lai
+y Green, 2016). A pesar de que no existe un consenso respecto de qué es un
+buen ajuste, hay varios autores que coinciden en algunos puntos de corte. Así,
+a partir de la lectura de estos textos, el equipo de Factores Asociados considera
+que valores por encima de 0,95 de CFI y TLI señalarían un buen ajuste en el
+modelo (Hu y Bentler, 1999; Marsh et al., 2004; Lai y Green, 2016). De otro lado,
+valores inferiores a 0,10 de RMSEA y SRMR indicarían valores marginalmente
+satisfactorios (MacCallum et al., 1996; Rutkowski y Svetina, 2013). Además de
+107

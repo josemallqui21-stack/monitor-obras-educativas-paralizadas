@@ -1,0 +1,38 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Tabla 05: Códigos de Material predominante de las
+Tabla 04: Códigos de Estado de
+paredes
+conservación
+Código Descripción
+Código Descripción
+01 Ladrillo o concreto
+01 Buen estado
+02 Adobe o tapial
+02 Regular estado
+03 Quincha
+03 Mal estado 04 Piedra con barro, cal o cemento
+04 No Aplica 05 Madera
+06 Triplay
+07 Eternit o fibra de concreto
+08 Estera, cartón o plástico
+Tabla 06: Códigos de Material 09 Otro
+predominante de los techos
+Código Descripción
+01 Concreto armado
+Tabla 07: Códigos de Material
+02 Madera predominante de los pisos
+03 Teja Código Descripción
+01 Parquet o madera pulida
+04 Fibra de cemento
+02 Vinilico, pisopak o similar
+05 Calamina
+06 Calaminon 03 Loseta, cerámico o similar
+07 Eternit 04 Cemento
+05 Madera entablada
+08 Caña con barro
+06 Tierra
+09 Lata o latón
+07 Otro
+10 Otro
+-- 69 --

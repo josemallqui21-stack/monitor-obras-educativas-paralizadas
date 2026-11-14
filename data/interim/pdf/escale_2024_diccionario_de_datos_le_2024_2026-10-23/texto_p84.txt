@@ -1,0 +1,35 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P801_RecTec.dbf [ Matriz 16: Recursos Tecnológicos en el Local Educativo ]
+Variable Tipo Descripción Valor
+P801_3_424 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+2. Conectados por wifi
+4. Otros ambientes complementarios
+P801_3_431 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+3. No conectados
+1. Aula de clase
+P801_3_432 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+3. No conectados
+2. Aula de innovación pedagógica
+P801_3_433 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+3. No conectados
+3. Laboratorio y/o talleres
+P801_3_434 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+3. No conectados
+4. Otros ambientes complementarios
+Archivo: Loc_Lineal_2.dbf
+Variable Tipo Descripción Valor
+P802 C (1) 802. Equipamiento 1: Sí
+- ¿Cuenta con al menos un dispositivo de la siguiente lista? 2: No
+Archivo: Loc_P802_Equip.dbf [ Matriz 17: Equipamiento en el Local Educativo ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de pregunta C802
+NUMERO C (2) Número de orden (01:16)
+-- 83 --

@@ -1,0 +1,58 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+3. Cantidad en regular estado
+P501_24_24 N (5) 24. Tenencia y estado de conservación del (00001:99999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+2. Silla docente
+4. Cantidad en mal estado
+P501_24_31 N (6) 24. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+3. Armario
+1. Cantidad Total
+P501_24_32 N (6) 24. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+3. Armario
+2. Cantidad en buen estado
+P501_24_33 N (5) 24. Tenencia y estado de conservación del (00001:99999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+3. Armario
+3. Cantidad en regular estado
+P501_24_34 N (5) 24. Tenencia y estado de conservación del (00001:99999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+3. Armario
+4. Cantidad en mal estado
+P501_24_41 N (6) 24. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+4. Estante
+1. Cantidad Total
+P501_24_42 N (6) 24. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+4. Estante
+2. Cantidad en buen estado
+P501_24_43 N (5) 24. Tenencia y estado de conservación del (00001:99999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+4. Estante
+3. Cantidad en regular estado
+P501_24_44 N (5) 24. Tenencia y estado de conservación del (00001:99999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+4. Estante
+4. Cantidad en mal estado
+P501_24_51 N (6) 24. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+5. Lockers
+1. Cantidad Total
+P501_24_52 N (6) 24. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+5. Lockers
+2. Cantidad en buen estado
+51

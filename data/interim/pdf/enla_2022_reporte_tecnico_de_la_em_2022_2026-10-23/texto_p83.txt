@@ -1,0 +1,35 @@
+Reporte técnico evaluaciones 2022 Capítulo 4
+Procesamiento de datos y
+Capítulo 4
+análisis psicométrico
+Para el procesamiento de datos y el análisis psicométrico, la UMC ejecuta un
+protocolo que contempla los lineamientos establecidos por la American Psychological
+Association (APA), la American Educational Research Association (AERA) y el
+National Council on Measurement in Education (NCME). De esta forma, garantiza la
+calidad y comparabilidad de la información obtenida de sus evaluaciones.
+4.1 Gestión y depuración de datos
+La gestión y depuración de datos tiene como finalidad convertir la información
+contenida en los documentos físicos (fichas ópticas) en información digital (base
+de datos) consistente y confiable. Este proceso es realizado por una empresa
+especializada en digitalización y captura de datos atendiendo a una serie de
+especificaciones técnicas delineadas por la UMC. Es de suma importancia que esta
+tarea sea desarrollada cumpliendo los plazos establecidos, por lo que la empresa
+responsable también debe tener la capacidad logística necesaria para trabajar con
+una gran cantidad de datos.
+La UMC se encarga de supervisar todos los procesos, subprocesos y actividades
+que realice la empresa de captura de datos. Esta última es la responsable de
+contratar a todo el personal necesario para el cumplimiento de todos los procesos
+y subprocesos que se lleven a cabo. La UMC, por su parte, es responsable de la
+capacitación de este personal.
+De manera general, este proceso está dividido en tres etapas: i) gestión física, ii)
+digitalización y captura de datos, y iii) depuración de bases de datos.
+4.1.1 Gestión física
+Este proceso tiene como objetivo asegurar que la empresa contratada cuente con
+toda la documentación física a procesar, la cual debe estar completa y lista para la
+captura de datos. Por ello, todos los documentos y cajas utilizados en la evaluación
+tienen impreso un código de barras que los identifica de forma única en todo el
+proyecto. Además, todos los documentos vienen clasificados en cajas según su tipo.
+Por ejemplo, hay cajas distintas para fichas ópticas de respuestas, fichas ópticas de
+información complementaria de la aplicación, cuestionarios de factores asociados,
+cuadernillos o pruebas.
+81

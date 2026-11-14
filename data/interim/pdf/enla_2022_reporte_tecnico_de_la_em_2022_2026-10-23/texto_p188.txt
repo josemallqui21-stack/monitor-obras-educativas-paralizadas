@@ -1,0 +1,49 @@
+Tabla A.24 Matemática. Distribución de ítems por contextos evaluados en la
+prueba
+Cantidad de
+Contextos Porcentaje
+ítems
+Intramatemático 8 6,6 %
+Extramatemático 114 93,4 %
+Total 122 100,0 %
+Tabla A.25 Ciencia y Tecnología. Distribución de ítems por competencias
+evaluadas en la prueba
+Competencia Cantidad %
+Indaga mediante métodos científicos para construir sus
+38 32,2 %
+conocimientos.
+Explica el mundo físico basándose en conocimientos
+sobre los seres vivos, materia y energía, biodiversidad, 64 54,2 %
+Tierra y universo.
+Diseña y construye soluciones tecnológicas para
+16 13,6 %
+resolver problemas de su entorno.
+Total 118 100,0 %
+Tabla A.26 Ciencia y Tecnología. Distribución de ítems por capacidades evaluadas
+en la prueba
+Competenecia Capacidad Cantidad %
+Problematiza situaciones para hacer
+14 36,8 %
+indagación.
+Diseña estrategias para hacer indagación. 9 23,7 %
+Indaga mediante
+Genera y registra datos o información. 2 5,3 %
+métodos científicos
+para construir sus
+Analiza datos e información. 12 31,6 %
+conocimientos.
+Evalúa y comunica el proceso y resultados de
+1 2,6 %
+su indagación.
+Subtotal 38 100 %
+Explica el mundo Comprende y usa conocimientos sobre los
+físico basándose seres vivos, materia y energía, biodiversidad, 59 92,2 %
+en conocimientos Tierra y universo.
+sobre los seres vivos,
+Evalúa las implicancias del saber y del
+materia y energía, 5 7,8 %
+quehacer científico y tecnológico.
+biodiversidad, Tierra
+y universo.
+Subtotal 64 100 %
+186

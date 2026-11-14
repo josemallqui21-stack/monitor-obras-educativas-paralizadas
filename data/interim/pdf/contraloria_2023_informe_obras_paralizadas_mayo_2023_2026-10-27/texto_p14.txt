@@ -1,0 +1,51 @@
+(*) Comprende causas no imprevistas, transferencia de gestión, no atribuibles a ambas partes, entre otros.
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/05/2023
+Cabe precisar que, las causales de paralización son reportadas por las entidades públicas
+en los distintos sistemas consultados como Infobras y el portal Invierte.pe.
+2.9. Obras paralizadas según evento asociado
+A continuación, se presenta el desagregado de las obras paralizadas según el evento
+asociado y nivel de gobierno. Cabe señalar que, en el caso de la Reconstrucción con
+Cambios, existen 111 obras paralizadas con un importe de inversión paralizado de S/ 1 060
+millones.
+Tabla 10. Obras paralizadas según el evento registrado en el sistema Infobras, por nivel de gobierno
+y costo actualizado
+G. Nacional G. Regional G. Local Total
+Evento
+Costo Costo Costo Costo
+N.° N.° N.° N.° %
+actualizado S/ actualizado S/ actualizado S/ actualizado S/
+Proceso normal 205 8,769,690,922 147 6,829,263,839 1128 4,979,747,534 1480 20,578,702,295 90.9%
+Reactivación
+0 0 12 965,857,949 6 44,082,663 18 1,009,940,612 4.5%
+económica
+Reconstrucción
+51 508,277,883 12 307,015,857 48 245,013,254 111 1,060,306,994 4.6%
+con Cambios
+Total 256 9,277,968,805 171 8,102,137,645 1182 5,268,843,451 1609 22,648,949,901 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/05/2023
+De 111 obras enmarcadas bajo el marco normativo de la Reconstrucción con Cambios,
+según su nivel de gobierno, tenemos que un 44.1% corresponden al nivel de gobierno
+Nacional, mientras que un 10.1% corresponde al nivel de gobierno Regional; y un 45.8%
+corresponde al gobierno Local.
+Tabla 11. Obras paralizadas bajo el marco normativo de la Reconstrucción con Cambios, según su nivel de
+gobierno
+Obras paralizadas Monto actualizado de la inversión
+Saldo de
+Nivel de gobierno
+inversión S/
+N.° % S/. %
+G. Nacional 51 44.1% 508,277,883 47.9% 331,882,690
+G. Regional 12 10.1% 307,015,857 29.0% 200,623,282
+G. Local 48 45.8% 245,013,254 23.1% 88,894,931
+Total 111 100% 1,060,306,994 100% 621,400,903
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/05/2023
+2.10. Obras paralizadas por administración directa o por contrata
+El 97% (1560) de las 1609 obras públicas paralizadas a nivel nacional son ejecutadas bajo
+la modalidad de administración directa o por contrata, en los tres niveles de gobierno. El
+monto de inversión asciende a S/ 19 mil 093 millones, como se detalla a continuación:

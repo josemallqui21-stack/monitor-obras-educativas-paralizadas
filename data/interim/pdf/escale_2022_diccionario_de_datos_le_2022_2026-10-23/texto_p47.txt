@@ -1,0 +1,46 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Tabla 02: Códigos de Tipo de Entidad
+Tabla 01: Códigos de Fin de módulo prefabricado
+Ejecutora
+Código Descripción
+Código Descripción
+01 Emergencia (ante desastres)
+01 Gobierno Nacional / Proyecto
+02 Temporal (durante la ejecución de una
+Especial
+inversión)
+02 Gobierno Regional / Local
+03 Permanentes
+03 APAFA / Autoconstrucción
+04 Entidades Cooperantes / ONG’s
+Tabla 03: Códigos de Forma de la Edificación 05 Empresa Privada
+Código Descripción 06 No Especifica
+01 Rectangular o cuadrado
+02 Hexagonal u octogonal
+03 Irregular
+Tabla 04: Códigos de Sistema Estructural Predominante
+Código Descripción Código Descripción
+01 Concreto armado – Tipo dual 07 Acero Estructural
+02 Concreto armado – Tipo 08 Módulo prefabricado - PRONIED
+apoticado
+03 Albañilería confinada 09 Módulo prefabricado - Otro
+04 Albañilería sin confinar 10 Precario
+05 Adobe / Tapial 11 Otro
+06 Madera Estructural
+Tabla 05: Códigos de Estado de Tabla 06: Códigos de Material predominante de la
+Conservación cobertura de los techos
+Código Descripción Código Descripción Código Descripción
+01 Buen Estado 01 Concreto 06 Calaminón
+02 Regular Estado 02 Madera 07 Caña con barro
+03 Mal Estado 03 Teja 08 Lata o latón
+04 No tiene, pero lo requiere 04 Fibra de cemento 09 Otro
+05 No tiene y no requiere 05 Calamina
+Tabla 07: Códigos de Tipo de T abla 08: Códigos de Tipo de
+Circulación Horizontal Instalación de Circuito
+Código Descripción Código Descripción
+01 Directo sin desnivel 01 Circuito canalizado
+02 Gradas 02 Circuito sin canalizar o sin
+03 Rampas conductor adecuado
+04 Otros
+03 No especifica
+46

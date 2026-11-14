@@ -1,0 +1,49 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+ "P0": Escuela de Educación Superior Pedagógica
+ "S0": Escuela de Educación Superior Tecnológica
+(***) Código de carrera:
+Revisar la tabla de códigos de carrera disponible al final de esta cédula.
+(*) Matriz Local_Topog.dbf (Pregunta 107)
+Nombre de archivo: Local_Topog.dbf
+107. LEVANTAMIENTO TOPOGRÁFICO
+Tabla: Local_Topog.dbf
+Campo Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo (000001:999999)
+NROCED C (5) Número de cédula 11
+CUADRO C (6) 107. Levantamiento Topográfico C107
+NUMERO C (2) Número del predio (*)
+PREDIOS C (20) Descripción del predio (**)
+P107_1 C (2) 1. ¿Se cuenta con estudio topográfico? SI / NO
+P107_2 N (12,2) En caso respondió “Sí” en el numeral (1): (1:9999999999)
+2. Área del terreno según Estudio Topográfico
+(𝑚2)
+P107_3 C (2) En caso respondió “Sí” en el numeral (1): SI / NO
+3. ¿Se le asignó toda el área del terreno?
+P107_4 N (12,2) En caso respondió “Sí” en el numeral (1): (1:9999999999)
+4. Área del terreno asignada por predio (𝑚2)
+P107_5 C (2) En caso respondió “No” en el numeral (1): SI / NO
+5. Indicar si el área del terreno se consiguió de
+otro documento o plano
+P107_6 N (12,2) En caso respondió “No” en el numeral (1): (1:9999999999)
+6. Área del terreno (𝑚2)
+P107_7 C (2) En caso respondió “No” en el numeral (1): SI / NO
+7. ¿Se le asigno toda el área del terreno?
+P107_8 N (12,2) En caso respondió “No” en el numeral (1): (1:9999999999)
+8. Área del terreno asignada por predio (𝑚2)
+P107_9 C (2) 9. La condición de tenencia del predio que ocupa el Ver Código en
+local educativo es: Tabla 01
+P107_10 C (2) 10. EL PREDIO, ¿cuenta con saneamiento Físico SI / NO
+Legal?
+P107_11 C (2) En caso respondió “Sí” en el numeral (10): Ver Código en
+11. Propietario del Predio (según saneamiento Tabla 02 – Según
+físico legal) saneamiento
+físico legal
+P107_12 C (2) En caso respondió “Sí” en el numeral (10): SI / NO
+12. Se cuenta con la partida registral?
+P107_13 C (15) En caso respondió “Sí” en el numeral (10): (0:9),(A:Z)
+En caso “SI” se cuente con la partida registral
+13. N° de Partida registral
+P107_14 C (100) En caso respondió “Sí” en el numeral (10): (A:Z)
+En caso “SI” se cuente con la partida registral
+14. Sede Oficina Registral
+20

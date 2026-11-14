@@ -1,0 +1,57 @@
+Reporte técnico evaluaciones 2022 Capítulo 5
+Código de
+Grado Actor Nombre CFI TLI SRMR RMSEA
+constructo
+EST2SGEN_ Interés por los textos
+1 1 0,023 0,056
+INTEXT en la escuela
+EST2SGEN_ Motivación hacia la
+0,99 0,99 0,07 0,096
+MOTL lectura: tiempo libre
+EST2SMAT_ Clima del error en
+0,95 0,93 0,066 0,089
+CLIMER Matemática
+Prácticas de
+EST2SMAT_
+evaluación formativa 0,99 0,98 0,051 0,092
+EVFORM
+en Matemática
+EST2SMAT_ Ansiedad ante la
+1 1 0,029 0,081
+ANSIE matemática
+EST2SCSS_ Discusión en clases
+1 1 0,032 0,075
+DISCU de CCSS
+2.° Pensamiento
+EST2SCSS_
+grado de Estudiante histórico del 0,97 0,96 0,048 0,065
+CREHIST
+secundaria estudiante
+EST2SCSS_
+Ciudadanía activa 0,97 0,96 0,072 0,089
+CIUAC
+EST2SCSS_ Actividades de
+0,99 0,99 0,032 0,055
+ACTEVA evaluación en CCSS
+Activación cognitiva
+EST2SLEC_
+en clases de 0,99 0,99 0,04 0,074
+ACTCOG
+Comunicación
+EST2SLEC_ Motivación hacia la
+0,99 0,99 0,057 0,086
+MOTL lectura: en la escuela
+EST2SHSE_CSE Clima social escolar 0,99 0,99 0,045 0,065
+Estrés académico
+EST2SHSE_EAA 0,98 0,97 0,063 0,09
+adolescente
+b. Para constructos formativos
+El análisis de constructos formativos fue realizado por medio del ACP. El objetivo
+de este análisis es formar nuevas variables, llamadas componentes principales, a
+partir de un conjunto de variables de entrada posiblemente correlacionadas (Mair,
+2018). Sea X una matriz conteniendo m indicadores, ACP extrae nuevas variables
+independientes entre sí, c1, c2…c
+m
+. Para el primer componente principal, la ecuación
+que relaciona c con los indicadores es:
+159

@@ -1,0 +1,27 @@
+medirla (5 ítems). Una baja confiablidad implica una menor precisión en la medición
+de esta habilidad. Sin embargo, dado que la confiabilidad de esta medida no está
+demasiado alejada del punto de corte, no se desestimó su uso en la EM 2022. Con
+todo, estos resultados deberían interpretarse con una mayor cautela. Estos resultados
+aparecen en la tabla 4.39. En cuanto a las escalas de HSE aplicadas en 2.° grado de
+secundaria, todas las medidas derivadas de aplicarlas mostraron una confiabilidad
+por encima del punto de corte. Estos resultados aparecen en la tabla 4.40.
+Tabla 4.39 Confiabilidad de las medidas de HSE derivadas de las escalas aplicadas
+en 6.° grado de primaria
+Escala Subescala Confiabilidad
+Autoeficacia académica 0,71
+Autoeficacia Autoeficacia emocional 0,71
+Autoeficacia social 0,71
+Autonomía 0,75
+Autonomía y relación
+Relación 0,79
+Autorregulación conductual - 0,83
+Empatía cognitiva 0,80
+Empatía
+Disposición empática 0,82
+Responsabilidad - 0,69
+Estilo vigilante 0,63
+Estilo hipervigilante 0,69
+Toma de decisiones
+Estilo procrastinador 0,68
+Estilo de transferencia 0,70
+166

@@ -1,0 +1,50 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Tabla 01: Códigos de Tipo de Tabla 02: Códigos de material predominante del tramo
+Lindero
+Código Descripción Código Descripción
+Código Descripción
+Ladrillo/Similar/Bloque de
+01 Frente
+01 06 Malla metálica
+cemento
+02 Derecho
+03 Fondo Adobe/Tapia/Quincha/Piedra
+02 07 Cerco prefabricado
+con barro
+04 Izquierdo
+03 Piedra en bloque 08 Estera
+04 Madera 09 Drywall
+10 Calaminas
+05 Alambre
+11 Cerco vivo
+12 Solo existe el espacio sin construir
+Tabla 03: Códigos de estados de conservación Tabla 04: Códigos de Entidad Ejecutora
+Numerales 9 (del tramo) y
+Numeral 17 (del portón) Código Descripción
+23(del muro de contención)
+Código Descripción Código Descripción 01 Gobierno Nacional
+01 Sin daño 01 Buen estado 02 Gobierno Regional
+03 APAFA
+02 Fisuras leves 02 Regular estado
+04 Entidades Cooperantes
+Fisuras
+03 moderadas o 03 Mal estado
+05 Empresa Privada
+ataques de sales
+06 Otro
+Agrietamiento o
+04
+colapso
+Tabla 05: Códigos de Tipo de Acceso en Tabla 06: Códigos de Estructura de la
+el Tramo portada
+Código Descripción Código Descripción
+01 Acceso plano 01 Concreto armado
+02 Sólo escalera y rampa 02 Metálico
+03 Concreto Simple
+Sólo rampa (con una
+03
+pequeña inclinación) 04 Madera
+05 Piedra
+06 otro
+-- 41 --

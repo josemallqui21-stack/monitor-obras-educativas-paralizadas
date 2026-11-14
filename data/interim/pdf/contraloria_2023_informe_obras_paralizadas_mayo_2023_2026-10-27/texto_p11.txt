@@ -1,0 +1,47 @@
+Tabla 4. Obras paralizadas por nivel de gobierno
+Costo actualizado de la
+Obras paralizadas Saldo de inversión por ejecutar*
+inversión
+Nivel de gobierno
+S/. % N.° % S/ %
+Gobierno Nacional 9,277,968,805 41.0% 256 15.5% 4,455,090,954 39.5%
+Gobierno Regional 8,102,137,645 35.8% 171 10.8% 4,557,551,781 40.5%
+Gobierno Local 5,268,843,451 23.3% 1182 73.7% 2,251,921,254 20.0%
+Total 22,648,949,901 100.0% 1609 100.0% 11,264,563,990 100%
+*El cálculo del estimado de saldo de inversión por ejecutar se toma de referencia los devengados efectuados
+a la inversión.
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/05/2023
+2.4. Obras paralizadas por sector de gobierno
+Las obras paralizadas se encuentran relacionadas con diversos sectores de gobierno y a su
+vez con los niveles de Gobierno Nacional, Regional y Local, como se detalla a continuación:
+Tabla 5. Obras paralizadas por sector de gobierno
+Nivel de gobierno
+Sector G. Nacional G. Regional G. Local Total general Costo actualizado
+Cant. Cant. Cant. Cant. % S/ %
+TRANSPORTES Y
+48 45 342 435 27.0% 8,645,074,881 38.2%
+COMUNICACIONES
+VIVIENDA,
+CONSTRUCCIÓN Y 61 25 299 385 23.9% 3,360,357,486 14.8%
+SANEAMIENTO
+AGRICULTURA 60 30 120 210 13.1% 1,724,876,786 7.6%
+EDUCACIÓN 24 25 87 136 8.5% 716,679,563 3.2%
+CULTURA 4 3 104 111 6.9% 489,909,369 2.2%
+SALUD 22 20 15 57 3.5% 3,534,149,133 15.6%
+OTROS SECTORES 37 23 215 275 17.1% 4,177,902,682 18.4%
+Total 256 171 1182 1609 100% 22,648,949,901 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/05/2023
+Conforme al cuadro precedente, el sector Transportes y Comunicaciones concentra 435
+obras paralizadas, lo que representa el 27% del total nacional, de los cuales 342
+corresponden a entidades de Gobierno Local, 45 Regional y 48 a Gobierno Nacional;
+seguido del sector Vivienda, Construcción y Saneamiento, con una representatividad del
+23.9%.
+2.5. Obras paralizadas por modalidad de ejecución
+Las modalidades de ejecución de las 1,609 obras paralizadas a cargo de entidades del
+Gobierno Nacional, Regional y Local, corresponden a contrata, administración directa,
+Asociaciones Público-Privadas y concesiones, núcleos ejecutores y Obras por Impuestos,
+como se muestra en el siguiente cuadro:

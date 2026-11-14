@@ -1,0 +1,36 @@
+Reporte técnico evaluaciones 2022 Capítulo 4
+de HSE, se incluyó una escala para evaluar el sesgo por deseabilidad social, la
+cual se analizó a través del modelo Rasch para ítems dicotómicos (Rasch, 1960).
+Posteriormente, se analizaron las correlaciones entre las medidas de HSE y las de
+deseabilidad social. Dado que, en general, estas correlaciones fueron pequeñas, se
+infiere que las respuestas de los estudiantes no fueron influidas marcadamente por
+su deseabilidad social.
+4.6.1 Calibración de los ítems
+En las tablas 4.33 y 4.34, se presentan los resultados de la calibración de los ítems
+de cada una de las escalas de HSE. La columna denominada “Medida” representa
+la dificultad del ítem. Así, una menor medida implica que el ítem es más fácil de
+endosar (es decir, es más fácil que los estudiantes respondan marcando alguna
+de las categorías de respuesta más altas), mientras que una mayor medida implica
+que el ítem es más difícil de endosar (es decir, es más difícil que los estudiantes
+respondan marcando alguna de las categorías de respuesta más altas). Asimismo,
+la dificultad de cada ítem viene acompañada de un error que representa qué tan
+precisa ha sido su calibración. Así, mientras más pequeño es el error, más precisa
+ha sido la calibración de la dificultad del ítem (y viceversa). Como se puede observar
+en ambas tablas, los errores de calibración son muy pequeños, lo que indica que
+la calibración de la dificultad fue bastante precisa. Por último, en ambas tablas, se
+observa que el infit y el outfit de todos los ítems de las escalas de HSE utilizadas en
+la EM 2022 mostraron valores dentro del rango aceptable, por lo que se concluye que
+existe evidencia de un buen ajuste de los datos al modelo Rasch.
+Tabla 4.33 Calibración de los ítems de las escalas de HSE aplicadas en 6.° grado
+de primaria
+Escala Subescala Ítem Medida Error Infit Outfit
+HSEAEF6P001 -0,587 0,011 0,73 0,74
+HSEAEF6P003 -0,775 0,011 0,88 0,88
+HSEAEF6P005 -1,003 0,012 0,72 0,73
+Autoeficacia
+Autoeficacia HSEAEF6P010 0,024 0,010 1,08 1,09
+académica
+HSEAEF6P014 -0,647 0,011 0,70 0,71
+HSEAEF6P015 -0,769 0,011 0,93 0,92
+HSEAEF6P017 -0,278 0,010 0,88 0,88
+155

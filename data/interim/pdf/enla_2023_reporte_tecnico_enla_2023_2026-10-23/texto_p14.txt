@@ -1,0 +1,39 @@
+1.1 Construcción de los ítems y las pruebas
+Los procesos del diseño, así como la construcción de los ítems y las pruebas,
+tienen como referente fundamental el Currículo Nacional de Educación Básica
+(CNEB, aprobado mediante Resolución Ministerial N.° 281-2016-MINEDU), y siguen
+los principios de validez, confiabilidad e imparcialidad. Por un lado, tomar como
+referente el currículo involucra la evaluación de las competencias establecidas en
+este documento desde la perspectiva del enfoque propio de cada área: el enfoque
+comunicativo (y sociocultural) del área de Comunicación, el enfoque de resolución
+de problemas del área de Matemática y el enfoque de ciudadanía activa del área
+de Ciencias Sociales. Asimismo, seguir los principios de validez, confiabilidad e
+imparcialidad implica que los instrumentos de evaluación deben recoger información
+de los estudiantes de tal manera que se pueda estimar de forma fiable su nivel de
+logro en las competencias evaluadas, y que dicha información pueda ser usada para
+los fines propios del proceso educativo (American Educational Research Association,
+American Psychological Association y National Council of Measurement in Education,
+2014). Además, los instrumentos deben reflejar una concepción inclusiva de la
+educación, conforme a los lineamientos de la política educativa nacional (Ministerio
+de Educación, 2015).
+En las evaluaciones nacionales de logros de aprendizaje, se emplean dos formatos
+de ítems: de opción múltiple y de respuesta construida. A continuación, se describe
+cada uno de ellos.
+Ítem de opción múltiple. El formato de opción múltiple es el más común. Presenta
+en su estructura un estímulo, enunciado o pregunta y tres o cuatro alternativas de
+respuesta, entre las cuales el estudiante debe identificar la única que es correcta.
+Esto implica que dos o tres alternativas funcionan como distractores (respuestas
+incorrectas). En ciertos ítems, alguno de los distractores puede constituir una
+respuesta intermedia o de logro parcial y, por lo tanto, se modela como un ítem
+de crédito o puntaje parcial. En las evaluaciones implementadas por la UMC, las
+pruebas de 2.° grado de primaria en su mayoría están conformadas por ítems que
+presentan tres alternativas para evitar que el estudiante, debido a su edad o al
+nivel de desarrollo de su competencia lectora, haga un mayor esfuerzo cognitivo
+en la lectura del ítem que en su solución. Para los demás grados, las pruebas están
+conformadas por ítems que presentan cuatro alternativas.
+La construcción del enunciado y de las alternativas de un ítem de opción múltiple
+sigue las pautas ofrecidas por Moreno, Martínez y Muñiz (2004). De acuerdo con lo
+propuesto por estos autores, se considera lo siguiente:
+Respecto de la construcción del ítem en general
+• Debe haber correspondencia entre el ítem y el indicador que evalúa.
+12

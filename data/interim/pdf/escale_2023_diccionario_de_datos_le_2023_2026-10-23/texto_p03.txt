@@ -1,0 +1,37 @@
+"Año de la unidad, la paz y el desarrollo"
+DESCRIPCIÓN DE LAS TABLAS DE LA CÉDULA
+Los valores de las variables de la Ficha Unificada de Infraestructura Educativa (FUIE) están almacenada en
+diferentes tablas. A continuación, se describen las tablas y su relación con las preguntas de las cédulas.
+Las preguntas lineales de toda la cédula están incorporadas en dos tablas:
+1. Loc_Lineal_1.dbf: Desde Variable “PERIODO” hasta el Variable “P122_1” (pregunta 122.1.
+¿Cuenta con la disponibilidad de un nuevo terreno que ha sido gestionado para el traslado de la IE?).
+2. Loc_Lineal_2.dbf: Desde Variable “P201_1” (Pregunta 201. Servicios en el Centro Poblado - 1.
+Energía eléctrica) hasta el Variable “ANOTACIONES”.
+Loc_P101_Nivel.dbf: Detalla información registrada en la pregunta 101. Servicios
+niveles/educativos que funcionan en el local educativo.
+Loc_P102_Carrer.dbf: Detalla información registrada en la pregunta 102. Listado de carreras o
+programas de estudio ofrecidos en este local educativo por el instituto o escuela de educación
+superior.
+Loc_P106_ATech.dbf: Detalla información registrada en la pregunta 106.1. Área techada por
+terreno, edificación y piso.
+Loc_P107_Topog.dbf: Detalla información registrada en la pregunta 107. Levantamiento
+Topográfico.
+Loc_P108_SaFiLe.dbf: Detalla información registrada en la pregunta 108.1. La condición de
+tenencia del terreno que ocupa el local educativo es:
+Loc_P114_Tramo.dbf: Detalla información registrada en la pregunta 114. ¿Con cuántos tramos
+cuenta el perímetro del terreno del local educativo?
+Loc_P117_Trayec.dbf: Detalla información registrada en las preguntas 117.1. Traslado desde la
+UGEL al Local Educativo y 117.3. Traslado desde la capital distrital al local educativo
+Loc_P200_ServBa.dbf: Detalla información registrada en las preguntas 202. Procedencia del
+abastecimiento de agua, 206. Tipo de conexión de desagüe y 207. Procedencia de la energía eléctrica.
+Loc_P222_Inter.dbf: Detalla información registrada en la pregunta 222.3 Líneas contratadas en el
+local educativo.
+Loc_P302_Cerco.dbf: Detalla información registrada en la pregunta 302. Número de tramos del
+cerco perimétrico.
+Loc_P303_OtElem.dbf: Detalla información registrada en la pregunta 303. Otros elementos en el
+local educativo.
+Loc_P401_Edific.dbf: Detalla información registrada en la pregunta 401. Edificaciones en el local
+educativo.
+Loc_P501_Aulas.dbf: Detalla información registrada en la pregunta 501. Número de aulas o
+espacios acondicionados como aulas.
+2

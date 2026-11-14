@@ -1,0 +1,45 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P701_SSHH.dbf [ Matriz 15: Características de los SS.HH. En el Local Educativo ]
+Variable Tipo Descripción Valor
+P701_14_11 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales
+1. Total
+P701_14_12 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales
+2. Operativos
+P701_14_13 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales operativos según
+estado de conservación
+3. Buen estado
+P701_14_14 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales operativos según
+estado de conservación
+4. Regular estado
+P701_14_15 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales operativos según
+estado de conservación
+5. Mal estado
+P701_14_16 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+6. Del total de operativos, ¿Cuántos tienen función
+de descarga?
+P701_14_21 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+2. Urinarios Corridos
+- Cantidad de urinarios corridos
+1. Total
+P701_14_22 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+2. Urinarios Corridos
+- Cantidad de urinarios corridos
+2. Operativos
+P701_14_23 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+2. Urinarios Corridos
+- Cantidad de urinarios corridos según estado de
+conservación
+3. Buen estado
+-- 79 --

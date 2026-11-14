@@ -1,0 +1,9 @@
+Reporte técnico evaluaciones 2024 Capítulo 2
+Programados Evaluados Cobertura (%)
+DRE IE estudiantes IE estudiantes IE estudiantes
+Piura 49 5997 49 5266 100,0 87,8
+San Martín 20 2011 20 1744 100,0 86,7
+Tacna 21 1983 21 1868 100,0 94,2
+Tumbes 11 1154 11 1031 100,0 89,3
+Ucayali 32 3625 32 2786 100,0 76,9
+43

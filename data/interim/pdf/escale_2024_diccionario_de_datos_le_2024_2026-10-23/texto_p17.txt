@@ -1,0 +1,46 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P113_1_4 C (1) CARACTERÍSTICAS DE LA GRADA 1: Sí
+4. ¿La grada cuenta con señalización para personas con 2: No
+discapacidad visual (piso podotáctil) al inicio y al final?
+P113_1_5 C (1) CARACTERÍSTICAS DE LA GRADA 1: Sí
+5. ¿Cuenta con baranda/pasamanos? 2: No
+P113_1_6 N (6,2) CARACTERÍSTICAS DE LA RAMPA 999,99
+6. Ancho (en metros)
+P113_1_7 N (6,2) CARACTERÍSTICAS DE LA RAMPA 999,99
+7. Largo (en metros)
+P113_1_8 N (4,2) CARACTERÍSTICAS DE LA RAMPA 99,99
+8. Alto (en metros)
+P113_1_9 C (1) CARACTERÍSTICAS DE LA RAMPA 1: Sí
+9. ¿El piso de la rampa es homogéneo y antideslizante? 2: No
+P113_1_10 C (1) CARACTERÍSTICAS DE LA RAMPA 1: Sí
+10. ¿La rampa cuenta con señalización para personas con 2: No
+discapacidad visual (piso podotáctil) al inicio y al final?
+P113_1_11 C (1) CARACTERÍSTICAS DE LA RAMPA 1: Sí
+11. ¿Cuenta con baranda/pasamanos? 2: No
+P113_2_1 C (1) 113.2. ¿Cómo se conectan las edificaciones y espacios "X"
+dentro del local educativo?
+1. Gradas
+P113_2_2 C (1) 113.2. ¿Cómo se conectan las edificaciones y espacios "X"
+dentro del local educativo?
+2. Rampa
+P113_2_3 C (1) 113.2. ¿Cómo se conectan las edificaciones y espacios "X"
+dentro del local educativo?
+3. Directo sin Desnivel
+P113_2_4 C (1) 113.2. ¿Cómo se conectan las edificaciones y espacios "X"
+dentro del local educativo?
+4. Otros
+P113_2_OT C (80) 113.2. ¿Cómo se conectan las edificaciones y espacios Texto
+dentro del local educativo?
+4. Otros --- Especifique
+P113_2_1OK C (1) 113.2. ¿Cómo se conectan las edificaciones y espacios 1: Sí
+dentro del local educativo? 2: No
+1: Gradas
+¿Cumple con las características de acuerdo a la norma?
+P113_2_2OK C (1) 113.2. ¿Cómo se conectan las edificaciones y espacios 1: Sí
+dentro del local educativo? 2: No
+2: Rampa
+¿Cumple con las características de acuerdo a la norma?
+-- 16 --

@@ -1,0 +1,38 @@
+Reporte técnico evaluaciones 2022 Anexo A
+Tabla A.4 Matemática. Distribución de ítems por competencias evaluadas en la
+prueba
+Cantidad
+Competencias Porcentaje
+de ítems
+Resuelve problemas de cantidad 92 100 %
+Resuelve problemas de regularidad, equivalencia y cambio 0 0 %
+Resuelve problemas de forma, movimiento y localización 0 0 %
+Resuelve problemas de gestión de datos e incertidumbre 0 0 %
+Total 92 100 %
+Tabla A.5 Matemática. Distribución de ítems por capacidades evaluadas en la
+prueba
+Cantidad
+Competencia Capacidades Porcentaje
+de ítems
+Traduce cantidades a expresiones numéricas. 46 50,0 %
+Comunica su comprensión sobre los números y
+18 19,6 %
+las operaciones.
+Resuelve
+problemas de
+Usa estrategias y procedimientos de estimación
+cantidad 14 15,2 %
+y cálculo.
+Argumenta afirmaciones sobre las relaciones
+14 15,2 %
+numéricas y las operaciones.
+Total 102 100 %
+*El total ha sido redondeado a un decimal. Por ello, la suma total en esta tabla no es exactamente 100 %.
+Tabla A.6 Matemática. Distribución de ítems por contextos evaluados en la prueba
+Cantidad de
+Contextos Porcentaje
+ítems
+Intramatemático 9 9,8 %
+Extramatemático 83 90,2 %
+Total 92 100 %
+175

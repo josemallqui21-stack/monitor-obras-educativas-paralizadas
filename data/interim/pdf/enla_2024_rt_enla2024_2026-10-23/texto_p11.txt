@@ -1,0 +1,40 @@
+Reporte técnico evaluaciones 2024 Capítulo 1
+Diseño y construcción de las
+Capítulo 1
+pruebas aplicadas
+La Oficina de Medición de la Calidad de los Aprendizajes (UMC) cuenta con un
+Equipo de Evaluación conformado por distintos subequipos organizados según
+especialidades: Comunicación, Matemática, Lenguas originarias, Ciudadanía y
+Ciencias Sociales, Ciencia y Tecnología. Los especialistas de estos equipos son
+los encargados de diseñar y construir las pruebas y demás instrumentos, para las
+diversas evaluaciones y estudios que están bajo la responsabilidad de la UMC como
+instancia técnica del Ministerio de Educación del Perú (Minedu). Asimismo, la oficina
+cuenta con un subequipo de Atención a la Diversidad que orienta y contribuye a
+la aplicación del diseño universal de evaluación para la construcción de todas las
+pruebas, así como en la adaptación de estas y de los procedimientos de aplicación
+a las características particulares de los estudiantes con discapacidad incluidos en
+las escuelas de Educación Básica Regular (EBR), con la finalidad de que puedan
+participar en las evaluaciones de forma autónoma.
+Cada año, las pruebas que se aplican en el marco de las evaluaciones nacionales
+de logros de aprendizaje con alcance censal o muestral son especificadas mediante
+una resolución ministerial publicada durante los primeros meses del año en el diario
+oficial El Peruano. Así, en el 2024, mediante R.M. 120-2024-Minedu, se dispuso la
+implementación de la Evaluación Nacional de Logros de Aprendizaje de Estudiantes
+(ENLA), tal como se detalla en la tabla 1.1.
+Tabla 1.1 Evaluaciones muestral y censal implementadas por la UMC en el 2024
+Denominación
+Nivel Grado Área Competencia(s) evaluada(s)
+de la prueba
+Lee diversos tipos de textos
+Comunicación Lectura
+escritos en su lengua materna.
+Resuelve problemas de cantidad.
+Primaria 4.°
+Resuelve problemas de
+Matemática regularidad, equivalencia y Matemática
+cambio.
+Resuelve problemas de gestión de
+datos e incertidumbre.
+Resuelve problemas de forma,
+movimiento y localización.
+9

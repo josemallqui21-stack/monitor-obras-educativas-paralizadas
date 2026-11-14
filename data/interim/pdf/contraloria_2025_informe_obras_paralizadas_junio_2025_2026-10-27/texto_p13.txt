@@ -1,0 +1,45 @@
+Tabla 8. Obras públicas paralizadas por rango de avance físico
+Obras paralizadas Costo Actualizado Saldo de Inversión por ejecutar
+Rango de avance físico %
+N° % S/ % S/ %
+90 - 100 % 263 10.8% 3,228,159,703 7.3% 454,368,877 2.1%
+80 - 90 % 280 11.5% 3,248,570,486 7.3% 641,863,474 2.9%
+70 - 80 % 240 9.9% 3,520,634,465 7.9% 1,188,456,869 5.4%
+60 - 70 % 285 11.7% 7,548,339,425 17.0% 4,736,713,631 21.7%
+50 - 60 % 257 10.6% 3,369,245,842 7.6% 1,272,546,031 5.8%
+40 - 50 % 235 9.7% 3,474,964,137 7.8% 1,291,170,189 5.9%
+30 - 40 % 229 9.4% 4,065,417,523 9.2% 1,903,973,590 8.7%
+20 - 30 % 183 7.5% 6,530,488,836 14.7% 4,450,069,602 20.4%
+10 - 20 % 187 7.7% 2,999,585,657 6.8% 1,905,434,464 8.7%
+0 - 10 % 269 11.1% 6,312,547,900 14.3% 3,968,182,127 18.2%
+Total 2428 100% 44,297,953,975 100% 21,812,778,855 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 30/06/2025
+2.8. Obras públicas paralizadas según su causal u origen de paralización
+Según la información declarada oficialmente por la entidad ejecutora, el 25.1% del total de
+obras públicas paralizadas se encuentra en dicha situación por incumplimientos
+contractuales, el 21.3% por falta de recursos financieros, el 10.3% por deficiencias en el
+expediente técnico, entre otras causales de paralización.
+Tabla 9. Obras públicas paralizadas según causal de paralización reportado por las entidades públicas
+Saldo de Inversión por
+Obras paralizadas Costo Actualizado
+Causales de paralización ejecutar
+N° % S/ % S/ %
+Incumplimiento de contrato 610 25.1% 16,180,588,128 36.5% 6,585,275,672 30.2%
+Falta de recursos financieros y liquidez 516 21.3% 1,908,884,150 4.3% 944,207,475 4.3%
+Deficiencia en el expediente técnico 249 10.3% 2,477,325,856 5.6% 1,375,151,894 6.3%
+Abandono de obra 193 7.9% 664,699,839 1.5% 214,453,533 1.0%
+Discrepancias, controversias y arbitraje 222 9.1% 15,878,564,408 35.8% 9,636,064,315 44.2%
+Incumplimiento del pago de valorizaciones u
+89 3.7% 1,856,677,150 4.2% 525,122,120 2.4%
+otros
+Eventos climáticos 49 2.0% 925,530,049 2.1% 495,626,657 2.3%
+Conflictos sociales 72 3.0% 733,250,004 1.7% 381,132,252 1.7%
+Disponibilidad de terreno 55 2.3% 1,040,638,060 2.3% 639,305,922 2.9%
+Falta de permisos, licencias y autorizaciones 47 1.9% 324,911,137 0.7% 106,142,138 0.5%
+Interferencias 27 1.1% 259,112,663 0.6% 147,370,599 0.7%
+Desabastecimiento sostenido de materiales 36 1.5% 301,965,958 0.7% 92,658,052 0.4%
+Falta de personal clave 3 0.1% 28,939,639 0.1% 13,204,144 0.1%
+Obra judicializada 1 0.0% 10,660,118 0.0% 1,017,053 0.0%
+12

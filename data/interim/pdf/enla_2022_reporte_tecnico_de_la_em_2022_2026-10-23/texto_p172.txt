@@ -1,0 +1,40 @@
+Kolen, M., y Brennan, R. (2014). Test equating, scaling and linking. Methods and
+practices (3a ed.). Springer.
+Lee, W. (2010). Classification consistency and accuracy for complex assessments
+using Item Response Theory. Journal of Educational Measurement, 47(1),
+1-17. https://doi.org/10.1111/j.1745-3984.2009.00096.x
+Lewis, D. M., Mitzel, H. C. y Green, D. R. (1996, Junio). Standard setting: A bookmark
+approach. En D. R. Green (Ed.), IRT-based standard-setting procedures
+utilizing behavioral anchoring. Simposio presentado en el Council of Chief
+State School Officers National Conference on Large-Scale Assessment,
+Phoenix, AZ.
+Likert, R. (1932). A technique for the measurement of attitudes. Archives of Psychology,
+22, 5-55. https://legacy.voteview.com/pdf/Likert_1932.pdf
+Linacre, J. M. (1998). Detecting multidimensionality: Which residual data-type works
+best? Journal of Outcome Measurement, 2(3), 266-283.
+Linacre, J. M. (2001). Category, step and threshold: Definitions & disordering. Rasch
+Measurement Transactions, 15(1), 794. https://www.rasch.org/rmt/rmt151g.
+htm
+Linacre, J. M. (2023). A user's guide to WINSTEPS, MINISTEP Rasch model computer
+programs. https://www.winsteps.com/a/Winsteps-Manual.pdf
+Livingston, S. A. (2004). Equating test scores (without IRT). Educational Testing
+Service. https://www.ets.org/Media/Research/pdf/LIVINGSTON2ed.pdf
+Lohr, S. (2021). Samplig. Design and analysis. CRC Press.
+Masters, G. N. (1982). A Rasch model for partial credit scoring. Psychometrika, 47(2),
+149-174. https://doi.org/10.1007/BF02296272
+McGartland D., Berg-Weger, M., Tebb, S. S., Lee, E. S. & Rauch, S. (2003). Objectifying
+content validity: conducting a content validity study in social work research.
+Social Work Research, 27(2), 94-104. https://doi.org/10.1093/swr/27.2.94
+Ministerio de Educación. (2005). Evaluación nacional del rendimiento estudiantil
+2004. Informe descriptivo de resultados. http://repositorio.minedu.gob.pe/
+handle/123456789/1134
+Ministerio de Educación. (2009). Evaluación Censal de Estudiantes (ECE). Segundo
+grado de primaria y cuarto grado de primaria de IE EIB. Marco de trabajo.
+http://repositorio.minedu.gob.pe/handle/123456789/1106
+Ministerio de Educación. (2015). Marco de fundamentación de las pruebas de
+rendimiento de la Evaluación Censal de Estudiantes de 2do grado de
+secundaria 2015. http://repositorio.minedu.gob.pe/handle/123456789/5055
+Moreno, R., Martínez, R. J. y Muñiz, J. (2004). Directrices para la construcción de ítems
+de elección múltiple. Psicothema, 16(3), 490–497. https://www.psicothema.
+com/pi?pii=3023
+170 170

@@ -1,0 +1,33 @@
+Reporte técnico evaluaciones 2022 Capítulo 2
+del tamaño de muestra se utilizó como insumo el cálculo del efecto diseño (DEFF)
+de evaluaciones previas, y se estableció un margen de error de 7 puntos sobre la
+medida de cada área evaluada, así como un nivel de confianza del 95 %.
+Con los insumos antes mencionados, se calculó el tamaño de muestra para cada
+DRE; dentro de cada una de ellas, se estratificó según lo descrito en la sección
+de estratificación. Como siguiente paso, se empleó la asignación de Neyman para
+determinar la cantidad de muestra en cada uno de los estratos, la cual es directamente
+proporcional a la variabilidad y el tamaño del mismo.
+La asignación de Neyman, también llamada de mínima varianza, consiste en
+determinar los valores de muestra para cada estrato de forma que, para un tamaño de
+muestra fijo, la varianza de los estimadores sea mínima. La utilidad de esta afijación
+es mayor si hay grandes diferencias en la variabilidad de los estratos (Pérez, 2006).
+2.4 Cobertura en la ENLA 2023
+En las siguientes tablas se presenta el tamaño final de la muestra desagregado
+según gestión, área y característica para cada uno de los grados evaluados, así
+como la población evaluada y la cobertura alcanzada. En el 2023, la ENLA tenía
+programado evaluar 11 858 IE y aproximadamente 308 283 estudiantes entre todos
+los grados programados.
+El porcentaje de estudiantes evaluados respecto de los programados a nivel nacional
+en las evaluaciones muestrales varía entre 85 % y 98 %, dependiendo del grado,
+mientras que en la Evaluación Censal de 4.° grado EIB las coberturas varían entre
+68 % y 100 %. Dicha cobertura se calculó considerando la cantidad de estudiantes
+que llegan a la evaluación final del año escolar en cada IE, según la información del
+Siagie para el 2023.
+En las siguientes tablas, se presenta el tamaño final de la muestra desagregada
+según gestión, área y característica para cada uno de los grados evaluados, así
+como la población evaluada y la cobertura alcanzada.
+El porcentaje de estudiantes evaluados respecto de los estudiantes programados a
+nivel nacional varía entre el 93 % y el 95 % dependiendo del grado. Esta cobertura se
+calculó considerando la cantidad de estudiantes que llegan a la evaluación final del
+año escolar en cada IE, según la información del Siagie para el 2022.
+49

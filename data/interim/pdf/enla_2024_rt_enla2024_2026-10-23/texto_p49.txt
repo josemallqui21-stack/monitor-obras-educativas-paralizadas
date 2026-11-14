@@ -1,0 +1,42 @@
+Reporte técnico evaluaciones 2024 Capítulo 3
+Cabe mencionar que por solicitud del Ministerio de Economía y finanzas participaron
+del operativo de la ENLA 2024 un total de 815 instituciones educativas y 80 676
+estudiantes. Se aplicaron un total de 3 instrumentos relacionados a temas de bienestar
+y convivencia escolar los cuales fueron un cuestionario al director, un cuestionario al
+docente tutor y un cuestionario al estudiante. En este grado no se aplicaron pruebas
+de rendimiento.
+En la tabla 3.1 se puede observar el número de IE programadas por operativo en
+cada jurisdicción regional de aplicación.
+Tabla 3.1 Sedes jurisdiccionales regionales y distribución de IE según grado a
+evaluar
+6P
+4P 2S Total
+Sede Regional Muestral
+Censal MEF general
+regional
+AMAZONAS 748 318 16 1082
+ANCASH-CHIMBOTE 328 117 23 468
+ANCASH-HUARAZ 276 89 12 377
+APURIMAC 182 127 4 313
+AREQUIPA-NORTE 471 66 10 547
+AREQUIPA-SUR 458 77 14 549
+AYACUCHO 337 138 17 492
+CAJAMARCA 1203 274 11 1488
+CALLAO 452 118 43 613
+CUSCO 573 147 27 747
+HUANCAVELICA 214 167 -- 381
+HUANUCO 517 199 20 736
+ICA 580 225 18 823
+JUNIN 942 227 9 1178
+LA LIBERTAD-NOR OESTE 532 69 42 643
+LA LIBERTAD-SUR ESTE 814 111 24 949
+LAMBAYEQUE 754 160 30 944
+LIMA MET 1 713 24 45 782
+LIMA MET 2 661 11 51 723
+LIMA MET 3 380 7 15 402
+LIMA MET 4 672 20 50 742
+LIMA MET 5 562 18 61 641
+LIMA MET 6 658 27 44 729
+LIMA MET 7 343 10 24 377
+LIMA-CAÑETE 200 49 8 257
+47

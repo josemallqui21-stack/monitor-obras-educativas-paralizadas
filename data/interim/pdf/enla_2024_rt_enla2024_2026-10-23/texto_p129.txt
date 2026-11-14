@@ -1,0 +1,46 @@
+Reporte técnico evaluaciones 2024 Capítulo 5
+Código de
+Grado Actor Nombre general Sub escala Omega
+constructo
+Diposición del docente
+EST6PGEN_
+para participación en Positivo 0,722
+OPARDOCP
+clase
+Disposición del
+EST6PGEN_
+estudiante para participar 0,590
+OPPAREST
+en clase
+EST6PGEN_
+Seguridad escolar 0,609
+SEGESC
+EST6PGEN_
+Sentido de pertenencia 0,834
+SENPER
+Manifestaciones de
+EST6PGEN_
+violencia por parte de los 0,857
+VIOLDOC
+docentes
+Manifestaciones de
+6.° grado EST6PGEN_
+Estudiante violencia por parte de los 0,875
+de primaria VIOLEST
+estudiantes
+EST6PHSE_
+Clima social escolar 0,746
+CSEREG
+EST6PHSE_ Estrés académico
+Carga de trabajo 0,800
+EAACT adolescente
+EST6PHSE_ Estrés académico Preocupación por
+0,711
+EAAPN adolescente las notas
+EST6PLEC_ Activación cognitiva en
+0,736
+ACTCOG clases de Comunicación
+EST6PMAT_ Activación cognitiva -
+0,735
+ACTCOG Matemática
+127

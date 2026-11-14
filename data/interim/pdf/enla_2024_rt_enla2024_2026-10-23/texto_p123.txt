@@ -1,0 +1,51 @@
+Reporte técnico evaluaciones 2024 Capítulo 5
+Código de
+Grado Actor Nombre general Sub escala Omega
+constructo
+DIRP_ Creencias sobre la
+0,688
+ENSHSE enseñanza de las HSE
+DIRP_ Creencias sobre la
+0,660
+CREAUTO autorregulación
+4.° y 6.°
+grado de Director
+primaria
+Percepción de utilidad
+DIRP_
+de materiales educativos 0,582
+UTILLEC
+de Comunicación
+Percepción de utilidad
+DIRP_
+de materiales educativos 0,603
+UTILMAT
+de Matemática
+DOC4PLEC_ Confianza director-
+0,878
+CONFDD docente
+Creencias sobre la
+DOC4PLEC_
+recursividad de la 0,718
+CRERLEC
+escritura
+DOC4PLEC_ Creencias sobre la Criterios erróneos
+0,785
+EVFORMCR evaluación formativa de evaluación
+Creencias
+4.° grado Docente de DOC4PLEC_ Creencias sobre la
+erróneas sobre 0,774
+de primaria Comunicación EVFORMRE evaluación formativa
+retroalimentación
+Escuela orientada
+DOC4PLEC_
+al desarrollo de 0,851
+IEAPRE
+aprendizajes
+DOC4PLEC_ Prácticas docentes en la
+Decodificación 0,692
+PRACLECDEC enseñanza de la lectura
+DOC4PLEC_ Prácticas docentes en la
+Repetición 0,942
+PRACLECREP enseñanza de la lectura
+121

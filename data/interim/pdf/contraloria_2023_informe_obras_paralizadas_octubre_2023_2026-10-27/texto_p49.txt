@@ -1,0 +1,3 @@
+ANEXO N.°02 Base de datos con la lista de obras paralizadas en el territorio nacional
+ANEXO N.°03 Base de datos con el listado de servicios de control efectuados a las
+paralizadas

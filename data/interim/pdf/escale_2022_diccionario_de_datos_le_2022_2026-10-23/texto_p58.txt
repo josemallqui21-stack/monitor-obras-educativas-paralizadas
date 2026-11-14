@@ -1,0 +1,58 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+P601_11_2 C (2) 11. Ventanas Ver código en
+2. Estado de conservación del marco de la tabla 04
+ventana
+P601_11_3 C (2) 11. Ventanas Ver código en
+3. Material predominante del marco de la tabla 03
+ventana
+P601_11_4 C (2) 11. Ventanas SI / NO
+4. ¿Favorecen la ventilación cruzada?
+P601_11_5 C (2) 11. Ventanas Ver código en
+5. Estado de conservación de los vidrios tabla 04
+P601_12_1 C (2) 12. Paredes Ver código en
+1. Material predominante tabla 05
+P601_12_2 C (2) 12. Paredes Ver código en
+2. Estado de conservación tabla 04
+P601_13_1 C (2) 13. Techo Ver código en
+1. Material predominante tabla 06
+P601_13_2 C (2) 13. Techo Ver código en
+2. Estado de conservación tabla 04
+P601_14_1 C (2) 14. Piso Ver código en
+1. Material predominante tabla 07
+P601_14_2 C (2) 14. Piso Ver código en
+2. Estado de conservación tabla 04
+P601_15 C (2) 15. ¿Cuenta con instalaciones eléctricas? SI / NO
+P601_16 C (2) 16. ¿Cuenta con instalaciones sanitarias? SI / NO
+P601_17 C (2) 17. ¿Cuenta con conexión a internet? SI / NO
+P601_18_11 N (6) 18. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los otros ambientes
+1. Escritorio
+1. Cantidad Total
+P601_18_12 N (6) 18. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los otros ambientes
+1. Escritorio
+2. Cantidad en buen estado
+P601_18_13 N (6) 18. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los otros ambientes
+1. Escritorio
+3. Cantidad en regular estado
+P601_18_14 N (6) 18. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los otros ambientes
+1. Escritorio
+4. Cantidad en mal estado
+P601_18_21 N (6) 18. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los otros ambientes
+2. Silla
+1. Cantidad Total
+P601_18_22 N (6) 18. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los otros ambientes
+2. Silla
+2. Cantidad en buen estado
+P601_18_23 N (6) 18. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los otros ambientes
+2. Silla
+3. Cantidad en regular estado
+P601_18_24 N (6) 18. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los otros ambientes
+2. Silla
+57

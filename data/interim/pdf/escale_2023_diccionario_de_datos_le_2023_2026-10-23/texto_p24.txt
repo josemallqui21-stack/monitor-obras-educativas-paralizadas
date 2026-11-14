@@ -1,0 +1,46 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_1.dbf
+Variable Formato Descripción de variable Valor de variable
+P120_14_M C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+14. Deslizamientos
+¿Es mitigable?
+P120_15 C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+15. Erosión
+P120_15_F C (10) 120. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+15. Erosión
+Última fecha de ocurrencia
+P120_15_M C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+15. Erosión
+¿Es mitigable?
+P120_16 C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+16. Otro
+P120_16_F C (10) 120. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+16. Otro
+Última fecha de ocurrencia
+P120_16_M C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+16. Otro
+¿Es mitigable?
+P120_16_OT C (80) 120. Peligros naturales potenciales (marcar SI o NO en Texto
+todas las alternativas)
+16. Otro --- Especificar
+P121_1 C (1) 121. Peligros potenciales ocasionados por el hombre 1: Sí
+(marcar SI o NO en todas las alternativas) 2: No
+1. Zona industrial (emanación de gases y desperdicios
+tóxicos)
+P121_2 C (1) 121. Peligros potenciales ocasionados por el hombre 1: Sí
+(marcar SI o NO en todas las alternativas) 2: No
+2. Zona minera
+P121_3 C (1) 121. Peligros potenciales ocasionados por el hombre 1: Sí
+(marcar SI o NO en todas las alternativas) 2: No
+3. Comercio ambulatorio intenso
+P121_4 C (1) 121. Peligros potenciales ocasionados por el hombre 1: Sí
+(marcar SI o NO en todas las alternativas) 2: No
+4. Microcomercialización de droga
+23

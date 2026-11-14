@@ -1,0 +1,42 @@
+Reporte técnico evaluaciones 2024 Referencias
+Ravela, P. (2006). Fichas didácticas para comprender las evaluaciones educativas.
+Editorial San Marino. https://hdl.handle.net/20.500.12799/4999
+Revelle, W. (2024). How to use the psych package for regression and mediation
+analysis. https://cloud.r-project.org/web/packages/psychTools/vignettes/
+mediation.pdf
+Robinson, M. A. (2018). Using multi-item psychometric scales for research and
+practice in human resource management. Human Resource Management,
+57(3), 739-750. https://doi.org/10.1002/hrm.21852
+Rosseel, Y. (2012). lavaan: An R package for Structural Equation Modeling. Journal of
+Statistical Software, 48(2), 1–36. https://doi.org/10.18637/jss.v048.i02
+Rutkowski, L., & Svetina, D. (2013). Assessing the hypothesis of measurement
+invariance in the context of large-scale international surveys.
+Educational and Psychological Measurement, 74(1), 31–57. https://doi.
+org/10.1177/0013164413498257
+Schulz, E. M. (1990). Functional assessment of fit. En J. M. Linacre (Ed.), Rasch
+Measurement Transactions, 1990 (p. 82). MESA Press
+Schumacker, R. E., & Smith, E. V. (2007). Reliability: A Rasch perspective.
+Educational and Psychological Measurement, 67(3), 394-409. https://doi.
+org/10.1177/0013164406294776
+Sheaffer, R. L., Mendelhall, W., & Ott, L. (2006). Elementary survey sampling (6th ed.).
+Thomson Brooks
+Shepard, L. (1980). Standard setting issues and methods. Applied Psychological
+Measurement, 4(4), 447-467. https://doi.org/10.1177/014662168000400403
+Smith, R., & Kramer, G. (1989). Response pattern analysis with supplemental score
+reports. En J. M. Linacre (Ed.), Rasch Measurement Transactions Part 1,
+1995 (pp.33-35). MESA Press.
+Stehr-Green, P., Stehr-Green, J., & Nelson, A. (2003). Developing a questionnaire.
+Focus on Field Epidemiology, 2(2), 1-6. https://nciph.sph.unc.edu/focus/vol2/
+issue2/2-2Questionnaire_issue.pdf
+Suen, H. (1990). The psychometric process. Pennsylvania State University.
+Willis, G. B. (2008). Cognitive interviewing. En: Encyclopedia of Survey
+Research Methods (pp. 107-109). Sage Publications. https://doi.
+org/10.4135/9781412963947
+Wilson, M. (2005). Constructing measures. An item response modeling approach.
+Lawrence Erlbaum Associates.
+Wind, S., & Hua, C. (2022). Rasch measurement theory analysis in R. Chapman &
+Hall.
+Wright, B. & Linacre, J. (1989). Observations are always ordinal; Measurements,
+however, must be interval. Archives of Physical Medicine and Rehabilitation,
+70(12), 857-860.
+145

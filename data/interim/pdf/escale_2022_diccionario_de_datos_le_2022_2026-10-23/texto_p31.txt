@@ -1,0 +1,54 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Nombre de archivo: Local_lineal_02.dbf
+SECCIÓN: 200. SERVICIOS BÁSICOS EN EL CENTRO POBLADO Y EN EL LOCAL
+EDUCATIVO
+TABLA: LOCAL_LINEAL_02.DBF
+Campo Formato Descripción de variable Valor de variable
+P214 C (2) 214. ¿Cuál es el nombre de la empresa que brinda el (01:05)
+servicio de telefonía en el local educativo?
+Código del operador
+01: Bitel
+02: Claro
+03: Entel
+04: Movistar
+05: Otro
+P215_PRE C (3) 215. Registre el número de teléfono del Local (01:999)
+Educativo
+Prefijo
+P215_TF C (9) 215. Registre el número de teléfono del Local (999999999)
+Educativo
+Número de teléfono fijo
+P216_1 C (1) 216. ¿Qué tipo de línea telefónica tiene el director de la “X”
+IE?
+1: Conexión fija
+P216_1_OP C (2) 216. ¿Qué tipo de línea telefónica tiene el director de la (01:05)
+IE? - Código de operador
+01: Bitel
+02: Claro
+03: Entel
+04: Movistar
+05: Otro
+P216_1_T C (9) 216. ¿Qué tipo de línea telefónica tiene el director de la (999999999)
+IE?
+Número Telefónico
+P216_2 C (1) 216. ¿Qué tipo de línea telefónica tiene el director de la “X”
+IE?
+1: Conexión móvil
+P216_2_OP C (2) 216. ¿Qué tipo de línea telefónica tiene el director de la (01:05)
+IE?
+Código / descripción de operador
+01: Bitel
+02: Claro
+03: Entel
+04: Movistar
+05: Otro
+P216_2_T C (9) 216. ¿Qué tipo de línea telefónica tiene el director de la (999999999)
+IE?
+Número Telefónico
+P216_3 C (1) 216. ¿Qué tipo de línea telefónica tiene el director de la “X”
+IE?
+3: No tiene
+P217_1 C (1) 217. Especifique algún número de contacto que permita “X”
+comunicarse con el director de la IE
+1: Conexión Fija
+30

@@ -1,0 +1,53 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P401_Edific.dbf [ Matriz 11: Edificaciones en el Local Educativo ]
+Variable Tipo Descripción Valor
+P401_27_3 N (5) 27. Detectores de Humo 99999
+- Según Estado de Conservación
+3. En Buen Estado
+P401_27_4 N (5) 27. Detectores de Humo 99999
+- Según Estado de Conservación
+4. Necesitan Reparación
+P401_27_5 N (5) 27. Detectores de Humo 99999
+- Según Antigüedad en el Local Educativo
+5. Menos de 1 año
+P401_27_6 N (5) 27. Detectores de Humo 99999
+- Según Antigüedad en el Local Educativo
+6. De 1 a 2 años
+P401_27_7 N (5) 27. Detectores de Humo 99999
+- Según Antigüedad en el Local Educativo
+7. Más de 2 años
+Tabla 01: Códigos de la Finalidad del Tabla 03: Códigos de Sistema Estructural Predominante
+Uso del Módulo Prefabricado Código Descripción Código Descripción
+Código Descripción Concreto
+01 06 Acero Estructural
+01 Emergencia (ante desastres) armado
+Módulo
+Temporal (durante la Albañilería
+02 02 07 prefabricado -
+ejecución de una inversión) confinada
+PRONIED
+03 Permanentes
+Albañilería sin Módulo
+03 08
+confinar prefabricado - Otro
+Tabla 02: Códigos de Tipo de Entidad
+04 Adobe / Tapial 09 Precario
+Ejecutora
+Madera
+Código Descripción 05 10 Otro
+Estructural
+01 Gobierno Nacional No tiene, pero
+11
+Sólo Numeral 11 ---------- Requiere
+02 Gobierno Regional
+> No tiene y No
+12
+03 Gobierno Local Requiere
+04 APAFA / Autoconstrucción
+Entidades Cooperantes /
+05
+ONG’s
+06 Empresa Privada
+07 No Especifica
+-- 49 --

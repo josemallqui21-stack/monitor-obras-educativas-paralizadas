@@ -1,0 +1,36 @@
+25
+Evaluación Muestral de Estudiantes 2022 Factores
+Índice Introducción Primaria Primaria Primaria Secundaria asociados HSE
+Lectura
+2.˚ grado de secundaria
+Resultados regionales según niveles de logro y medida promedio 2019 – 2022
+PPrreevviioo aalli innicicioio EEnn iinniicciioo EEnn pprroocceessoo SSaattiissffaaccttoorrioio MMeeddiiddaa pprroommeeddioio
+2019 2022 2019 2022 2019 2022 2019 2022 2019 2022
+Nacional 17,7 13,2* 42,0 35,8* 25,8 31,9* 14,5 19,1* 567 581*
+Amazonas 35,6 33,4 38,9 36,3* 18,0 20,7* 7,5 9,6* 532 536
+Áncash 23,3 19,9* 44,8 37,1* 21,7 28,4* 10,2 14,6* 554 566*
+Apurímac 32,3 22,2* 44,6 38,3* 15,7 27,3* 7,4 12,2* 539 561*
+Arequipa 6,8 4,2* 34,2 25,2* 34,8 39,1* 24,1 31,6* 597 613*
+Ayacucho 23,1 17,4* 45,6 38,0* 21,3 30,7* 10,0 13,9* 554 570*
+Cajamarca 25,8 21,1* 47,6 43,5* 18,8 25,3* 7,8 10,1* 546 557*
+Callao 8,0 4,4* 40,9 33,3* 33,1 38,0* 18,0 24,3* 585 602*
+Cusco 22,7 16,1* 43,0 36,5* 22,6 29,2* 11,7 18,2* 557 577*
+Huancavelica 33,6 25,8* 47,6 44,1* 14,4 21,9* 4,5 8,3* 533 548*
+Huánuco 30,2 24,8* 46,7 41,7* 16,7 23,6* 6,4 9,9* 540 553*
+Ica 11,6 6,6* 43,3 34,4* 29,5 35,8* 15,6 23,2* 576 597*
+Junín 14,6 11,7* 41,9 36,0* 27,7 32,6* 15,7 19,7* 573 585*
+La Libertad 17,8 12,4* 43,9 40,2* 25,1 30,9* 13,1 16,5* 565 579*
+Lambayeque 17,4 12,1* 44,6 42,7 25,4 31,4* 12,6 13,9 564 575*
+Lima Metropolitana 7,3 3,2* 37,1 28,4* 33,0 38,8* 22,5 29,6* 593 611*
+Lima Provincias 13,1 7,8* 44,6 35,0* 28,7 37,8* 13,6 19,4* 572 591*
+Loreto 47,8 43,7* 38,9 35,9* 10,2 15,2* 3,1 5,1* 508 513*
+Madre de Dios 22,6 15,0* 49,3 46,3* 21,1 27,3* 7,0 11,4* 548 566*
+Moquegua 5,0 3,5* 35,7 24,9* 34,7 37,0* 24,6 34,6* 599 617*
+Pasco 22,1 16,9* 44,4 36,1* 23,6 30,7* 9,9 16,3* 554 573*
+Piura 18,1 12,9* 46,0 42,6* 24,3 30,6* 11,7 13,9* 562 573*
+Puno 23,0 15,7* 45,4 39,2* 21,5 30,8* 10,1 14,4* 554 572*
+San Martín 24,1 20,4* 49,7 44,8* 19,2 25,6* 6,9 9,2* 546 557*
+Tacna 5,0 2,9* 32,4 23,0* 35,7 37,5* 27,0 36,6* 604 621*
+Tumbes 22,5 16,2* 47,9 47,3 21,4 27,0* 8,1 9,5* 551 561*
+Ucayali 34,0 29,4* 46,1 41,6* 15,1 21,6* 4,8 7,3* 529 540*
+* Diferencia estadísticamente significativa al 0,05 respecto del 2019, en los niveles de logro y la medida promedio..

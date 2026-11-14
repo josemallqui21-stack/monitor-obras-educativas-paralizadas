@@ -1,0 +1,45 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P901_EduAdm.dbf [ Matriz 20 : Espacios educativos y/o administrativos de I.E. Privada ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de pregunta C901
+CODIGO C (3) Código de tipo de espacio educativo y/o administrativo (000:140)
+DESCRIP C (100) Descripción Texto (Ver
+descripción en tabla
+01 de la página 82)
+P901_1 C (1) 1. El local educativo cuenta con: 1: Sí
+2: No
+P901_2_1 N (5) Cantidad de espacios 99999
+2. En uso
+- Estado de conservación
+1. Total
+P901_2_2 N (5) Cantidad de espacios 99999
+2. En uso
+- Estado de conservación
+2. Buen estado
+P901_2_3 N (5) Cantidad de espacios 99999
+2. En uso
+- Estado de conservación
+3. Regular estado
+P901_2_4 N (5) Cantidad de espacios 99999
+2. En uso
+- Estado de conservación
+4. Mal estado
+P901_3_1 N (5) Cantidad de espacios 99999
+3. Sin uso
+- Estado de conservación
+1. Total
+P901_3_2 N (5) Cantidad de espacios 99999
+3. Sin uso
+- Estado de conservación
+2. Buen estado
+P901_3_3 N (5) Cantidad de espacios 99999
+3. Sin uso
+- Estado de conservación
+3. Regular estado
+P901_3_4 N (5) Cantidad de espacios 99999
+3. Sin uso
+- Estado de conservación
+4. Mal estado
+80

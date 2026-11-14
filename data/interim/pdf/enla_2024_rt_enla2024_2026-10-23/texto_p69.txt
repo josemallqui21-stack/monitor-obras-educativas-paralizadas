@@ -1,0 +1,26 @@
+Reporte técnico evaluaciones 2024 Capítulo 4
+escala conformada por los ítems ordenados según su dificultad. Ello implica que,
+a mayor habilidad, la persona presentará mayor probabilidad de acertar y, por lo
+tanto, obtendrá un mayor número de respuestas correctas. Es importante tener en
+cuenta que la medida estimada de la persona no es igual que el puntaje directo
+que posee (número de ítems correctos); este puntaje es solo un insumo a partir
+del cual se construye la medida Rasch. La relación entre la habilidad y la dificultad
+puede graficarse por medio de la curva característica del ítem (CCI), la cual brinda
+información concreta sobre la probabilidad de respuesta de una persona ante dicho
+ítem. Al trazar esta curva, en caso de tener un ítem dicotómico, se establece las
+siguientes relaciones:
+En el primer caso, si la habilidad de la persona es mayor que la dificultad del ítem,
+la probabilidad de responder correctamente el ítem es mayor que 0,5 (50 %).
+En el segundo caso, si la habilidad de la persona es menor que la dificultad del
+ítem, la probabilidad de responder correctamente dicho ítem es menor que 0,5
+(50 %). Finalmente, en el tercer caso, si la habilidad de la persona es igual a la
+dificultad del ítem, la probabilidad de responder correctamente dicho ítem es igual
+que 0,5 (50 %). Como señala Ingebo (1997), de esta manera se puede comprobar
+empíricamente la teoría de que los estudiantes con mayores conocimientos tienen
+mayores probabilidades de responder correctamente una pregunta, a diferencia de
+los estudiantes con menores conocimientos. Matemáticamente, la CCI se grafica con
+la siguiente función:
+Donde θ representa el rasgo latente de cada persona n, y β representa la medida
+de dificultad de cada ítem i. Esta relación entre la habilidad de una persona y la
+dificultad de un ítem se muestra en la figura 4.1.
+67

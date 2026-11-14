@@ -1,0 +1,45 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P401_Edific.dbf [ Matriz 11: Edificaciones en el Local Educativo ]
+Variable Tipo Descripción Valor
+P401_12_22 C (2) 12. Elementos No Estructurales Ver código en Tabla 04
+2. Estado de Conservación
+2. Escaleras
+P401_12_23 C (2) 12. Elementos No Estructurales Ver código en Tabla 04
+2. Estado de Conservación
+3. Parapetos
+P401_13_1 C (1) 13. La edificación cuenta con RED INTERNA de: 1: Sí
+1. Agua 2: No
+P401_13_2 C (1) 13. La edificación cuenta con RED INTERNA de: 1: Sí
+2. Desagüe 2: No
+P401_13_3 C (1) 13. La edificación cuenta con RED INTERNA de: 1: Sí
+3. Energía Eléctrica 2: No
+P401_14_1 C (1) 14. Formas de Acceso a cada edificación 1: Sí
+1. ¿Tiene acceso directo sin desnivel? 2: No
+P401_14_21 C (1) 14. Formas de Acceso a cada edificación 1: Sí
+2. ¿Tiene rampa de acceso en? 2: No
+1. Primer piso
+P401_14_22 C (1) 14. Formas de Acceso a cada edificación 1: Sí
+2. ¿Tiene rampa de acceso en? 2: No
+2. Todos los pisos
+P401_14_3 C (1) 14. Formas de Acceso a cada edificación 1: Sí
+3. ¿Tiene escalera? 2: No
+P401_14_41 C (1) 14. Formas de Acceso a cada edificación 1: Sí
+4. Ascensor 2: No
+1. ¿Tiene?
+P401_14_42 C (1) 14. Formas de Acceso a cada edificación 1: Sí
+4. Ascensor 2: No
+2. ¿Está operativo?
+P401_14_43 C (4) 14. Formas de Acceso a cada edificación 9999
+4. Ascensor
+3. Último año de mantenimiento
+P401_14_5 C (1) 14. Formas de Acceso a cada edificación 1: Sí
+5. ¿Tiene otras Formas de Acceso a cada 2: No
+edificación?
+P401_15_1 C (1) 15. En el caso el acceso sea mediante rampa(s), 1: Sí
+indique si cuenta con las siguientes características 2: No
+1. ¿Cuenta con ancho mínimo de 1.5 m?
+P401_15_2 N (9,2) 15. En el caso el acceso sea mediante rampa(s), 999999.99
+indique si cuenta con las siguientes características
+2. Longitud (m)
+-- 45 --

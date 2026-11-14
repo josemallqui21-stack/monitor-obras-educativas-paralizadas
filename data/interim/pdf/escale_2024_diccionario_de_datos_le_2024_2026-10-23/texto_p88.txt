@@ -1,0 +1,44 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P901_EduAdm.dbf [ Matriz 19: Espacios educativos y/o administrativos de I.E. Privada ]
+Variable Tipo Descripción Valor
+P901_2_1 N (5) Cantidad de espacios 99999
+2. En uso
+- Estado de conservación
+1. Total
+P901_2_2 N (5) Cantidad de espacios 99999
+2. En uso
+- Estado de conservación
+2. Buen estado
+P901_2_3 N (5) Cantidad de espacios 99999
+2. En uso
+- Estado de conservación
+3. Regular estado
+P901_2_4 N (5) Cantidad de espacios 99999
+2. En uso
+- Estado de conservación
+4. Mal estado
+P901_3_1 N (5) Cantidad de espacios 99999
+3. Sin uso
+- Estado de conservación
+1. Total
+P901_3_2 N (5) Cantidad de espacios 99999
+3. Sin uso
+- Estado de conservación
+2. Buen estado
+P901_3_3 N (5) Cantidad de espacios 99999
+3. Sin uso
+- Estado de conservación
+3. Regular estado
+P901_3_4 N (5) Cantidad de espacios 99999
+3. Sin uso
+- Estado de conservación
+4. Mal estado
+Archivo: Loc_Lineal_2.dbf
+Variable Tipo Descripción Valor
+P902 C (1) 902. ¿Los talleres para el área de educación para el trabajo 1: Sí
+cuentan con el equipamiento básico para el desarrollo de la 2: No
+especialidad que oferta?
+P903 C (1) 903. El equipamiento de los talleres para el área de educación 1: Sí
+para el trabajo, ¿se encuentran operativos y en funcionamiento? 2: No
+-- 87 --

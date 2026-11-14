@@ -1,0 +1,51 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+1. Menos de 6 meses
+P802_3_32 N (5) 3. Cantidad operativos (00001:99999)
+3. Según su antigüedad en el Local Educativo
+2. De 6 meses a menos de 2 años
+P802_3_33 N (5) 3. Cantidad operativos (00001:99999)
+3. Según su antigüedad en el Local Educativo
+3. De 2 a menos de 3 años
+P802_3_34 N (5) 3. Cantidad operativos (00001:99999)
+3. Según su antigüedad en el Local Educativo
+4. De 3 a menos de 4 años
+P802_3_35 N (5) 3. Cantidad operativos (00001:99999)
+3. Según su antigüedad en el Local Educativo
+5. De 4 a más años
+P802_41 N (5) 4. Cantidad de equipos operativos según uso (00001:99999)
+1. Estrictamente pedagógico
+P802_42 N (5) 4. Cantidad de equipos operativos según uso (00001:99999)
+2. Pedagógico y administrativo
+P802_43 N (5) 4. Cantidad de equipos operativos según uso (00001:99999)
+3. Estrictamente administrativo
+(*) Equipos:
+ 01: TV
+ 02: DVD / BLUERAY
+ 03: Radio, minicomponente
+ 04: Equipo de sonido (consolas separadas)
+ 05. Parlante portátil
+ 06: Parlante pasivo (necesidad de amplificador para funcionar)
+ 07: Sólo fotocopiadora
+ 08. Sólo escáner
+ 09: Sólo impresora
+ 10: Multifuncional (fotocopia, escanea e imprime)
+ 11: Pantalla de proyección ECRAN
+ 12: kits de robótica educativa
+ 13: Equipos de talleres ligeros
+ 14: Equipos de talleres pesados
+ 15. Equipos de aire acondicionado y/o climatización
+ 16: Extractores de aire
+Nombre de archivo: Local_Recursos_803.dbf
+SECCIÓN: 800. ESTADO DE LOS RECURSOS TECNOLÓGICOS Y EQUIPAMIENTO EN
+EL LOCAL EDUCATIVO
+TABLA: 803. EQUIPOS DE INTERCONEXIÓN Y PROTECCIÓN DE ENERGÍA
+Campo Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo (000001:999999)
+NROCED C (3) Número de cédula 11
+CUADRO C (4) 803. Equipos de interconexión y protección de C803
+energía
+NUMERO C (2) Número de Equipos de interconexión y (1:6)
+protección:
+P803_1 C (60) Equipos de interconexión y protección (*)
+P803_2 N (6) 2. Cantidad Total (Operativos + Inoperativos) (000001:999999)
+71

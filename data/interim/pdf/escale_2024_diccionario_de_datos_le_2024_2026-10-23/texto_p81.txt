@@ -1,0 +1,39 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P701_SSHH.dbf [ Matriz 15: Características de los SS.HH. En el Local Educativo ]
+Variable Tipo Descripción Valor
+P701_14_24 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+2. Urinarios Corridos
+- Cantidad de urinarios corridos según estado de
+conservación
+4. Regular estado
+P701_14_25 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+2. Urinarios Corridos
+- Cantidad de urinarios corridos según estado de
+conservación
+5. Mal estado
+P701_14_26 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+2. Urinarios Corridos
+6. Del total de operativos, ¿Cuántos tienen función de
+descarga?
+P701_15 C (1) 15. El espacio de SS.HH. o vestidor, ¿se encuentra habilitado con 1: Sí
+duchas operativas? 2: No
+P701_16 C (1) 16. ¿Se dispone de agua caliente en el espacio de SS.HH. o 1: Sí
+vestidor? 2: No
+Tabla 01: Códigos de Material predominante de las Tabla 02: Códigos de Estado de
+paredes conservación
+Código Descripción Código Descripción
+01 Ladrillo o concreto 01 Buen estado
+02 Adobe o tapial 02 Regular estado
+03 Quincha 03 Mal estado
+04 Piedra con barro, cal o cemento 04 No Aplica
+05 Madera
+06 Triplay
+07 Eternit o fibra de concreto
+08 Estera, cartón o plástico
+09 Otro
+No tiene, pero lo Requiere
+10
+No tiene y No Requiere
+11
+-- 80 --

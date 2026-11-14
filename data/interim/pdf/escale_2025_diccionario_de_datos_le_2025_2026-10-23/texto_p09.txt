@@ -1,0 +1,42 @@
+Archivo: Loc_P121_Niveles.dbf [ Matriz 01: Niveles ]
+Variable Tipo Descripción Valor
+N_ORD N (2) Número de orden 99
+COD_MOD C (7) 1. Código modular Id del Servicio
+Educativo
+ANEXO C (1) 2. Número de Anexo Id de Anexo
+NAME_SER C (100) 3. Nombre del servicio/nivel educativo Texto
+GEST_SER C (2) 4. Código del Tipo de Gestión (01:03)
+01: Pública de Gestión Directa
+02: Pública de Gestión Privada
+03: Gestión Privada
+NIV_MOD C (2) 5. Código de nivel y/o modalidad del servicio/nivel educativo (A1:S0)
+A1: Inicial Cuna
+A2: Inicial Jardín
+A3: Inicial Cuna-Jardín
+B0: Primaria EBR
+F0: Secundaria EBR
+D1: EBA - Inicial e Intermedio
+D2: EBA - Avanzado
+E0: PRITE - Programa de Intervención Temprana
+E1: EBE - Inicial
+E2: EBE - Primaria
+L0: CETPRO - Técnico Productiva
+K0: Educación Superior Pedagógica
+T0: Educación Superior Tecnológica
+M0: Escuela de Formación Artística
+P0: Escuela de Educación Superior Pedagógica
+S0: Escuela de Educación Superior Tecnológica
+P121_6_1 C (1) 6. Sobre el(los) local(es) adicional(es) 1: Sí
+1. ¿Cuenta con un Local Adicional? 2: No
+P121_6_2 C (1) 6. Sobre el(los) local(es) adicional(es) 1: Sí
+1. ¿Cuenta con un Local Adicional? 2: No
+Sí--> 2. ¿Tiene Código de Local Educativo?
+P121_6_3 C (6) 6. Sobre el(los) local(es) adicional(es) 999999
+1. ¿Cuenta con un Local Adicional?
+Sí--> 2. ¿Tiene Código de Local Educativo?
+- Sí --> 3. Código de Local Educativo
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P122 C (1) 1.2.2. En este local educativo, ¿funciona algún instituto o escuela de 1: Sí
+educación superior? 2: No
+8

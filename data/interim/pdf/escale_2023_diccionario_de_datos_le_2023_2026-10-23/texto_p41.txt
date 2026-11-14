@@ -1,0 +1,43 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P303_OtElem.dbf [ Matriz 11 : Otros Elementos en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de pregunta C303
+NUMERO C (2) Número de orden 99
+P303_1 C (40) 1. Otros Elementos Texto
+Número de orden + ":" + Descripción del elemento (Texto)
+1: Tanque Elevado
+2: Tanque Cisterna
+3: Bomba Sumergible
+4: Tanque Séptico
+5: Tanque Séptico Mejorado
+6: Pararrayos
+7: Sistemas de Paneles Solares
+8: Pozos a Tierra
+9: Cámaras de Videovigilancia
+10: Monitores de Videovigilancia
+11: Grupo Electrógeno
+P303_2 C (1) 2. ¿Tiene? 1: Sí
+2: No
+P303_3_1 N (5) 3. ¿Cuántos tiene? 99999
+1. Total
+P303_3_2 N (5) 3. ¿Cuántos tiene? 99999
+2. En Uso
+P303_4_1 N (5) 4. Cantidad de elementos en uso, según estado de 99999
+conservación:
+1: Bueno
+P303_4_2 N (5) 4. Cantidad de elementos en uso, según estado de 99999
+conservación:
+2: Regular
+P303_4_3 N (5) 4. Cantidad de elementos en uso, según estado de 99999
+conservación:
+3: Malo
+P303_5_1 C (2) 5. Último mantenimiento 99
+1. Mes
+P303_5_2 C (4) 5. Último mantenimiento 9999
+2. Año
+P303_6 N (9,2) 6. Volumen (expresado en m3) 999999.99
+P303_7 C (1) 7. En los 2 últimos años ¿Se ha realizado limpieza y 1: Sí
+desinfección? 2: No
+40

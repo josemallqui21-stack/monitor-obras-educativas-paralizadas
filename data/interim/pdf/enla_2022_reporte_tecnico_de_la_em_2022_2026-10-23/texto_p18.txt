@@ -1,0 +1,40 @@
+1.2 Procesos de validación aplicados
+Estos procesos se realizan para obtener evidencias de validez vinculadas al
+contenido de las pruebas. Este tipo de evidencias se vincula con la necesidad
+de garantizar que la prueba sea una muestra adecuada y representativa de los
+contenidos que pretende evaluar (McGartland et al. 2003; Muñiz, 1998). En esta
+misma línea, Suen (1990) indica que los ítems en un test o prueba, supuestamente,
+constituyen una muestra representativa de todos los ítems que se pueden emplear
+para medir el constructo de interés. Si este supuesto se cumple, entonces se podrá
+decir que la prueba tiene adecuadas evidencias de validez referidas a su contenido.
+Esta se definiría, entonces, como la representatividad de los ítems empleados en
+un test para medir un constructo particular. A su vez, la representatividad de un test
+puede definirse como la precisión con que se puede hacer inferencias acerca de la
+puntuación de la persona en el universo de indicadores a partir de la puntuación en
+la muestra de ítems que constituyen la prueba (Paz, 1996).
+Muñiz (1998) señala que la práctica más usual para lograr este tipo de validez
+consiste en enumerar todas las áreas de contenido (o dimensiones) que se consideren
+importantes o imprescindibles y, luego, asegurarse de que la prueba contenga ítems
+que hagan referencia a cada una de ellas en una proporción adecuada. En ese
+sentido, el proceso de validación implica el mismo proceso de construcción, pues se
+debe construir y seguir matrices (o tablas) de especificaciones.
+La elaboración de estas matrices de especificaciones tiene como base el CNEB. Con
+ello, se garantiza el alineamiento de las pruebas con el currículo vigente, lo cual es
+una condición sine qua non para que estas brinden evidencias suficientes del logro
+de la competencia a evaluar en diferentes niveles de desarrollo por parte de los
+estudiantes. Asimismo, las matrices de un año actual guardan una estrecha relación
+con las del año anterior en cuanto a su contenido pedagógico, así como respecto
+de las proporciones o pesos de cada dimensión de la competencia evaluada en
+la prueba para, en conjunción con los procesos de equiparación, asegurar su
+comparabilidad en el tiempo. En tal sentido, los porcentajes de cada dimensión
+(competencias, capacidades, conocimientos y contextos) son muy similares año tras
+año. Por ejemplo, las matrices de especificaciones de la Evaluación Muestral 2022
+son muy similares a las de la Evaluación Censal de Estudiantes y de la Evaluación
+Muestral 2019. Esta correspondencia de las matrices es validada por los especialistas
+de las direcciones de línea del Ministerio de Educación.
+En los siguientes acápites, se describen los procesos de validación de los instrumentos
+de evaluación elaborados sobre la base de las matrices de especificaciones.
+1.2.1 Validación de expertos de la UMC
+Después de que los equipos de especialistas de las áreas (Matemática,
+Comunicación, Ciudadanía y Ciencias Sociales, Ciencia y Tecnología y EIB) han
+16

@@ -1,0 +1,46 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P501_Aulas.dbf [ Matriz 13 : Aulas en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+P501_4_33 C (1) 4. Niveles educativos de la Educación Básica/ETP y/o (A:Z)
+Carreras/Programas de la Educación Superior que usan el
+ambiente
+- Cantidad de estudiantes por aula y turno
+3. Turno Noche
+3. Sección
+P501_4_34 N (6) 4. Niveles educativos de la Educación Básica/ETP y/o 999999
+Carreras/Programas de la Educación Superior que usan el
+ambiente
+- Cantidad de estudiantes por aula y turno
+3. Turno Noche
+4. Número de estudiantes
+P501_4_4 C (60) 4. Niveles educativos de la Educación Básica/ETP y/o (01 … 01-02-03-
+Carreras/Programas de la Educación Superior que usan el 04-05-06-07-08-
+ambiente 09-10-11-12-13-
+- Cantidad de estudiantes por aula y turno 14-15-16-17-18-
+4. Carreras/Programas de Educación Superior (Según lo 19-20)
+declarado en la
+tabla 102)
+P501_5 N (6) 5. Aforo del ambiente 999999
+P501_6 C (1) 6. ¿Tiene forma de cuadrilátero? 1: Sí
+2: No
+P501_7_1 N (8,2) 7. Dimensiones de ambiente 99999.99
+1. Largo (metros lineales)
+P501_7_2 N (8,2) 7. Dimensiones de ambiente 99999.99
+2. Ancho (metros lineales)
+P501_8 C (1) 8. ¿Cuenta con señalización de seguridad? 1: Sí
+2: No
+P501_9_1 N (5) 9. Puertas 99999
+1. Cantidad
+P501_9_2 C (2) 9. Puertas Ver código en
+2. Material Predominante Tabla 02
+P501_9_3 C (2) 9. Puertas Ver código en
+3. Estado de Conservación Tabla 07
+P501_10_1 N (5) 10. Cerraduras 99999
+1. Cantidad
+P501_10_2 C (2) 10. Cerraduras Ver código en
+2. Estado de Conservación Tabla 07
+P501_11_1 N (5) 11. Ventanas 99999
+1. Cantidad
+P501_11_2 C (2) 11. Ventanas Ver código en
+2. Material Predominante del marco de la ventana Tabla 03
+50

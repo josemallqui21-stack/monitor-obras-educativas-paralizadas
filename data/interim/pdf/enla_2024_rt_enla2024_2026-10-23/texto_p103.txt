@@ -1,0 +1,39 @@
+Reporte técnico evaluaciones 2024 Capítulo 5
+Procesamiento de datos y
+Capítulo 5
+elaboración de cuestionarios de
+Factores Asociados
+Los factores asociados son un conjunto de variables que contribuyen a comprender
+y contextualizar los resultados de aprendizaje. Muchos de ellos son posibles objetos
+de intervención desde el aula, la escuela y el sistema educativo (Ravela, 2006). El
+término “asociado” sugiere la posibilidad de demostrar la existencia de asociaciones
+(si bien no necesariamente causales) entre estos factores y los resultados obtenidos
+por los estudiantes en evaluaciones estandarizadas como las que realiza PISA, ERCE
+o la misma ENLA.
+En la ENLA 2024, la información de factores asociados se ha recogido a través
+de cuestionarios de autorreporte aplicados a los diferentes actores educativos
+(directores, docentes, estudiantes y familia) de cada uno de los grados evaluados
+(4.° y 6.° grados de primaria).
+Cada uno de los cuestionarios aplicados está compuesto por preguntas o ítems, los
+cuales son clasificados según el tipo de variable que busca recoger. Así, existen
+preguntas que buscan recoger información concreta de algún aspecto particular de
+la persona (por ejemplo: sexo, edad) y que, en algunos casos, pueden ser construidas
+a partir de la recodificación de una o más preguntas (por ejemplo, años trabajando
+en la escuela). Por otro lado, también se consideran preguntas que están diseñadas
+para representar un constructo latente que no puede observarse directamente
+(por ejemplo: sentido de pertenencia). Estas preguntas están conceptualmente
+relacionadas entre sí y se agrupan en una única medida compuesta que nos permite
+representar la variable latente a estudiar (Bandalos, 2018).
+Este capítulo busca brindar una descripción de las variables recogidas en el presente
+año, así como los procedimientos realizados para su elaboración y los aspectos
+relacionados con el análisis de dicha información.
+5.1 Elaboración de las preguntas del cuestionario de factores asociados
+Los cuestionarios son un conjunto de instrumentos que permiten aproximarnos a
+una amplia gama de aspectos de interés que se encuentran alineados con el
+propósito de una investigación. Dentro de sus principales ventajas, se aprecia
+que es un instrumento que puede ser aplicado a una gran cantidad de personas
+de forma estandarizada, lo cual favorece la comparabilidad entre las respuestas
+de los participantes (Malhotra, 2016). Asimismo, permite recoger tanto información
+cuantitativa como cualitativa con relativa facilidad (Malhotra, 2016; Patel & Joseph,
+2016).
+101

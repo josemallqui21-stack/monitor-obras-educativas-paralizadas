@@ -1,0 +1,40 @@
+Forma Bloque Ítems por forma
+B16
+B02
+8 24
+B06
+B17
+B17
+B03
+9 24
+B07
+B18
+B18
+B04
+10 24
+B08
+B10
+De las 10 formas ensambladas, cada estudiante evaluado se enfrentó a una de ellas.
+En consecuencia, de los 108 ítems que tiene esta prueba, cada estudiante respondió
+24.
+Diseño de bloques de las pruebas de Lectura de 2.° grado de secundaria
+La prueba de Lectura de 2.° grado de secundaria elaborada para la EM 2022 estuvo
+conformada por 20 textos de diferente tipo, género, formato y complejidad, a partir
+de los cuales se elaboraron 122 ítems. Dichos textos e ítems se distribuyeron en 20
+bloques. De ellos, 4 bloques son comunes (dos por día) y 16 bloques no comunes
+(8 por día). Las diferentes combinaciones de los bloques permitieron ensamblar
+18 formas, 10 de mayor dificultad y 8 de menor dificultad. De acuerdo con esta
+distribución, cada forma y el conjunto de estas reflejan los contenidos (capacidades,
+tipos de textos, indicadores, entre otros) de las tablas de especificaciones de la
+prueba. Dentro de su tipo (de mayor o menor dificultad), estas formas presentan
+una dificultad similar entre sí, pero una dificultad diferenciada, según el grupo de
+estudiantes al que están dirigidas.
+Tabla 1.8 Matriz de bloques de la prueba de Lectura de 2.° grado de secundaria.
+Día 1
+Forma Bloque Ítems por forma
+B05
+B01
+1 25
+B02
+B06
+30

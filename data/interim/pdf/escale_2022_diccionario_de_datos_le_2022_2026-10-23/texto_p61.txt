@@ -1,0 +1,49 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+P601_18_92 N (6) 18. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+9. Otros muebles
+2. Cantidad en buen estado
+P601_18_93 N (6) 18. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+9. Otros muebles
+3. Cantidad en regular estado
+P601_18_94 N (6) 18. Tenencia y estado de conservación del (000001:999999)
+mobiliario en uso en los ambientes usados como
+aula de clase
+9. Otros muebles
+4. Cantidad en mal estado
+(*) Número de Edificación:
+ E01
+ E02
+ E03
+ ..
+ EN
+Donde N= Total de edificaciones
+Tabla 02: Códigos de Material Tabla 03: Códigos de Material
+predominante de las puertas predominante del marco de la ventana
+Código Descripción Código Descripción
+01 Madera 01 Carpintería metálica (fierro,
+02 Mallas metálicas acero, acero inoxidable,
+03 Rejas metálicas aluminio, entre otros)
+04 Planchas metálicas 02 Carpintería de madera
+05 Drywall 03 Carpintería de PVC
+04 Carpintería mixta (varios
+06 Vidrio
+materiales)
+07 Otro
+05 Otro
+Tabla 04: Códigos de Estado de Tabla 05: Códigos de Material
+conservación predominante de las paredes
+Código Descripción Código Descripción
+01 Buen estado 01 Ladrillo o concreto
+02 Regular estado 02 Adobe o tapial
+03 Mal estado 03 Quincha
+04 No tiene, pero lo requiere 04 Piedra con barro, cal o cemento
+05 No tiene y no lo requiere 05 Madera
+06 Triplay
+07 Eternit o fibra de concreto
+08 Estera, cartón o plástico
+09 Otro
+60

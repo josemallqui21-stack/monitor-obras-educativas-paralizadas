@@ -1,0 +1,22 @@
+Existe una secuencia de dos pasos para la solución de este ítem: (1) se divide 196
+entre 4, lo que da como resultado 49, y (2) se saca la raíz cuadrada de 49 para
+obtener el resultado final, que es 7. Si el estudiante no puede resolver siquiera la
+división, recibe 0 puntos. Si es capaz de resolver la división, pero no la raíz cuadrada,
+recibe 1 punto. Si, además de resolver la división, obtiene la raíz cuadrada, recibe 2
+puntos.
+El modelo asume que puntajes o créditos superiores son más probables de ser
+alcanzados en ítems con baja dificultad que en ítems con alta dificultad. Además,
+los estudiantes con mayores niveles del rasgo latente tienen mayor probabilidad de
+recibir el crédito total para el ítem que los estudiantes con menores niveles del rasgo
+latente. Ambas propiedades deben mantenerse para todas las personas, ítems y
+categorías de respuesta. Masters (1982) indica que, cuando estas propiedades se
+cumplen, los puntajes directos obtenidos pueden ser transformados para lograr una
+escala de intervalo.
+Una manera de graficar el modelo de crédito parcial es mediante las curvas de
+categorías de respuesta (Embretson y Reise, 2000). Estas curvas muestran la
+relación entre la cantidad del rasgo latente evaluado y la probabilidad de obtener
+puntajes parciales. Además, indican en qué lugar del continuo del rasgo latente, las
+respuestas a una categoría son más probables que las respuestas a otra categoría.
+La figura 4.3 presenta un ejemplo de este tipo de curvas.
+Figura 4.3 Curva de categorías de respuestas con umbrales Rasch-Andrich
+70

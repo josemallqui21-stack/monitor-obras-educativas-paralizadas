@@ -1,0 +1,50 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+MOTIVO C (1) 12.3. ¿Por qué alguno(s) o todos los servicios educativos (1:5)
+vienen operando en otro lugar o en una infraestructura de
+otro espacio?
+1: La infraestructura se encuentra en
+construcción/reconstrucción
+2: El local educativo tiene terreno, pero no cuenta con
+infraestructura
+3: El local educativo no cuenta con infraestructura ni
+terreno
+4: Insuficientes ambientes
+5: La infraestructura se encuentra concluida, pero, en
+proceso de recepción
+MOTIVO_1 C (1) 12.3. ¿Por qué alguno(s) o todos los servicios educativos 1: Total, de todo(s) el(los)
+vienen operando en otro lugar o en una infraestructura de servicio(s) educativo(s)
+otro espacio? 2: Parcial
+1: La infraestructura se encuentra en
+construcción/reconstrucción
+P12_4_1 C (10) 12.4. Sobre el local educativo cuya infraestructura se AAAA-MM
+encuentra en construcción/reconstrucción "Total",
+complete:
+1. Fecha de inicio (año y mes)
+P12_4_2 C (10) 12.4. Sobre el local educativo cuya infraestructura se AAAA-MM
+encuentra en construcción/reconstrucción "Total",
+complete:
+2. Fecha de inicio (año y mes)
+P12_4_3 C (1) 12.4. Sobre el local educativo cuya infraestructura se (1:6)
+encuentra en construcción/reconstrucción "Total",
+complete:
+3. Entidad que financia la intervención
+1: MINEDU
+2: Gobierno Regional
+3: Gobierno Local
+4: Otro sector del estado
+5: Empresa privada
+6: Otro
+P12_4_3_OT C (80) 12.4. Sobre el local educativo cuya infraestructura se Texto
+encuentra en construcción/reconstrucción "Total",
+complete:
+3. Entidad que financia la intervención
+--> 4: Otro sector del estado / 6: Otro
+Otro --- Especifique
+P12_4_4 C (7) 12.4. Sobre el local educativo cuya infraestructura se 9999999
+encuentra en construcción/reconstrucción "Total",
+complete:
+4. Código Único de Inversión (CUI) de la intervención
+-- 9 --

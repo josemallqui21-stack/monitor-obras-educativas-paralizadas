@@ -1,0 +1,45 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P401_Edific.dbf [ Matriz 12 : Edificaciones en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+P401_10_31 C (2) 10. Elementos Estructurales Ver código en
+3. Vigas Tabla 03
+1. Material Predominante
+P401_10_32 C (2) 10. Elementos Estructurales Ver código en
+3. Vigas Tabla 04
+2. Estado de Conservación
+P401_10_41 C (2) 10. Elementos Estructurales Ver código en
+4. Estructura de Techos Tabla 03
+1. Material Predominante
+P401_10_42 C (2) 10. Elementos Estructurales Ver código en
+4. Estructura de Techos Tabla 04
+2. Estado de Conservación
+P401_11_11 C (2) 11. Elementos No Estructurales Ver código en
+1. Cobertura de Techos Tabla 05
+1. Material Predominante
+P401_11_12 C (2) 11. Elementos No Estructurales Ver código en
+1. Cobertura de Techos Tabla 04
+2. Estado de Conservación
+P401_11_2 C (2) 11. Elementos No Estructurales Ver código en
+- Estado de Conservación Tabla 04
+2. Techo y Entrepisos
+P401_11_3 C (2) 11. Elementos No Estructurales Ver código en
+- Estado de Conservación Tabla 04
+3. Escaleras
+P401_11_4 C (2) 11. Elementos No Estructurales Ver código en
+- Estado de Conservación Tabla 04
+4. Parapetos
+P401_12_1 C (1) 12. La edificación cuenta con RED INTERNA de: 1: Sí
+1. Agua 2: No
+P401_12_2 C (1) 12. La edificación cuenta con RED INTERNA de: 1: Sí
+2. Desagüe 2: No
+P401_12_3 C (1) 12. La edificación cuenta con RED INTERNA de: 1: Sí
+3. Energía Eléctrica 2: No
+P401_13_1 C (1) 13. Formas de Acceso 1: Sí
+1. ¿Tiene acceso directo sin desnivel? 2: No
+P401_13_21 C (1) 13. Formas de Acceso 1: Sí
+2. ¿Tiene rampa de acceso en? 2: No
+1. Primer piso
+P401_13_22 C (1) 13. Formas de Acceso 1: Sí
+2. ¿Tiene rampa de acceso en? 2: No
+2. Todos los pisos
+42

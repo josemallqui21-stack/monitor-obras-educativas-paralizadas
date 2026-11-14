@@ -1,0 +1,45 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P501_Aulas.dbf [ Matriz 12: Aulas en el Local Educativo ]
+Variable Tipo Descripción Valor
+P501_24_81 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+8. Baranda
+1. Cantidad Total
+P501_24_82 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+8. Baranda
+2. Cantidad en buen estado
+P501_24_83 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+8. Baranda
+3. Cantidad en regular estado
+P501_24_84 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+8. Baranda
+4. Cantidad en mal estado
+P501_24_91 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+9. Cambiador
+1. Cantidad Total
+P501_24_92 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+9. Cambiador
+2. Cantidad en buen estado
+P501_24_93 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+9. Cambiador
+3. Cantidad en regular estado
+P501_24_94 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+9. Cambiador
+4. Cantidad en mal estado
+P501_24_D1 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+10. Cuna
+1. Cantidad Total
+P501_24_D2 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+10. Cuna
+2. Cantidad en buen estado
+-- 59 --

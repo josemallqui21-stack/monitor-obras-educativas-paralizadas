@@ -1,0 +1,27 @@
+Reporte técnico evaluaciones 2024 Anexos
+Cantidad
+Competencia Capacidades Porcentaje
+de ítems
+Representa datos con gráficos y medidas estadísticas o
+1 0,9 %
+probabilísticas.
+Resuelve
+Comunica su comprensión de los conceptos estadísticos
+problemas 9 8,2 %
+y probabilísticos.
+de gestión
+Usa estrategias y procedimientos para recopilar y procesar
+de datos e 4 3,6 %
+datos.
+incertidumbre
+Sustenta conclusiones o decisiones con base en la
+3 2,7 %
+información obtenida.
+Total 102 110
+El total ha sido redondeado a un decimal. Por ello, la suma total en esta tabla no es exactamente 100 %.
+Tabla B.3 Matemática ENLA 2024. Distribución de ítems por contextos en la prueba
+Contextos Cantidad de ítems Porcentaje
+Intramatemático 12 10,9 %
+Extramatemático 98 89,1 %
+Total 110 100 %
+151

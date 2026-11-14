@@ -1,0 +1,36 @@
+- Duplicados en los correlativos de los estudiantes
+- Caracteres no válidos en el sexo de los estudiantes
+- Caracteres no válidos en la lengua materna de los estudiantes
+- Caracteres no válidos en la discapacidad de los estudiantes
+- Caracteres no válidos en los números de forma de los cuadernillos
+- Caracteres no válidos en las respuestas de los estudiantes
+- Inconsistencias en las respuestas y la asistencia de los estudiantes
+• Revisiones finales:
+- Repetir todas las revisiones iniciales
+- Contrastar el listado de IE aplicadas, el cual es proporcionado por el equipo
+encargado del trabajo de campo de la UMC
+- Identificar valores fuera del rango permitido
+4.2 Estrategias de análisis psicométrico
+4.2.1 Modelo Rasch para ítems dicotómicos
+El análisis psicométrico de las pruebas aplicadas en el 2022 se basó en el modelo
+Rasch para ítems dicotómicos (Bond et al., 2021; Wright y Stone, 1998), el cual se
+centra en el análisis de cada ítem, concretamente en la interacción entre un ítem y
+una persona. Este modelo establece la probabilidad de respuesta de una persona
+ante un ítem en términos de la diferencia entre la medida de rasgo o habilidad latente
+de la persona (θ) y la medida de dificultad del ítem utilizado ( )¹. Por este motivo, se
+le denomina usualmente modelo de un parámetro (Hambleton et al., 1991).
+β
+En los modelos Rasch, la habilidad de las personas y las dificultades de los ítems
+se ubican en la misma métrica. Al respecto, Smith y Kramer (1989) afirman que la
+existencia de una métrica común permite combinar la habilidad de la persona y la
+dificultad del ítem para predecir el desempeño de esta persona en un ítem cualquiera
+e identificar respuestas inesperadas. El objetivo central del análisis Rasch es construir
+una escala conformada por los ítems ordenados según su dificultad. Ello implica que,
+a mayor habilidad, la persona presentará mayor probabilidad de acertar y, por lo
+tanto, obtendrá un mayor número de respuestas correctas. Es muy importante tener
+en cuenta que la medida estimada de la persona no es igual que el puntaje directo
+que posee (número de ítems correctos); este puntaje es solo un insumo a partir del
+cual se construye la medida Rasch. La relación entre la habilidad y la dificultad
+1 En algunos textos, se utiliza la letra B para referirse a la habilidad de las personas y la letra D para referirse
+a la dificultad de los ítems.
+84

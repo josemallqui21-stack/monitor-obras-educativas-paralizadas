@@ -1,0 +1,47 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P601_OtEsp.dbf [ Matriz 13: Otros espacios educativos distintos al aula ]
+Variable Tipo Descripción Valor
+P601_10_3 C (2) 10. Puertas Ver código en Tabla 04
+3. Estado de Conservación
+P601_11_1 N (5) 11. Cerraduras 99999
+1. Cantidad
+P601_11_2 C (2) 11. Cerraduras Ver código en Tabla 04
+2. Estado de Conservación
+P601_12_1 N (5) 12. Ventanas 99999
+1. Cantidad
+P601_12_2 C (2) 12. Ventanas Ver código en Tabla 03
+2. Material Predominante del marco de la ventana
+P601_12_3 C (2) 12. Ventanas Ver código en Tabla 04
+3. Estado de Conservación del marco de la ventana
+P601_12_4 C (1) 12. Ventanas 1: Sí
+4. Favorecen la ventilación del ambiente (las ventanas 2: No
+de encuentran frente a otras ventanas)
+P601_12_5 C (2) 12. Ventanas Ver código en Tabla 04
+5. Estado de Conservación de los vidrios
+P601_13_1 C (2) 13. Paredes Ver código en Tabla 05
+1. Material Predominante
+P601_13_2 C (2) 13. Paredes Ver código en Tabla 04
+2. Estado de Conservación
+P601_14_1 C (2) 14. Techo Ver código en Tabla 06
+1. Material Predominante
+P601_14_2 C (2) 14. Techo Ver código en Tabla 04
+2. Estado de Conservación
+P601_15_1 C (2) 15. Piso Ver código en Tabla 07
+1. Material Predominante
+P601_15_2 C (2) 15. Piso Ver código en Tabla 04
+2. Estado de Conservación
+P601_16 C (1) 16. ¿Cuenta con Instalaciones Eléctricas? 1: Sí
+2: No
+P601_17 C (1) 17. ¿Cuenta con Instalaciones Sanitarias? 1: Sí
+2: No
+P601_18 C (1) 18. ¿Cuenta con Conexión a Internet? 1: Sí
+2: No
+P601_19 C (1) 19. ¿Cuenta con instalación de gas? 1: Sí
+2: No
+P601_20_1 N (5) 20. Pizarras 99999
+1. Cantidad Total
+P601_20_2 N (5) 20. Pizarras 100000
+- Cantidad por estado de conservación
+2. En buen estado
+-- 63 --

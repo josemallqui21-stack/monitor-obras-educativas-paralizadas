@@ -1,0 +1,48 @@
+Archivo: Loc_P53_Edific.dbf [ Matriz 10: Edificaciones en el Local Educativo ]
+Variable Tipo Descripción Valor
+P53_15_9 C (1) 15. En el caso el acceso sea mediante rampa(s), indique si cuenta 1: Sí
+con las siguientes características 2: No
+9. ¿El inicio y final de la rampa tiene un espacio libre
+de 1.50 m para el giro de una silla de ruedas?
+P53_15_10 C (1) 15. En el caso el acceso sea mediante rampa(s), indique si cuenta 1: Sí
+con las siguientes características 2: No
+10. ¿Cuenta con señalización para personas con
+discapacidad visual? (piso podotáctil)
+P53_16 C (2) 16. ¿Cómo se conectan los espacios interiores en un mismo piso? (01:04)
+01: Directo sin desnivel
+02: Gradas
+03: Rampas
+04: Otros
+P53_17 C (2) 17. ¿Cómo se conectan esta edificación con otra edificación? (01:04)
+01: Directo sin desnivel
+02: Gradas
+03: Rampas
+04: Otros
+P53_18_1 C (2) 18. Instalaciones Eléctricas Ver código en Tabla
+1. Tipo de Instalación del cableado 06
+P53_18_21 N (5) 18. Instalaciones Eléctricas 99999
+2. Tablero
+1. Cantidad
+P53_18_22 C (2) 18. Instalaciones Eléctricas Ver código en Tabla
+2. Tablero 04
+2. Estado de Conservación
+P53_18_31 N (5) 18. Instalaciones Eléctricas 99999
+3. Gabinete de protección de circuitos
+1. Cantidad
+P53_18_32 C (2) 18. Instalaciones Eléctricas Ver código en Tabla
+3. Gabinete de protección de circuitos 04
+2. Estado de Conservación
+P53_18_41 N (5) 18. Instalaciones Eléctricas 99999
+4. Sistema de puesta a tierra
+1. Cantidad
+P53_18_42 C (2) 18. Instalaciones Eléctricas Ver código en Tabla
+4. Sistema de puesta a tierra 04
+2. Estado de Conservación
+P53_18_43 C (4) 18. Instalaciones Eléctricas 9999
+4. Sistema de puesta a tierra
+3. Último año de mantenimiento
+P53_19_1 C (2) 19. Instalaciones Sanitarias en los techos Ver código en Tabla
+- Estado de Conservación 04
+1. Canaletas del Sistema de captación del agua de las
+lluvias
+34

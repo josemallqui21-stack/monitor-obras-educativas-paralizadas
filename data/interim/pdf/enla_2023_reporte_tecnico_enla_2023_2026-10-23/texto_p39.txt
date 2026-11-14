@@ -1,0 +1,37 @@
+Reporte técnico evaluaciones 2022 Capítulo 1
+De las doce formas ensambladas, cada estudiante evaluado se enfrentó a dos de
+ellas (una por cada día de aplicación). En consecuencia, de los 102 ítems que tiene
+esta prueba, cada estudiante respondió 50.
+Diseño de bloques de las pruebas de Matemática de 2.° grado de secundaria
+La prueba de Matemática de 2.° grado de secundaria elaborada para la ENLA 2023
+estuvo conformada por un total de 122 ítems organizados en 22 bloques: 16 bloques
+comunes y seis no comunes. Con estos 22 bloques, se ensamblaron 18 formas. Cada
+forma contiene 25 ítems, 19 ítems comunes organizados en cinco bloques comunes
+(cuatro en posición fija y uno que varía de posición de una forma a otra); y seis ítems
+no comunes organizados en un bloque que varía de posición de una forma a otra. Las
+diferentes combinaciones de los bloques permitieron ensamblar diez formas para
+escuelas con estudiantes de mayor habilidad o zona A, y ocho para escuelas con
+estudiantes de menor habilidad o zona B. De acuerdo con esta distribución, cada
+forma y el conjunto de estas reflejan los contenidos (competencias, capacidades,
+conocimientos, indicadores, entre otros) de las tablas de especificaciones de la
+prueba. Dentro de su tipo (de zona A o de zona B), estas formas presentan una
+dificultad similar entre sí, pero diferenciada según el grupo de estudiantes al que
+están dirigidas.
+Tabla 1.15 Matriz de bloques de la prueba de Matemática de 2.° grado de
+secundaria. Día 1
+Forma Bloque Ítems por forma
+B06
+B09
+B13
+1 25
+B21
+B10
+B01
+B02
+B10
+B14
+2 25
+B21
+B09
+B06
+37

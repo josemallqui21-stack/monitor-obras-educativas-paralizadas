@@ -1,0 +1,55 @@
+Tabla 3. Ubicación geográfica de las obras paralizadas y costos de inversión
+*Costo Actualizado S/ Obras paralizadas Saldo de Inversión por
+Departamento
+S/* % N° % ejecutar S/
+AREQUIPA 7,731,937,119 17.9% 146 5.7% 5,197,661,341
+LA LIBERTAD 5,595,397,946 13.0% 86 3.3% 3,765,274,363
+LIMA 4,564,406,207 10.6% 186 7.2% 2,080,570,660
+CAJAMARCA 2,684,823,325 6.2% 142 5.5% 1,300,290,482
+PIURA 2,547,873,904 5.9% 127 4.9% 1,175,216,994
+CUSCO 2,190,966,444 5.1% 364 14.2% 804,006,695
+PUNO 1,922,141,394 4.5% 331 12.9% 950,959,635
+ANCASH 1,910,407,644 4.4% 188 7.3% 1,014,732,759
+UCAYALI 1,294,980,827 3.0% 27 1.0% 341,454,089
+TACNA 1,288,639,519 3.0% 50 1.9% 737,478,944
+MOQUEGUA 1,252,851,267 2.9% 50 1.9% 480,197,183
+LAMBAYEQUE 1,167,583,120 2.7% 85 3.3% 310,335,418
+ICA 1,105,568,350 2.6% 27 1.0% 651,443,248
+JUNIN 1,036,621,050 2.4% 90 3.5% 512,990,840
+PASCO 978,326,765 2.3% 42 1.6% 590,722,919
+HUANUCO 974,720,010 2.3% 84 3.3% 550,919,513
+AYACUCHO 960,992,102 2.2% 162 6.3% 535,372,826
+AMAZONAS 923,674,067 2.1% 36 1.4% 221,166,317
+APURIMAC 845,410,473 2.0% 110 4.3% 348,909,463
+HUANCAVELICA 523,183,682 1.2% 90 3.5% 225,591,117
+SAN MARTIN 515,998,278 1.2% 41 1.6% 204,879,819
+LORETO 504,276,727 1.2% 53 2.1% 163,104,342
+MADRE DE DIOS 344,067,984 0.8% 38 1.5% 175,775,336
+TUMBES 182,039,578 0.4% 10 0.4% 81,916,873
+P C DEL CALLAO 116,479,524 0.3% 7 0.3% 91,086,922
+Total 43,163,367,307 100% 2572 100% 22,512,058,100
+*El valor es obtenido de la Consulta Avanzada de Inversiones del Banco de Inversiones del MEF.
+Fuente: Sistema Nacional de Obras Públicas - Infobras y Banco de Inversiones del MEF
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2025
+2.3. Obras paralizadas por nivel de gobierno
+El mayor número de obras paralizadas corresponde a entidades a nivel de Gobierno Local
+con 1 846 obras paralizadas por S/ 9 mil 714 millones; seguido de entidades pertenecientes
+al Gobierno Nacional con 387 obras, con monto de inversión de S/ 15 mil 930 millones; en
+tanto que las entidades a nivel de Gobierno Regional cuentan con 339 obras, cuyo monto de
+inversión asciende a S/ 17 mil 518 millones, tal como se muestra en el siguiente cuadro.
+Tabla 4. Obras paralizadas por nivel de gobierno
+Costo Actualizado S/ Obras paralizadas Saldo de inversión por ejecutar
+Nivel de Gobierno
+S/ % N° % S/ %
+G. NACIONAL 15,930,268,255 36.9% 387 15.0% 7,302,451,393 32.4%
+G. REGIONAL 17,518,846,184 40.6% 339 13.2% 10,860,902,492 48.3%
+G. LOCAL 9,714,252,867 22.5% 1846 71.8% 4,348,704,215 19.3%
+Total 43,163,367,307 100% 2572 100% 22,512,058,100 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2025
+2.4. Obras paralizadas por sector de gobierno
+Las obras paralizadas se encuentran relacionadas con diversos sectores de gobierno y a su
+vez con los niveles de Gobierno Nacional, Regional y Local, como se detalla a continuación:
+9

@@ -1,0 +1,56 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Nombre de archivo: Local_Recursos_801.dbf
+SECCIÓN: 800. ESTADO DE LOS RECURSOS TECNOLÓGICOS Y EQUIPAMIENTO EN
+EL LOCAL EDUCATIVO
+TABLA: 801. RECURSOS TECNOLÓGICOS
+Campo Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo (000001:999999)
+NROCED C (3) Número de cédula 11
+CUADRO C (4) 801. Recursos Tecnológicos C801
+NUMERO C (2) Número de recurso tecnológico (1:12)
+P801_1 C (60) Recurso tecnológico (*)
+P801_2 N (6) 2. Cantidad Total (Operativos + Inoperativos) (000001:999999)
+P801_3_1 N (6) 3. Cantidad de recurso tecnológico operativo (000001:999999)
+1. Total operativos
+P801_3_21 N (5) 3. Cantidad de recurso tecnológico operativo (00001:99999)
+2. Según estado de conservación
+1. En buen estado
+P801_3_22 N (5) 3. Cantidad de recurso tecnológico operativo (00001:99999)
+2. Según estado de conservación
+2. Necesitan reparación
+P801_3_31 N (5) 3. Cantidad de recurso tecnológico operativo (00001:99999)
+3. Según su antigüedad en el Local Educativo
+1. Menos de 6 meses
+P801_3_32 N (5) 3. Cantidad de recurso tecnológico operativo (00001:99999)
+3. Según su antigüedad en el Local Educativo
+2. De 6 meses a menos de 2 años
+P801_3_33 N (5) 3. Cantidad de recurso tecnológico operativo (00001:99999)
+3. Según su antigüedad en el Local Educativo
+3. De 2 a menos de 3 años
+P801_3_34 N (5) 3. Cantidad de recurso tecnológico operativo (00001:99999)
+3. Según su antigüedad en el Local Educativo
+4. De 3 a menos de 4 años
+P801_3_35 N (5) 3. Cantidad de recurso tecnológico operativo (00001:99999)
+3. Según su antigüedad en el Local Educativo
+5. De 4 a más años
+P801_4_11 N (5) 4. Cantidad de recurso tecnológico operativo (00001:99999)
+según uso
+1. Conectado por cable
+1. Estrictamente pedagógico
+P801_4_12 N (5) 4. Cantidad de recurso tecnológico operativo (00001:99999)
+según uso
+1. Conectado por cable
+2. Pedagógico y administrativo
+P801_4_13 N (5) 4. Cantidad de recurso tecnológico operativo (00001:99999)
+según uso
+1. Conectado por cable
+3. Estrictamente administrativo
+P801_4_21 N (5) 4. Cantidad de recurso tecnológico operativo (00001:99999)
+según uso
+2. Conectados por Wifi
+1. Estrictamente pedagógico
+P801_4_22 N (5) 4. Cantidad de recurso tecnológico operativo (00001:99999)
+según uso
+2. Conectados por Wifi
+2. Pedagógico y administrativo
+69

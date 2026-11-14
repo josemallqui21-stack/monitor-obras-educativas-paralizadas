@@ -1,0 +1,49 @@
+*Costo de inversión Actualizado
+Obras paralizadas Saldo de Inversión
+Departamento S/
+por ejecutar S/
+N° % S/* %
+AMAZONAS 47 2.08% 1,496,816,556 2.38% 511,798,080.9
+TACNA 40 1.77% 1,250,422,478 1.99% 693,236,924.3
+MOQUEGUA 38 1.68% 998,644,598 1.59% 349,032,432.8
+PASCO 35 1.55% 601,658,125 0.96% 275,751,622.7
+LORETO 35 1.55% 996,540,011 1.59% 665,619,282.5
+MADRE DE DIOS 33 1.46% 329,922,269 0.53% 176,300,615.7
+ICA 28 1.24% 1,397,066,315 2.22% 828,943,353.2
+UCAYALI 27 1.19% 1,122,645,288 1.79% 324,648,897.3
+SAN MARTIN 21 0.93% 706,548,587 1.12% 492,181,149.7
+TUMBES 10 0.44% 194,823,062 0.31% 93,513,518.4
+P. C. DEL CALLAO 6 0.27% 146,106,663 0.23% 110,179,634.8
+Total 2262 100.00% 62,828,613,846 100.00% 27,548,021,050.8
+*El valor es obtenido de la Consulta Avanzada de Inversiones del Banco de Inversiones del MEF.
+Fuente: Sistema Nacional de Obras Públicas - Infobras y Banco de Inversiones del MEF
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 30/06/2026
+Cabe señalar que, los departamentos que concentran el mayor número de obras
+públicas paralizadas son: Cusco (370), Puno (213), Áncash (181), Lima (171) y
+Ayacucho (150).
+2.3. Obras públicas paralizadas por nivel de gobierno
+El mayor número de obras públicas paralizadas corresponde a entidades a nivel
+de Gobierno Local con 1 543 obras públicas paralizadas, por un monto de
+inversión de S/ 11 mil 916 millones; seguido de entidades pertenecientes al
+Gobierno Nacional con 396 obras, con monto de inversión de S/ 39 mil 737
+millones; en tanto que las entidades a nivel de Gobierno Regional cuentan con
+323 obras, cuyo monto de inversión asciende a S/ 11 mil 174 millones, tal como
+se muestra en el siguiente cuadro.
+Tabla 4. Obras públicas paralizadas por nivel de gobierno
+Costo de inversión
+Nivel de Obras paralizadas Actualizado S/ Saldo de inversión por ejecutar
+Gobierno
+N° % S/ % S/ %
+G. Nacional 396 17.51% 39,737,257,830 63.25% 15,887,009,789.1 57.67%
+G. Regional 323 14.28% 11,174,531,821 17.79% 4,777,002,686.6 17.34%
+G. Local 1543 68.21% 11,916,824,195 18.97% 6,884,008,575.1 24.99%
+Total 2262 100.00% 62,828,613,846 100.00% 27,548,021,050.8 100.00%
+Fuente: Sistema Nacional de Obras Públicas – Banco de Inversiones/MEF
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 30/06/2026
+2.4. Obras públicas paralizadas por sector de gobierno
+Las obras públicas paralizadas se encuentran relacionadas con diversos
+sectores de gobierno y a su vez con los niveles de Gobierno Nacional, Regional
+y Local, como se detalla a continuación:
+10

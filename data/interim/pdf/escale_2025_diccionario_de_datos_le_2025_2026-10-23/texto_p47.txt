@@ -1,0 +1,48 @@
+Archivo: Loc_P71_OtEsp.dbf [ Matriz 12: Otros espacios educativos distintos al aula ]
+Variable Tipo Descripción Valor
+P71_7 C (1) 7. ¿Tiene forma de cuadrilatero? 1: Sí
+2: No
+P71_8_1 N (7,2) 8. Dimensiones de ambiente 9999.99
+1. Largo (m)
+P71_8_2 N (7,2) 8. Dimensiones de ambiente 9999.99
+2. Ancho (m)
+P71_8_3 N (5,2) 8. Dimensiones de ambiente 99.99
+3. Altura (m)
+P71_9 C (1) 9. ¿Cuenta con señalización de seguridad? 1: Sí
+2: No
+P71_10_1 N (5) 10. Puertas 99999
+1. Cantidad
+P71_10_2 C (2) 10. Puertas Ver código en Tabla
+2. Material Predominante 02
+P71_10_3 C (2) 10. Puertas Ver código en Tabla
+3. Estado de Conservación 04
+P71_10_4 N (5,2) 10. Puertas 99.99
+4. Ancho (m)
+P71_11_1 N (5) 11. Cerraduras 99999
+1. Cantidad
+P71_11_2 C (2) 11. Cerraduras Ver código en Tabla
+2. Estado de Conservación 04
+P71_12_1 N (5) 12. Ventanas 99999
+1. Cantidad
+P71_12_2 C (2) 12. Ventanas Ver código en Tabla
+2. Material Predominante del marco de la ventana 03
+P71_12_3 C (2) 12. Ventanas Ver código en Tabla
+3. Estado de Conservación del marco de la ventana 04
+P71_12_4 C (1) 12. Ventanas 1: Sí
+4. Favorecen la ventilación del ambiente (las 2: No
+ventanas se encuentran frente a otras ventanas)
+P71_12_5 C (2) 12. Ventanas Ver código en Tabla
+5. Estado de Conservación de los vidrios 04
+P71_12_6 C (2) 12. Ventanas Ver código en Tabla
+6. Estado de Conservación de las mallas 04
+P71_13_1 C (2) 13. Paredes Ver código en Tabla
+1. Material Predominante 05
+P71_13_2 C (2) 13. Paredes Ver código en Tabla
+2. Estado de Conservación 04
+P71_14_1 C (2) 14. Techo Ver código en Tabla
+1. Material Predominante 06
+P71_14_2 C (2) 14. Techo Ver código en Tabla
+2. Estado de Conservación 04
+P71_15_1 C (2) 15. Piso Ver código en Tabla
+1. Material Predominante 07
+46

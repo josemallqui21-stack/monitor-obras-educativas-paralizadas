@@ -1,0 +1,53 @@
+Reporte técnico evaluaciones 2024 Capítulo 5
+Código de
+Grado Actor Nombre CFI TLI SRMR
+constructo
+DOC4PLEC_ Confianza director-
+1,000 0,999 0,013
+CONFDD docente
+Creencias sobre la
+DOC4PLEC_
+recursividad de la 0,995 0,991 0,025
+CRERLEC
+escritura
+DOC4PLEC_ Creencias sobre la
+0,982 0,978 0,050
+EVFORM evaluación formativa
+Escuela orientada
+DOC4PLEC_
+al desarrollo de 0,998 0,996 0,025
+IEAPRE
+aprendizajes
+Docente de
+Comunicación
+Prácticas docentes
+DOC4PLEC_
+en la enseñanza de la 0,993 0,991 0,060
+PRACLECT
+lectura
+4.° grado
+de primaria
+Preparación del
+DOC4PLEC_
+docente para la 0,997 0,996 0,034
+PREPCOM
+enseñanza de Lectura
+Percepción de
+DOC4PLEC_ situaciones
+0,990 0,983 0,052
+PROBIE problemáticas en la
+escuela
+DOC4PLEC_ Promoción de la
+0,993 0,990 0,044
+PROMAU autonomía
+Creencias sobre
+DOC4PMAT_
+la enseñanza de la 0,984 0,978 0,042
+APR
+matemática
+Docente de
+Matemática
+DOC4PMAT_ Retroalimentación del
+0,999 0,998 0,031
+RETRD director
+109

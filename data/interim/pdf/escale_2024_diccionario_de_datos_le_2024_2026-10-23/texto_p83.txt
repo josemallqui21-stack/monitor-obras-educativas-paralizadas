@@ -1,0 +1,48 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P801_RecTec.dbf [ Matriz 16: Recursos Tecnológicos en el Local Educativo ]
+Variable Tipo Descripción Valor
+P801_2 N (5) 2. Cantidad total 99999
+P801_3_1 N (5) 3. Cantidad de equipos operativos 99999
+1. Total operativos
+P801_3_21 N (5) 3. Cantidad de equipos operativos 99999
+2. Según estado de conservación
+1. En buen estado
+P801_3_22 N (5) 3. Cantidad de equipos operativos 99999
+2. Según estado de conservación
+2. Necesitan reparación
+P801_3_31 N (5) 3. Cantidad de equipos operativos 99999
+3. Según su antigüedad en el local educativo
+1. Menos de 5 años (a partir de 2020)
+P801_3_32 N (5) 3. Cantidad de equipos operativos 99999
+3. Según su antigüedad en el local educativo
+2. Más de 5 años (antes de 2020)
+P801_3_411 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+1. Conectados por cable
+1. Aula de clase
+P801_3_412 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+1. Conectados por cable
+2. Aula de innovación pedagógica
+P801_3_413 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+1. Conectados por cable
+3. Laboratorio y/o talleres
+P801_3_414 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+1. Conectados por cable
+4. Otros ambientes complementarios
+P801_3_421 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+2. Conectados por wifi
+1. Aula de clase
+P801_3_422 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+2. Conectados por wifi
+2. Aula de innovación pedagógica
+P801_3_423 N (5) 3. Cantidad de equipos operativos 99999
+4. Según el ambiente al que fue asignado
+2. Conectados por wifi
+3. Laboratorio y/o talleres
+-- 82 --

@@ -1,0 +1,39 @@
+Reporte técnico evaluaciones 2022
+la información de la cantidad de estudiantes y secciones que proviene del Censo
+Educativo es declarada por el director de la IE. En algunos casos, el director no
+reporta el dato, por ello la Unidad de Estadística Educativa le imputa un valor. El
+porcentaje de escuelas con datos de matrícula imputados en el Censo Escolar 2021
+es de alrededor del 1,6%.
+Para elaborar el listado de IE a evaluar en la EM 2022, se aplicó el siguiente
+procedimiento:
+1. Se utilizó el Padrón de Instituciones Educativas para determinar el listado
+de IE activas². Luego, se seleccionaron las IE de primaria y secundaria de
+Educación Básica Regular (EBR). Tras ello, en primaria, se excluyeron las IE
+que pertenecieran al servicio con el modelo educativo en Educación Intercultural
+Bilingüe (EIB).
+2. Se calculó la cantidad de secciones y estudiantes programados. Esta información
+corresponde al valor registrado en Siagie 2021. En los casos en que la IE no
+contaba con información en el Siagie, se tomó el valor del Censo Educativo
+2021.
+3. Se seleccionaron las IE que tuvieron cinco o más estudiantes asignados en el
+punto 2.
+2.3 Diseño muestral
+El diseño de muestreo empleado fue de tipo probabilístico, estratificado, por
+conglomerados y bietápico, donde la unidad primaria de muestreo corresponde a
+las IE y la unidad secundaria corresponde a las secciones completas dentro de cada
+IE. En la primera etapa, la selección de escuelas fue proporcional al tamaño, por lo
+que las escuelas con mayor cantidad de estudiantes en el grado a evaluar tuvieron
+una mayor probabilidad de ser seleccionadas. En la segunda etapa, se realizó una
+selección aleatoria simple de hasta tres secciones.
+2.3.1 Conglomerados
+Cada IE es considerada un conglomerado, pues agrupa a un conjunto de secciones
+que, a su vez, agrupan a un conjunto de estudiantes. El muestreo de conglomerados
+surge como una necesidad práctica, económica y de eficiencia administrativa. Su
+mayor ventaja es que no exige contar con un marco muestral de cada elemento por
+analizar, pues solo es necesario tener el marco muestral a nivel de conglomerados
+(IE y secciones) para realizar la selección de estos (Lohr, 2022). Luego, en cada
+conglomerado seleccionado, se puede obtener el listado de todas las secciones y
+seleccionar una muestra de ellas.
+2 El Padrón de Instituciones Educativas y el Censo Educativo se encuentran disponibles en la web Escale de la
+Unidad de Estadística Educativa: http://escale.minedu.gob.pe/uee/
+48

@@ -1,0 +1,42 @@
+"Año de la unidad, la paz y el desarrollo"
+Tabla 01: Códigos de Tipo de espacio abierto o espacio exterior/de relación con la naturaleza
+Código Descripción Código Descripción
+Losa multiuso tipo I 15 x 28 (3 deportes/no
+115 patios) - para Ed. Básica o Ed. Superior o 124 Área de ingreso
+ETP
+Losa multiuso tipo II 20 x 40 (5 deportes/no
+116 patios) - para Ed. Básica o Ed. Superior o 125 Pasadizos y circulaciones
+ETP
+Pista de velocidad y saltos (80 a 120 metros
+117 126 Patio
+lineales) - para Ed. Básica
+118 Piscina semiolímpica sin techar (Ed. Básica) 127 Área de recreación (Ed. Física)
+119 Piscina olímpica sin techar (Ed. Básica) 128 Áreas verdes y jardines (Ed. Básica)
+Campo de fútbol y campo atlético (Ed. Espacio de cultivo (EBR o Ed. Superior o
+120 129
+Básica) ETP)
+Espacio de crianza de animales (EBR o Ed.
+121 Solo campo de fútbol (Ed. Básica) 130
+Superior o ETP)
+122 Solo campo de atlético (Ed. Básica) 131 Tribuna / Gradería
+123 Otro espacio deportivo abierto 132 Otro espacio exterior y de relación
+Archivo : Loc_Lineal_2.dbf
+Variable Formato Descripción de variable Valor de variable
+P606 C (1) 606. Alguno de los espacios deportivos (ya sean cerrados o 1: Sí
+abiertos), ¿se encuentran en concesión? 2: No
+P607 C (1) 607. Alguno de los espacios deportivos (ya sean cerrados o 1: Sí
+abiertos), ¿se encuentra ocupado por alguna infraestructura 2: No
+portátil, u otro?
+P607_SI_OT C (80) 607. Alguno de los espacios deportivos (ya sean cerrados o Texto
+abiertos), ¿se encuentra ocupado por alguna infraestructura
+portátil, u otro?
+- Sí --> Especificar
+P608_1 C (1) 608. Al menos uno de los espacios deportivos (ya sean "X"
+cerrados o abiertos), ¿cuenta con el siguiente equipamiento
+deportivo?
+1. Arcos - Futbol
+P608_2 C (1) 608. Al menos uno de los espacios deportivos (ya sean "X"
+cerrados o abiertos), ¿cuenta con el siguiente equipamiento
+deportivo?
+2. Arcos con mallas - Futbol
+67

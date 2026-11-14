@@ -1,0 +1,42 @@
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+NOMBVIA C (80) 1.1.8. Dirección principal del Local Educativo Texto
+Nombre de Vía
+NUMERO C (20) 1.1.8. Dirección principal del Local Educativo (0:9),(A:Z)
+Número de puerta
+MANZANA C (10) 1.1.8. Dirección principal del Local Educativo (0:9),(A:Z)
+Manzana
+LOTE C (15) 1.1.8. Dirección principal del Local Educativo (0:9)
+Lote
+SECTOR C (30) 1.1.8. Dirección principal del Local Educativo (0:9)
+Sector
+ZONA C (15) 1.1.8. Dirección principal del Local Educativo (0:9),(A:Z)
+Zona
+ETAPA C (15) 1.1.8. Dirección principal del Local Educativo (0:9),(A:Z)
+Etapa
+OTROS C (30) 1.1.8. Dirección principal del Local Educativo Texto
+Otro
+REFERENCIA C (200) 1.1.9. Referencia de la dirección del Local Educativo Texto
+LATITUD N (15,8) 1.1.10. Puntos de Georreferenciación 999999.99999999
+Latitud
+LONGITUD N (15,8) 1.1.10. Puntos de Georreferenciación 999999.99999999
+Longitud
+ALTITUD N (6) 1.1.10. Puntos de Georreferenciación 999999
+Altura
+CLIMA C (1) 1.1.11. Clima (1:9)
+1: Desértico costero / marino
+2: Desértico
+3: Interandino bajo
+4: Mesoandino
+5: Altoandino
+6: Nevado
+7: Ceja de montaña
+8: Subtropical húmedo
+9: Tropical húmedo
+Sección 2: Información de los servicios o niveles educativos
+Archivo: Loc_P121_Niveles.dbf [ Matriz 01: Niveles ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) 1.2.1. Servicios/niveles educativos que funcionan en el local educativo C121
+7

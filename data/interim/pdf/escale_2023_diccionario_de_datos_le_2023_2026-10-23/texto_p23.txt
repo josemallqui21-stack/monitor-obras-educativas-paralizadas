@@ -1,0 +1,48 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_1.dbf
+Variable Formato Descripción de variable Valor de variable
+P120_10_M C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+10. Vientos fuertes
+¿Es mitigable?
+P120_11 C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+11. Incendio forestal/urbano
+P120_11_F C (10) 120. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+11. Incendio forestal/urbano
+Última fecha de ocurrencia
+P120_11_M C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+11. Incendio forestal/urbano
+¿Es mitigable?
+P120_12 C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+12. Avalanchas
+P120_12_F C (10) 120. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+12. Avalanchas
+Última fecha de ocurrencia
+P120_12_M C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+12. Avalanchas
+¿Es mitigable?
+P120_13 C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+13. Huaycos
+P120_13_F C (10) 120. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+13. Huaycos
+Última fecha de ocurrencia
+P120_13_M C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+13. Huaycos
+¿Es mitigable?
+P120_14 C (1) 120. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+14. Deslizamientos
+P120_14_F C (10) 120. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+14. Deslizamientos
+Última fecha de ocurrencia
+22

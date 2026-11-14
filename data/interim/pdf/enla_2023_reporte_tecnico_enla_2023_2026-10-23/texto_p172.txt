@@ -1,0 +1,39 @@
+Código de
+Grado Actor Nombre general Sub escala omega
+constructo
+EST2SHSE_EAAAE Autoexpectativa 0,766
+EST2SHSE_EAACT Carga de trabajo 0,836
+EST2SHSE_ Desanimo/
+2.° EAADD Estrés académico desesperanza 0,763
+grado de Estudiante
+adolescente
+secundaria Presión por el
+EST2SHSE_EAAPE 0,723
+estudio
+EST2SHSE_ Preocupación por
+0,747
+EAAPN las notas
+5.3.3. Elaboración de puntajes
+Una vez confirmada la consistencia interna de los indicadores recogidos, se procedió
+a generar los puntajes para cada uno de los actores educativos. Los puntajes
+permiten representar el nivel de presencia de la variable latente en cada uno de los
+encuestados.
+Una de las formas más simples de establecer estos puntajes es mediante la suma
+o promedio simple con todos los ítems que conforman el constructo. Sin embargo,
+todos los ítems que conforman un factor no aportan lo mismo para la formación del
+constructo, pues tienen diferentes pesos o cargas factoriales. En consecuencia, de
+elaborarse puntajes a través de suma o promedio simples, se le otorgaría el mismo
+peso a todos los ítems, lo que haría que ítems con valores de carga relativamente
+bajos reciban igual importancia que los de carga alta para el cálculo de los puntajes.
+En consecuencia, ignorar las diferentes cantidades de variabilidad en las variables
+observadas puede dar lugar a puntuaciones factoriales menos fiables (DiStefano et
+al., 2009).
+Debido a ello, para el caso de los constructos reflexivos, los puntajes fueron estimados
+mediante el método EBM (Empirical Bayes Modal), el cual es adecuado para ítems
+categóricos. Este procedimiento se aplicó con la función lavPredict del paquete
+lavaan del software estadístico R. Para los constructos formativos, los ítems fueron
+estandarizados y luego multiplicados por el peso asociado al primer componente.
+Una vez estimados los puntajes, estos fueron estandarizados con una media = 0 y
+desviación estándar = 1. La transformación de los puntajes de la variable permite
+una interpretación más sencilla cuando son incluidos en los modelos de regresión.
+170

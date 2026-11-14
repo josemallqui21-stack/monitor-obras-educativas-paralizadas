@@ -1,0 +1,51 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_1.dbf
+Variable Formato Descripción de variable Valor de variable
+P115_2_3 C (1) 115.2. ¿Cómo se conectan las edificaciones y espacios "X"
+dentro del local educativo?
+3. Directo sin Desnivel
+P115_2_4 C (1) 115.2. ¿Cómo se conectan las edificaciones y espacios "X"
+dentro del local educativo?
+4. Otros
+P115_2_OTR C (80) 115.2. ¿Cómo se conectan las edificaciones y espacios Texto
+dentro del local educativo?
+4. Otros --- Especificar
+P115_2_1OK C (1) 115.2. ¿Cómo se conectan las edificaciones y espacios 1: Sí
+dentro del local educativo? 2: No
+1: Gradas
+¿Cumple con las características de acuerdo a la
+norma?
+P115_2_2OK C (1) 115.2. ¿Cómo se conectan las edificaciones y espacios 1: Sí
+dentro del local educativo? 2: No
+2: Rampa
+¿Cumple con las características de acuerdo a la
+norma?
+P116_1 C (1) 116. ¿Su local educativo cuenta con alguna (1:3)
+señalización en la entrada o salida de espacios
+cerrados o espacios comunes correspondiente a las
+medidas preventivas contra el contagio de COVID-19?
+- Señalización sobre el cumplimiento del aforo
+máximo permitido
+1: En todos los espacios cerrados o comunes del
+local
+2: En algunos espacios cerrados o comunes del local
+3: En ningún espacio
+P116_2 C (1) 116. ¿Su local educativo cuenta con alguna (1:3)
+señalización en la entrada o salida de espacios
+cerrados o espacios comunes correspondiente a las
+medidas preventivas contra el contagio de COVID-19?
+- Señalización sobre el distanciamiento físico de 1m
+1: En todos los espacios cerrados o comunes del
+local
+2: En algunos espacios cerrados o comunes del local
+3: En ningún espacio
+P116_3 C (1) 116. ¿Su local educativo cuenta con alguna (1:3)
+señalización en la entrada o salida de espacios
+cerrados o espacios comunes correspondiente a las
+medidas preventivas contra el contagio de COVID-19?
+- Señalización sobre la ventilación natural adecuada
+1: En todos los espacios cerrados o comunes del
+local
+2: En algunos espacios cerrados o comunes del local
+3: En ningún espacio
+13

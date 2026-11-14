@@ -1,0 +1,57 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Nombre de archivo: Local_Topog.dbf
+Tabla: Local_Topog.dbf
+Campo Formato Descripción de variable Valor de variable
+P107_15 C (2) En caso respondió “Sí” en el numeral (10): Ver Código en
+En caso “NO” se cuente con la partida registral Tabla 03
+15. Tipo de título de propiedad
+P107_16 C (2) En caso respondió “Sí” en el numeral (10): Ver Código en
+En caso “NO” se cuente con la partida registral Tabla 04
+16. Documento de posesión del predio
+P107_17 C (2) En caso respondió “Sí” en el numeral (10): SI / NO
+17. ¿Se encuentra registrado en el Margesí de
+Bienes Inmuebles del MINEDU?
+P107_18 C (12) En caso respondió “Sí” en el numeral (10): (0:9),(A:Z)
+18. N° de código de inmueble
+P107_19 C (2) En caso respondió “No” en el numeral (10): Ver Código en
+19. Propietario del Predio (según documento no Tabla 02 – Según
+inscrito) documento no
+inscrito
+P107_20_1 C (1) En caso respondió “No” en el numeral (10): “X”
+20. Sin Titularidad (Ver código en tabla 05)
+“1”
+P107_20_2 C (1) En caso respondió “No” en el numeral (10): “X”
+20. Sin Titularidad (Ver código en tabla 05)
+“2”
+P107_20_3 C (1) En caso respondió “No” en el numeral (10): “X”
+20. Sin Titularidad (Ver código en tabla 05)
+“3”
+P107_20_4 C (1) En caso respondió “No” en el numeral (10): “X”
+20. Sin Titularidad (Ver código en tabla 05)
+“4”
+P107_20_5 C (1) En caso respondió “No” en el numeral (10): “X”
+20. Sin Titularidad (Ver código en tabla 05)
+“5”
+P107_20_6 C (1) En caso respondió “No” en el numeral (10): “X”
+20. Sin Titularidad (Ver código en tabla 05)
+“6”
+P107_20_7 C (1) En caso respondió “No” en el numeral (10): “X”
+20. Sin Titularidad (Ver código en tabla 05)
+“7”
+P107_21_1 C (1) En caso respondió “No” en el numeral (10): “X”
+21. Sin Licencia de Construcción (Ver código en
+tabla 06)
+“1”
+P107_21_2 C (1) En caso respondió “No” en el numeral (10): “X”
+21. Sin Licencia de Construcción (Ver código en
+tabla 06)
+“2”
+P107_21_3 C (1) En caso respondió “No” en el numeral (10): “X”
+21. Sin Licencia de Construcción (Ver código en
+tabla 06)
+“3”
+P107_21_4 C (1) En caso respondió “No” en el numeral (10): “X”
+21. Sin Licencia de Construcción (Ver código en
+tabla 06)
+“4”
+21

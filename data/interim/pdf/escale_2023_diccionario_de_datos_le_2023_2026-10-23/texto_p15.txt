@@ -1,0 +1,32 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_1.dbf
+Variable Formato Descripción de variable Valor de variable
+P116_4 C (1) 116. ¿Su local educativo cuenta con alguna señalización en (1:3)
+la entrada o salida de espacios cerrados o espacios
+comunes correspondiente a las medidas preventivas contra
+el contagio de COVID-19?
+- Señalización sobre el uso correcto de mascarillas
+1: En todos los espacios cerrados o comunes del local
+2: En algunos espacios cerrados o comunes del local
+3: En ningún espacio
+P116_5 C (1) 116. ¿Su local educativo cuenta con alguna señalización en (1:3)
+la entrada o salida de espacios cerrados o espacios
+comunes correspondiente a las medidas preventivas contra
+el contagio de COVID-19?
+- Señalización sobre el lavado o desinfección de manos
+1: En todos los espacios cerrados o comunes del local
+2: En algunos espacios cerrados o comunes del local
+3: En ningún espacio
+P117_1 N (3) 117.1. Traslado desde la UGEL al Local Educativo 999
+¿Cuántos trayectos tiene la ruta que utiliza habitualmente
+para trasladarse desde la UGEL de su jurisdicción hasta el
+local educativo?
+- N° de Trayectos
+P117_2 C (1) 117.2. ¿El local educativo, se encuentra ubicado en la 1: Sí
+capital distrital donde se encuentra la sede de la UGEL? 2: No
+P117_3 N (3) 117.3. Traslado desde la capital distrital al local educativo 999
+¿Cuántos trayectos tiene la ruta que utiliza habitualmente
+para trasladarse desde la capital distrital (plaza de armas)
+hasta el local educativo?
+- N° de Trayectos
+14

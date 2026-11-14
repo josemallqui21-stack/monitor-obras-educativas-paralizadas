@@ -1,0 +1,36 @@
+comunes, dos 2 comunes a las formas del día 1 y 4, a las formas del día 2. Asimismo,
+4 bloques comunes se distribuyen en diferentes posiciones de las formas. Por
+otro lado, de los 10 bloques no comunes que se encuentran distribuidos entre las
+distintas formas, 4 bloques son fijos (2 por día), 4 bloques no son fijos (2 por día) y
+2 bloques aparecen solo en una forma (1 por día). Las diferentes combinaciones de
+los bloques permitieron ensamblar 12 formas en total: 6 formas para escuelas con
+estudiantes de mayor habilidad o zona A (3 formas por día) y 6 para escuelas con
+estudiantes de menor habilidad o zona B (3 formas por día). De acuerdo con esta
+distribución, cada forma y el conjunto de estas reflejan los contenidos (capacidades,
+tipo de textos, desempeños lectores, entre otros) de las tablas de especificaciones
+de la prueba. Dentro de su tipo (de zona A o de zona B), estas formas presentan una
+dificultad similar entre sí, pero diferenciada según el grupo de estudiantes al que
+están dirigidas.
+Tabla 1.4 Matriz de bloques de la prueba de Lectura de 4.° grado de primaria. Día 1
+Forma Bloque Ítems por forma
+B05
+B01
+1 B03 24
+B02
+B06
+B06
+B01
+2 B03 24
+B02
+B07
+B08
+B01
+3 B03 24
+B02
+B09
+B09
+B01
+4 B04 24
+B02
+B10
+22

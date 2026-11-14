@@ -1,0 +1,4219 @@
+=== pagina 1 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+REPORTE DE OBRAS
+PARALIZADAS EN EL
+TERRITORIO NACIONAL
+1
+A DICIEMBRE 2022
+Gerencia de Modernización y Planeamiento
+
+=== pagina 2 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Reporte de obras paralizadas en el territorio nacional en el
+marco de la Ley N° 13589
+A diciembre 2022
+Contenido:
+Informe N° 001-2023-CG/SESNC
+Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Gerencia de Modernización y Planeamiento
+2
+Edición y diseño:
+Gerencia de Comunicación Corporativa
+Contraloría General de la República
+Jr. Camilo Carrillo 114, Jesús María
+Lima, Perú
+www.gob.pe/contraloria
+Hecho el Depósito Legal en la Biblioteca Nacional del Perú N° 2022-10084
+Reporte N° 3 – enero 2023
+
+=== pagina 3 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Índice
+01 Generalidades 04
+1.1. Marco normativo que regula la inversión pública 04
+1.2. Modalidades de implementación de las inversiones 05
+1.3. Definiciones importantes 08
+1.4. Fuentes de información consultadas 09
+02 Las obras públicas paralizadas 10
+2.1. Identificación de obras públicas paralizadas 10
+3 2.2. Mapeo de las obras paralizadas en el territorio nacional 10
+2.3. Obras paralizadas por nivel de gobierno 12
+2.4. Obras paralizadas por sector de gobierno 12
+2.5. Obras paralizadas por modalidad de ejecución 13
+2.6. Obras paralizadas por rangos de inversión 14
+2.7. Avance físico de las obras paralizadas 14
+2.8. Obras paralizadas según su causal u origen de paralización 15
+2.9. Obras paralizadas según evento asociado 15
+2.10. Obras paralizadas por administración directa o por contrata 16
+2.11. Obras paralizadas enmarcadas bajo el marco normativo del D.U. N° 008-2019 y del D.L. Nº 1486 18
+2.12 Análisis comparativo de las obras paralizadas setiembre - diciembre 2022 20
+03 Servicios de control efectuados a las obras paralizadas 29
+04 Conclusiones 31
+Anexo 32
+Principales obras paralizadas por departamento 32
+
+=== pagina 4 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+01
+Generalidades
+1.1. Marco normativo que regula la inversión pública
+En el Perú las inversiones públicas se desarrollan bajo el marco de dos sistemas del sector público: el Sistema Nacional de
+Programación Multianual y Gestión de Inversiones (Invierte.pe) y el Sistema Nacional de Promoción de la Inversión Privada
+(SNPIP), los cuales detallaremos a continuación.
+a) El Sistema Nacional de Programación Multianual y Gestión de Inversiones (Invierte.pe)
+Es un sistema administrativo que tiene como finalidad orientar el uso de los recursos públicos destinados a la inversión para
+la efectiva prestación de servicios y la provisión de la infraestructura necesaria para el desarrollo del país. Invierte.pe es de
+aplicación para todas las entidades y empresas del sector público no financiero, abarcando así a los sectores del gobierno
+nacional, los gobiernos regionales y los gobiernos locales, así como a sus entidades y empresas adscritas.
+4
+En tal sentido, toda inversión que se financie total o parcialmente con recursos públicos debe priorizarse, formularse,
+ejecutarse y operarse bajo el marco normativo de Invierte.pe y el ciclo de inversión establecido por este.
+b) El Sistema Nacional de Promoción de la Inversión Privada (SNPIP)
+Es un sistema funcional que establece los principios, normas, procedimientos y lineamientos técnicos para promover,
+fomentar y agilizar la inversión privada, a través del desarrollo de las Asociaciones Público-Privadas (APP) y Proyectos
+en Activos.
+Asimismo, el SNPIP contempla bajo su ámbito al mecanismo de Obras por Impuestos (OxI), por medio del cual las
+empresas privadas adelantan el pago de su impuesto a la renta para financiar y ejecutar directamente proyectos de
+inversión que los gobiernos subnacionales y las entidades del gobierno nacional priorizan.
+Tanto el sistema Invierte.pe como el SNPIP se encuentran bajo la rectoría del Ministerio de Economía y Finanzas, a
+través de la Dirección General de Programación Multianual de Inversiones (DGPMI) y la Dirección General de Política de
+Promoción de la Inversión Privada (DGPIP), respectivamente.
+Ambos sistemas se articulan debido a que toda inversión que contemple el uso de recursos públicos debe cumplir el
+ciclo de inversiones establecido por Invierte.pe. Al respecto, en el caso de las inversiones con participación privada, se
+establece en sus normas específicas las etapas y procesos a seguir, sin perjuicio de la aplicación del ciclo de inversiones
+de Invierte.pe.
+
+=== pagina 5 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+1.2. Modalidades de implementación de las inversiones
+Existen cuatro modalidades para la implementación de inversiones:
+a) Inversión pública: desarrollada en su totalidad bajo el ámbito de Invierte.pe; comprendidas en proyectos de inversión
+y las Inversiones de Optimización, de Ampliación marginal, de Rehabilitación y de Reposición (IOARR).
+b) Asociación Público-Privada: modalidad de participación de la inversión privada en la que se distribuyen de manera
+adecuada los riesgos del proyecto y se destinan recursos preferentemente del sector privado, para la implementación
+de proyectos en los que se garanticen niveles de servicios óptimos para los usuarios.
+c) Proyectos en Activos: comprende los proyectos de inversión mediante los cuales el Estado promueve la inversión
+privada en activos de su titularidad, presentes o futuros, bajo la disposición de estos.
+d) Obras por Impuestos: son los proyectos de inversión por medio de los cuales las empresas privadas adelantan el pago
+de su impuesto a la renta para financiar y ejecutar directamente proyectos de inversión.
+En la siguiente ilustración se detalla el marco normativo para cada una de las modalidades de inversión descritas:
+TABLA 1. MARCO NORMATIVO SEGÚN MODALIDAD DE INVERSIÓN
+Inversión pública APP Proyectos en activos OxI
+5
+• D. L. N° 1252 que crea el • D. L. N° 1362 que regula • D. L. N° 1362 que regula • Ley N° 29230, Ley que
+Sistema Nacional de la promoción de la la promoción de la impulsa la inversión
+Programación Multianual inversión privada inversión privada pública regional y local
+y Gestión de Inversiones mediante Asociaciones mediante Asociaciones con participación del
+y sus modificatorias. Público-Privadas y Público Privadas y sector privadoy sus
+Proyectos en Activos. Proyectos en Activos. modificatorias.
+• D. S. Nº 248-2018-EF
+que aprueba el • D. S. N° 240-2018-EF • D. S. N° 240-2018-EF • D. S. N° 036-2017-EF,
+Reglamento del D. L. que aprueba el que aprueba el que aprueba el
+N°1252 y sus Reglamento del D. L. N° Reglamento del D. L. N° Reglamento de la Ley
+modificatorias. 1362 el cual regula la 1362, el cual regula la que impulsa la inversión
+Promoción de la Promoción de la pública regional y local
+• R. D. Nº Inversión Privada Inversión Privada con participación del
+001-2019-EF/63.01 que mediante Asociaciones mediante Asociaciones sector privado y sus
+aprueba la Directiva Nº Público-Privadas y Público Privadas y modificatorias.
+001-2019-EF/63.01, Proyectos en Activos. Proyectos en Activos.
+Directiva General del • D. S. N° 294-2018-EF,
+Sistema Nacional de que aprueba el Texto
+Programación Multianual Único Ordenado de la
+y Gestión de Inversiones Ley N° 29230.
+y sus modificatorias
+• D. S. N° 295-2018-EF,
+que aprueba el Texto
+Único Ordenado del
+Reglamento de la Ley N°
+29230.
+FUENTE: Sitio web del Ministerio de Economía y Finanzas, apartados de Inversión Pública e Inversión Privada
+
+=== pagina 6 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Considerando el marco normativo presentado en la figura anterior, las inversiones públicas pueden ser ejecutadas bajo
+distintas modalidades, las mismas que cuentan con la regulación específica que se presenta a continuación:
+TABLA 2. MODALIDADES DE EJECUCIÓN DE LA INVERSIÓN PÚBLICA
+Modalidad Ley o norma específica Definición Características
+Por contrata Ley N° 30225, Ley de Es el resultado de un proceso • La entidad encarga a una empresa
+Contrataciones del Estado y su a través del cual una entidad constructora (contratista) hacer la obra,
+Reglamento se abastece de infraestructura contra el pago de una retribución según los
+pública (edificaciones, avances logrados (valorizaciones).
+estructuras, excavación,
+perforaciones, carreteras, • En el modelo tradicional se traslada
+puentes, etc.), buscando las al contratista los riesgos del proceso
+mejores condiciones de precio y constructivo, en tanto la entidad mantiene
+calidad, para la satisfacción de los riesgos de diseño y de la ocurrencia de
+una finalidad pública. las necesidades de cambios en el proyecto.
+• Enfoque de administración por objetivos
+que busca incrementar la eficacia y el
+impacto de las políticas del sector público.
+• Garantiza la libre competencia de los
+procedimientos de selección a fin de que las
+entidades obtengan el bien, servicio y obra
+en las mejores condiciones.
+6
+Administración Resolución de Contraloría N° Constituye la alternativa de que • No se ejecutan por terceros o privados para
+directa 195-1988-CG una entidad pública ejecuta ejecutar la obra (salvo algunos componentes
+una obra pública con sus de la misma).
+propios recursos (servidores
+públicos, equipos, materiales y • Deben contar con la asignación presupuestal
+experiencia), como medio para correspondiente, el personal técnico
+atender alguna problemática administrativo y los equipos necesarios.
+que amerita la intervención del
+Estado vía inversión pública.
+• Es requisito indispensable contar con el
+Expediente Técnico aprobado por el nivel
+competente.
+• La entidad asume la totalidad de la
+responsabilidad en la ejecución de la obra
+pública.
+Ley N° 30225, Ley de
+Organismos Contrataciones del Estado y su La normativa de la Ley de • Su aplicación busca que la contratación sea
+internacionales Reglamento Contrataciones del Estado económica y eficiente en los procesos de
+permite que las entidades contratación.
+públicas suscriban convenios
+con organismos internacionales • Promueve una participación amplia y
+(administración de recursos competitiva, propiciando igualdad de
+y encargos), quienes a nivel oportunidades.
+de procesos de selección o
+ejecución contractual aplican su • Se celebran entre entidades o entre
+propia normativa internacional, entidades y organismos internacionales,
+colocando a nuestra normativa utilizando documentos de aplicación
+como regulación supletoria. internacional (normas, manuales, guías y
+otros).
+• No buscan obtener un beneficio económico
+(ganancia o utilidad) sino otro tipo de
+beneficios: cooperación mutua, gestión
+especializada, u otro fin de naturaleza
+análoga.
+
+=== pagina 7 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Modalidad Ley o norma específica Definición Características
+Núcleos ejecutores Ley Nº 31015, Ley que autoriza Es una organización conformada • Posee mecanismos de gestión comunal.
+la ejecución de intervenciones por la comunidad que nace
+en infraestructura social básica, con el objetivo de gestionar el • Capacidad de trabajo en equipo comunal,
+productiva y natural, mediante financiamiento de un proyecto principalmente mano de obra, así como
+núcleos ejecutores. seleccionado por la población también del terreno y otros bienes y
+para ejecutar intervenciones de servicios locales.
+Ley Nº 30533, Ley que autoriza infraestructura social básica,
+al Ministerio de Vivienda, infraestructura productiva • Los proyectos seleccionados responden a
+Construcción y Saneamiento a e infraestructura natural. El una necesidad de la población.
+realizar intervenciones a través financiamiento es otorgado a
+de núcleos ejecutores. los Núcleos Ejecutores bajo la
+modalidad de “donación con • Cuentan con personería jurídica con
+cargo”, lo que implica ejecutar el derechos privado, lo cual implica que no
+Otras normas específicas. proyecto y rendir cuenta por los está inmerso en la normativa que rigen las
+gastos realizados. adquisiciones y contrataciones a cargo del
+Estado.
+Reconstrucción con Ley Nº 30556, Ley que Es un régimen especial de • Procedimientos de selección más rápidos y
+Cambios aprueba disposiciones de contratación pública que busca eficaces que permitan garantizar ofertas de
+carácter extraordinario para las coadyuvar el diseño, ejecución mayor calidad.
+intervenciones del Gobierno y supervisión de un plan integral
+Nacional frente a desastres para la rehabilitación, reposición, • Actuación bajo el enfoque integral de
+y que dispone la creación reconstrucción y construcción gestión del riesgo de desastres.
+de la Autoridad para la de la infraestructura de uso
+Reconstrucción con Cambios público de calidad, propuestas
+• Uso de mecanismos simplificados (permiso
+por los sectores del Gobierno
+y autorizaciones).
+7 Nacional, Regional y Local.
+• Aplicación de un régimen normativo
+excepcional orientado a facilitar la
+coordinación entre los distintos niveles de
+gobierno.
+Acuerdo de gobierno Normas específicas Es un régimen especial • Transferencia de conocimiento (know how) y
+a gobierno donde dos Estados a través aplicación de buenas prácticas
+de sus propios organismos,
+dependencias, empresas • Exclusión del ámbito de la Ley de
+públicas o privadas nacionales Contrataciones del Estado.
+o extranjeras que se encargan
+de la asistencia técnica con la
+• Asistencia técnica a través del Project
+finalidad de que uno de ellos
+Management Office (PMO).
+(o ambos) reciba una obra o
+conocimiento sobre una materia
+que ha tenido mejor desarrollo • Procedimientos de selección más rápidos
+respecto al otro Estado, y eficaces y se garantizan ofertas de mayor
+permitiendo lograr objetivos y calidad.
+beneficios para ambos.
+• Uso de esquemas ágiles de procura, con
+reducción de costos y riesgos.
+• Reglas flexibles basadas en resultados y
+metas.
+FUENTE: Sitio web del Ministerio de Economía y Finanzas, apartados de Inversión Pública e Inversión Privada
+
+=== pagina 8 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+1.3. Definiciones importantes
+Antes de desarrollar el análisis estadístico descriptivo que se presentará en los numerales siguientes, es pertinente revisar
+las definiciones más importantes vinculadas a las inversiones y sus procesos establecidos en el Reglamento1 y la Directiva
+General2 del Sistema Nacional de Programación Multianual y Gestión de Inversiones, los cuales se detallan a continuación:
+• Brecha de infraestructura o de acceso a servicios: es la diferencia entre la oferta disponible optimizada de infraestructura
+(la cual incluye la infraestructura natural) o acceso a servicios y la demanda, a una fecha determinada y ámbito geográfico
+determinado. Puede ser expresada en términos de cantidad, en lo que respecta a cobertura de un servicio, o calidad, en lo que
+respecta a las condiciones en las cuales se dispone del acceso a los servicios.
+• Inversiones: son intervenciones temporales y comprenden a los proyectos de inversión y a las IOARR. No comprenden gastos
+de operación y mantenimiento.
+• Proyectos de inversión: corresponde a intervenciones temporales que se financian total o parcialmente con recursos públicos,
+destinadas a la formación de capital físico, humano, institucional, intelectual o natural, que tenga como propósito crear, ampliar,
+mejorar o recuperar la capacidad de producción de bienes o servicios. Asimismo, se debe tener en cuenta lo siguiente:
+• Su ejecución puede realizarse en más de un año fiscal, conforme lo establezca su cronograma de ejecución
+tentativo previsto en la formulación y evaluación.
+• No son proyectos de inversión las IOARR, así como las intervenciones que constituyen gastos -de operación y
+8 mantenimiento.
+• Tanto los proyectos de inversión como las IOARR, dependiendo de los activos a intervenir (infraestructura,
+equipamiento, mobiliario, vehículos, etc.), pueden considerar como parte de sus acciones un componente de
+infraestructura, lo cual implica la ejecución de una obra pública, siendo importante indicar que, en la mayoría de los
+casos, la infraestructura y, por ende, la ejecución de una obra constituye el principal componente de la inversión.
+• Inversiones de Optimización, de Ampliación Marginal, de Rehabilitación y de Reposición (IOARR): son
+intervenciones que no corresponden a un proyecto de inversión pública y tienen la característica que su intervención es
+sobre un activo que forma parte de una Unidad Productora implementada.
+Cabe destacar que, tanto los Proyectos de Inversión como las IOARR, dependiendo de los activos a intervenir
+(infraestructura, equipamiento, mobiliario, vehículos, etc.), pueden considerar como parte de sus acciones un componente
+de infraestructura, lo cual implica la ejecución de una obra pública, siendo importante indicar que, en la mayoría de los
+casos, la infraestructura y, por ende, la ejecución de una obra constituye el principal componente de la inversión.
+• Obra pública: está referida a la construcción, reconstrucción, remodelación, demolición, renovación, mantenimiento,
+habilitación y rehabilitación de bienes inmuebles, tales como edificaciones, estructuras, excavaciones, perforaciones,
+carreteras, puentes, entre otros, que requieren dirección técnica, expediente técnico, mano de obra, materiales y/o equipos,
+cuya ejecución, operación o mantenimiento implique la participación del Estado y forma parte de una inversión, sea por
+contrata, administración directa, convenios, Asociaciones Público- Privadas, Obras por Impuestos, mixtos, y cualquier otra
+modalidad de ejecución que se establezca3.
+1Aprobado mediante DECRETO SUPREMO Nº 284-2018-EF, publicado el 09 diciembre de 2018, modificado por el Decreto Supremo Nº 179-2020-EF, publicado el 7 de julio de 2020 en el Diario
+Oficial El Peruano.
+2Aprobada por la Resolución Directoral Nº 001-2019-EF/63.01, publicada el 23 de enero de 2019, modificada por la Resolución Directoral N° 006-2020-EF/63.01, publicada el 19 de julio de 2020,
+y por la Resolución Directoral N° 008-2020-EF/63.01, publicada el 28 de octubre de 2020 en el Diario Oficial El Peruano.
+3Definición obtenida de la Directiva N° 007-2013-CG/OEA “Registro Información y Participación Ciudadana en el Control de Obras Públicas - INFObras”, aprobada mediante Resolución de
+Contraloría N° 324-2013-CG.
+
+=== pagina 9 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+• Unidad productora: es el conjunto de recursos o factores productivos (infraestructura, equipos, personal, organización,
+capacidades de gestión, entre otros) que, articulados entre sí, tienen la capacidad de proveer bienes o servicios a la
+población objetivo. Constituye el producto generado o modificado por un proyecto de inversión.
+• Concepción técnica: se refiere a la alternativa de solución con la que se busca lograr el objetivo central del proyecto de
+inversión, acorde con la evaluación técnica y económica realizada en la ficha técnica o el estudio de preinversión, según
+corresponda. La ejecución de dicha alternativa de solución debe permitir lograr la meta de producto asociada al cierre
+de las brechas identificadas y priorizadas en la programación multianual de inversiones.
+• Consistencia: es la acción por la cual la Unidad Formuladora (UF) corrobora que la concepción técnica permanece
+inalterada y cumplen las condiciones de dimensionamiento y viabilidad del proyecto de inversión.
+1.4 Fuentes de información consultadas
+Para los fines de revisión del estado de las obras contenidas en el presente documento, se consultaron las siguientes
+fuentes de información:
+• Sistema de Seguimiento de Inversiones (SSI): a través de esta plataforma se consulta el estado de los proyectos de
+inversión a cargo de las diferentes entidades públicas.
+• Monitor de Reconstrucción con Cambios (Monitor ARCC): sistema de gestión de información, gestionado por los
+gobiernos subnacionales con la asesoría de las áreas técnicas de la Autoridad para la Reconstrucción con Cambios.
+9
+• Sistema Integrado de Administración Financiera (SIAF): es un sistema transaccional donde se registra el ingreso
+y el gasto. Está diseñado como una herramienta muy ligada a la gestión financiera que realiza el Tesoro Público en su
+relación con las denominadas Unidades Ejecutoras.
+• Sistema de información de obras públicas (Infobras): es un sistema de información de obras públicas, implementado
+por la Contraloría General, donde se registra, articula y publica la información de las obras públicas, con la finalidad de
+transparentar la información de las obras públicas que facilite el seguimiento para el correcto uso de los recursos públicos.
+A través de esta plataforma, las entidades públicas reportan periódicamente la ejecución física de las obras públicas que
+tienen a su cargo. La Directiva Nº 007-2013-CG/OEA establece que las entidades de los tres niveles de gobierno están
+obligadas a registrar en este sistema la información de las obras que ejecutan, independientemente de la modalidad
+de ejecución, régimen legal o fuente de financiamiento. Cabe destacar que las entidades deben registrar o actualizar
+mensualmente la información relacionada al estado de avance de obra.
+
+=== pagina 10 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+02
+Las obras públicas paralizadas
+2.1. Definición de obra pública paralizada
+Para efectos del seguimiento, se entiende por obra paralizada aquella obra que cumple las siguientes condiciones:
+• La obra se ejecuta bajo las modalidades por contrata, administración directa, convenios de Estado a Estado, Asociaciones
+Público-Privadas que tengan componente de infraestructura, Obras por Impuestos, intervenciones de infraestructura
+ejecutadas por núcleos ejecutores u otras modalidades establecidas por ley.
+• La obra se encuentra en ejecución física de acuerdo con las condiciones establecidas para su inicio en el marco
+normativo de cada modalidad.
+• La obra no se ha concluido y no reporta avance en su ejecución física por seis meses o más por causas atribuibles a
+10 situaciones de controversia, abandono, deficiencias del expediente técnico, factores climáticos, situaciones imprevisibles
+posteriores al perfeccionamiento del contrato u otras causas que puedan ocasionar la suspensión prolongada del plazo
+de ejecución física de la obra.
+2.2. Mapeo de las obras paralizadas en el territorio nacional
+De la información recibida por las unidades orgánicas de la Contraloría General de la República, del Sistema Nacional de
+Información de Obras Públicas (Infobras), así como del Sistema de Seguimiento de Inversiones (SSI), Sistema Integrado
+de Administración Financiera (SIAF) y el sistema Monitor RCC, en todo el territorio nacional se cuenta con un total de 1879
+obras paralizadas, en los tres niveles de gobierno, por un monto inversión superior a los S/ 21 mil 595 millones.
+
+=== pagina 11 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+FIGURA 1. UBICACIÓN GEOGRÁFICA DE LAS OBRAS PARALIZADAS Y COSTOS DE INVERSIÓN (en millones de soles)
+TOTAL: Obras paralizadas 1879 Costo actualizado S/ 21 595 millones Saldo de inversión por ejecutar S/ 10 374 millones
+Tumbes Cajamarca Amazonas Loreto
+S/ 131.4 (0.6%) S/ 1757.9 (8.1%) S/ 400.8 (1.9%) S/ 597.8 (2.8%)
+11 (0.7%) 113 (5.8%) 35 (1.5%) 47 (2.5%)
+S/ 88.4 S/ 1083.2 S/ 68.6 S/ 267.2
+Piura San Martín
+S/ 3109.7 (14.4%) S/ 291.6 (1.4%)
+114 (7.3%) 37 (1.9%)
+S/ 1555.3 S/ 60.3
+Lambayeque Huánuco
+S/ 288.8 (1.3%) S/ 763.4 (3.5%)
+50 (2.8%) 59 (2.6%)
+S/ 124.4 S/ 471
+La Libertad Ucayali
+S/ 4559.1 (21.1%) S/ 924.2 (4.3%)
+67 (3.8%) 19 (1.0%)
+S/ 2930.3 S/ 132.6
+11
+Áncash Pasco
+S/ 1121.2 (5.2%) S/ 119.8 (0.6%)
+110 (6.6%) 31 (1.6%)
+S/ 590.3 S/ 46.8
+Lima Madre de Dios
+S/ 665.4 (3.1%) S/ 100.4 (0.5%)
+120 (7.2%) 14 (0.8%)
+S/ 228.8 S/ 32.7
+P. C. del Callao Cusco
+S/ 43.6 (0.2%) S/ 1621.6 (7.5%)
+7 (0.5%) 288 (12.8%)
+S/ 20.5 S/ 442.4
+Huancavelica Junín
+S/ 725.9 (3.4%) S/ 558 (2.6%)
+98 (5.0%) 62 (3.3%)
+S/ 257.1 S/ 288.4
+Ica Puno
+S/ 177.1 (0.8%) S/ 1129 (5.2%)
+28 (1.0%) 232 (13.3%)
+S/ 32.6 S/ 570.9
+Ayacucho Arequipa Moquegua Tacna Apurímac
+S/ 306.6 (1.4%) S/ 830.7 (3.8%) S/ 201.9 (0.9%) S/ 661.8 (3.1%) S/ 506.5 (2.3%)
+88 (4.4%) 83 (5.1%) 34 (1.2%) 46 (2.6%) 86 (4.8%)
+S/ 122.1 S/ 309.6 S/ 142.1 S/ 348.7 S/ 158.7
+FUENTE: Sistema Nacional de Obras Públicas - Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC). / FECHA: 31/12/2022
+
+=== pagina 12 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+2.3. Obras paralizadas por nivel de gobierno
+El mayor número de obras paralizadas corresponde a entidades a nivel de Gobierno Local con 1335 obras paralizadas por
+S/ 5 mil 756 millones; seguido de entidades pertenecientes al Gobierno Nacional con 351 obras, con monto de inversión
+de S/ 10 mil 703 millones; en tanto que las entidades a nivel de Gobierno Regional cuentan con 193 obras, cuyo monto de
+inversión asciende a S/ 5 mil 135 millones, tal como se muestra en el siguiente cuadro.
+TABLA 3. OBRAS PARALIZADAS POR NIVEL DE GOBIERNO
+Costo actualizado de la inversión Obras paralizadas Saldo de inversión por ejecutar*
+Nivel de gobierno
+S/ % N° % S/ %
+Gobierno Nacional 10 703 506 847 49.6% 351 19.0% 5 924 804 183 57.1%
+Gobierno Regional 5 135 354 804 23.8% 193 10.4% 2 129 591 975 20.5%
+Gobierno Local 5 756 180 671 26.7% 1335 70.6% 2 319 887 036 22.4%
+Total 21 595 042 322 100% 1879 100% 10 374 283 194 100%
+*El cálculo del estimado de saldo de inversión por ejecutar se toma de referencia los devengados efectuados a la inversión.
+12 FUENTE: Sistema Nacional de Obras Públicas - Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC). / FECHA: 31/12/2022
+2.4. Obras paralizadas por sector de gobierno
+Las obras paralizadas se encuentran relacionadas con diversos sectores de gobierno y a su vez con los niveles de Gobierno
+Nacional, Regional y Local, como se detalla a continuación:
+TABLA 4. OBRAS PARALIZADAS POR SECTOR DE GOBIERNO
+Nivel de gobierno
+Sector Nacional Regional Local Total general Costo actualizado
+Cantidad Cantidad Cantidad Cantidad % S/ %
+Transportes y Comunicaciones 44 53 396 493 26.2% 7 197 153 903 33.3%
+Vivienda, Construcción y Saneamiento 2 24 330 356 18.9% 3 197 896 407 14.8%
+Salud 32 33 23 88 4.7% 3 199 527 048 14.8%
+Agricultura 71 31 128 230 12.2% 1 971 543 830 9.1%
+Educación 42 27 86 155 8.2% 937 840 188 4.3%
+Cultura 3 5 117 125 6.7% 486 673 262 2.3%
+Otros sectores 157 20 255 432 23.0% 4 604 407 684 21.4%
+Total 351 193 1335 1879 100% 21 595 042 322 100%
+FUENTE: Sistema Nacional de Obras Públicas -Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC). / FECHA: 31/12/2022
+
+=== pagina 13 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Conforme al cuadro precedente, el sector Transportes y Comunicaciones concentra 493 obras paralizadas, lo
+que representa el 26.2% del total nacional, de los cuales 396 corresponden a entidades de Gobierno Local,
+53 Regional y 44 a Gobierno Nacional; seguido del sector Vivienda, Construcción y Saneamiento, con una
+representatividad del 18.9%.
+2.5. Obras paralizadas por modalidad de ejecución
+Las modalidades de ejecución de las 1879 obras paralizadas a cargo de entidades del Gobierno Nacional, Regional y Local,
+corresponden a contrata, administración directa, Asociaciones Público-Privadas y concesiones, núcleos ejecutores y Obras
+por Impuestos, como se muestra en el siguiente cuadro:
+TABLA 5. OBRAS PARALIZADAS POR MODALIDAD DE EJECUCIÓN
+Gobierno Nacional Gobierno Regional Gobierno Local Total
+Modalidad
+de ejecución
+N° Costo N° Costo N° Costo N° % Costo %
+actualizado S/ actualizado S/ actualizado S/ actualizado S/
+Administración 30 156 141 631 57 582 158 921 916 1 637 049 193 1003 53.4% 2 375 349 745 11.0%
+directa
+Por contrata 248 7 103 707 772 134 4 407 516 903 416 4 090 715 839 798 42.5% 15 601 940 514 72.2%
+13
+Núcleos
+68 66 082 110 68 3.6% 66 082 110 0.3%
+Ejecutores
+Obras por
+3 49 653 650 2 145 678 980 3 28 415 639 8 0.4% 223 748 269 1.0%
+Impuesto
+APP /
+Concesiones 1 3 149 967 556 1 0.1% 3 149 967 556 14.6%
+Convenio con
+organismos 1 177 954 129 1 0.1% 177 954 129 0.8%
+internacionales
+Total 351 10 703 506 847 193 5 135 354 804 1335 5 756 180 671 1879 100% 21 595 042 322 100%
+FUENTE: Sistema Nacional de Obras Públicas -Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC). / FECHA: 31/12/2022
+En el cuadro precedente se observa que el mayor número de obras paralizadas corresponde a la modalidad de ejecución
+de obra por administración directa, las cuales suman 1003. De ellas, 916 corresponden a entidades de Gobierno Local, 57
+obras a entidades del Gobierno Regional y 30 obras a entidades del Gobierno Nacional.
+
+=== pagina 14 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+2.6. Obras paralizadas por rangos de inversión
+A continuación, se muestran las obras paralizadas clasificadas por rangos de monto del costo actualizado, donde destaca
+un alto número de inversiones menores a un millón de soles (771 obras que representan el 41% del total).
+TABLA 6. OBRAS PARALIZADAS POR RANGO DE COSTO ACTUALIZADO
+Rango de costo Cantidad de obras % Costo actualizado % Saldo de inversión %
+actualizado S/ paralizadas S/ por ejecutar S/
+Hasta 1 millón 771 41.0% 339 574 566 1.6% 126 013 467 1.2%
+1 - 3 millones 378 20.1% 690 783 358 3.2% 258 292 693 2.5%
+3 - 10 millones 452 24.1% 2 501 589 684 11.6% 826 551 168 8.0%
+10 a 100 millones 241 12.8% 5 635 740 684 26.1% 1 950 147 189 18.8%
+100 a 1000 millones 35 1.9% 8 229 870 816 38.1% 4 063 378 248 39.2%
+Más de 1000 millones 2 0.1% 4 197 483 214 19.4% 3 149 900 428 30.4%
+Total 1879 100.0% 21 595 042 322 100.0% 10 374 283 194 100.0%
+FUENTE: Sistema Nacional de Obras Públicas - Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC). / FECHA: 31/12/2022
+14 2.7. Avance físico de las obras paralizadas
+De otro lado, se presenta una clasificación de las obras paralizadas en función al porcentaje de avance físico según la información
+proporcionada por el portal Infobras, donde se aprecia que la mayor cantidad de obras (241) registra un avance físico del 60%
+a 70%, representando un monto de inversión de S/ 1959 millones, seguido de 240 registros que se encuentran con un avance
+físico del 80% a 90% con un monto inversión de S/ 1412 millones, como se detalla a continuación:
+TABLA 7. OBRAS PARALIZADAS POR RANGO DE AVANCE FÍSICO
+Rango según avance físico Obras paralizadas Costo actualizado Saldo de inversión por ejecutar
+% N° % S/ % S/ %
+90 - 100 230 12.2 2 307 713 293 10.7 420 806 827 4.1%
+80 - 90 240 12.8 1 412 999 112 6.5 299 195 456 2.9%
+70 - 80 211 11.2 5 128 714 815 23.7 2 700 155 890 26.0%
+60 - 70 241 12.8 1 959 146 096 9.1 699 423 476 6.7%
+50 - 60 198 10.5 1 212 757 903 5.6 382 243 330 3.7%
+40 - 50 176 9.4 1 538 616 737 7.1 549 686 418 5.3%
+30 - 40 156 8.3 1 644 343 165 7.6 799 756 195 7.7%
+20 - 30 135 7.2 1 275 117 355 5.9 858 484 874 8.3%
+10 - 20 130 6.9 1 643 852 656 7.6 1 183 330 647 11.4%
+0 - 10 162 8.6 3 471 781 191 16.1 2 481 200 081 23.9%
+Total 1879 100.0% 21 595 042 322 100.0% 10 374 283 194 100%
+FUENTE: Sistema Nacional de Obras Públicas -Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC). / FECHA: 31/12/2022
+
+=== pagina 15 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+2.8. Obras paralizadas según su causal u origen de paralización
+Según la información declarada oficialmente por la entidad ejecutora, el 24.6% del total de obras paralizadas se encuentra
+en dicha situación debido a la falta de recursos financieros y liquidez, el 13.7% por incumplimientos contractuales, el 2.8%
+por eventos climáticos, mientras que un 5.1% se debe a discrepancias, controversias y arbitrajes, entre otras causales.
+TABLA 8. OBRAS PARALIZADAS SEGÚN CAUSAL DE PARALIZACIÓN REPORTADO POR LAS ENTIDADES PÚBLICAS
+Causales de paralización N° obras Porcentaje Costo actualizado Saldo de inversión
+declarada por la entidad paralizadas %
+S/ % S/ %
+Falta de recursos financieros y liquidez 421 24.6 1 655 409 086 7.7 775 046 611 7.5
+Incumplimiento de contrato 247 13.7 7 316 670 464 33.9 3 451 749 035 33.3
+Eventos climáticos 37 2.8 357 072 890 1.7 99 555 250 1.0
+Discrepancias, controversias y arbitraje 111 5.1 5 664 281 340 26.2 3 513 550 547 33.9
+Conflictos sociales 37 2.6 555 912 875 2.6 303 946 832 2.9
+Falta de permisos, licencias y autorizaciones 5 0.4 14 847 962 0.1 6 794 303 0.1
+Deficiencia en el Expediente Técnico 13 0.9 509 258 160 2.4 179 318 099 1.7
+Disponibilidad de terreno 12 0.6 427 531 150 2.0 184 341 903 1.8
+15
+Interferencias 7 0.4 399 461 656 1.8 39 013 578 0.4
+Abandono de obra 4 0.3 9 529 488 0.0 2 326 806 0.0
+Otros (*) 985 48.5 4 685 067 253 21.7 1 818 640 230 17.5
+Total 1879 100% 21 595 042 322 100.0% 10 374 283 194 100%
+(*) Comprende causas no previstas, transferencia de gestión, no atribuibles a ambas partes, entre otros.
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+Cabe precisar que, las causales de paralización son reportadas por las entidades públicas en los distintos sistemas
+consultados como Infobras y el portal Invierte.pe.
+2.9. Obras paralizadas según evento asociado
+A continuación, se presenta el desagregado de las obras paralizadas según el evento asociado y nivel de gobierno. Cabe
+señalar que, en el caso de la Reconstrucción con Cambios, existen 163 obras paralizadas con un importe de inversión
+paralizado de S/ 3052 millones.
+
+=== pagina 16 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+TABLA 9. OBRAS PARALIZADAS SEGÚN EL EVENTO REGISTRADO EN EL SISTEMA INFOBRAS,
+POR NIVEL DE GOBIERNO Y COSTO ACTUALIZADO
+Gobierno Nacional Gobierno Regional Gobierno Local Total
+Evento
+N° Costo N° Costo N° Costo N° Costo %
+actualizado S/ actualizado S/ actualizado S/ actualizado S/
+Proceso 258 8 379 943 419 153 3 515 140 662 1262 4 996 664 701 1673 16 891 748 781 78.2
+normal
+Reactivación 3 99 997 687 18 1 063 884 872 22 486 894 901 43 1 650 777 460 7.6
+económica
+Reconstrucción 90 2 223 565 742 22 556 329 270 51 272 621 069 163 3 052 516 080 14.1
+con Cambios
+Total 351 10 703 506 847 193 5 135 354 804 1335 5 756 180 671 1879 21 595 042 322 100%
+FUENTE: Sistema Nacional de Obras Públicas - Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC) / FECHA: 31/12/2022
+De 163 obras enmarcada bajo el marco normativo de la Reconstrucción con Cambios, según su nivel de gobierno, tenemos
+que un 54.7% corresponden al nivel de Gobierno Nacional, mientras que un 12.4% corresponde al nivel de Gobierno
+Regional; y un 32.9% corresponde al Gobierno Local.
+16
+TABLA 10. OBRAS PARALIZADAS BAJO EL MARCO NORMATIVO
+DE LA RECONSTRUCCIÓN CON CAMBIOS, SEGÚN SU NIVEL DE GOBIERNO
+Obras paralizadas Monto actualizado de la inversión
+Nivel de gobierno Saldo de inversión S/
+N° % S/ %
+Gobierno Nacional 90 54.7 2 223 565 742 72.8 1 189 859 896
+Gobierno Regional 22 12.4 556 329 270 18.2 158 019 794
+Gobierno Local 51 32.9 272 621 069 8.9 82 326 011
+Total 163 100% 3 052 516 080 100% 1 430 205 700
+FUENTE: Sistema Nacional de Obras Públicas -Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC) / FECHA: 31/12/2022
+2.10. Obras paralizadas por administración directa o por contrata
+El 96% (1801) de las 1879 obras públicas paralizadas a nivel nacional son ejecutadas bajo la modalidad de administración
+directa o por contrata, en los tres niveles de gobierno. El monto de inversión asciende a S/ 17 mil 977 millones, como se
+detalla a continuación:
+
+=== pagina 17 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+TABLA 11. OBRAS PARALIZADAS SEGÚN MODALIDAD DE EJECUCIÓN
+Gobierno Nacional Gobierno Regional Gobierno Local Total
+Modalidad de
+ejecución
+N° Costo N° Costo N° Costo N° % Costo %
+actualizado S/ actualizado S/ actualizado S/ actualizado S/
+Administración 30 156 141 631 57 582 158 921 916 1 637 049 193 1003 55.7 2 375 349 745 13.2
+directa
+Por contrata 248 7 103 707 772 134 4 407 516 903 416 4 090 715 839 798 44.3 15 601 940 514 86.8
+Total 278 7 259 849 403 191 4 989 675 823 1332 5 727 765 033 1801 100% 17 977 290 259 100%
+FUENTE: Sistema Nacional de Obras Públicas -Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC). / FECHA: 31/12/2022
+Entre las obras paralizadas que se ejecutan por administración directa o por contratan destacan un grupo de 450 obras
+que tienen un avance físico significativo.
+En el siguiente cuadro, se presenta el desagregado de los sectores que tienen saldo por ejecutar que se encuentran en el
+rango de 90% a 100% de avance físico, donde se advierte que el mayor monto de inversión lo tiene el sector Transporte
+17 y Comunicaciones con una inversión de S/ 849 millones con 48 obras paralizadas; seguido por el sector Vivienda,
+Construcción y Saneamiento con una inversión de S/ 500 millones con 44 obras paralizadas, como se ve a continuación:
+TABLA 12. SECTORES CON OBRAS PARALIZADAS CON NIVEL DE AVANCE FÍSICO DEL 90% A 100%
+(EJECUTADAS POR ADMINISTRACIÓN DIRECTA O CONTRATA)
+Rango de avance físico del 90% a 100 %
+Tipo de obra N° de obras Costo actualizado S/ Saldo inversión S/
+Transportes y Comunicaciones 48 849 977 836 137 953 454
+Vivienda, Construcción y Saneamiento 44 500 657 867 71 725 395
+Agricultura 34 268 015 173 103 480 431
+Salud 12 200 109 727 11 553 655
+Educación 27 174 667 680 20 440 263
+Otras infraestructuras (*) 21 131 672 720 22 961 282
+Energía y Minas 10 73 578 494 10 495 638
+Cultura 13 30 728 405 10 235 926
+Vivienda Construcción y Saneamiento 6 30 020 694 14 469 918
+Orden Público / Defensa y Seguridad 4 22 628 693 1 472 054
+Total 219 2 282 057 288 404 788 017
+*Comprende obras de parques, instalaciones eléctricas, residuos sólidos, centros recreacionales, etc.
+FUENTE: Sistema Nacional de Obras Públicas - Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC) / FECHA: 31/12/2022
+
+=== pagina 18 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+A continuación, se presenta el desagregado de los sectores que tienen saldo por ejecutar de obras que se encuentran en
+el rango de 80% a 90% de avance físico, en el cual se advierte que el mayor monto de inversión lo tiene el sector Vivienda,
+Construcción y Saneamiento con 58 obras paralizadas, con una inversión de S/ 506 millones; seguido del sector Transportes y
+Comunicaciones con 65 obras, con un importe de inversión de S/ 279 millones, como se muestra a continuación:
+TABLA 13. SECTORES CON OBRAS PARALIZADAS CON NIVEL DE AVANCE FÍSICO DEL 80% A 90%
+(EJECUTADAS POR ADMINISTRACIÓN DIRECTA O CONTRATA)
+Rango de avance físico del 80% a 90 %
+Tipo de obra N° de obras Costo actualizado S/ Saldo inversión S/
+Vivienda, Construcción y Saneamiento 58 506 397 590 105 556 697
+Transportes y Comunicaciones 65 279 949 926 33 174 770
+Salud 7 164 077 848 35 374 478
+Educación 25 133 461 047 33 522 308
+Agricultura 22 92 892 289 16 069 800
+Vivienda Construcción y Saneamiento 6 76 235 490 11 951 712
+Otras infraestructuras 19 61 499 142 28 248 819
+18
+Cultura 15 39 928 963 8 764 340
+Orden Público / Defensa y Seguridad 2 20 024 059 10 245 877
+Energía y Minas 12 19 991 403 1 970 025
+Total 231 1 394 457 758 284 878 827
+*Otras Infraestructuras: Comprende obras de parques, instalaciones eléctricas, residuos sólidos, centros recreacionales, etc.
+FUENTE: Sistema Nacional de Obras Públicas -Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC) / FECHA: 31/12/2022
+2.11 Obras paralizadas enmarcadas bajo el marco normativo del D.U. N° 008-2019 y del D.L. Nº 1486
+A través del D.U. N° 008-2019 y el D.L. Nº1486 se establecieron medidas extraordinarias para la reactivación de obras públicas
+paralizadas a nivel nacional, siempre que cumplieran con determinados requisitos, tales como: contar con la capacidad
+técnica para la dirección y ejecución de obras, presentar a la Contraloría un informe de análisis costo beneficio que determine
+que se garantiza la culminación de la obra, tener un avance de obra mayor o igual al 40%, no contar con ejecución física en
+la obra por más de tres meses, ser una obra ejecutada por contrata, entre otros.
+Las entidades a cargo de 189 obras públicas paralizadas se acogieron a los alcances de este marco normativo y pese a ello
+continúan paralizadas. A continuación, se procede a detallar estos casos:
+
+=== pagina 19 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+TABLA 14. OBRAS PARALIZADAS ENMARCADAS BAJO EL MARCO NORMATIVO DEL D.U. N° 008-2019 Y DEL D.L. N° 1486
+Monto actualizado de inversión Obras paralizadas
+Nivel de gobierno Saldo de inversión S/
+S/ % N.° %
+G. Nacional 354 889 236 19.7 39 16.4 81 251 577
+G. Regional 500 518 190 27.8 41 23.1 123 469 588
+G. Local 944 795 908 52.5 109 60.5 209 382 214
+Total 1 800 203 334 100.0% 189 100.0% 414 103 379
+FUENTE: Sistema Nacional de Obras Públicas - Infobras
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC) / FECHA: 31/12/2022
+Por otra parte, según el artículo 4 del D.U. N° 008-2019, las entidades podían elaborar un inventario de obras públicas
+paralizadas que se encuentren a su cargo. En ese sentido, según lo informado por la Dirección General de Programación
+Multianual de Inversiones del Ministerio de Economía y Finanzas, el inventario de obras paralizadas contiene 359 registros
+de obras paralizadas que fueron consideradas factibles en el marco de dicho decreto, al cierre del plazo establecido en
+el D.L. N° 1486; sin embargo, solo 162 obras han registrado información relacionada a la resolución de la lista priorizada.
+De la revisión del estado de las obras que tienen resolución de priorización y se encuentran registradas en Invierte.pe, se
+19
+ha podido identificar que, al 31 de diciembre del 2022, tienen el siguiente estado:
+TABLA 15. RESUMEN DE ESTADO DE LAS OBRAS PARALIZADAS CON RESOLUCIÓN DE PARALIZACIÓN
+Estado actual de la obra Cantidad de obras Porcentaje (%)
+En ejecución de saldo de obra 15 9.3
+Obra culminada 53 32.7
+Obra paralizada (*) 94 58.0
+Total 162 100%
+(*) Las 94 obras paralizadas se encuentran dentro del universo de 1879 obras paralizadas a nivel nacional.
+FUENTE: Base de datos de Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 20 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+2.12. Análisis comparativo de las obras paralizadas setiembre - diciembre 2022
+• Variación del universo de obras paralizadas en los meses evaluados
+De la revisión del estado de las obras se ha podido identificar que, a diciembre, 1766 obras permanecen paralizadas desde
+el mes de setiembre, y las inversiones vinculadas a estas obras involucran un monto de S/ 18 mil 703 millones; asimismo,
+se han identificado 431 obras paralizadas nuevas con un monto de inversión de S/ 5 mil 461 millones; estos dos grupos
+abarcan un total de 2197 obras paralizadas con un monto de S/ 24 mil 244 millones.
+Por otra parte, se identificaron 536 obras que reactivaron su ejecución desde setiembre último, las cuales involucran un
+monto de S/ 23 mil 163 millones.
+A continuación, se presenta el detalle de la variación del estado de las obras desde setiembre por nivel de gobierno:
+TABLA 16. RESUMEN DE ESTADO DE LAS OBRAS PARALIZADAS POR NIVEL DE GOBIERNO
+Número de obras Costo actualizado en S/
+Nivel de Se Permanecen Se paralizaron Total a Se Permanecen Se paralizaron Total a
+gobierno reactivaron desde en diciembre diciembre reactivaron desde setiembre en diciembre diciembre
+setiembre
+G. Nacional 108 327 59 386 20 644 997 325 5 609 559 937 2 335 353 661 11 144 366 707
+G. Regional 72 171 86 257 1 408 775 939 7 675 001 361 2 151 380 157 6 724 168 511
+20
+G. Local 356 1268 286 1554 1 110 093 841 5 418 725 537 974 614 243 6 375 665 788
+Total general 536 1766 431 2197 23 163 867 105 18 703 286 834 5 461 348 061 24 244 201 006
+FUENTE: Base de datos de Invierte.PE del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+Como vemos en el cuadro anterior, el mayor número de obras paralizadas nuevas identificadas a diciembre 2022, corresponde
+a entidades a nivel de Gobierno Local con 356 obras paralizadas nuevas por S/ 1110 millones; seguido de entidades
+pertenecientes al Gobierno Nacional con 108 obras nuevas, con monto de inversión de S/ 20 mil 644 millones; en tanto que las
+entidades a nivel de Gobierno Regional cuentan con 72 obras nuevas, cuyo monto de inversión asciende a S/ 1408 millones.
+A nivel nacional, el mayor número de obras paralizadas nuevas identificadas a diciembre corresponde a la región La Libertad
+con 23 obras paralizadas nuevas, cuyo monto de inversión es de S/ 876 millones; seguido de Cajamarca con 22 obras
+paralizadas nuevas, con un monto de inversión de S/ 75 millones; en tanto que el mayor incremento del costo actualizado
+corresponde a Lima con S/ 17 mil 308 millones, tal como se muestra en el cuadro siguiente:
+
+=== pagina 21 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+TABLA 17. RESUMEN DE ESTADO DE LAS OBRAS PARALIZADAS POR REGIÓN
+Nº obras Costo actualizado en S/
+Ubicación Se Permanecen Se paralizaron Total a Se Permanecen Se paralizaron en Total a
+reactivaron desde en diciembre diciembre reactivaron desde setiembre diciembre diciembre
+setiembre
+Cusco 95 274 54 328 420 984 562 883 794 332 895 574 281 1 781 845 844
+Puno 42 221 51 272 256 970 117 1 107 252 690 61 961 223 1 172 117 011
+Áncash 35 106 32 138 394 275 319 963 270 052 236 549 895 1 224 743 959
+Lima 44 117 28 145 19 065 529 295 679 316 830 275 683 461 945 432 491
+Apurímac 27 81 24 105 200 272 994 445 188 106 122 848 656 573 676 658
+La Libertad 17 60 23 83 117 289 303 3 744 952 597 876 732 908 4 627 136 050
+Cajamarca 31 110 22 132 238 602 200 1 740 110 144 75 038 147 1 824 057 868
+Huancavelica 20 90 21 111 84 414 799 343 464 650 458 916 376 803 662 865
+Piura 35 106 21 127 317 291 840 2 852 557 803 303 726 281 3 188 907 344
+Junín 22 57 19 76 629 026 903 411 302 755 269 153 153 632 069 863
+Ayacucho 31 82 18 100 416 315 958 257 936 209 279 475109 546 557 589
+Arequipa 25 77 18 95 221 600 329 822 264 528 154 312 345 989 392 942
+Tacna 10 39 18 57 24 280 751 654 575 784 691 408 070 1 346 137 624
+Loreto 16 40 15 55 126 130 673 502 607 530 203 571 622 729 396 336
+21
+Huánuco 14 56 13 69 73 651 141 915 155 563 92 663 529 1 010 031 512
+Lambayeque 13 47 10 57 149 979 577 286 077 360 18 364 272 304 605 860
+Amazonas 12 33 9 42 70 328 640 370 467 487 84 984 376 456 039 914
+Moquegua 9 33 8 41 26 423 916 199 519 300 17 369 557 216 649 368
+Ucayali 5 16 8 24 22 912 286 823 327 525 104 910 962 929 758 531
+San Martín 7 33 6 39 25 373 963 150 004 256 150 086 164 300 090 420
+Pasco 6 30 5 35 21 766 598 122 357 650 18 133 422 143 951 889
+Ica 10 28 3 31 220 146 883 176 919 949 6 638 787 183 815 692
+P. C. del Callao 3 6 3 9 20 877 722 29 176 613 31 979 937 61 156 550
+Tumbes 3 10 2 12 8 286 975 121 225 182 31 265 528 152 490 711
+Madre de Dios 4 14 0 14 11 134 359 100 461 940 0 100 476 116
+Total General 536 1766 431 2197 23 163 867 105 18 703 286 834 5 461 348 061 24 244 201 006
+FUENTE: Base de datos de Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+• Veinte principales obras que se reactivaron a diciembre
+De las 536 obras que reactivaron su ejecución desde setiembre último; a continuación, se listan las 20 principales obras
+(con mayor costo actualizado), las cuales involucran un monto de S/ 20 mil 760 millones.
+Cabe señalar que, respecto de las obras que reactivaron su ejecución de entidades pertenecientes al Gobierno Nacional, se
+encuentra el proyecto con CUI 2233850 “Construcción de la Línea 2 y Ramal Av. Faucett - Gambetta de la Red Básica del
+Metro de Lima y Callao, provincias de Lima y Callao, Departamento de Lima”, con un monto de inversión de S/ 17 mil 105
+millones, según lo reportado por la entidad. Dicho monto explica la disminución sustancial entre el costo actualizado de las
+obras paralizadas del mes de diciembre, respecto del mes de setiembre (de S/ 41 mil 867 millones a S/ 24 mil 244 millones)
+
+=== pagina 22 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+TABLA 18. PRINCIPALES OBRAS QUE SE REACTIVARON A DICIEMBRE 2022
+CUI Proyecto Entidad Costo actualizado Departamento Provincia Distrito
+(según Invierte S/)
+2233850 CONSTRUCCIÓN DE LA LÍNEA 2 Y RAMAL AV. AUTORIDAD DE 17 105 139 854 LIMA LIMA LIMA
+FAUCETT-GAMBETTA DE LA RED BÁSICA DEL METRO TRANSPORTE URBANO
+DE LIMA Y CALLAO PROVINCIAS DE LIMA Y CALLAO, PARA LIMA Y CALLAO –
+DEPARTAMENTO DE LIMA ATU
+2234355 MEJORAMIENTO DE LA CARRETERA OYÓN - AMBO PROYECTO ESPECIAL DE 1 357 812 621 LIMA OYÓN OYÓN
+INFRAESTRUCTURA DE
+TRANSPORTE NACIONAL -
+PROVÍAS NACIONAL
+2164051 MEJORAMIENTO DE LA CAPACIDAD RESOLUTIVA DEL GOBIERNO REGIONAL 348 779 288 JUNÍN HUANCAYO HUANCAYO
+HOSPITAL EL CARMEN HUANCAYO, REGIÓN JUNÍN JUNÍN
+2228738 CONTROL DE DESBORDES E INUNDACIONES EN EL RÍO PROYECTO ESPECIAL 213 218 995 ICA ICA OCUCAJE
+ICA Y QUEBRADA CANSAS/CHANCHAJALLA TAMBO CCARACOCHA
+2151332 PROYECTO ACARI -BELLA UNION II ETAPA DE PROGRAMA 195 147 889 AYACUCHO LUCANAS LUCANAS
+CONSTRUCCIÓN DE LA REPRESA DE IRURO SUBSECTORIAL DE
+IRRIGACIONES-PSI
+2404452 AMPLIACIÓN Y MEJORAMIENTO DEL SISTEMA DE AGUA SERVICIO DE AGUA 173 182 883 LIMA LIMA CIENEGUILLA
+POTABLE Y ALCANTARILLADO DEL ESQUEMA POTABLE Y
+CIENEGUILLA ALCANTARILLADO DE
+LIMA-SEDAPAL
+22
+2394745 CREACIÓN DE LOS SERVICIOS DE TRANSITABILIDAD GOBIERNO REGIONAL 156 644 824 CUSCO CALCA YANATILE
+VEHICULAR RUTA CU-104 TRAMO PUENTE TAHUIS Y CUSCO
+SAN ANTONIO DEL DISTRITO DE YANATILE - PROVINCIA
+DE CALCA - DEPARTAMENTO DE CUSCO
+2426973 SERVICIO DE MEJORAMIENTO Y REHABILITACIÓN DE LA MINISTERIO DE 152 552 026 ÁNCASH HUARMEY HUARMEY
+INFRAESTRUCTURA VIAL PAQUETE 1R :TRAMO 1: EMP. TRANSPORTES Y
+AN-109 (HUAMBA) – SAN MIGUEL – HUAYAN -SUCCHA COMUNICACIONES
+– AIJA (PROV. AIJA) – EMP. AN - 109 (L=72.50 KM),
+TRAMO 2: EMP. AN – 1161 – (MOLINOPAMPA) - YAUYAN
+(L=27.90 KM), TRAMO 3: EMP. AN – 112 (OCROS) –
+BELLAVISTA – VISTA ALEGRE – CONGAS – COPA
+(L=30.65 KM), TRAMO 4: EMP. AN – 112 (OCROS) –
+NUEVA FLORIDA – EMP. AN – 112 (L=13.26 KM)
+2344329 AMPLIACIÓN Y MEJORAMIENTO DEL SISTEMA DE AGUA PROGRAMA AGUA SEGURA 127 883 871 LIMA LIMA RIMAC
+POTABLE Y ALCANTARILLADO PARA EL ESQUEMA SAN PARA LIMA Y CALLAO
+JUAN DE AMANCAES - DISTRITO RÍMAC
+2307419 REEMPLAZO DE 19 PUENTES EN EL CORREDOR VIAL PROYECTO ESPECIAL DE 106 184 349 PUNO MELGAR SANTA ROSA
+NACIONAL RUTA: 3S: KM. 1151+095 - KM. 1261+500 INFRAESTRUCTURA DE
+TRANSPORTE NACIONAL -
+PROVÍAS NACIONAL
+2344329 AMPLIACIÓN Y MEJORAMIENTO DEL SISTEMA DE AGUA PROGRAMA AGUA SEGURA 127 883 871 LIMA LIMA RIMAC
+POTABLE Y ALCANTARILLADO PARA EL ESQUEMA SAN PARA LIMA Y CALLAO
+JUAN DE AMANCAES - DISTRITO RÍMAC
+2307419 REEMPLAZO DE 19 PUENTES EN EL CORREDOR VIAL PROYECTO ESPECIAL DE 106 184 349 PUNO MELGAR SANTA ROSA
+NACIONAL RUTA: 3S: KM. 1151+095 - KM. INFRAESTRUCTURA DE
+1261+500 TRANSPORTE NACIONAL -
+PROVÍAS NACIONAL
+
+=== pagina 23 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+CUI Proyecto Entidad Costo actualizado Departamento Provincia Distrito
+(según Invierte S/)
+2331093 CREACIÓN DE LOS SISTEMAS DE AGUA POTABLE PROGRAMA 99 697 430 AREQUIPA AREQUIPA CERRO
+DEPENDIENTES DEL RESERVORIO N-39 Y NACIONAL DE COLORADO
+ALCANTARILLADO SANITARIO DEL DISTRITO DE CERRO SANEAMIENTO
+COLORADO, PROVINCIA, DEPARTAMENTO Y REGIÓN DE URBANO
+AREQUIPA.
+2305757 REEMPLAZO DE 12 PUENTES EN EL CORREDOR VIAL PROYECTO 96 719 995 ÁNCASH YUNGAY YUNGAY
+NACIONAL RUTA PE-3N: CONOCOCHA - HUARAZ - ESPECIAL DE
+PUENTE QUIROZ INFRAESTRUCTURA
+DE TRANSPORTE
+NACIONAL -
+PROVÍAS NACIONAL
+2338980 MEJORAMIENTO DE LA CARRETERA: EMP. PE-3S PROYECTO 87 590 715 JUNÍN YAULI LA OROYA
+(CONCEPCIÓN) - COMAS - EMP. PE-5S (SATIPO) / EMP. ESPECIAL DE
+PE-5S (PTO. OCOPA) - ATALAYA / EMP. PE-5S (DV. BAJO INFRAESTRUCTURA
+KIMIRIKI) - BUENOS AIRES - PTO. PRADO - MAZAROBENI DE TRANSPORTE
+- CAMAJENI - POYENI, POR NIVELES DE SERVICIO - NACIONAL -
+PROVÍAS NACIONAL
+2286058 AMPLIACIÓN Y MEJORAMIENTO DEL SISTEMA DE AGUA PROGRAMA 81 737 360 APURÍMAC COTABAMBAS CHALLHUAHUACHO
+POTABLE Y ALCANTARILLADO SANITARIO DE LOS NACIONAL DE
+BARRIOS URBANOS: PATRÓN SANTIAGO, EL SALVADOR, SANEAMIENTO
+LOS ÁLAMOS, WICHAYPAMPA, SEÑOR DE HUANCA Y SAN URBANO
+MARCOS DEL DISTRITO DE CHALLHUAHUACHO,
+23 PROVINCIA DE COTABAMBAS, DEPARTAMENTO DE
+APURÍMAC
+2175165 MEJORAMIENTO DE LA INFRAESTRUCTURA VIAL PARA LA MUNICIPALIDAD 81 674 140 LIMA LIMA LA MOLINA
+TRANSITABILIDAD DE LA AV. LA MOLINA DESDE LA AV. DISTRITAL DE LA
+MELGAREJO HASTA EL JR. MADRE SELVA EN EL MOLINA
+DISTRITO DE LA MOLINA, PROVINCIA DE LIMA – LIMA
+2192512 REEMPLAZO DE 12 PUENTES EN EL CORREDOR VIAL PROYECTO 80 394 339 AYACUCHO CANGALLO PARAS
+RUTA 28A SAN CLEMENTE – AYACUCHO ESPECIAL DE
+INFRAESTRUCTURA
+DE TRANSPORTE
+NACIONAL -
+PROVÍAS NACIONAL
+2277906 AMPLIACIÓN Y MEJORAMIENTO DEL PUENTE NORUEGA, GOBIERNO 77 644 397 JUNÍN CHANCHAMAYOPERENÉ
+DISTRITO DE PERENE - SANTA ANA, PROVINCIA DE REGIONAL JUNÍN
+CHANCHAMAYO, REGIÓN JUNÍN
+2159429 REHABILITACIÓN INTEGRAL Y AMPLIACIÓN DE LA OFICINA DE 77 559 994 PUNO PUNO PUNO
+CAPACIDAD DE ALBERGUE DEL ESTABLECIMIENTO INFRAESTRUCTURA
+PENITENCIARIO DE PUNO PENITENCIARIA -
+INPE
+2022551 MEJORAMIENTO DE CARRETERA VECINAL GOBIERNO 77 282 499 PIURA PAITA PAITA
+533-EMPALME-534-LA ISLILLA REGIONAL PIURA
+2131102 ADECUACIÓN, MEJORAMIENTO, SUSTITUCIÓN DE LA PROGRAMA 63 807 611 CAJAMARCA SAN IGNACIO SAN IGNACIO
+INFRAESTRUCTURA EDUCATIVA Y EQUIPAMIENTO DE LA NACIONAL DE
+INSTITUCIÓN EDUCATIVA Nº 16498 ELOY SOBERON INFRAESTRUCTURA
+FLORES, DISTRITO DE SAN IGNACIO, PROVINCIA DE SAN EDUCATIVA -
+IGNACIO, REGIÓN CAJAMARCA. PRONIED
+FUENTE: Base de datos de Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 30/09/2022
+
+=== pagina 24 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+• Veinte principales obras que se paralizaron a diciembre 2022
+De las 431 obras que reactivaron su ejecución desde setiembre último; a continuación, se listan las 20 principales obras
+(con mayor costo actualizado), las cuales involucran un monto de S/ 10 mil 042 millones.
+TABLA 19. PRINCIPALES OBRAS QUE SE PARALIZARON A DICIEMBRE 2022
+CUI Proyecto Entidad Costo actualizado Departamento Provincia Distrito
+(según Invierte S/)
+2077997 PROYECTO CHAVIMOCHIC TERCERA ETAPA PROYECTO ESPECIAL 3 149 967 556 LA LIBERTAD VIRÚ CHAO
+CHAVIMOCHIC
+2250145 INSTALACIÓN DE BANDA ANCHA PARA LA PROGRAMA NACIONAL DE 1 047 515 658 CAJAMARCA CAJAMARCA LOS BAÑOS
+CONECTIVIDAD INTEGRAL Y DESARROLLO TELECOMUNICACIONES - DEL INCA
+SOCIAL DE LA REGIÓN CAJAMARCA PRONATEL
+2234988 REHABILITACIÓN Y MEJORAMIENTO DE LA PROYECTO ESPECIAL DE 759 039 900 LA LIBERTAD SANTIAGO DE SANTIAGO DE
+CARRETERA PALLASCA-MOLLEPATA-MOLLE- INFRAESTRUCTURA DE CHUCO CHUCO
+BAMBA-SANTIAGO DE CHUCO-EMP. RUTA 10, TRANSPORTE NACIONAL -
+TRAMO: SANTIAGO DE CHUCO-CACHICA- PROVÍAS NACIONAL
+DÁN-MOLLEPATA
+2234988 REHABILITACIÓN Y MEJORAMIENTO DE LA PROYECTO ESPECIAL DE 759 039 900 LA LIBERTAD SANTIAGO DE MOLLEPATA
+CARRETERA PALLASCA-MOLLEPATA-MOLLE- INFRAESTRUCTURA DE CHUCO
+BAMBA-SANTIAGO DE CHUCO EMP. RUTA 10, TRANSPORTE NACIONAL -
+TRAMO MOLLEPATA - PALLASCA PROVÍAS NACIONAL
+24
+2027711 REHABILITACIÓN Y MEJORAMIENTO DE LA PROYECTO ESPECIAL DE 662 096 381 CUSCO ESPINAR ESPINAR
+CARRETERA: PATAHUASI - YAURI - SICUANI INFRAESTRUCTURA DE
+TRANSPORTE NACIONAL -
+PROVÍAS NACIONAL
+2234985 REHABILITACIÓN Y MEJORAMIENTO DE LA PROYECTO ESPECIAL DE 575 878 966 PIURA HUANCABAMBA HUANCABAMBA
+CARRETERA EMP. PE-1N J (DV. HUANCABAM- INFRAESTRUCTURA DE
+BA) - BUENOS AIRES - SALITRAL - DV. TRANSPORTE NACIONAL -
+CANCHAQUE - EMP. PE-3N - HUANCABAMBA, PROVÍAS NACIONAL
+TRAMO: KM. 71+600 – HUANCABAMBA
+2040186 MEJORAMIENTO DE RIEGO Y GENERACIÓN PROYECTO ESPECIAL DE 502 971 128 PIURA HUANCABAMBA SONDORILLO
+HIDROENERGÉTICO DEL ALTO PIURA IRRIGACIÓN E
+HIDROENERGÉTICO ALTO
+PIURA
+2260211 FORTALECIMIENTO DE LOS SERVICIOS DE GOBIERNO REGIONAL DE 488 056 291 UCAYALI CORONEL CALLERIA
+SALUD DEL HOSPITAL REGIONAL DE UCAYALI PORTILLO
+PUCALLPA - REGIÓN UCAYALI
+2250179 INSTALACIÓN DE BANDA ANCHA PARA LA PROGRAMA NACIONAL DE 487 719 423 PIURA PIURA PIURA
+CONECTIVIDAD INTEGRAL Y DESARROLLO TELECOMUNICACIONES -
+SOCIAL DE LA REGION PIURA PRONATEL
+2079224 AMPLIACIÓN Y MEJORAMIENTO DEL SISTEMA MUNICIPALIDAD 398 467 572 HUÁNUCO LEONCIO RUPA-RUPA
+INTERGOBIERNO REGIONAL DE AGUA PROVINCIAL DE LEONCIO PRADO
+POTABLE, ALCANTARILLADO Y DISPOSICIÓN PRADO
+FINAL DE LA ZONA URBANA DEL DISTRITO DE
+RUPA RUPA
+2271673 FORTALECIMIENTO DE LA CAPACIDAD GOBIERNO REGIONAL DE 393 580 587 PUNO PUNO PUNO
+RESOLUTIVA DEL HOSPITAL REGIONAL PUNO
+MANUEL NUÑEZ BUTRÓN PUNO
+FUENTE: Base de datos de Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+
+=== pagina 25 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+CUI Proyecto Entidad Costo actualizado Departamento Provincia Distrito
+(según Invierte S/)
+2354781 MEJORAMIENTO DE LOS SERVICIOS DE PROGRAMA NACIONAL DE 342 912 239 HUANCAVELICA HUANCAVELICA ASCENSIÓN
+SALUD DEL HOSPITAL REGIONAL ZACARÍAS INVERSIONES EN SALUD -
+CORREA VALDIVIA DE HUANCAVELICA; PRONIS
+DISTRITO DE ASCENSIÓN, PROVINCIA DE
+HUANCAVELICA Y DEPARTAMENTO DE
+HUANCAVELICA
+2094971 REHABILITACIÓN DEL EJE VIAL N 01 PIURA - PROYECTO ESPECIAL DE 337 962 988 PIURA SULLANA IGNACIO
+GUAYAQUIL, PERU - ECUADOR, 21 INFRAESTRUCTURA DE ESCUDERO
+INTERVENCIONES SECTOR PERÚ TRANSPORTE NACIONAL -
+MEJORAMIENTO Y AMPLIACIÓN DE LA PROVÍAS NACIONAL
+PROVISIÓN DE AGUA PARA DESARROLLO
+AGRÍCOLA EN EL VALLE DE TACNA -
+VILAVILANI II - FASE
+2106687 MEJORAMIENTO Y AMPLIACIÓN DE LA PROYECTO ESPECIAL 297 276 894 TACNA TARATA TARATA
+PROVISIÓN DE AGUA PARA DESARROLLO AFIANZAMIENTO Y
+AGRÍCOLA EN EL VALLE DE TACNA - AMPLIACIÓN DE LOS
+VILAVILANI II - FASE I RECURSOS HÍDRICOS DE
+TACNA
+2426977 MEJORAMIENTO Y REHABILITACIÓN DE LA MINISTERIO DE 263 777 635 ÁNCASH PALLASCA LACABAMBA
+INFRAESTRUCTURA VIAL PAQUETE 5R: TRANSPORTES Y
+TRAMO 1: EMP. PE- 1NQ (DV. COMUNICACIONES
+25 LACRAMARCA)- LA AGUADA- LAS CRUCES-
+LACRAMARCA-SANTA ANA-
+QUITACOCHA-HUAYLAS- EMP. PE-3N (SAN
+DIEGO) (L=158.00 KM) Y TRAMO 2: EMP.
+PE-3N(HUACASCHUQUE) - LACABAM-BA -
+DV. CONCHUCOS - PAMPAS - CONSUZO -
+L.D. LA LIBERTAD (LI-115 A PAMPA EL
+CÓNDOR) TRAMO 59+000 -106+900
+2090887 DRENAJE PLUVIAL DE LA CIUDAD DE JULIACA MUNICIPALIDAD 210 952 913 PUNO SAN ROMÁN JULIACA
+PROVINCIAL DE SAN
+ROMÁN
+2372478 MEJORAMIENTO DE LOS SERVICIOS DE PROGRAMA NACIONAL DE 35 921 227 APURIMAC COTABAMBAS HAQUIRA
+SALUD DEL CENTRO DE SALUD HAQUIRA, INVERSIONES EN SALUD -
+DISTRITO HAQUIRA, PROVINCIA COTABAMBAS, PRONIS
+DEPARTAMENTO APURÍMAC
+2342229 MEJORAMIENTO DE LA CAPACIDAD GOBIERNO REGIONAL DE 33 361 090 UCAYALI ATALAYA YURUA
+RESOLUTIVA DE LOS SERVICIOS DE SALUD UCAYALI
+DEL CENTRO DE SALUD BREU - DISTRITO DE
+YURUA - PROVINCIA DE ATALAYA - REGIÓN
+UCAYALI
+2450435 RECUPERACIÓN DE CAMINO VECINAL EN GERENCIA SUB REGIONAL 28 488 039 PIURA SULLANA SULLANA
+PI-655 (EMP.PE--1NT) SOCCHABAMBA - AUL - LUCIANO CASTILLO
+MOSTAZAS EMP- R67 (GICLAS), DEL DISTRITO COLONNA
+DE AYABACA - PROVINCIA DE AYABACA -
+PIURA
+2324623 ESTUDIO DE PREINVERSIÓN A NIVEL DE GOBIERNO REGIONAL DE 27 012 214 HUÁNUCO DOS DE MAYO PACHAS
+PERFIL: MEJORAMIENTO DE LOS SERVICIOS HUÁNUCO
+DE SALUD DEL CENTRO DE SALUD PACHAS,
+DISTRITO DE PACHAS, PROVINCIA DE DOS DE
+MAYO
+FUENTE: Base de datos de Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Elaborada por la Subgerencia de Seguimiento y Evaluación del SNC / FECHA: 31/12/2022
+
+=== pagina 26 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+• Obras que no reportan avance físico en menos de 6 meses
+Es necesario resaltar que el criterio para definir una obra paralizada por el tiempo que no reporta avance físico ha cambiado,
+de 3 meses a 6 meses, en relación al reporte a setiembre del 2022, ello producto de la Ley N° 31589 – Ley de que garantiza
+la reactivación de obra pública paralizada, que se publicó el 22 de octubre del año 2022.
+En ese sentido, de la revisión del estado de las obras se ha podido identificar que, a diciembre, 318 obras no reportan avance
+físico en periodos menores a 6 meses. Las inversiones vinculadas a estas obras involucran un monto de S/ 2649 millones.
+TABLA 20. TOTAL DE OBRAS PARALIZADAS CON PERIODO DE PARALIZACIÓN MENOR A 6 MESES
+Costo actualizado de la inversión Obras paralizadas Saldo de inversión por ejecutar*
+Nivel de gobierno Saldo de inversión S/
+S/ % N° % S/ %
+Gobierno Nacional 440 859 860 16.6 35 11.0% 190 140 277 17.8
+Gobierno Regional 1 588 813 707 60.0 64 20.1% 663 381 608 62.2
+Gobierno Local 619 485 117 23.4 219 68.9% 212 279 352 19.9
+Total 2 649 158 684 100% 318 100% 1 065 801 187 100%
+26
+FUENTE: Base de datos de Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Elaborada por la Subgerencia de Seguimiento y Evaluación del SNC / FECHA: 31/12/2022
+• Principales obras que, a diciembre 2022, no reportan avance físico en menos de 6 meses
+De las 318 obras que no reportan avance físico en menos de 6 meses, se listan las 20 principales obras (con mayor costo
+actualizado), las cuales involucran un monto de S/ 1752 millones.
+TABLA 21. PRINCIPALES OBRAS PARALIZADAS CON PERIODO DE PARALIZACIÓN MENOR A 6 MESES
+CUI Proyecto Entidad Costo actualizado Departamento Provincia Distrito
+(según Invierte S/)
+2192844 MEJORAMIENTO DE LOS SERVICIOS DE GOBIERNO REGIONAL 632 167 754 TACNA TACNA TACNA
+SALUD DEL HOSPITAL HIPÓLITO UNANUE DE TACNA
+TACNA, DISTRITO DE TACNA, PROVINCIA
+TACNA - REGIÓN TACNA
+2094811 MEJORAMIENTO DE LA CAPACIDAD GOBIERNO REGIONAL 220 930 055 HUÁNUCO LEONCIO RUPA-RUPA
+RESOLUTIVA DEL HOSPITAL DE TINGO MARÍA HUÁNUCO PRADO
+2077939 AMPLIACIÓN DE LA PRESA ANCASCOCHA Y PROGRAMA REGIONAL DE 183 570 748 AYACUCHO LUCANAS CHAVIÑA
+AFIANZAMIENTO DEL VALLE DE YAUCA IRRIGACIÓN Y DESARROLLO
+(AYACUCHO Y AREQUIPA) RURAL INTEGRADO
+2400301 ESQUEMA CARAPONGO - AMPLIACIÓN DE PROGRAMA AGUA SEGURA 146 926 138 LIMA LIMA LIMA
+LOS SISTEMAS DE AGUA POTABLE Y PARA LIMA Y CALLAO
+ALCANTARILLADO DE LOS SECTORES 136 Y
+137 DISTRITO DE LURIGANCHO
+
+=== pagina 27 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+CUI Proyecto Entidad Costo actualizado Departamento Provincia Distrito
+(según Invierte S/)
+2426979 SERVICIO DE MEJORAMIENTO Y MINISTERIO DE 135 411 423 AREQUIPA CASTILLA MACHAGUAY
+REHABILITACIÓN DE LA INFRAESTRUCTURA TRANSPORTES Y
+VIAL PAQUETE 7R: TRAMO 1: EMP. AR-639 COMUNICACIONES
+ACOPALLPA PACCRAPICHA DV. CUYANCA
+HUASICAC (L=15.06 KM), TRAMO 2: EMP.
+AR-100 - BELLA UNIÓN (L=16.70 KM), TRAMO
+3: EMP. AR-105 (CHUQUIBAMBA) PACHANA
+(L=38.19 KM) Y TRAMO 4: EMP. AR-105 EMP.
+AR-588 HUASCA (DV. SALAMANCA) -
+SALAMANCA (L=49.14 KM)
+2488064 MEJORAMIENTO DE LAS VÍAS DE ORGANISMO PÚBLICO DE 74 012 025 LORETO MAYNAS IQUITOS
+INTERCONEXIÓN EN EL ÁMBITO DEL AA.HH. INFRAESTRUCTURA PARA
+SAN ANTONIO ZONA NORTE DE LA CIUDAD LA PRODUCTIVIDAD - OPIPP
+DE IQUITOS - DISTRITO DE IQUITOS -
+PROVINCIA DE MAYNAS - DEPARTAMENTO
+DE LORETO
+2145301 CONSTRUCCIÓN DEL SISTEMA DE RIEGO PROGRAMA REGIONAL DE 32 419 162 AYACUCHO PARINACOCHAS CHUMPI
+CURIPAMPA, DISTRITO DE CHUMPI, PROVINCIA IRRIGACIÓN Y DESARROLLO
+DE PARINACOCHAS - AYACUCHO. RURAL INTEGRADO
+2184938 INSTALACIÓN Y MEJORAMIENTO DE LOS GOBIERNO REGIONAL DE 31 786 111 HUANCAVELICA HUANCAVELICA HUANCAVELICA
+SERVICIOS DEPORTIVOS EN LAS HUANCAVELICA
+LOCALIDADES DE SANTA ANA, PATURPAMPA,
+27 PUEBLO LIBRE, MILLPO CCACHUANA,
+PUCARUMI, DE LOS DISTRITOS DE
+HUANCAVELICA Y ASCENSIÓN, PROVINCIA Y
+DEPARTAMENTO DE HUANCAVELICA
+2320298 AMPLIACIÓN Y MEJORAMIENTO DE LA GOBIERNO REGIONAL DE 31 593 786 LORETO MAYNAS INDIANA
+INSTITUCIÓN EDUCATIVA SECUNDARIA DE LORETO
+MENORES SAN JOSÉ DE INDIANA, LOCALIDAD
+DE INDIANA, DISTRITO DE INDIANA - MAYNAS
+– LORETO
+2049175 CONSTRUCCIÓN DE PISTAS Y VEREDAS EN EL MINISTERIO DE VIVIENDA, 30 043 881 JUNÍN HUANCAYO EL TAMBO
+AA.HH. JUSTICIA PAZ Y VIDA, DISTRITO DE EL CONSTRUCCIÓN Y
+TAMBO - HUANCAYO - JUNÍN SANEAMIENTO
+2514640 MEJORAMIENTO DEL SERVICIO DE MUNICIPALIDAD DISTRITAL 28 265 380 TACNA JORGE ITE
+CAPTACIÓN DE AGUA (BOCATOMA DE RIEGO DE ITE BASADRE
+ITE) EN EL DISTRITO DE ITE - PROVINCIA DE
+JORGE BASADRE - DEPARTAMENTO DE
+TACNA
+2434348 CREACIÓN DEL SERVICIO DE PROTECCIÓN EN GOBIERNO REGIONAL DE 27 929 358 ÁNCASH CASMA CASMA
+RIBERAS DEL RÍO CASMA VULNERABLE ANTE ÁNCASH
+EL PELIGRO EN EL SECTOR CASA BLANCA -
+HUALGAYOC, DISTRITO DE CASMA -
+PROVINCIA DE CASMA - DEPARTAMENTO DE
+ÁNCASH
+2379186 MEJORAMIENTO DE LA INFRAESTRUCTURA FONDO METROPOLITANO 26 545 370 LIMA LIMA LA VICTORIA
+VEHICULAR Y PEATONAL DE AV. DE INVERSIONES –
+PARINACOCHAS, TRAMO AV. CANADÁ - AV. INVERMET
+GRAU - DISTRITO LA VICTORIA - LIMA- LIMA
+
+=== pagina 28 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+CUI Proyecto Entidad Costo actualizado Departamento Provincia Distrito
+(según Invierte S/)
+2284371 MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO MUNICIPALIDAD DISTRITAL 25 607 329 JUNÍN SATIPO RÍO NEGRO
+DE AGUA POTABLE Y ALCANTARILLADO EN DE RÍO NEGRO
+LAS LOCALIDADES DE VILLA VIRGINIA, RÍO
+ALBERTA, ARBITRAZA, VILLA BAMBÚ, BAJO
+RÍO NEGRO, VILLA PACÍFICO, LAS BEGONIAS,
+MIRAFLORES, SAN ISIDRO, 12 DE JULIO, VILLA
+CRISTIANA, LAS FLORES, LADERAS DE VILLA,
+BETHEL, ORQUÍDEAS, VILLA SOL Y PLAYA
+ESCONDIDA, DISTRITO DE RÍO NEGRO -
+SATIPO – JUNÍN
+2022722 MEJORAMIENTO Y AMPLIACIÓN DEL SISTEMA MUNICIPALIDAD 25 010 164 CUSCO LA SANTA ANA
+DE AGUA POTABLE Y ALCANTARILLADO DE LA PROVINCIAL DE LA CONVENCIÓN
+CIUDAD DE QUILLABAMBA CONVENCIÓN
+2196787 MEJORAMIENTO Y AMPLIACIÓN DE LOS GOBIERNO REGIONAL DEL 23 259 066 CUSCO CUSCO SAN
+SERVICIOS EDUCATIVOS DE NIVEL INICIAL CUSCO JERÓNIMO
+PRIORIZADOS POR LA UGEL DEL CUSCO 1
+ETAPA - REGIÓN CUSCO
+2432896 RECUPERACIÓN DEL SERVICIO DE EDUCACIÓN GOBIERNO REGIONAL DE 21 007 361 TUMBES ZARUMILLA AGUAS
+BÁSICA REGULAR EN LA INSTITUCIÓN TUMBES VERDES
+EDUCATIVA N° 098 GRAN CHILIMASA DEL
+DISTRITO DE AGUAS VERDES, PROVINCIA DE
+ZARUMILLA Y REGIÓN TUMBES
+28
+2251811 MEJORAMIENTO DEL SERVICIO EDUCATIVO GOBIERNO REGIONAL DE 18 973 171 AMAZONAS UTCUBAMBA BAGUA
+DEL NIVEL PRIMARIO EN LAS I.E. N 17318 EL AMAZONAS GRANDE
+MARCAL, N 17037 PANGAMITO, N 16595
+MORROPÓN, N 16680 NUEVO MUNDO, N
+16651 LA VICTORIA, N 17209 EL BALCHO, N
+17039 CAYALTÍ, N 17046 LAS PIRCAS, N
+17291 TRIUNFO DE LOS ARRAYANES DE LOS
+DISTRITOS DE BAGUA GRANDE, EL MILAGRO,
+UTCUBAMBA, AMAZONAS
+2258414 MEJORAMIENTO DE ÁREAS DEGRADADAS ACTIVOS MINEROS S.A.C. 18 660 124 CAJAMARCA HUALGAYOC HUALGAYOC
+ORIGINADAS POR LOS PASIVOS AMBIENTALES
+MINEROS DE LA EX UNIDAD MINERA LA
+PASTORA, DISTRITO Y PROVINCIA DE
+HUALGAYOC – CAJAMARCA
+2440606 MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO MUNICIPALIDAD DISTRITAL 18 049 799 PIURA HUANCABAMBA EL CARMEN
+DE AGUA POTABLE Y SANEAMIENTO RURAL DE EL CARMEN DE LA DE LA
+EN (HABASPITE, CERRO NEGRO, BELLAVISTA, FRONTERA FRONTERA
+PEÑA BLANCA, SALINAS, RÍO BLANCO,
+HUAQUILLAS MONTAÑA, HORMIGUEROS,
+LOMA DE LA ESPERANZA, CHAUPE BAJO,
+CHAUPE ALTO, HUACHUMO) 12 LOCALIDADES
+DEL DISTRITO DE EL CARMEN DE LA
+FRONTERA - PROVINCIA DE HUANCABAMBA -
+DEPARTAMENTO DE PIURA
+FUENTE: Base de datos de Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Elaborada por la Subgerencia de Seguimiento y Evaluación del SNC / FECHA: 31/12/2022
+
+=== pagina 29 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+03
+Servicios de control efectuados a las
+obras paralizadas
+A nivel nacional, la Contraloría General ha ejecutado 1422 servicios de control a las obras paralizadas, de los cuales, el
+91.2% (1297) corresponde a servicios de control simultáneo, el 7.3% (104) a control posterior y el 1.5% (21) a control
+previo, tal como se muestra en el siguiente cuadro.
+TABLA 22. TOTAL DE SERVICIOS DE CONTROL EFECTUADOS
+Tipo de servicio de control Cantidad Porcentaje (%)
+Control previo 21 1.5
+Control simultáneo 1297 91.2
+Control posterior 104 7.3
+Total 1422 100.0%
+29
+FUENTE: Sistemas de servicios de control de la CGR.
+ELABORACIÓN: Elaborada por la Subgerencia de Seguimiento y Evaluación del SNC / FECHA: 31/12/2022
+Los órganos auditores del Sistema Nacional de Control han realizado 1422 servicios de control, de los cuales 718
+corresponden al nivel de Gobierno Local, 337 servicios de control se ejecutaron a nivel del Gobierno Regional y, finalmente,
+367 servicios de control se realizaron a nivel de Gobierno Nacional.
+Cabe destacar que se han priorizado los servicios de control simultáneo, de los cuales, 664 servicios se han efectuado en
+obras a nivel de Gobierno Local, 286 servicios se efectuaron en obras de los Gobiernos Regionales y 347 servicios a nivel
+del Gobierno Nacional, como puede apreciarse en el siguiente cuadro:
+TABLA 23. SERVICIOS DE CONTROL POR NIVEL DE GOBIERNO
+Gobierno Nacional Gobierno Regional Gobierno Local Total general
+Tipo de Servicio
+de Control
+N° % N° % N° % N° %
+Control previo 4 0.3 17 1.2 0 0.0 21 1.5
+Control simultáneo 347 24.4 286 20.1 664 46.7 1297 91.2
+Control posterior 16 1.1 34 2.4 54 3.8 104 7.3
+Total 367 25.8% 337 23.7% 718 50.5% 1422 100.0%
+FUENTE: Sistemas de servicios de control de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 30 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+A continuación, se muestran los servicios de control realizados por ubicación geográfica y tipo de servicio:
+FIGURA 2. SERVICIOS DE CONTROL A OBRAS PARALIZADAS, POR DEPARTAMENTO
+N° de servicios control previo N° de servicios de control posterior
+N° de servicios control simultáneo Total de servicios
+Tumbes Cajamarca Amazonas Loreto
+- 0 0 -
+36 53 15 21
+Piura - 3 0 - San Martín
+- 36 56 15 21 1
+124 12
+8 -
+132 13
+Lambayeque Huánuco
+- 0
+39 37
+5 3
+44 40
+La Libertad Ucayali
+1 15
+123 55
+6 4
+130 74
+Áncash Pasco
+30
+1 -
+93 17
+5 -
+99 17
+Lima Madre de Dios
+- -
+91 13
+7 1
+98 14
+P. C. del Callao Junín
+- -
+13 35
+2 4
+15 39
+Huancavelica Cusco
+- 1
+66 94
+11 5
+77 100
+Ica Puno
+1 -
+26 99
+12 5
+39 104
+Ayacucho Arequipa Moquegua Tacna Apurímac
+- 1 0 - 0
+44 113 7 34 37
+6 4 3 6 4
+50 118 10 40 41
+N° de servicios 21 N° de servicios 1297 N° de servicios 104 Total de 1422
+control previo control de control servicios
+simultáneo posterior
+FUENTE: Sistemas de servicios de control de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 31 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+04
+Conclusiones
+• A diciembre de 2022 se tiene un total de 1879 obras paralizadas a nivel nacional, con un importe de inversión ascendente
+S/ 21 mil 595 millones.
+• Las obras paralizadas correspondientes al marco normativo de la Reconstrucción con Cambios, a la fecha del presente
+informe, ascienden a 163 obras paralizadas, por un monto de inversión de S/ 3052 millones.
+• Las obras paralizadas correspondientes al marco normativo del D.U. Nº 008-2019 y D.L. Nº 1486, a la fecha del presente
+informe, se cuenta con 189 obras paralizadas, por un monto de inversión de S/ 1800 millones.
+• Se ejecutaron 1422 servicios de control a nivel nacional a las 1879 obras paralizadas, de los cuales, el 91.2% (1297)
+corresponde a servicios de control simultáneo, el 7.3% (104) a control posterior y el 1.5% (21) a control previo.
+31
+
+=== pagina 32 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+ANEXO N° 1
+Principales obras paralizadas por departamento
+A modo de referencia, se presentan las quince principales obras paralizadas en cada departamento, tomando en
+consideración el monto de inversión involucrado (costo actualizado) y nivel de gobierno.
+A M A Z O N A S LORETO
+ECUADOR
+Condorcanqui
+N
+Bagua
+Bongara
+Utcubamba
+Chhaaacchhhaappooyyyaaaassss
+Luya
+Rodriguez
+de Mendoza
+CAJAMARCA
+32
+TABLA 1. PRINCIPALES OBRAS PARALIZADAS EN AMAZONAS
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declarada por la
+gobierno
+S/ entidad
+PROGRAMA
+AMPLIACIÓN Y REMODELACIÓN DE LOS
+NACIONAL DE
+2088619 SERVICIOS DEL CENTRO DE SALUD HUAM-PAMI 57 466 574.00 Nacional Otros
+INVERSIONES EN
+- ETAPA RI
+SALUD - PRONIS
+PROGRAMA
+AMPLIACIÓN Y REMODELACIÓN DEL CENTRO DE NACIONAL DE
+2088619 57 466 574.00 Nacional Otros
+SALUD TINGO - ETAPA RI INVERSIONES EN
+SALUD - PRONIS
+PROGRAMA DE
+MEJORAMIENTO DEL SISTEMA DE RIEGO DESARROLLO
+Discrepancias,
+2166853 NARANJOS-CANAL EL TIGRE-UTCUBAMBA- PRODUCTIVO 8 708 475.14 Nacional
+Controversias y arbitraje
+AMAZONAS AGRARIO RURAL -
+AGRO RURAL
+SERVICIO NACIONAL
+CONSTRUCCIÓN DE INFRAESTRUCTURA DE CAPACITACIÓN
+Incumplimiento de
+2150105 EDUCATIVA EN LAS COMUNIDADES NATI-VAS DE PARA LA 8 506 169.73 Nacional
+contrato
+MAMAYAQUE Y HUAMPAMI, REGIÓN AMAZONAS INDUSTRIA DE LA
+CONSTRUCCIÓN
+AMPLIACIÓN Y MEJORAMIENTO DE LOS PROGRAMA
+SISTEMAS DE AGUA POTABLE Y SANEA-MIENTO NACIONAL DE Incumplimiento de
+2198268 4 875 715.37 Nacional
+DEL CASERÍO CHALLUAYACU, DISTRITO DE SANEAMIENTO contrato
+CUMBA - UTCUBAMBA – AMAZONAS RURAL
+
+=== pagina 33 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE VÍAS DEPARTAMENTA-LES
+AM-100, EMP. AM-101(BAGUA) - LA PECA;
+AM- 102, EMP. AM-101(DV. BAGUA GRANDE) -
+JOSÉ OLAYA - EMP. PE-5N (PTO. NARANJITOS);
+GOBIERNO REGIONAL Discrepancias,
+2196411 RUTA: AM-105, EMP. PE-5N (DV. S. M. DE 145 132 816.66 Regional
+DE AMAZONAS controversias y arbitraje
+PORRAS) - EMP. AM-103(LONYA GRANDE), PROV.
+BAGUA Y UTCUBAMBA - AMAZONAS. FASE III:
+CONSERVACIÓN VIAL POR NIVELES DE SERVICIO
+ANTES DEL MEJORAMIENTO
+CREACIÓN DEL CAMINO VECINAL TRAMO,
+BALSAS - HUYALE CHICO - HUYALE GRANDE, GOBIERNO REGIONAL
+2273568 4 260 951.92 Regional Otros
+DISTRITO DE BALSAS - CHACHAPOYAS - DE AMAZONAS
+AMAZONAS
+CREACIÓN DEL CAMINO VECINAL TRAMO,
+BALSAS - HUYALE CHICO - HUYALE GRAN-DE, GOBIERNO REGIONAL Incumplimiento de
+2311105 854 435.11 Regional
+DISTRITO DE BALSAS - CHACHAPOYAS - DE AMAZONAS contrato
+AMAZONAS
+MEJORAMIENTO, AMPLIACIÓN Y REHABILI-
+TACIÓN DEL SERVICIO DE AGUA POTABLE, MUNICIPALIDAD
+2226480 ALCANTARILLADO Y TRATAMIENTO DE AGUAS PROVINCIAL DE 72 731 904.00 Local Otros
+SERVIDAS DE LA CIUDAD DE CHACHAPOYAS, CHACHAPOYAS
+PROVINCIA DE CHACHAPOYAS - AMAZONAS
+CREACIÓN, MEJORAMIENTO DEL SISTEMA DE
+AGUA POTABLE, SISTEMA DE SANEAMIENTO
+33
+MIXTO DE LAS COMUNIDADES DE TAYUNTSA,
+MUNICIPALIDAD
+JOSÉ OLAYA, SAN PEDRO, UCHICHIANGOS, Discrepancias,
+2345794 PROVINCIAL DE 24 369 636.16 Local
+PUERTO TUNDUSA, TUNDUSA CENTRO, controversias y arbitraje
+CONDORCANQUI
+SAWIENTSA, NUEVA ALIANZA, CHAPIS Y
+YANTANAENTSA, NIEVA PROVINCIA DE
+CONDORCANQUI AMAZONAS
+MEJORAMIENTO DEL SISTEMA INTEGRAL DE
+MUNICIPALIDAD
+AGUA POTABLE DE CAJARURO Y CASERÍOS,
+2065907 DISTRITAL DE CAJA- 22 556 668.77 Local Conflictos sociales
+DISTRITO DE CAJARURO-UTCUBAMBA-
+RURO
+AMAZONAS.
+MEJORAMIENTO, INSTALACIÓN DEL SISTEMA DE
+AGUA POTABLE Y ALCANTARILLADO EN LONYA
+MUNICIPALIDAD
+GRANDE Y SUS CENTROS POBLADOS DE NUEVA
+2226496 DISTRITAL DE LONYA 15 801 522.00 Local Eventos climáticos
+YORK, ROBLEPAMPA, SANTA CRUZ, HUAYLLA Y
+GRANDE
+YUNGAY LONYA GRANDE, DISTRITO DE LONYA
+GRANDE UTCUBAMBA AMAZONAS
+CONSTRUCCIÓN DE PISTAS Y VEREDAS DE
+ACCESO A LA CIUDAD DE CHACHAPOYAS
+MUNICIPALIDAD
+POR EL JR. TRES ESQUINAS, JR. SOCIEGO
+2144387 PROVINCIAL DE 13 958 184.48 Local Otros
+Y CUADRAS ALEDAÑAS DISTRITO DE
+CHACHAPOYAS
+CHACHAPOYAS, PROVINCIA DE CHACHAPOYAS
+- AMAZONAS
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 34 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Á N C A S H
+N
+LA LIBERTAD
+Pallasca
+Sihuas
+Corongo
+Pomabamba
+Huaylas M. Luzuriaga
+Santa
+C. R. Fitzcarrald
+Carhuaz
+Yungay Asunción A. Raymondi
+Huari
+Casma
+Recuay
+Bolognesi
+Huarmey
+Ocros
+OCÉAN O
+PACÍFICO
+TABLA 2. PRINCIPALES OBRAS PARALIZADAS EN ÁNCASH
+34
+Costo
+Nivel de Causal de paralización
+CUI Descripción de la obra Entidad actualizado
+gobierno declarada por la entidad
+S/
+MEJORAMIENTO Y REHABILITACIÓN DE LA
+INFRAESTRUCTURA VIAL PAQUETE 5R ÁNCASH
+TRAMO 1: EMP. PE 1NQ (DV. LACRAMARCA)
+LA AGUADA LAS CRUCES LACRAMARCA MINISTERIO DE
+Falta de recursos
+2426977 SANTA ANA QUITACOCHA HUAYLAS EMP. PE TRANSPORTES Y 263 777 635.08 Nacional
+financieros y liquidez
+3N (SAN DIEGO) (L158.00 KM) TRAMO 2: COMUNICACIONES
+EMP. PE 3N (HUACASCHUQUE) LACABAMBA
+DV. CONCHUCOS PAMPAS CONSUZO L.D. LA
+LIBERTAD (LI 115 A PAMPA EL CÓNDOR)
+MEJORAMIENTO Y REHABILITACIÓN DE LA
+INFRAESTRUCTURA VIAL PAQUETE 3R ÁNCASH:
+MINISTERIO DE
+TRAMO EMPALME PE16 (DV. OCROS) TICLLOS Falta de recursos
+2426974 TRANSPORTES Y 139 071 055.96 Nacional
+CORPANQUI CAJAMARQUILLA TACRA OCROS financieros y liquidez
+COMUNICACIONES
+RINCONADA HUANCHAY HUAYLILLAS GRANDE
+(EMPALME PE16A) (L138.15 KM)
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+DEL ESTABLECIMIENTO DE SALUD PROGRESO, GOBIERNO REGIONAL Incumplimiento de
+2285573 76 393 859.92 Nacional
+DEL DISTRITO DE CHIMBOTE, PROVINCIA DE DE ÁNCASH contrato
+SANTA, DEPARTAMENTO DE ÁNCASH
+MEJORAMIENTO DE LA CARRETERA SHUPLUY
+- PRIMORPAMPA - BELLAVISTA - ANTA PROVÍAS
+2175072 62 022 885.01 Nacional Otros
+- SAN ISIDRO - PONCOS - KOCHAYOC - DESCENTRALIZADO
+CHACLAHUAIN - ORATORIO
+REHABILITACIÓN DE PUENTE SANTA ROSA
+MINISTERIO DE
+Y ACCESOS (REHABILITACIÓN DE PUENTES Incumplimiento de
+2440689 TRANSPORTES Y 30 802 889.56 Nacional
+PAQUETE 8 - HUANCAVELICA 2, ICA 2 Y contrato
+COMUNICACIONES
+ÁNCASH 2)
+
+=== pagina 35 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO Y AMPLIACIÓN DEL SISTEMA
+DE ABASTECIMIENTO DE AGUA POTABLE Y SUB-REGIÓN EL Incumplimiento de
+2114642 27 139 328.15 Regional
+ALCANTARILLADO EN LA CIUDAD DE CASMA - PACIFICO contrato
+ÁNCASH.
+CONSTRUCCIÓN DE COLISEO CERRADO EN
+SUB-REGIÓN EL
+2115456 EL COMPLEJO GRAN CHAVÍN DE CHIMBOTE, 26 259 485.94 Regional Otros
+PACIFICO
+PRO¬VINCIA DE SANTA - ÁNCASH
+MEJORAMIENTO DEL CANAL DE IRRIGACIÓN
+YACU MATU, SANTAC CARAP Y MULANA, GOBIERNO REGIONAL Falta de recursos
+2319347 12 356 091.66 Regional
+DISTRITOS DE SHILLA, AMASHCA, TINCO Y DE ÁNCASH financieros y liquidez
+CARHUAZ, PROVINCIA DE CARHUAZ - ÁNCASH
+MEJORAMIENTO DEL DESEMBARCADERO
+PESQUERO ARTESANAL CULEBRAS, DISTRITO DE SUB-REGIÓN EL Incumplimiento de
+2107979 7 766 507.51 Regional
+CULEBRAS, PROVINCIA DE HUARMEY, REGIÓN PACÍFICO contrato
+ÁNCASH
+MEJORAMIENTO Y AMPLIACIÓN DE LOS
+SE¬RVICIOS EDUCATIVOS DE LAS INSTITU-
+GOBIERNO REGIONAL Incumplimiento de
+2253370 CIONES EDUCATIVAS N° 570 Y N° 84140 DE 7 034 547.84 Regional
+DE ÁNCASH contrato
+PALLAHUA¬SI, DISTRITO DE CASCA - MARISCAL
+LUZURIAGA - ÁNCASH
+RECUPERACIÓN DE LOS SERVICIOS
+AMBIENTALES, MEDIANTE LA INSTALACIÓN DE MUNICIPALIDAD
+2166420 UN SISTEMA FORESTAL Y CONSERVACIÓN DE DISTRITAL DE SAN 56 723 360.87 Local Otros
+SUELOS EN EL ÁMBITO DEL DISTRITO DE SAN MARCOS - HUARI
+35
+MARCOS, HUARI ÁNCASH
+CREACIÓN DE MUROS DE CONTENCIÓN EN EL MUNICIPALIDAD
+2178377 BARRIO SAN ISIDRO, DISTRITO DE SAN MARCOS DISTRITAL DE SAN 18 587 792.96 Local Otros
+- HUARI - ÁNCASH MARCOS - HUARI
+MEJORAMIENTO DE LOS SERVICIOS DE
+TRANSITABILIDAD VEHICULAR Y PEATONAL DEL
+MUNICIPALIDAD
+CASERÍO DE LUCMA EN EL C.P. LA MERCED
+2361777 DISTRITAL DE SAN 10 632 438.08 Local Otros
+DE GAUCHO DEL DISTRITO DE SAN MARCOS
+MARCOS - HUARI
+- PROVINCIA DE HUARI - DEPARTAMENTO DE
+ÁNCASH
+CREACIÓN DEL COMPLEJO DEPORTIVO DE LA MUNICIPALIDAD
+Incumplimiento de
+2183720 LOCALIDAD DE SAN MARCOS, DISTRITO DE SAN DISTRITAL DE SAN 9 980 180.82 Local
+contrato
+MARCOS – HUARI - ÁNCASH MARCOS - HUARI
+MEJORAMIENTO DE LAS VÍAS DE LA ZONA
+MUNICIPALIDAD
+2261508 URBANA DE LA LOCALIDAD DE UCO, DISTRITO 9 129 002.91 Local Otros
+DISTRITAL DE UCO
+DE UCO - HUARI - ÁNCASH
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 36 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+A P U R Í M A C
+N
+CUSCO
+Chincheros
+Abancay
+Andahuaylas
+Grau Cotabambas
+Aymaraes Antabamba
+AYACUC HO
+AREQUIPA
+TABLA 3. PRINCIPALES OBRAS PARALIZADAS EN APURÍMAC
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+36
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD PROGRAMA
+DEL CENTRO DE SALUD HAQUIRA, DISTRITO DE NACIONAL DE Deficiencia en el
+2372478 35 921 226.95 Nacional
+HAQUIRA, PROVINCIA DE COTABAMBAS, REGIÓN INVERSIONES EN Expediente Técnico
+APURÍMAC SALUD - PRONIS
+MEJORAMIENTO DE CAMINO VECINAL
+PACOBAMBA-HUIRONAY-CCERABAMBA-ABRA PROVÍAS Falta de recursos
+2190450 26 254 712.05 Nacional
+CUSQUEÑA, DISTRITO DE PACOBAMBA- DESCENTRALIZADO financieros y liquidez
+ANDAHUAYLAS-APURÍMAC
+MEJORAMIENTO DE LOS SERVICIOS DE LA
+BIBLIOTECA CENTRAL DE LA UNIVERSIDAD UNIVERSIDAD
+Discrepancias,
+2194921 NACIONAL JOSÉ MARÍA ARGUEDAS DE NACIONAL JOSÉ 11 201 532.14 Nacional
+controversias y arbitraje
+ANDAHUAYLAS, DISTRITO DE SAN JERÓNIMO, MARÍA ARGUEDAS
+PROVINCIA DE ANDAHUAYLAS - APURÍMAC
+MEJORAMIENTO DEL ENTORNO DEL CAMPUS UNIVERSIDAD
+DE LA CIUDAD UNIVERSITARIA DE LA NACIONAL MICAELA Incumplimiento de
+2216942 8 438 059.32 Nacional
+UNIVERSIDAD NACIONAL MICAELA BASTIDAS DE BASTIDAS DE contrato
+APURÍMAC APURÍMAC
+MEJORAMIENTO DE LOS SERVICIOS
+DE TECNOLOGÍAS DE INFORMACIÓN Y
+UNIVERSIDAD
+COMUNICACIÓN DE LA UNIVERSIDAD NACIONAL
+2382081 NACIONAL JOSÉ 7 043 065.43 Nacional Otros
+JOSÉ MARÍA ARGUEDAS, EN EL DISTRITO DE
+MARÍA ARGUEDAS
+SAN JERÓNIMO, ANDAHUAYLAS, APURÍMAC-
+SEGUNDA ETAPA
+FORTALECIMIENTO DE LA ATENCIÓN DE LOS
+SERVICIOS DE SALUD EN EL SEGUNDO NIVEL
+GOBIERNO REGIONAL Incumplimiento de
+2078213 DE ATENCIÓN, CATEGORÍA II-2, 6° NIVEL 160 142 696.06 Regional
+DE APURÍMAC contrato
+DE COMPLEJIDAD NUEVO HOSPITAL DE
+ANDAHUAYLAS - APURÍMAC.
+MEJORAMIENTO DE LOS SERVICIOS
+GOB. REG.
+EDUCATIVOS DE EDUCACION BÁSICA ESPECIAL
+2329289 APURÍMAC- SUB 22 477 366.22 Regional Otros
+N 13 DEL DISTRITO DE CHINCHEROS, PROVINCIA
+REGIÓN CHINCHEROS
+DE CHINCHEROS, REGIÓN APURÍMAC
+
+=== pagina 37 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE LOS SERVICIOS DE
+PREVISIÓN DE PRODUCTOS AGROPECUARIOS
+GERENCIA SUB-
+2329305 EN LA FERIA DEL DISTRITO DE ANDAHUAYLAS, 19 377 531.88 Regional Interferencias
+REGIONAL CHANKA
+PROVINCIA DE ANDAHUAYLAS- REGIÓN DE
+APURÍMAC
+CONSTRUCCIÓN DE DEFENSA RIBEREÑA DE
+LA MARGEN DERECHA DEL RÍO PAMPAS Y
+TRIBUTARIOS ENTRE LAS LOCALIDADES DE GOBIERNO REGIONAL
+2162872 12 896 745.46 Regional Otros
+SAN CRISTÓBAL Y AHUAYRO, DISTRITOS DE DE APURÍMAC
+HUACCANA Y CHINCHEROS, PROVINCIA DE
+CHINCHEROS, REGIÓN APURÍMAC
+INSTALACIÓN DEL COLISEO CERRADO EN LA
+GERENCIA SUB-
+2162870 LOCALIDAD DE TALAVERA DEL, DISTRITO DE 9 801 984.90 Regional Otros
+REGIONAL CHANKA
+TALAVERA - ANDAHUAYLAS - APURÍMAC
+MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO
+MUNICIPALIDAD
+DE AGUA POTABLE Y ALCANTARILLADO EN Incumplimiento de
+2342226 DISTRITAL DE 13 255 858.57 Local
+LA COMUNIDAD DE CCASA, DISTRITO DE contrato
+CHALLHUAHUACHO
+CHALLHUAHUACHO - COTABAMBAS - APURÍMAC
+MEJORAMIENTO DE LOS SERVICIOS
+MUNICIPALIDAD
+EDUCATIVOS DE NIVEL INICIAL EN EL ÁREA
+2223409 PROVINCIAL DE 10 883 523.97 Local Otros
+URBANA DEL DISTRITO DE ABANCAY, PROVINCIA
+ABANCAY
+DE ABANCAY - APURÍMAC
+MEJORAMIENTO DE LOS CENTROS DE SALUD
+MUNICIPALIDAD
+NIVEL I-3 DE LA MICRO RED SANTA ROSA
+37 2181622 PROVINCIAL DE 10 228 793.89 Local Otros
+DISTRITO DE LUCRE Y TINTAY, PROVINCIA DE
+AYMARAES
+AYMARAES - APURÍMAC
+MEJORAMIENTO, AMPLIACIÓN DEL SISTEMA
+DE AGUA POTABLE Y SANEAMIENTO EN
+LOS ANEXOS COTANERAE, CHACANTA,
+MUNICIPALIDAD
+HUAYLLAHUIRQUI, ÑUÑOPATA,
+2333722 PROVINCIAL DE 9 301 442.15 Local Eventos climáticos
+CCONCHAPALLANA, CURANCO TTASTAYOC,
+COTABAMBAS
+HUINCHO, VENTANA, PUMAMARCA Y
+ÑUÑOHUAYOC DEL CP PUMAMARCA, DISTRITO
+DE TAMBOBAMBA - COTABAMBAS - APURÍMAC
+MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO
+DE SANEAMIENTO BÁSICO, EN LOS CENTROS MUNICIPALIDAD
+2200574 POBLADOS RURALES DE AUQUIBAMBA, DISTRITAL DE 8 152 361.55 Local Otros
+COTARMA Y CHALHUANI DEL DISTRITO DE PICHIRHUA
+PICHIRHUA - ABANCAY - APURÍMAC
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 38 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+A R E Q U I P A
+CUSCO N
+APUR ÍMAC
+AYA CUCHO
+La Unión
+Castilla
+Condesuyos Caylloma
+Caraveli
+Arequipa
+Camana
+OCÉANO
+PACÍFICO Islay
+TABLA 4. PRINCIPALES OBRAS PARALIZADAS EN AREQUIPA *
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+38
+PROYECTO
+ESPECIAL DE
+INFRAESTRUCTURA Discrepancias,
+2283964 OBRA N° 06: PUENTE FREYRE (6 PUENTES) 173 719 815.28 Nacional
+DE TRANSPORTE controversias y arbitraje
+NACIONAL - PROVÍAS
+NACIONAL
+REHABILITACIÓN DE PUENTE BETANCURT
+MINISTERIO DE
+Y ACCESOS (REHABILITACIÓN DE PUENTES Incumplimiento de
+2436560 TRANSPORTES Y 20 079 489.38 Nacional
+PAQUETE 5 HUANCAVELICA-AYACUCHO- contrato
+COMUNICACIONES
+AREQUIPA 2)
+REHABILITACIÓN DE PUENTE SAJARHUA Y
+MINISTERIO DE
+ACCESOS (REHABILITACIÓN DE PUENTES Incumplimiento de
+2436559 TRANSPORTES Y 9 773 095.40 Nacional
+PAQUETE 5 HUANCAVELICA-AYACUCHO- contrato
+COMUNICACIONES
+AREQUIPA 2)
+REHABILITACIÓN DE PUENTE MATADERO Y
+MINISTERIO DE
+ACCESOS (REHABILITACIÓN DE PUENTES Incumplimiento de
+2436558 TRANSPORTES Y 8 668 057.46 Nacional
+PAQUETE 5 - HUANCAVELICA-AYACUCHO- contrato
+COMUNICACIONES
+AREQUIPA 2)
+REHABILITACIÓN DE PUENTE ALTO MOLINO MINISTERIO DE
+2430028 Y ACCESOS (REHABILITACIÓN DE PUENTES TRANSPORTES Y 6 110 414.07 Nacional Otros
+PAQUETE 1 - AREQUIPA) COMUNICACIONES
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+GOBIERNO REGIONAL Incumplimiento de
+2279710 DEL HOSPITAL CAMANÁ, DISTRITO Y PROVINCIA 93 788 922.84 Regional
+DE AREQUIPA contrato
+DE CAMANÁ - REGIÓN AREQUIPA
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+DEL ESTABLECIMIENTO DE SALUD COTAHUASI, GOBIERNO REGIONAL Discrepancias,
+2279439 73 766 927.38 Regional
+DISTRITO COTAHUASI, PROVINCIA LA UNIÓN, DE AREQUIPA controversias y arbitraje
+REGIÓN AREQUIPA
+
+=== pagina 39 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DEL CAMINO VECINAL ALTO
+MOLINO LA BARRERA, PROG. 0 000 20 100, GOBIERNO REGIONAL Incumplimiento de
+2407684 26 277 024.55 Regional
+DISTRITO DE RÍO GRANDE - PROVINCIA DE DE AREQUIPA contrato
+CONDESUYOS - DEPARTAMENTO DE AREQUIPA
+MEJORAMIENTO DEL SERVICIO DE
+TRANSITABILIDAD VEHICULAR EN LA VÍA
+DEPARTAMENTAL AR-107 KM 0.000 HASTA GOBIERNO REGIONAL
+2407520 14 660 915.09 Regional Eventos climáticos
+KM 17.859 PAMPACOLCA DV. TAGRE TIPAN DE AREQUIPA
+DISTRITO PAMPACOLCA - PROVINCIA CASTILLA
+- DEPARTAMENTO AREQUIPA
+MEJORAMIENTO Y RECUPERACIÓN DEL
+SERVICIO DE TRANSITABILIDAD DE LA VÍA RURAL
+GOBIERNO REGIONAL Incumplimiento de
+2380557 AR-603 Y AR 606 DISTRITO DE PAMPAMARCA 13 102 304.55 Regional
+DE AREQUIPA contrato
+HUAYNACOTAS, PROVINCIA LA UNIÓN REGIÓN
+AREQUIPA - I ETAPA
+INSTALACIÓN DE LOS SISTEMAS DE AGUA
+POTABLE Y DESAGÜE EN CIUDAD MAJES
+MUNICIPALIDAD Incumplimiento de
+2132733 MÓDULOS A, B, C, D, E, F Y G Y VILLA 125 531 077.63 Local
+DISTRITAL DE MAJES contrato
+INDUSTRIAL, DISTRITO DE MAJES - CAYLLOMA -
+AREQUIPA II ETAPA
+AMPLIACIÓN Y RENOVACIÓN Y MEJORAMIENTO
+DEL SISTEMA DE AGUA POTABLE Y MUNICIPALIDAD
+2166795 ALCANTARRILLADO DE CHIVAY PROVINCIA DE PROVINCIAL DE 26 163 757.16 Local Otros
+CAYLLOMA AREQUIPA COMPONENTES REDES CAYLLOMA
+39 DE AGUA Y DESAGÜE III ETAPA
+MEJORAMIENTO Y AMPLIACIÓN DEL SISTEMA
+DE AGUA POTABLE Y ALCANTARILLADO DE LAS
+MUNICIPALIDAD Falta de recursos
+2309952 LOCALIDADES DE OCOÑA Y LOS ANEXOS DE 22 473 053.47 Local
+DISTRITAL DE OCOÑA financieros y liquidez
+PUMACOTO, EL PUENTE Y CHULI DEL DISTRITO
+DE OCOÑA, PROVINCIA DE CAMANÁ AREQUIPA
+MEJORAMIENTO Y AMPLIACIÓN DEL SISTEMA
+DE AGUA POTABLE Y ALCANTARILLADO DE LA MUNICIPALIDAD
+2148923 LOCALIDAD DE JOSÉ MARÍA QUÍMPER Y LOS DISTRITAL DE JOSÉ 17 766 313.24 Local Otros
+ANEXOS DE HUACAPUY Y EL PUENTE DISTRITO MARÍA QUÍMPER
+DE JOSÉ MARÍA QUÍMPER - CAMANÁ
+CREACIÓN DE LA PISCINA MUNICIPAL EN EL
+MUNICIPALIDAD
+PUEBLO JOVEN UPIS DEL CARMEN, DISTRITO DE Incumplimiento de
+2330240 DISTRITAL DE 12 169 906.71 Local
+UCHUMAYO, PROVINCIA DE AREQUIPA, AREQUIPA contrato
+UCHUMAYO
+- 1RA ETAPA
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+(*) El proyecto Majes Siguas II no forma parte del listado, debido a la firma de la adenda del contrato de concesión efectuada en Julio 2022
+a fin de reactivar la construcción del proyecto de irrigación.
+
+=== pagina 40 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+A Y A C U C H O
+Huanta
+CUSCO
+La Mar
+Huuuaaammmaaanga
+Cangallo
+Huanca Victor Fajardo Vilcashuamán
+Sancos
+Sucre
+Lucanas
+N Parinacochas
+Paúcar del
+Sara Sara
+AREQUIPA
+OCÉANO
+PACÍFICO
+TABLA 5. PRINCIPALES OBRAS PARALIZADAS EN AYACUCHO
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+REHABILITACIÓN DEL CAMINO VECINAL:
+PROVÍAS
+40 2226621 AUCARA-LUREN-PAMPAMARCA, DISTRITO DE 15 255 153.16 Nacional Otros
+DESCENTRALIZADO
+AUCARA-LUCANAS-AYACUCHO
+CONSTRUCCIÓN DE REPRESA Y SISTEMA
+PROGRAMA
+DE RIEGO TANTAR EN LA LOCALIDAD DE Incumplimiento de
+2121599 SUBSECTORIAL DE 14 066 099.51 Nacional
+CONCEPCIÓN, DISTRITO DE CONCEPCIÓN – contrato
+IRRIGACIONES - PSI
+VILCAS HUAMÁN - AYACUCHO
+INSTALACIÓN Y MEJORAMIENTO DEL SERVICIO
+PROGRAMA
+DE AGUA DEL SISTEMA DE RIEGO YANACCOCHA Discrepancias,
+2221493 SUBSECTORIAL DE 13 737 834.41 Nacional
+GRANDE, YANACCOCHA CHICO Y YURACCYACU, controversias y arbitraje
+IRRIGACIONES - PSI
+DISTRITO DE QUINUA - HUAMANGA - AYACUCHO
+INSTALACIÓN DE REPRESA YLLALLOC CENTRO PROGRAMA
+Incumplimiento de
+2180444 POBLADO RURAL DE SAN JOSÉ DE TOMATE, SUBSECTORIAL DE 10 601 474.76 Nacional
+contrato
+DISTRITO DE OCAÑA-LUCANAS-AYACUCHO IRRIGACIONES - PSI
+INSTALACIÓN DEL SERVICIO DE AGUA PARA
+PROGRAMA
+RIEGO EN LA COMUNIDAD DE IGLESIAHUASI Incumplimiento de
+2096639 SUBSECTORIAL DE 9 899 544.35 Nacional
+DEL, DISTRITO DE PARAS - CANGALLO - contrato
+IRRIGACIONES - PSI
+AYACUCHO
+AMPLIACIÓN Y MEJORAMIENTO DEL SERVICIO
+DE EDUCACIÓN SECUNDARIA EN LA I.E.P. JUAN
+GOBIERNO REGIONAL Falta de recursos
+2173260 CLÍMACO GUTIERREZ RIVERO EN EL DISTRITO 11 347 658.22 Regional
+DE AYACUCHO financieros y liquidez
+DE VILCAS HUAMÁN, PROVINCIA DE VILCAS
+HUAMÁN-AYACUCHO
+CONSTRUCCIÓN Y MEJORAMIENTO DE TROCHA
+CARROZABLE UTARI - LAGUNA CCALLACCOCHA
+GOBIERNO REGIONAL Falta de recursos
+2134737 - CHACLACCNIYOCC, DISTRITOS DE SANCOS Y 7 184 268.05 Regional
+DE AYACUCHO financieros y liquidez
+SANTIAGO DE LUCANAMARCA, PROVINCIA DE
+HUANCASANCOS - AYACUCHO
+REHABILITACIÓN Y MEJORAMIENTO DE LA GOBIERNO REGIONAL
+2058087 5 970 526.00 Regional Otros
+CARRETERA PALPA - LLAUTA - HUANCASANCOS DE AYACUCHO
+
+=== pagina 41 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO Y AMPLIACIÓN DEL PROGRAMA
+SERVICIO DE AGUA DEL SISTEMA DE RIEGO REGIONAL DE
+2291512 SIMACUCHOTAULLI DE LA COMUNIDAD DE SAN IRRIGACIÓN Y 2 909 448.50 Regional Conflictos Sociales
+JERÓNIMO DE TAULLI, DISTRITO DE CARAPO - DESARROLLO RURAL
+HUANCA SANCOS – AYACUCHO INTEGRADO
+AMPLIACIÓN Y MEJORAMIENTO DE
+LOS SERVICIOS DE EDUCACION INICIAL
+ESCOLARIZADO EN LA I.E.I. N° 414-4MX-P DEL GOBIERNO REGIONAL Falta de recursos
+2251092 2 389 079.62 Regional
+CENTRO POBLADO DE PAMPAMARCA, DISTRITO DE AYACUCHO financieros y liquidez
+DE CHUSCHI, PROVINCIA DE CANGALLO, REGIÓN
+DE AYACUCHO
+MEJORAMIENTO DE LA CAPACIDAD RESOLUTIVA
+MUNICIPALIDAD
+DEL CENTRO DE SALUD DE PAMPA CANGALLO,
+2345460 DISTRITAL DE LOS 48 536 483.87 Local Otros
+PRIMER NIVEL DE ATENCIÓN, DISTRITO DE LOS
+MOROCHUCOS
+MOROCHUCOS CANGALLO AYACUCHO
+MEJORAMIENTO DE LA CAPACIDAD OPERATIVA
+PARA LA PRESTACIÓN DE SERVICIOS PÚBLICOS
+MUNICIPALIDAD Falta de recursos
+2235392 DE LA MUNICIPALIDAD DISTRITAL DE SOCOS, 9 442 674.48 Local
+DISTRITAL DE SOCOS financieros y liquidez
+DISTRITO DE SOCOS - HUAMANGA - AYACUCHO
+- ETAPA II
+AMPLIACIÓN Y MEJORAMIENTO DEL SERVICIO
+EDUCATIVO DE SIETE INSTITUCIONES
+EDUCATIVAS DE NIVEL PRIMARIO EN LOS MUNICIPALIDAD
+2118274 CENTROS POBLADOS DE CUCULIPAMPA, DISTRITAL DE ANCO - 8 823 571.96 Local Otros
+41 LECHEMAYO, AMARGURA, SAN ANTONIO, LA MAR
+PATERINE, VILLA UNIÓN, ANCHIHUAY, DISTRITO
+DE ANCO - LA MAR - AYACUCHO
+INSTALACIÓN DEL SISTEMA DE IRRIGACIÓN
+MUNICIPALIDAD
+2236961 SARICA GRANDE DEL DISTRITO DE SAISA - 6 347 111.25 Local Otros
+DISTRITAL DE SAISA
+LUCANAS – AYACUCHO
+MEJORAMIENTO DE LOS SERVICIOS PROVISTOS
+MUNICIPALIDAD
+POR EL MERCADO DE ABASTOS DE LA Falta de recursos
+2302974 DISTRITAL DE 6 239 896.67 Local
+LOCALIDAD DE TAMBO, DISTRITO DE TAMBO, financieros y liquidez
+TAMBO-LA MAR
+PROVINCIA DE LA MAR - AYACUCHO- I ETAPA.
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 42 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+C A J A M A R C A
+San Ignacio AMAZONAS
+Jaén
+Chota
+Hualgayoc
+Santa Cruz Celendín
+San Miguel San Pablo
+San Marcos
+Contumazá
+Cajabamba
+LA LIBERTAD
+TABLA 6. PRINCIPALES OBRAS PARALIZADAS EN CAJAMARCA
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+42
+PROGRAMA
+INSTALACIÓN DE BANDA ANCHA PARA LA
+NACIONAL DE Incumplimiento de
+2250145 CONECTIVIDAD INTEGRAL Y DESARROLLO 1 047 515 658.08 Nacional
+TELECOMUNICACIONES contrato
+SOCIAL DE LA REGIÓN CAJAMARCA
+- PRONATEL
+PROGRAMA NACIONAL
+NUEVO CENTRO DE SALUD LLUCHUBAMBA -
+2088588 DE INVERSIONES EN 48 696 233.00 Nacional Otros
+ETAPA I
+SALUD - PRONIS
+RECUPERACIÓN DE LOS SERVICIOS
+ECOSISTÉMICOS DE LA MICROCUENCA DE
+LA QUEBRADA SINCHAO, AFECTADA POR ACTIVOS MINEROS
+2403767 26 765 561.64 Nacional Conflictos sociales
+LOS PASIVOS AMBIENTALES MINEROS DE LA S.A.C.
+EX UNIDAD MINERA CLEOPATRA, DISTRITO Y
+PROVINCIA DE HUALGAYOC - CAJAMARCA
+MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO
+PROGRAMA
+DE AGUA POTABLE E INSTALACIÓN DEL
+NACIONAL DE Incumplimiento de
+2235527 SANEAMIENTO BÁSICO EN LA LOCALIDAD 8 872 668.87 Nacional
+SANEAMIENTO contrato
+DE MUSADEN, DISTRITO DE CORTEGANA -
+RURAL
+CELENDÍN - CAJAMARCA
+MEJORAMIENTO DEL CANAL DE RIEGO JESÚS PROGRAMA
+Incumplimiento de
+2141991 - CHUCO, DISTRITO DE JESUS - CAJAMARCA - SUBSECTORIAL DE 6 807 667.88 Nacional
+contrato
+CAJAMARCA IRRIGACIONES - PSI
+MEJORAMIENTO CARRETERA CA-103: EM. PE-
+06B (SANTA CRUZ DE SUCCHUBAMBA) ROMERO
+GOBIERNO REGIONAL Incumplimiento de
+2112981 CIRCA, LA LAGUNA, TONGOD, CATILLUC EMP. 155 668 187.99 Regional
+DE CAJAMARCA contrato
+PE 06 C (EL EMPALME). CAJAMARCA. SALDO
+DE OBRA.
+CONSTRUCCIÓN DE LA CARRETERA CORTEGANA
+- SAN ANTONIO - EL CALVARIO - TRES CRUCES - GOBIERNO REGIONAL
+2183268 16 836 696.06 Regional Otros
+CANDEN, DISTRITO DE CORTEGANA, PROVINCIA DE CAJAMARCA
+DE CELENDÍN - CAJAMARCA
+
+=== pagina 43 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DEL SERVICIO EDUCATIVO
+EN LAS INSTITUCIONES EDUCATIVAS DE NIVEL
+PRIMARIO EN LAS LOCALIDADES DE: EL TUCO, GOBIERNO REGIONAL Incumplimiento de
+239846 16 075 412.93 Regional
+TUCO BAJO, NUEVA ESPERANZA, LA RAMADA Y DE CAJAMARCA contrato
+SANTA ROSA, EN LA PROVINCIA DE HUALGAYOC
+- REGIÓN CAJAMARCA
+CONSTRUCCIÓN SEDE GERENCIA SUB REGIONAL GERENCIA SUB
+2022202 9 472 318.33 Regional Otros
+CHOTA REGIONAL CHOTA
+CONSTRUCCIÓN CARRETERA CHIMBÁN - PION GOBIERNO REGIONAL
+2026619 8 934 558.30 Regional Otros
+- SANTA ROSA CAJAMARCA
+MEJORAMIENTO DE LA TRANSITABILIDAD
+MUNICIPALIDAD
+VEHICULAR DE LA CARRETERA C.P. OTUZCO
+2326360 DISTRITAL DE LA 117 898 463.72 Local Conflictos sociales
+- C.P. COMBAYO, PROVINCIA DE CAJAMARCA -
+ENCAÑADA
+CAJAMARCA
+MUNICIPALIDAD
+CONSTRUCCIÓN COLISEO MULTIUSOS DE Falta de recursos
+2096330 PROVINCIAL DE 60 534 742.23 Local
+CAJAMARCA - SALDO DE OBRA financieros y liquidez
+CAJAMARCA
+REHABILITACIÓN, MEJORAMIENTO DE LA MUNICIPALIDAD
+Incumplimiento de
+2210916 CARRETERA PUERTO SALINAS-SANTA ROSA, DISTRITAL DE SANTA 20 230 648.48 Local
+contrato
+DISTRITO DE SANTA ROSA-JAÉN-CAJAMARCA ROSA - JAÉN
+MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO
+DE AGUA POTABLE Y SANEAMIENTO RURAL CON
+ARRASTRE HIDRÁULICO EN LAS COMUNIDADES MUNICIPALIDAD
+Incumplimiento de
+43 2333318 LA GRANJA, LA IRACA, MARAY, EL AYURAN, EL DISTRITAL DE 15 848 674.98 Local contrato
+SAUCE, EL OBRAJE, EL PORVENIR, CHECOS QUEROCOTO-CHOTA
+Y SHANQUIHUA, DISTRITO DE QUEROCOTO -
+CHOTA - CAJAMARCA
+CREACIÓN DEL SERVICIO DE TRANSITABILIDAD MUNICIPALIDAD
+ENTRE LAS LOCALIDADES DE CALABOCILLO DISTRITAL DE SANTO
+2310468 11 792 211.37 Local Otros
+PAN DE AZÚCAR DISTRITO DE SANTO DOMINGO DOMINGO DE LA
+DE LA CAPILLA CUTERVO CAJAMARCA CAPILLA
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 44 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+C U S C O
+UCAYAL I
+N
+MADRE
+DE DIOS
+La Convención
+Calca
+Paucartambo
+Urubamba
+Quispicanchi
+Anta
+Acomayo
+APPURÍMAC Paruro Canchis
+Canas
+Chumbivilcas
+Espinar
+AREQUIPA
+TABLA 7. PRINCIPALES OBRAS PARALIZADAS EN CUSCO
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+PROYECTO
+44 ESPECIAL DE
+REHABILITACIÓN Y MEJORAMIENTO DE LA
+INFRAESTRUCTURA Incumplimiento de
+2027711 CARRETERA PATAHUASI-YAURI-SICUANI, TRAMO: 662 096 380.59 Nacional
+DE TRANSPORTE contrato
+NEGROMAYO-YAURI-SAN GENARO
+NACIONAL - PROVÍAS
+NACIONAL
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+DEL CENTRO DE SALUD MACHUPICCHU,
+GOBIERNO REGIONAL
+2343128 DISTRITO DE MACHUPICCHU, PROVINCIA DE 41 697 728.85 Nacional Otros
+DEL CUSCO
+URUBAMBA, DEPARTAMENTO DE CUSCO - OBRA
+PRINCIPAL
+RENOVACIÓN Y MEJORAMIENTO DE SISTEMA DE UNIVERSIDAD
+AGUA POTABLE, DESAGÜE Y AGUAS PLUVIALES NACIONAL DE SAN Discrepancias,
+2093913 6 938 339.52 Nacional
+EN LA CIUDAD UNIVERSITARIA DE PERAYOC- ANTONIO ABAD DEL controversias y arbitraje
+UNSAAC CUSCO
+RENOVACIÓN DE RED PRIMARIA; EN EL
+PROCEDIMIENTO 228 OSINERGMIN POR
+SUBSANACIÓN DE DEFICIENCIAS RED MT, EN
+EMPRESA REGIONAL
+LOS DTTOS. DE LA PROV. DE COTABAMBAS DEL
+DE SERVICIO
+DPTO. DE APURÍMAC Y EN LOS DTTOS. DE LAS
+2499824 PÚBLICO DE 6 607 676.08 Nacional Otros
+PROV. DE CANAS, ACOMAYO, QUISPICANCHI,
+ELECTRICIDAD DEL
+CHUMBIVILCAS, LA CONVENCIÓN,
+SUR ESTE S.A.A.
+PAUCARTAMBO, ANTA Y EL DISTRITO DE
+SICUANI, PROVINCIA CANCHIS, DEPARTAMENTO
+CUSCO
+INSTALACIÓN DEL SISTEMA DE RIEGO POR PROGRAMA
+Incumplimiento de
+2192884 ASPERSIÓN URASANA CC.CC URASANA, SUBSECTORIAL DE 4 892 401.22 Nacional
+contrato
+DISTRITO DE VELILLE - CHUMBIVILCAS - CUSCO IRRIGACIONES - PSI
+INSTALACIÓN DEL SISTEMA DE RIEGO QUISCO PROYECTO ESPECIAL
+2156206 - DISTRITO DE ALTO PICHIGUA - PROVINCIA DE PLAN MERISS - 87 172 848.82 Regional Disponibilidad de terreno
+ESPINAR - CUSCO CUSCO
+
+=== pagina 45 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE LA INFRAESTRUCTURA
+DE RIEGO MAYOR PALLALLAJE EN LAS PROYECTO ESPECIAL
+2046089 COMUNIDADES CAMPESINAS DE URINSAYA PLAN MERISS - 69 945 947.50 Regional Disponibilidad de terreno
+Y QUEROCCOLLANA, DISTRITO COPORAQUE, CUSCO
+PROVINCIA ESPINAR
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+DEL CENTRO DE SALUD TTIO, DISTRITO DE GOBIERNO REGIONAL
+2274876 24 928 052.74 Regional Otros
+WANCHAQ, PROVINCIA DE CUSCO, REGIÓN DEL CUSCO
+CUSCO
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+EN EL ESTABLECIMIENTO DE SALUD DE LLUSCO GOBIERNO REGIONAL
+2183916 19 234 571.21 Regional Disponibilidad de terreno
+- RED CUSCO SUR, DISTRITO DE LLUSCO, DEL CUSCO
+PROVINCIA DE CHUMBIVILCAS, REGIÓN CUSCO
+DIRECCIÓN REGIONAL
+CREACIÓN DEL SISTEMA DE AGUA POTABLE Y
+DE VIVIENDA
+EVACUACIÓN DE EXCRETAS EN LA COMUNIDAD Falta de recursos
+2207089 CONSTRUCCIÓN 9 302 689.38 Regional
+CAMPESINA DE ANANSAYA, DISTRITO DE financieros y liquidez
+Y SANEAMIENTO
+CHECCA, PROVINCIA DE CANAS - CUSCO
+CUSCO
+AMPLIACIÓN, MEJORAMIENTO DE
+MUNICIPALIDAD
+LOS SISTEMAS DE AGUA POTABLE Y
+2072295 PROVINCIAL DE 17 493 018.55 Local Otros
+ALCANTARILLADO DE LA CIUDAD DE CALCA,
+CALCA
+PROVINCIA DE CALCA - CUSCO
+MEJORAMIENTO DE LA PRESTACIÓN DE
+SERVICIOS COMERCIALES DEL MERCADO MUNICIPALIDAD
+45
+2488315 SATÉLITE DE LA CIUDAD DE QUILLABAMBA DEL PROVINCIAL DE LA 16 118 630.46 Local Otros
+DISTRITO DE SANTA ANA - PROVINCIA DE LA CONVENCIÓN
+CONVENCIÓN - DEPARTAMENTO DE CUSCO
+INSTALACIÓN DE LOS SERVICIOS DE
+PROTECCIÓN CONTRA LA RADIACIÓN
+MUNICIPALIDAD
+ULTRAVIOLETA EN LAS INSTITUCIONES Incumplimiento de
+2291323 PROVINCIAL DEL 15 308 335.89 Local
+EDUCATIVAS PÚBLICAS DE LOS NIVELES INICIAL, contrato
+CUSCO
+PRIMARIA Y SECUNDARIA DE LA PROVINCIA DE
+CUSCO - CUSCO 2DA ETAPA
+MEJORAMIENTO DE LA PRESTACIÓN DE LOS
+MUNICIPALIDAD
+SERVICIOS DE SALUD EN EL PUESTO DE SALUD Falta de recursos
+2160162 DISTRITAL DE 15 204 316.73 Local
+DE IVOCHOTE, DISTRITO DE ECHARATE - LA financieros y liquidez
+ECHARATI
+CONVENCIÓN - CUSCO
+AMPLIACIÓN, MEJORAMIENTO DEL SISTEMA DE
+AGUA POTABLE E INSTALACIÓN DE LETRINAS
+PARA LAS C.C. DE CHAUPIBANDA ANEXOS DE
+MUNICIPALIDAD
+PAMPALLACTA, LECCOTERA Y CHIARAJE C.C. DE Falta de recursos
+2236541 DISTRITAL DE 13 534 354.39 Local
+CHOCCAYHUA, C.C. DE HUINCHIRI SECTOR DE financieros y liquidez
+QUEHUE
+HUINCHIRI Y CHIRUCCOLLO Y C.C. DE CCOLLANA
+QUEHUE ANEXOS DE PERCCARO, DISTRITO DE
+QUEHUE, PROVINCIA DE CANAS - CUSCO
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 46 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+H U A N C A V E L I C A
+N
+JUNÍN
+Tayacaja
+LIMA Churcampa
+Huancavelica
+Castrovireyna Acobamba
+Huaytara
+AYACUCHO
+ICA
+TABLA 8. PRINCIPALES OBRAS PARALIZADAS EN HUANCAVELICA
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+PROGRAMA
+46 DEL HOSPITAL REGIONAL ZACARÍAS CORREA
+NACIONAL DE Deficiencia en el
+2354781 VALDIVIA DE HUANCAVELICA, DISTRITO DE 342 912 239.08 Nacional
+INVERSIONES EN Expediente Técnico
+ASCENSIÓN, PROVINCIA Y DEPARTAMENTO DE
+SALUD - PRONIS
+HUANCAVELICA
+CONSTRUCCIÓN DE LA SALA DE USOS PROGRAMA
+MÚLTIPLES, PATOLOGÍA CLÍNICA Y NACIONAL DE
+2088621 29 743 617.43 Nacional Otros
+ADMINISTRACIÓN DEL CENTRO DE SALUD INVERSIONES EN
+QUICHUAS - ETAPA R - 1 SALUD - PRONIS
+CREACIÓN DE LOS SERVICIOS BÁSICOS Y UNIVERSIDAD
+URBANÍSTICOS EN LA CIUDAD UNIVERSITARIA NACIONAL
+DE LA UNIVERSIDAD NACIONAL AUTÓNOMA AUTÓNOMA DE Deficiencia en el
+2350626 18 207 979.30 Nacional
+DE TAYACAJA DANIEL HERNÁNDEZ MORILLO, TAYACAJA DANIEL Expediente Técnico
+DISTRITO DE AHUAYCHA- PROVINCIA DE HERNÁNDEZ
+TAYACAJA - REGIÓN HUANCAVELICA MORILLO
+MEJORAMIENTO Y AMPLIACIÓN DE IRRIGACIÓN
+PROYECTO ESPECIAL Discrepancias,
+2104591 DEL VALLE INTERANDINO DE CHINCHO, DISTRITO 15 350 911.19 Nacional
+SIERRA CENTRO SUR controversias y arbitraje
+DE CHINCHO - ANGARAES - HUANCAVELICA
+MEJORAMIENTO DE LOS SERVICIOS
+ACADÉMICOS DE EDUCACIÓN SUPERIOR
+UNIVERSITARIA Y ADMINISTRATIVO EN LA EAP UNIVERSIDAD
+Incumplimiento de
+2235892 DE INGENIERÍA AMBIENTAL Y SANITARIA DE LA NACIONAL DE 14 731 306.11 Nacional
+contrato
+UNIVERSIDAD NACIONAL DE HUANCAVELICA HUANCAVELICA
+- DISTRITO DE HUANCAVELICA - REGIÓN
+HUANCAVELICA
+MEJORAMIENTO DE LOS SERVICIOS DE
+SALUD DEL ESTABLECIMIENTO DE SALUD
+GOBIERNO REGIONAL Incumplimiento de
+2331865 CASTROVIRREYNA DEL DISTRITO Y PROVINCIA 61 571 004.87 Regional
+DE HUANCAVELICA contrato
+DE CASTROVIRREYNA, DEPARTAMENTO DE
+HUANCAVELICA
+
+=== pagina 47 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE LA TRANSITABILIDAD
+VEHICULAR Y PEATONAL A TRAVÉS DE PISTAS
+GERENCIA SUB
+Y VEREDAS DE LAS VÍAS PRINCIPALES Y Incumplimiento de
+2335878 REGIONAL DE 13 292 607.30 Regional
+SECUNDARIOS DEL CENTRO POBLADO RURAL contrato
+ACOBAMBA
+DE SAN MARTÍN DE MAYUNMARCA, DISTRITO DE
+ANDABAMBA - ACOBAMBA - HUANCAVELICA
+MEJORAMIENTO DE LA CAPACIDAD OPERATIVA
+Y RESOLUTIVA DE LOS SERVICIOS DEL CENTRO GOBIERNO REGIONAL Falta de recursos
+2140940 12 112 056.26 Regional
+DE SALUD DE PAZOS, DISTRITO DE PAZOS - DE HUANCAVELICA financieros y liquidez
+TAYACAJA- HUANCAVELICA
+MEJORAMIENTO E IMPLEMENTACIÓN DE LA
+COMPAÑÍA DE BOMBEROS VOLUNTARIOS N° 56 GOBIERNO REGIONAL
+2232060 9 299 301.56 Regional Otros
+DEL DISTRITO DE HUANCAVELICA, PROVINCIA DE DE HUANCAVELICA
+HUANCAVELICA - HUANCAVELICA
+AMPLIACIÓN Y MEJORAMIENTO DEL SISTEMA
+DE AGUA POTABLE Y SANEAMIENTO DE LA
+GOBIERNO REGIONAL
+2195703 COMUNIDAD CAMPESINA DE CALQUI CHICO, 7 591 619.68 Regional Eventos climáticos
+DE HUANCAVELICA
+DISTRITO DE HUANCAVELICA, PROVINCIA DE
+HUANCAVELICA - HUANCAVELICA
+INSTALACIÓN DE LA HACIENDA DE LA JUVENTUD
+MUNICIPALIDAD
+EN LA LOCALIDAD DE ACOBAMBA, DISTRITO
+2219933 PROVINCIAL DE 11 851 752.46 Local Otros
+DE ACOBAMBA, PROVINCIA DE ACOBAMBA -
+ACOBAMBA
+HUANCAVELICA I Y II ETAPA
+MEJORAMIENTO Y AMPLIACIÓN DE SERVICIOS
+47
+TURÍSTICOS PÚBLICOS EN EL COMPLEJO MUNICIPALIDAD
+Discrepancias,
+2300481 ECOTURÍSTICO SEQSACHACA, DISTRITO DE PROVINCIAL DE 11 127 675.39 Local
+controversias y arbitraje
+HUANCAVELICA, PROVINCIA DE HUANCAVELICA HUANCAVELICA
+- HUANCAVELICA
+MEJORAMIENTO DEL SERVICIO DE AGUA
+POTABLE E INSTALACIÓN DE SERVICIOS DE MUNICIPALIDAD
+SANEAMIENTO EN LAS COMUNIDADES DE DISTRITAL DE
+2283342 10 482 172.92 Local Otros
+YANACOCHA, INCAPACCHAN, HUAYLLAPAMPA POMACOCHA
+Y YANACCARA, DISTRITO DE POMACOCHA - -ACOBAMBA
+ACOBAMBA - HUANCAVELICA
+MEJORAMIENTO Y AMPLIACIÓN DEL SISTEMA
+DE AGUA POTABLE Y SANEAMIENTO SEGUNDA MUNICIPALIDAD
+2104775 ETAPA DE LA LOCALIDAD ACOBAMBA, PROVINCIAL DE 9 207 255.32 Local Otros
+PROVINCIA DE ACOBAMBA - HUANCAVELICA ACOBAMBA
+(EXPEDIENTE DE SALDO DE OBRA)
+MEJORAMIENTO, AMPLIACIÓN DEL SERVICIO DE
+AGUA POTABLE Y SANEAMIENTO EN EL CENTRO MUNICIPALIDAD
+2329520 POBLADO DE SANTA CRUZ DE INYACC Y ANEXOS DISTRITAL DE 8 199 887.00 Local Otros
+DE PONGORA Y CHANGARA DISTRITO DE HUARIBAMBA
+HUARIBAMBA, TAYACAJA, HUANCAVELICA
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 48 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+H U Á N U C O
+LORET O
+SAN MARTÍN
+Marañon UCAYAL I
+Huaycabamba
+Leoncio
+Humalies Prado Puerto Inca
+Dos de
+Mayo Yarowilca
+Lauricocha Pachitea
+Ambo PASCO
+N
+LIMA
+JUNÍN
+TABLA 9. PRINCIPALES OBRAS PARALIZADAS EN HUÁNUCO
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+INSTALACIÓN DEL CANAL DE IRRIGACIÓN PROGRAMA
+Incumplimiento de
+48 2157984 HUANTUC - CHUQUIS - HUANCAN, DISTRITO DE SUBSECTORIAL DE 27 718 096.35 Nacional
+contrato
+CHUQUIS - DOS DE MAYO - HUÁNUCO IRRIGACIONES-PSI
+MEJORAMIENTO Y REHABILITACIÓN DEL
+CAMINO VECINAL SAN RAFAEL-CHACATAMA- PROVÍAS Incumplimiento de
+2216179 14 534 634.98 Nacional
+HUANCABAMBA-CASHAYOG-HUILLAPARAC, DESCENTRALIZADO contrato
+DISTRITO DE SAN RAFAEL - AMBO - HUÁNUCO
+MEJORAMIENTO DE SISTEMAS DE RIEGO EN LA
+SUB CUENCA DEL RÍO HUALLAGA, DISTRITOS
+PROYECTO ESPECIAL Falta de recursos
+2250972 DE AMBO, PILLCOMARCA, TOMAYKICHUA Y 6 610 833.97 Nacional
+ALTO HUALLAGA financieros y liquidez
+HUÁNUCO, PROVINCIAS DE AMBO Y HUÁNUCO,
+DEPARTAMENTO DE HUÁNUCO
+PROGRAMA DE
+INSTALACIÓN DEL CANAL DE RIEGO RANGRA - DESARROLLO
+Discrepancias,
+2180522 GONGAPATA - PUCAJAGA, DISTRITO DE MOLINO PRODUCTIVO 2 121 337.49 Nacional
+controversias y arbitraje
+- PACHITEA - HUÁNUCO AGRARIO RURAL -
+AGRO RURAL
+PROGRAMA DE
+INSTALACIÓN DEL CANAL DE RIEGO DESARROLLO
+Falta de recursos
+2208594 ANCAYPUAG-CASHAYOG, DISTRITO DE SAN PRODUCTIVO 1 643 251.99 Nacional
+financieros y liquidez
+RAFAEL – AMBO - HUÁNUCO AGRARIO RURAL -
+AGRO RURAL
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+DEL CENTRO DE SALUD PACHAS, DISTRITO DE GOBIERNO REGIONAL Falta de recursos
+2324623 27 012 214.47 Regional
+PACHAS, PROVINCIA DE DOS DE MAYO, REGIÓN DE HUÁNUCO financieros y liquidez
+HUÁNUCO
+
+=== pagina 49 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+DEL PUESTO DE SALUD SAN PEDRO DE GOBIERNO REGIONAL
+2324286 16 720 341.73 Regional Eventos climáticos
+CHOLÓN, DISTRITO DE CHOLÓN, PROVINCIA DE HUÁNUCO
+MARAÑON, REGIÓN HUÁNUCO
+CONSTRUCCIÓN DEL CANAL DE IRRIGACIÓN
+GOBIERNO REGIONAL
+2074583 MINARAGRA SHUNQUI PACHAS, DISTRITO DE 12 935 713.89 Regional Otros
+HUÁNUCO
+PACHAS - DOS DE MAYO, HUÁNUCO
+MEJORAMIENTO Y CONSTRUCCIÓN CARRETERA
+HUACRACHUCO - SAN BUENAVENTURA, GOBIERNO REGIONAL Incumplimiento de
+2059250 12 131 605.66 Regional
+EN EL DISTRITO DE HUACRACHUCO Y SAN HUÁNUCO contrato
+BUENAVENTURA
+CONSTRUCCIÓN DE CAMINO VECINAL TRAMO
+GOBIERNO REGIONAL Incumplimiento de
+2217677 ISHANCA - TAPARACO - KM 35, PROVINCIA DE 11 415 652.24 Regional
+HUÁNUCO contrato
+HUAMALIES - HUÁNUCO
+AMPLIACIÓN Y MEJORAMIENTO DEL SISTEMA
+MUNICIPALIDAD
+INTEGRAL DE AGUA POTABLE, ALCANTARILLADO Discrepancias,
+2079224 PROVINCIAL DE 398 467 572.34 Local
+Y DISPOSICIÓN FINAL DE LA ZONA URBANA DEL controversias y arbitraje
+LEONCIO PRADO
+DISTRITO DE RUPA RUPA
+CREACIÓN DE CAMINO VECINAL DE
+MUNICIPALIDAD
+MONOPAMPA - ABRA ALEGRIA - SHOTOJ Incumplimiento de
+2164917 PROVINCIAL DE 34 563 716.01 Local
+- PUENTE CHOROPAMPA, PROVINCIA DE contrato
+PACHITEA
+PACHITEA - HUÁNUCO
+AMPLIACIÓN Y REMODELACIÓN DEL ESTADIO MUNICIPALIDAD
+49 2079172 IPD DE TINGO MARIA, PROVINCIA DE LEONCIO PROVINCIAL DE 18 924 869.00 Local Otros
+PRADO - HUÁNUCO LEONCIO PRADO
+AMPLIACIÓN Y MEJORAMIENTO DE LOS
+SERVICIOS DE AGUA POTABLE Y SANEAMIENTO
+BÁSICO EN LA VILLA DE CHAGLLA, LOS
+MUNICIPALIDAD
+CASERÍOS DE PALTA CRUZ, CEBADA LOMA,
+2339943 DISTRITAL DE 18 210 582.82 Local Eventos Climáticos
+COCHACALLA, HUANCAYO Y LOS BARRIOS
+CHAGLLA
+DE HUMILDAD, SAN LUIS, GONGAPALOMA,
+COCHAPAMPA, HUAYCHO, DISTRITO DE
+CHAGLLA - PACHITEA – HUÁNUCO
+AMPLIACIÓN Y MEJORAMIENTO DEL SISTEMA
+MUNICIPALIDAD
+DE AGUA POTABLE Y ALCANTARILLADO DE
+2090493 DISTRITAL DE 14 103 123.83 Local Otros
+TOURNAVISTA, DISTRITO DE TOURNAVISTA -
+TOURNAVISTA
+PUERTO INCA - HUÁNUCO
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 50 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+I C A
+LIMA N
+HUAN CAVELI CA
+Chincha
+Pisco
+Palpa
+Ica
+Nasca
+OCÉAN O
+PACÍFIC O
+TABLA 10. PRINCIPALES OBRAS PARALIZADAS EN ICA
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+SERVICIO PARA LA EJECUCIÓN DEL SALDO DE PROGRAMA
+50 OBRA DE LOS SISTEMAS DE AGUA POTABLE NACIONAL DE Incumplimiento de
+2157797 50 793 880.36 Nacional
+Y ALCANTARILLADO DE LA LOCALIDAD DE SANEAMIENTO contrato
+MARCONA, DISTRITO DE MARCONA, NAZCA, ICA URBANO
+MEJORAMIENTO DEL SERVICIO DE TECNOLOGÍA
+UNIVERSIDAD
+INFORMÁTICA Y COMUNICACIONES EN LA Incumplimiento de
+2195182 NACIONAL SAN LUIS 13 988 164.91 Nacional
+CIUDAD UNIVERSITARIA DE LA UNIVERSIDAD contrato
+GONZAGA DE ICA
+NACIONAL SAN LUIS GONZAGA DE ICA
+REHABILITACIÓN DEL SERVICIO DE AGUA PARA
+PROGRAMA
+RIEGO DEL CANAL LA BANDA - DISTRITO EL Incumplimiento de
+2425691 SUBSECTORIAL DE 4 788 403.00 Nacional
+INGENIO PROVINCIA DE NASCA, DEPARTAMENTO contrato
+IRRIGACIONES - PSI
+DE ICA
+REHABILITACIÓN DEL SERVICIO DE AGUA
+PARA RIEGO DEL SISTEMA CASACONCHA EN PROGRAMA
+Incumplimiento de
+2425484 LOS SECTORES CASACONCHA Y PARACAS SUBSECTORIAL DE 4 107 040.00 Nacional
+contrato
+- DISTRITO DE HUMAY, PROVINCIA PISCO, IRRIGACIONES - PSI
+DEPARTAMENTO DE ICA
+REHABILITACIÓN DEL SERVICIO DE AGUA PARA
+PROGRAMA
+RIEGO DEL CANAL HUANCANO, SECTOR EL Incumplimiento de
+2425710 SUBSECTORIAL DE 2 034 000.00 Nacional
+REPOSO, DISTRITO DE HUANCANO, PROVINCIA contrato
+IRRIGACIONES - PSI
+DE PISCO, DEPARTAMENTO DE ICA
+MEJORAMIENTO Y AMPLIACIÓN DE
+GOBIERNO REGIONAL Incumplimiento de
+2094097 LOS SISTEMAS DE AGUA POTABLE Y 44 773 843.67 Regional
+DE ICA contrato
+ALCANTARILLADO DE NASCA Y VISTA ALEGRE
+MEJORAMIENTO DEL SISTEMA DE AGUA
+POTABLE EN LÍNEA DE CONDUCCIÓN, ADUCCIÓN
+GOBIERNO REGIONAL Incumplimiento de
+2088218 Y RESERVORIO (500M3), PARA LA COBERTURA 6 201 286.40 Regional
+DE ICA contrato
+DE LOS DISTRITOS DE PUEBLO NUEVO Y GROCIO
+PRADO
+
+=== pagina 51 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+CONSTRUCCIÓN DEL PUENTE CARROZABLE Y
+GOBIERNO REGIONAL Discrepancias,
+2078063 OBRAS COMPLEMENTARIAS EN EL SECTOR AJA 5 049 935.84 Regional
+DE ICA controversias y arbitraje
+-CIUDAD DE NASCA.
+CONSTRUCCIÓN DE PUENTE VEHICULAR EN
+GOBIERNO REGIONAL
+2094595 HUARACCO KM 22+000 RUTA I-C 108 EMP PE 4 026 107.68 Regional Otros
+DE ICA
+1S RÍO GRANDE-PALPA-ICA.
+CONSTRUCCIÓN DE PUENTE VEHICULAR EN
+GOBIERNO REGIONAL Incumplimiento de
+2106283 MARCCARENCCA KM 32. 000 RUTA IC 108 EMP. 3 615 916.29 Regional
+DE ICA contrato
+PE 1S RÍO GRANDE- PALPA - ICA
+MEJORAMIENTO DE CALLES Y PASAJES EN LOS
+MUNICIPALIDAD
+CENTROS POBLADOS DEL MARGEN IZQUIERDO
+2284194 DISTRITAL DE 6 829 732.00 Local Otros
+DEL RÍO ICA SECTOR ACOMAYO DEL DISTRITO
+PARCONA
+DE PARCONA - ICA - ICA
+MEJORAMIENTO DEL SISTEMA DE REDES DE
+MUNICIPALIDAD
+AGUA POTABLE Y ALCANTARILLADO EN EL
+2189665 DISTRITAL DE 5 401 747.15 Local Otros
+CERCADO DE CHINCHA BAJA, DISTRITO DE
+CHINCHA BAJA
+CHINCHA BAJA - CHINCHA - ICA
+MEJORAMIENTO Y AMPLIACIÓN DEL SISTEMA MUNICIPALIDAD
+2225978 DE AGUA POTABLE DE VIZCAS-CARLOS TIJERO, PROVINCIAL DE 5 251 062.92 Local Otros
+DISTRITO DE PALPA, PROVINCIA DE PALPA - ICA PALPA
+MEJORAMIENTO DEL SISTEMA DE AGUA
+MUNICIPALIDAD
+POTABLE Y ALCANTARILLADO DEL CENTRO
+2248433 DISTRITAL DE SALAS- 5 182 354.57 Local Otros
+POBLADO DE COLLAZOS, DISTRITO DE SALAS
+ICA
+51 - ICA - ICA
+CREACIÓN DE PISTAS Y VEREDAS EN EL
+MUNICIPALIDAD
+ASENTAMIENTO HUMANO VISTA ALEGRE DEL
+2218926 PROVINCIAL DE 4 847 501.00 Local Otros
+DISTRITO DE TÚPAC AMARU INCA, PROVINCIA
+PISCO
+DE PISCO - ICA
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 52 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+J U N Í N
+UCAYALI
+HUÁNUCO
+N
+PASCO
+Junín
+Chanchamayo
+Tarma
+Yauli
+Satipo
+Concepción
+Jauja
+Chupaca
+LIMA
+HUAN CAVELICA
+TABLA 11. PRINCIPALES OBRAS PARALIZADAS EN JUNÍN
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+REHABILITACIÓN DEL CAMINO VECINAL PACCHA PROVÍAS Incumplimiento de
+2112512 12 435 938.62 Nacional
+52 MALPASO MARCAPOMACOCHA, JUNÍN DESCENTRALIZADO contrato
+SALDO DE OBRA INSTALACIÓN DE AGUA PROGRAMA DE
+PARA RIEGO DE LOS ANEXOS DE UYO, LAUCA, DESARROLLO
+Falta de recursos
+2184535 ANDAMARCA, HUATA, ANTACALLA Y ANDAMAYO, PRODUCTIVO 8 672 302.60 Nacional
+financieros y liquidez
+DISTRITO DE ANDAMARCA - CONCEPCIÓN - AGRARIO RURAL -
+JUNÍN AGRO RURAL
+EMPRESA REGIONAL
+DE SERVICIO
+EJECUCIÓN DE LA OBRA MEJORAMIENTO DE LA
+PÚBLICO DE
+LÍNEA PRIMARIA EN 33 KV COMAS MATAPA, SET
+2411449 ELECTRICIDAD 8 520 337.96 Nacional Otros
+MATAPA Y RP TRIFÁSICA PARA EL HOSPITAL Y
+DEL CENTRO S.A.-
+PROCESADORA DE TARA
+ELECTROCENTRO
+S.A.
+EMPRESA REGIONAL
+DE SERVICIO
+REDUCCIÓN DE RIESGO Y SUBSANACIÓN DE PÚBLICO DE
+Incumplimiento de
+0 DEFICIENCIAS DE DMS, EN REDES AÉREAS DE ELECTRICIDAD 8 145 040.81 Nacional
+contrato
+MEDIA TENSIÓN DEL CENTRO S.A.-
+ELECTROCENTRO
+S.A.
+SALDO DE OBRA MEJORAMIENTO Y
+PROGRAMA
+REHABILITACIÓN DEL CANAL CIMIRM, EN EL
+2128766 SUBSECTORIAL DE 7 142 390.00 Nacional Eventos climáticos
+DISTRITO DE HUAMALÍ, PROVINCIA DE JAUJA
+IRRIGACIONES - PSI
+- JUNÍN
+MEJORAMIENTO Y AMPLIACIÓN DE LOS
+SERVICIOS DE SALUD DEL ESTABLECIMIENTO
+GOBIERNO REGIONAL Falta de recursos
+2346287 DE SALUD LA LIBERTAD CENTRO POBLADO 142 757 949.37 Regional
+DE JUNÍN financieros y liquidez
+DE HUANCAYO - DISTRITO DE HUANCAYO -
+PROVINCIA DE HUANCAYO - REGIÓN JUNÍN
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+DEL HOSPITAL DE APOYO MANUEL HIGA GOBIERNO REGIONAL Incumplimiento de
+2281442 120 869 914.13 Regional
+ARAKAKI, DISTRITO DE SATIPO, PROVINCIA DE DE JUNÍN contrato
+SATIPO, DEPARTAMENTO DE JUNÍN
+
+=== pagina 53 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+AMPLIACIÓN Y MEJORAMIENTO DE
+LOS SISTEMAS DE AGUA POTABLE Y GOBIERNO REGIONAL Incumplimiento de
+2017371 44 961 252.83 Regional
+ALCANTARILLADO DE LA CIUDAD DE SAN DE JUNÍN contrato
+RAMÓN - SALDO DE OBRA
+CREACIÓN DEL PUENTE SAN FERNANDO SOBRE
+EL RÍO SHULLCAS, ENTRE LOS DISTRITOS GOBIERNO REGIONAL Incumplimiento de
+2279986 18 030 608.96 Regional
+DE HUANCAYO Y EL TAMBO, PROVINCIA DE DE JUNÍN contrato
+HUANCAYO, REGIÓN JUNÍN
+MEJORAMIENTO DE (21 KM) DE TROCHA
+CARROZABLE, APERTURA DE TROCHA
+GOBIERNO REGIONAL
+2042834 CARROZABLE (3 KM) DEL VALLE ANCAYO, 6 059 232.00 Regional Otros
+DE JUNÍN
+DISTRITO DE PAMPA HERMOSA, PROVINCIA DE
+SATIPO, REGIÓN JUNÍN
+CREACIÓN Y MEJORAMIENTO DE LA CARRETERA
+PUCACOCHA - RAYOS - JATUNHUASI - LA MUNICIPALIDAD
+2219690 FLORIDA - AJOSPAMPA, DEL DISTRITO DE DISTRITAL DE 39 890 658.96 Local Otros
+ANDAMARCA, PROVINCIA DE CONCEPCIÓN, ANDAMARCA
+REGIÓN JUNÍN - IV ETAPA
+MEJORAMIENTO DE LOS SERVICIOS
+EDUCATIVOS EN LOS NIVELES INICIAL, PRIMARIA
+MUNICIPALIDAD
+Y SECUNDARIA DE LAS INSTITUCIONES
+2223585 DISTRITAL DE RÍO 14 505 698.46 Local Otros
+EDUCATIVAS DE LA COMUNIDAD NATIVA DE
+TAMBO
+POYENI, DISTRITO DE RÍO TAMBO - SATIPO -
+JUNÍN
+53
+MEJORAMIENTO Y AMPLIACIÓN DEL
+SERVICIO DE EDUCACION INICIAL, PRIMARIA MUNICIPALIDAD
+2226157 Y SECUNDARIA EN LA COMUNIDAD NATIVA DE DISTRITAL DE RÍO 12 769 824.10 Local Otros
+BETANIA, DISTRITO DE RÍO TAMBO - SATIPO - TAMBO
+JUNÍN
+MEJORAMIENTO Y AMPLIACIÓN DE LOS
+SISTEMAS DE AGUA POTABLE E INSTALACIÓN MUNICIPALIDAD
+2087766 DE LOS SISTEMAS DE ALCANTARILLADO PROVINCIAL DE 11 247 926.72 Local Otros
+SANITARIO DE LAS LOCALIDADES DEL VALLE JAUJA
+YACUS Y ATAURA
+MEJORAMIENTO Y AMPLIACIÓN DE LOS
+SERVICIOS DE AGUA POTABLE Y CREACIÓN
+DEL SERVICIO DE ALCANTARILLADO SANITARIO MUNICIPALIDAD
+2292880 10 750 339.00 Local Otros
+EN LOS CENTROS POBLADOS DE SAN JUAN DISTRITAL DE SINCOS
+DE MIRAFLORES, LLACUARI Y YURACANCHA,
+DISTRITO DE SINCOS - JAUJA - JUNÍN
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 54 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+L A L I B E R T A D
+N
+CAJAMARCA
+Chepén
+Bolivar
+Gran
+Ascope Chimú
+S. Carrión
+Pacasmayo Otuzco
+Trujillo Julcán
+Santiago
+de Chuco Pataz
+Virú
+OCÉANO
+PACÍFICO ÁNCASH
+TABLA 12. PRINCIPALES OBRAS PARALIZADAS EN LA LIBERTAD
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+PROYECTO
+54 REHABILITACIÓN Y MEJORAMIENTO DE ESPECIAL DE
+LA CARRETERA PALLASCA-MOLLEPATA- INFRAESTRUCTURA Incumplimiento de
+2234988 759 039 899.68 Nacional
+MOLLEBAMBA-SANTIAGO DE CHUCO EMP. RUTA DE TRANSPORTE contrato
+10, TRAMO MOLLEPATA - PALLASCA NACIONAL - PROVÍAS
+NACIONAL
+MEJORAMIENTO DEL SERVICIO DE FORMACIÓN
+UNIVERSIDAD
+ACADÉMICO PROFESIONAL EN LA FACULTAD Incumplimiento de
+2150242 NACIONAL DE 11 065 482.65 Nacional
+DE DERECHO Y CIENCIAS POLÍTICAS DE LA contrato
+TRUJILLO
+UNIVERSIDAD NACIONAL DE TRUJILLO
+AMPLIACIÓN DEL SERVICIO ACADÉMICO
+UNIVERSIDAD
+DEL CENTRO DE IDIOMAS EN LA CIUDAD Incumplimiento de
+2202562 NACIONAL DE 10 473 141.76 Nacional
+UNIVERSITARIA DE LA UNIVERSIDAD NACIONAL contrato
+TRUJILLO
+DE TRUJILLO
+MEJORAMIENTO DEL SERVICIO DE FORMACIÓN
+UNIVERSIDAD
+ACADÉMICO Y DE INVESTIGACIÓN EN LAS Incumplimiento de
+2319748 NACIONAL DE 9 436 655.21 Nacional
+ESCUELAS DE ESTADÍSTICA E INFORMÁTICA DE contrato
+TRUJILLO
+LA UNIVERSIDAD NACIONAL DE TRUJILLO
+PROGRAMA DE
+MEJORAMIENTO DEL CANAL DE RIEGO
+DESARROLLO
+DE LOS CASERÍOS, HUAYNAS, LA UNIÓN, Falta de recursos
+2224113 PRODUCTIVO 6 980 076.61 Nacional
+POTREROBAMBA, SANGUAL VIEJO, DISTRITO DE financieros y liquidez
+AGRARIO RURAL -
+HUASO - JULCÁN - LA LIBERTAD
+AGRO RURAL
+REHABILITACIÓN DEL CAMINO DEPARTAMENTAL
+15.2 KM. EN EMP.PE-10A (AGALLPAMPA)- GOBIERNO REGIONAL
+2421624 28 646 873.99 Regional Eventos climáticos
+CHINCHANGO-JULCÁN, DEPARTAMENTO DE LA DE LA LIBERTAD
+LIBERTAD
+REHABILITACIÓN DE LA INFRAESTRUCTURA
+DE LA I.E. MARÍA NEGRÓN UGARTE DE GOBIERNO REGIONAL Incumplimiento de
+2476481 12 928 039.35 Regional
+NIVEL SECUNDARIA, DISTRITO DE TRUJILLO, DE LA LIBERTAD contrato
+PROVINCIA DE TRUJILLO, REGIÓN LA LIBERTAD
+
+=== pagina 55 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DEL SERVICIO DEPORTIVO EN
+MUNICIPALIDAD
+EL COMPLEJO CHICAGO DEL BARRIO CHICAGO, Discrepancias,
+2160111 PROVINCIAL DE 120 539 327.24 Local
+DISTRITO DE TRUJILLO, PROVINCIA DE TRUJILLO controversias y arbitraje
+TRUJILLO
+- LA LIBERTAD
+MEJORAMIENTO Y AMPLIACIÓN DE SISTEMA
+MUNICIPALIDAD
+DE AGUA POTABLE Y ALCANTARILLADO DE
+PROVINCIAL DE Incumplimiento de
+2084708 LA CIUDAD DE HUAMACHUCO - DISTRITO 106 765 412.52 Local
+SÁNCHEZ CARRIÓN - contrato
+DE HUAMACHUCO, PROVINCIA DE SANCHEZ
+HUAMACHUCO
+CARRIÓN - LA LIBERTAD
+MEJORAMIENTO DEL SERVICIO DE AGUA
+POTABLE Y ALCANTARILLADO SANITARIO MUNICIPALIDAD
+Falta de recursos
+2328824 DE LOS BARRIOS 01,02,03,06,08,09 Y 12, DISTRITAL DE 77 051 358.81 Local
+financieros y liquidez
+DISTRITO DE FLORENCIA DE MORA -TRUJILLO - FLORENCIA DE MORA
+LA LIBERTAD
+RECUPERACIÓN DEL SERVICIO DE
+TRANSITABILIDAD DEL CAMINO VECINAL - 15.5 MUNICIPALIDAD
+KM DV. URPAY - LLAMPA - CARBARGÓN - PROVINCIAL DE
+2444860 32 742 103.98 Local Otros
+CRUZ DE LAS FLORES - MALLAN, DISTRITO SÁNCHEZ CARRIÓN -
+DE HUAMACHUCO, PROVINCIA DE SÁNCHEZ HUAMACHUCO
+CARRIÓN - LA LIBERTAD
+RECUPERACIÓN DEL SERVICIO DE
+TRANSITABILIDAD DEL CAMINO VECINAL - 15.5 MUNICIPALIDAD
+KM DV. URPAY - LLAMPA - CARBARGON - PROVINCIAL DE
+2382769 17 634 129.63 Local Otros
+CRUZ DE LAS FLORES - MALLAN, DISTRITO SÁNCHEZ CARRIÓN -
+55 DE HUAMACHUCO, PROVINCIA DE SÁNCHEZ HUAMACHUCO
+CARRIÓN - LA LIBERTAD
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 56 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+L A M B A Y E Q U E
+N
+PIURA
+Ferreñafe
+Lambayeque
+OCÉANO
+PACÍFICO
+LA LIBERT AD
+TABLA 13. PRINCIPALES OBRAS PARALIZADAS EN LAMBAYEQUE
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+SUMINISTRO, MONTAJE, TRANSPORTE, OBRAS
+56 CIVILES, PRUEBAS Y PUESTA EN SERVICIO DE LA EMP. REG. DE SERV.
+Discrepancias,
+0 LT 60KV SET LA VIÑA SET MOTUPE SET PAMPA PUB. DE ELECT. DEL 38 704 719.00 Nacional
+controversias y arbitraje
+PAÑALA SED 60/23/10 KV SED 60/23 KV NUEVA NORTE S.A.
+MOTUPE Y ALIMENTADORES
+MEJORAMIENTO DE LAS CONDICIONES DE
+LA FORMACIÓN PRÁCTICA QUE BRINDA LA
+FACULTAD DE CIENCIAS BIOLÓGICAS DE
+LA UNIVERSIDAD NACIONAL PEDRO RUIZ UNIVERSIDAD
+Incumplimiento de
+2234462 GALLO - LAMBAYEQUE, CONSTRUCCIÓN DE NACIONAL PEDRO 13 743 588.45 Nacional
+contrato
+ADECUADA Y SUFICIENTE INFRAESTRUCTURA RUIZ GALLO
+DE LABORATORIOS COMPONENTE 3: ADECUADA
+Y SUFICIENTE INFRAESTRUCTURA DE
+LABORATORIOS
+REHABILITACIÓN DEL SERVICIO DE AGUA PARA
+PROGRAMA
+RIEGO DEL CANAL ZAPATERO EN EL DISTRITO Incumplimiento de
+2449120 SUBSECTORIAL DE 6 805 125.34 Nacional
+DE OLMOS, PROVINCIA DE LAMBAYEQUE, contrato
+IRRIGACIONES - PSI
+DEPARTAMENTO DE LAMBAYEQUE
+REHABILITACIÓN DE LOS SERVICIOS DE SALUD PROGRAMA
+DEL ESTABLECIMIENTO DE SALUD MOYAN, NACIONAL DE
+2468105 3 540 000.52 Nacional Otros
+DISTRITO DE INCAHUASI, PROVINCIA DE INVERSIONES EN
+FERREÑAFE, REGIÓN LAMBAYEQUE SALUD - PRONIS
+REHABILITACIÓN DEL SERVICIO DE AGUA
+PROGRAMA
+PARA RIEGO DEL CANAL SAN LUIS, DISTRITO
+2425368 SUBSECTORIAL DE 1 783 263.00 Nacional Otros
+DE LAGUNAS, PROVINCIA DE CHICLAYO,
+IRRIGACIONES - PSI
+DEPARTAMENTO DE LAMBAYEQUE
+EMPRESA
+INSTALACIÓN DE LOS SISTEMAS DE AGUA
+PRESTADORA DE
+POTABLE Y ALCANTARILLADO CON CONEX.
+SERVICIOS DE
+DOM. DE LOS PP.JJ. V. PROGRESO, MIRAFLORES, Incumplimiento de
+2106779 SANEAMIENTO DE 61 242 716.40 Local
+LAS VEGAS, SAMÁN, SAN FRANCISCO DE contrato
+AGUA POTABLE Y
+ASÍS, LA UNIÓN, SAN JUAN DE DIOS Y RAMIRO
+ALCANTARILLADO DE
+PRIALÉ, CHICLAYO
+LAMBAYEQUE S.A.
+
+=== pagina 57 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DEL PLAN MAESTRO DE
+SANEAMIENTO AGUA POTABLE, DESAGÜE MUNICIPALIDAD
+Incumplimiento de
+2065339 Y TRATAMIENTO DE AGUAS RESIDUALES DISTRITAL DE 53 988 490.00 Local
+contrato
+DEL DISTRITO DE MONSEFÚ - CHICLAYO - MONSEFÚ
+LAMBAYEQUE
+MEJORAMIENTO Y AMPLIACIÓN DEL SISTEMA
+DE SANEAMIENTO BÁSICO DE LOS CASERÍOS
+MUNICIPALIDAD
+POSITOS, TRANCA SASAPE, TRANCA
+2069706 DISTRITAL DE 23 051 498.78 Local Otros
+FANUPE, CASA BLANCA, FANUPE BARRIO
+MÓRROPE
+NUEVO Y ANEXOS, DISTRITO DE MÓRROPE -
+LAMBAYEQUE - LAMBAYEQUE
+MEJORAMIENTO DEL CAMINO VECINAL,
+MÓRROPE, PEDREGAL, LAS MERCEDES, HUACA MUNICIPALIDAD
+2292055 DE BARRO, LAS PAMPAS, LAGARTERA, BARRIO DISTRITAL DE 15 908 446.57 Local Otros
+NUEVO, DISTRITO DE MÓRROPE - LAMBAYEQUE MÓRROPE
+- LAMBAYEQUE
+MEJORAMIENTO Y REHABILITACIÓN DE
+MUNICIPALIDAD
+PAVIMENTACIÓN DE CALLES DEL LADO
+2209959 PROVINCIAL DE 8 344 997.82 Local Otros
+NOR ESTE DEL DISTRITO DE LAMBAYEQUE,
+LAMBAYEQUE
+PROVINCIA DE LAMBAYEQUE - LAMBAYEQUE
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+57
+
+=== pagina 58 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+L I M A
+HUÁNUCO
+ÁNCASH
+Cajatambo
+Oyón PASCO
+Barranca
+Huaura Huaral
+Canta JUNÍN
+Huarochirí
+Metropolittaaannnaaa
+Yauyos
+N
+Cañete
+OCÉAN O
+PACÍFI CO
+ICA
+TABLA 14. PRINCIPALES OBRAS PARALIZADAS EN LIMA
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+PROGRAMA
+ADECUACIÓN, MEJORAMIENTO Y SUSTITUCIÓN
+58 NACIONAL DE
+DE LA INFRAESTRUCTURA EDUCATIVA DE LA I.E.
+2131588 INFRAESTRUCTURA 39 662 660.03 Nacional Otros
+1182 EL BOSQUE - SAN JUAN DE LURIGANCHO
+EDUCATIVA -
+- LIMA - LIMA
+PRONIED
+OBRA: AMPLIACIÓN, REMODELACIÓN Y
+UNIVERSIDAD
+ACONDICIONAMIENTO DEL PABELLÓN DE LA
+2233779 NACIONAL MAYOR DE 26 855 953.80 Nacional Otros
+FACULTAD DE LETRAS Y CIENCIAS HUMANAS DE
+SAN MARCOS
+LA UNMSM – 1a ETAPA
+ELABORACIÓN DEL DISEÑO (EXPEDIENTE UNIDAD DE
+TÉCNICO) Y EJECUCIÓN DE LA OBRA PARA EL COORDINACIÓN DE Discrepancias,
+2160880 26 100 883.71 Nacional
+SERVICIO AL ADOLESCENTE (SOA) EN HUAURA, PROYECTOS DEL controversias y arbitraje
+DISTRITO JUDICIAL DE HUAURA. PODER JUDICIAL
+FORTALECIMIENTO DE LA CAPACIDAD DIRECCIÓN DE REDES
+Discrepancias,
+2112841 RESOLUTIVA DEL CENTRO DE SALUD I - 4 VILLA INTEGRADAS DE 21 544 508.73 Nacional
+controversias y arbitraje
+MARÍA DEL TRIUNFO DE LA DISA II LIMA SUR SALUD - LIMA SUR
+INSTALACIÓN DEL PABELLÓN ADMINISTRATIVO
+UNIVERSIDAD
+DE LA FACULTAD DE ODONTOLOGÍA EN LA
+2251547 NACIONAL MAYOR DE 14 127 791.15 Nacional Otros
+UNIVERSIDAD NACIONAL MAYOR DE SAN
+SAN MARCOS
+MARCOS
+CREACIÓN E IMPLEMENTACIÓN DE MEDIDAS
+DE PROTECCIÓN Y DE PREVENCIÓN PARA EL
+CONTROL DE DESBORDES E INUNDACIONES DEL
+RÍO CAÑETE: TRAMO, PUENTE SOCSIPUENTE GOBIERNO REGIONAL Incumplimiento de
+2430098 25 545 624.28 Regional
+SAN JERÓNIMO, EN LOS DISTRITOS DE DE LIMA contrato
+LUNAHUANA, PACARÁN Y ZUÑIGA DE LA
+PROVINCIA DE CAÑETE - DEPARTAMENTO DE
+LIMA
+MEJORAMIENTO DEL SISTEMA DE AGUA
+POTABLE Y ALCANTARILLADO DEL CENTRO GOBIERNO REGIONAL
+2189196 14 773 649.44 Regional Otros
+POBLADO DE HUMAYA, DISTRITO DE HUAURA- DE LIMA
+HUAURA-LIMA - OBRAS COMPLEMENTARIAS.
+
+=== pagina 59 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO INTEGRAL Y AMPLIACIÓN DE
+LOS SERVICIOS DE AGUA Y DESAGÜE DE LOS
+AA.HH. EL ÁNGEL, CONTIGO PERÚ, LA HUACA, GOBIERNO REGIONAL
+2177032 13 353 290.54 Regional Otros
+SANTA ELENA Y NUEVO HUARAL DE LA CIUDAD DE LIMA
+DE HUARAL, PROVINCIA DE HUARAL, LIMA,
+META III ETAPA AA.HH. EL ÁNGEL
+MEJORAMIENTO Y REHABILITACIÓN DEL AGUA
+POTABLE Y ALCANTARILLADO DE LA CIUDAD DE
+GOBIERNO REGIONAL
+2058936 CANTA - PLANTA DE TRATAMIENTO DE AGUAS 8 475 530.05 Regional Otros
+DE LIMA
+RESIDUALES -CANTA - LIMA - META: PLANTA DE
+TRATAMIENTO DE AGUAS RESIDUALES
+MEJORAMIENTO, AMPLIACIÓN DEL CANAL
+DE IRRIGACIÓN HUAYLASHTOCLANCA,
+GOBIERNO REGIONAL
+2312296 CASHATAMBO MISARRUMI Y MAYUSH 5 051 763.14 Regional Otros
+DE LIMA
+TAMBOMARCA, DISTRITO DE CAJATAMBO,
+PROVINCIA DE CAJATAMBO - LIMA
+INSTALACIÓN DEL INTERCEPTOR Y
+MUNICIPALIDAD
+CONSTRUCCIÓN DE LA PLANTA DE Discrepancias,
+2176842 PROVINCIAL DE 105 002 695.36 Local
+TRATAMIENTO DE AGUAS RESIDUALES DE LA controversias y arbitraje
+HUARAL
+CIUDAD DE HUARAL
+MEJORAMIENTO Y AMPLIACIÓN DE LOS
+SERVICIOS RECREATIVOS, CULTURALES Y MUNICIPALIDAD
+Deficiencia en el
+2182732 DEPORTIVOS EN LAS INSTALACIONES DEL METROPOLITANA DE 84 496 633.06 Local
+Expediente Técnico
+PARQUE ZONAL SINCHI ROCA, DISTRITO DE LIMA
+59 COMAS, PROVINCIA DE LIMA - LIMA
+MEJORAMIENTO Y AMPLIACIÓN DEL COMPLEJO
+DEPORTIVO N°6 UBICADO EN LA AVENIDA DEL MUNICIPALIDAD
+2321303 SOL S/N, URBANIZACIÓN PARCELACIÓN LA DISTRITAL DE 15 998 945.00 Local Otros
+CAMPIÑA, DISTRITO DE CHORRILLOS - LIMA - CHORRILLOS
+LIMA
+SALDO DE OBRA MEJORAMIENTO DEL
+MUNICIPALIDAD
+ENTORNO URBANO DEL JR. HIPÓLITO UNÁNUE, Incumplimiento de
+2054767 DISTRITAL DE LA 12 535 488.34 Local
+TRAMO: AV. PASEO DE LA REPÚBLICA - AV. SAN contrato
+VICTORIA-LIMA
+PABLO, DISTRITO DE LA VICTORIA - LIMA - LIMA
+MEJORAMIENTO DEL SISTEMA DE AGUA
+POTABLE, ALCANTARILLADO Y LÍNEA DE MUNICIPALIDAD
+2237031 11 690 465.68 Local Otros
+IMPULSIÓN PARA LOS ANEXOS 9 DE OCTUBRE Y DISTRITAL DE ASIA
+SANTA CRUZ, DISTRITO DE ASIA - CAÑETE.
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 60 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+L O R E T O COLOMBIA
+N
+ECUADOR
+Putumayo
+Loreto Maynas
+Iquitooosss
+Datem
+del Marañón
+Mariscal
+Ramón Castilla
+Requena
+Alto
+Amazonas
+SAN Ucayali
+MARTÍN BRASIL
+UCAYALI
+PASCO
+TABLA 15. PRINCIPALES OBRAS PARALIZADAS EN LORETO
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE LA CARRETERA
+60 QUISTOCOCHA - ZUNGAROCOCHA - PROVÍAS Incumplimiento de
+2266582 114 317 398.15 Nacional
+LLANCHAMA, DISTRITO DE SAN JUAN BAUTISTA DESCENTRALIZADO contrato
+- MAYNAS - LORETO. ITEM 2 (PUENTES)
+MEJORAMIENTO DEL SERVICIO ADMINISTRATIVO
+DE LA UNIVERSIDAD NACIONAL DE LA UNIVERSIDAD
+Incumplimiento de
+2234069 AMAZONÍA PERUANA EN ZUNGAROCOCHA - NACIONAL DE LA 16 942 088.03 Nacional
+contrato
+DISTRITO DE SAN JUAN BAUTISTA - PROVINCIA AMAZONÍA PERUANA
+DE MAYNAS - DEPARTAMENTO DE LORETO
+AMPLIACIÓN DE LOS SERVICIOS EN LA
+UNIVERSIDAD
+FACULTAD DE INDUSTRIAS ALIMENTARIAS - Incumplimiento de
+2078079 NACIONAL DE LA 14 474 509.87 Nacional
+UNAP EN ELCASERÍO ZUNGAROCOCHA - SAN contrato
+AMAZONÍA PERUANA
+JUAN BAUTISTA - MAYNAS - LORETO
+INSTALACIÓN DEL SERVICIO DE AGUA POTABLE PROGRAMA
+Y SANEAMIENTO EN EL CENTRO POBLADO NACIONAL DE
+2400866 13 394 814.05 Nacional Conflictos sociales
+DE CRUZ DEL SUR, DISTRITO DE SAN JUAN SANEAMIENTO
+BAUTISTA - MAYNAS - LORETO RURAL
+PETRÓLEOS
+MEJORAMIENTO DE LA INFRAESTRUCTURA VIAL Discrepancias,
+0 DEL PERÚ S.A. - 4 676 224.90 Nacional
+DE INGRESO A LA REFINERÍA IQUITOS. controversias y arbitraje
+PETROPERÚ
+MEJORAMIENTO Y AMPLIACIÓN DE LA
+CAPACIDAD RESOLUTIVA DE LOS SERVICIOS DE
+SALUD DEL ESTABLECIMIENTO DE SALUD SAN GOBIERNO REGIONAL Incumplimiento de
+2325446 121 000 790.60 Regional
+LORENZO - RED DE SALUD DATEM, DISTRITO DE LORETO contrato
+DE BARRANCA, PROVINCIA DE DATEM DEL
+MARAÑÓN, DEPARTAMENTO DE LORETO
+MEJORAMIENTO DE TROCHA CARROZABLE
+GOBIERNO REGIONAL Falta de recursos
+2078436 PAMPA HERMOSA-INAHUAYA-PROVINCIA DE 49 266 134.45 Regional
+DE LORETO financieros y liquidez
+UCAYALI
+
+=== pagina 61 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+REPARACIÓN DE VÍAS DE ACCESO EN LA
+INFRAESTRUCTURA VIAL TERRESTRE JIRÓN
+RAMIREZ HURTADO C9-C12; CALLE 16 DE JULIO
+C1-C7; CALLE 6 C1; AVENIDA ALFONSO UGARTE
+GOBIERNO REGIONAL
+2491450 C1; JIRÓN ABTAO C1-C2; PASAJE PAQUITO C1; 6 150 888.71 Regional Otros
+DE LORETO
+JIRÓN 09 DE DICIEMBRE C1; PROLONGACIÓN
+JULIO ARANA C1-C2; DISTRITO DE BELÉN,
+PROVINCIA MAYNAS, DEPARTAMENTO DE
+LORETO
+MEJORAMIENTO DE LA PRESTACIÓN DE LOS
+SERVICIOS DE EDUCACIÓN INICIAL DE LA I.E.I. N°
+GOBIERNO REGIONAL Falta de recursos
+2333220 537 MI CHOZITA DEL CASERÍO SAN FRANCISCO 4 316 207.83 Regional
+DE LORETO financieros y liquidez
+- RÍO ITAYA, DISTRITO DE BELÉN, PROVINCIA DE
+MAYNAS, DEPARTAMENTO DE LORETO
+REHABILITACIÓN DEL PEQUEÑO SISTEMA
+GOBIERNO REGIONAL
+2149536 ELÉCTRICO IQUITOS ZONA NORTE PUNCHANA, 4 286 080.00 Regional Otros
+DE LORETO
+MAZÁN, INDIANA
+AMPLIACIÓN Y MEJORAMIENTO DE LA
+INSTITUCIÓN EDUCATIVA PÚBLICA PRIMARIA MUNICIPALIDAD
+2165243 DE MENORES N° 60071 ANDRÉS A. CARDO DISTRITAL DE 10 667 310.10 Local Otros
+FRANCO, DISTRITO DE INDIANA - MAYNAS - INDIANA
+LORETO
+MEJORAMIENTO DEL SISTEMA DE AGUA
+POTABLE Y DEL SISTEMA DE TRATAMIENTO DE MUNICIPALIDAD
+Incumplimiento de
+61 2214913 AGUAS RESIDUALES DEL CENTRO POBLADO DISTRITAL DE LAS 8 729 352.52 Local
+contrato
+DE YANASHI, DISTRITO DE LAS AMAZONAS - AMAZONAS
+MAYNAS - LORETO
+INSTALACIÓN DEL SERVICIO DE AGUA POTABLE
+MUNICIPALIDAD
+Y SANEAMIENTO EN LA CC.NN. NUEVO EDÉN
+0 PROVINCIAL DE 5 491 085.95 Local Otros
+DISTRITO DE CONTAMANÁ, PROVINCIA DE
+UCAYALI
+UCAYALI LORETO
+MEJORAMIENTO DE LAS CALLES 03 DE JUNIO,
+PROL. CONQUISTADORES, 05 DE DICIEMBRE,
+PROL. SOLEDAD, LOS ÁNGELES, JANE DONAYRE MUNICIPALIDAD
+2146118 Y LOS OLIVOS- AA.HH. NUESTRA SRA. DE LA DISTRITAL DE 5 013 930.83 Local Otros
+SALUD, PILAR NORES AMPLIACIÓN Y DELICIA PUNCHANA
+MANZUR, DISTRITO DE PUNCHANA - MAYNAS
+- LORETO
+MEJORAMIENTO DEL CAMINO VECINAL ACHUAL MUNICIPALIDAD
+Discrepancias,
+2213216 LIMÓN - 4 DE OCTUBRE - LA UNIÓN, PROVINCIA PROVINCIAL DE ALTO 3 457 626.54 Local
+controversias y arbitraje
+DE ALTO AMAZONAS - LORETO AMAZONAS
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 62 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+M A D R E D E D I O S
+BRASIL
+N
+UCAYALI Tahuamanu
+Tambopata
+Manu
+Puerto
+Maldonado
+CUSCO
+PUNO
+TABLA 16. PRINCIPALES OBRAS PARALIZADAS EN MADRE DE DIOS
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+INSTALACIÓN Y EQUIPAMIENTO DE LOS CENTROS
+UNIVERSIDAD
+62 DE FORMACIÓN ACADÉMICA DE LA UNIVERSIDAD
+NACIONAL
+2251246 NACIONAL AMAZÓNICA DE MADRE DE DIOS 18 358 248.21 Nacional Otros
+AMAZÓNICA DE
+- PROVINCIA Y DISTRITO DE TAMBOPATA -
+MADRE DE DIOS
+DEPARTAMENTO DE MADRE DE DIOS
+MEJORAMIENTO Y AMPLIACIÓN DE LOS
+UNIVERSIDAD
+SERVICIOS DEL COMEDOR UNIVERSITARIO DE
+NACIONAL
+2251386 LA UNIVERSIDAD NACIONAL AMAZÓNICA DE 7 891 067.91 Nacional Otros
+AMAZÓNICA DE
+MADRE DE DIOS, DISTRITO DE TAMBOPATA -
+MADRE DE DIOS
+PROVINCIA DE TAMBOPATA - MADRE DE DIOS
+REMODELACIÓN DEL ALMACÉN O DEPÓSITO
+EMPRESA REGIONAL
+EN LA CENTRAL TÉRMICA DE PUERTO
+DE SERVICIO
+MALDONADO ELECTRO SUR ESTE S.A.A. EN LA
+2499822 PÚBLICO DE 844 066.36 Nacional Otros
+LOCALIDAD DE PUERTO MALDONADO, DISTRITO
+ELECTRICIDAD DEL
+DE TAMBOPATA, PROVINCIA TAMBOPATA,
+SUR ESTE S.A.A.
+DEPARTAMENTO MADRE DE DIOS
+MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO
+DE EQUIPO MECÁNICO DEL PROYECTO
+PROYECTO ESPECIAL
+ESPECIAL MADRE DE DIOS EN LA PROVINCIA Falta de recursos
+2111041 MADRE DE DIOS 29 523 295.78 Regional
+DE TAHUAMANU, REGIÓN MADRE DE DIOS- financieros y liquidez
+(INADE)
+CONSTRUCCIÓN DEL NUEVO LOCAL DEL SEM
+DEL PEMD II ETAPA
+MEJORAMIENTO DEL CAMINO VECINAL
+PROYECTO ESPECIAL
+CARACHAMAYOC, DISTRITO DE IBERIA -
+2195554 MADRE DE DIOS 11 338 663.27 Regional Eventos climáticos
+PROVINCIA DE TAHUAMANU - REGIÓN MADRE
+(INADE)
+DE DIOS
+MEJORAMIENTO DE LA CAPACIDAD OPERATIVA
+DE LA DIRECCIÓN REGIONAL FORESTAL Y FAUNA GOBIERNO REGIONAL
+2202367 9 525 854.34 Regional Otros
+SILVESTRE PARA OPTIMIZAR LA CALIDAD DEL DE MADRE DE DIOS
+SERVICIO EN LA REGIÓN MADRE DE DIOS
+
+=== pagina 63 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE LOS NIVELES DE
+PRODUCTIVIDAD HORTOFRUTÍCOLA MEDIANTE
+LA APLICACIÓN DE RIEGO POR GOTEO EN GOBIERNO REGIONAL Falta de recursos
+2135236 6 875 301.48 Regional
+EL SECTOR ALTA PASTORA DEL DISTRITO Y DE MADRE DE DIOS financieros y liquidez
+PROVINCIA DE TAMBOPATA - REGIÓN MADRE
+DE DIOS
+MEJORAMIENTO DE LA TRANSITABILIDAD
+VEHICULAR Y PEATONAL DE LA CALLE
+TRES PIRÁMIDES DE LA URBANIZACIÓN
+GOBIERNO REGIONAL Incumplimiento de
+0 TRES PIRÁMIDES DE LA CIUDAD DE PUERTO 936 025.62 Regional
+DE MADRE DE DIOS contrato
+MALDONADO DEL DISTRITO DE TAMBOPATA -
+PROVINCIA DE TAMBOPATA - DEPARTAMENTO
+DE MADRE DE DIOS
+CONSTRUCCIÓN DE LOS SISTEMAS DE AGUA
+POTABLE, ALCANTARILLADO Y PLANTA DE MUNICIPALIDAD
+2150534 TRATAMIENTO DE AGUAS RESIDUALES DE LA DISTRITAL DE MADRE 7 623 224.58 Local Otros
+LOCALIDAD DE PUKIRI, DISTRITO DE MADRE DE DE DIOS
+DIOS - MANU - MADRE DE DIOS
+MEJORAMIENTO, AMPLIACIÓN DEL ESTADIO
+MUNICIPALIDAD
+MUNICIPAL, EN LA LOCALIDAD DE MAZUKO, Falta de recursos
+2378695 DISTRITAL DE 3 714 254.78 Local
+PROVINCIA DE TAMBOPATA, REGIÓN DE MADRE financieros y liquidez
+INAMBARI
+DE DIOS
+CREACIÓN DE LA LOSA MULTIDEPORTIVA EN EL
+MUNICIPALIDAD
+CENTRO POBLADO DE SANTA MARÍA, DISTRITO Incumplimiento de
+2346436 PROVINCIAL DE 1 421 766.12 Local
+63 DE TAHUAMANU, PROVINCIA DE TAHUAMANU, contrato
+TAHUAMANU
+REGIÓN DE MADRE DE DIOS
+ENTIDAD
+RENOVACIÓN DE LA RED SECUNDARIA EN LA AV.
+PRESTADORA DE
+LEÓN VELARDE TRAMO JR. BILLINGURST HASTA
+SERVICIOS DE
+JR. CAJAMARCA EN LA LOCALIDAD PUERTO Falta de recursos
+2436826 SANEAMIENTO 968 845.27 Local
+MALDONADO, DISTRITO DE TAMBOPATA, financieros y liquidez
+EMPRESA MUNICIPAL
+PROVINCIA TAMBOPATA, DEPARTAMENTO
+DE AGUA POTABLE Y
+MADRE DE DIOS
+ALCANTARILLADO
+REPARACIÓN DE EMPALMES DE
+REVESTIMIENTO DE PAREDES Y OBRAS ENTIDAD
+EXTERIORES; ADQUISICIÓN DE CANOAS O PRESTADORA DE
+KAYAKS, MEZCLADORES O AGITADORES Y SERVICIOS DE
+Falta de recursos
+2461945 MICROMEDIDORES; EN LA PTAP LA PASTORA SANEAMIENTO 864 241.46 Local
+financieros y liquidez
+EPS EMAPAT S.A. EN LA LOCALIDAD PUERTO EMPRESA MUNICIPAL
+MALDONADO, DISTRITO DE TAMBOPATA, DE AGUA POTABLE Y
+PROVINCIA DE TAMBOPATA, DEPARTAMENTO DE ALCANTA
+MADRE DE DIOS
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 64 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+M O Q U E G U A
+N
+PUNO
+AREQUIPA
+GGeenneerraall
+SSaanncchheezz CCeerrrroo
+MMaarriissccaall NNiieettoo
+Moquegua
+IIlloo
+TACNA
+OCÉAN O
+PACÍFIC O
+TABLA 17. PRINCIPALES OBRAS PARALIZADAS EN MOQUEGUA
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE LOS SERVICIOS
+64 ACADÉMICOS Y ADMINISTRATIVOS DE LA
+ESCUELA PROFESIONAL DE INGENIERÍA
+UNIVERSIDAD
+AGROINDUSTRIAL, SEDE MOQUEGUA, Incumplimiento de
+2300391 NACIONAL DE 26 706 667.95 Nacional
+UNIVERSIDAD NACIONAL DE MOQUEGUA, contrato
+MOQUEGUA
+DISTRITO DE MOQUEGUA, PROVINCIA DE
+MARISCAL NIETO, DEPARTAMENTO DE
+MOQUEGUA
+CREACIÓN DEL COMPLEJO DEPORTIVO Y
+RECREACIONAL DE LA UNIVERSIDAD NACIONAL
+UNIVERSIDAD
+DE MOQUEGUA EN EL CENTRO POBLADO
+2169280 NACIONAL DE 8 740 302.85 Nacional Otros
+DE CHEN CHEN, DISTRITO DE MOQUEGUA,
+MOQUEGUA
+PROVINCIA DE MARISCAL NIETO, REGIÓN
+MOQUEGUA
+CREACIÓN DE LOS SERVICIOS BÁSICOS Y
+URBANÍSTICOS DE LA FILIAL ILO, PAMPA
+INALÁMBRICA, DISTRITO ALGARROBAL, UNIVERSIDAD
+2351019 PROVINCIA DE ILO, DEPARTAMENTO DE NACIONAL DE 2 603 916.05 Nacional Otros
+MOQUEGUA DISTRITO DE EL ALGARROBAL MOQUEGUA
+- PROVINCIA DE ILO - DEPARTAMENTO DE
+MOQUEGUA
+MEJORAMIENTO DEL SERVICIO EDUCATIVO EN
+UNIDAD EJECUTORA
+LA INSTITUCIÓN EDUCATIVA INICIAL N° 360,
+SUB REGIÓN DE Incumplimiento de
+2310160 AA.HH. SANTA ROSA, DISTRITO EL ALGARROBAL, 3 503 678.29 Regional
+DESARROLLO ILO contrato
+PROVINCIA DE ILO, DEPARTAMENTO DE
+003
+MOQUEGUA
+ELABORACIÓN DEL EXPEDIENTE TÉCNICO
+DEFINITIVO DEL PIP MEJORAMIENTO Y
+MUNICIPALIDAD
+AMPLIACIÓN DEL SERVICIO DE AGUA PARA
+DISTRITAL DE
+2234855 RIEGO, MEDIANTE LA CONSTRUCCIÓN DEL 85 415 986.00 Local Otros
+SAN CRISTÓBAL-
+SISTEMA DE RIEGO LOGEN, EN LOS SECTORES
+MARISCAL NIETO
+AGRÍCOLAS DE SAN CRISTÓBAL, TRAMPANI,
+ARBOLITUNE Y CHAWAÑA
+
+=== pagina 65 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE LOS SERVICIOS DEL CAMPO
+MUNICIPALIDAD
+DEPORTIVO Y ESPACIOS RECREATIVOS EN EL
+DISTRITAL DE
+2304391 BARRIO AZUL, DE LA LOCALIDAD DE CALACOA, 11 016 197.43 Local Otros
+SAN CRISTÓBAL-
+DISTRITO DE SAN CRISTÓBAL - MARISCAL
+MARISCAL NIETO
+NIETO - MOQUEGUA, COMPONENTE I, MÓDULO I
+AMPLIACIÓN Y MEJORAMIENTO DEL MERCADO MUNICIPALIDAD
+2204256 CENTRAL DE ABASTOS DE SAMEGUA, DISTRITO DISTRITAL DE 10 962 397.62 Local Otros
+DE SAMEGUA - MARISCAL NIETO - MOQUEGUA SAMEGUA
+MEJORAMIENTO Y CONSTRUCCIÓN DE LA
+MUNICIPALIDAD
+INFRAESTRUCTURA DE RIEGO DEL SECTOR
+DISTRITAL DE
+2155171 QUEABAYA - SUNISPAYA DE LAS LOCALIDADES 10 399 301.02 Local Otros
+SAN CRISTÓBAL-
+DE BELLAVISTA Y CALACOA, DISTRITO DE SAN
+MARISCAL NIETO
+CRISTÓBAL - MARISCAL NIETO - MOQUEGUA
+FORTALECIMIENTO DE LA CRIANZA DEL CUY MUNICIPALIDAD
+2074968 EN LA PROVINCIA DE MARISCAL NIETO - PROVINCIAL DE 5 736 326.19 Local Otros
+MOQUEGUA MARISCAL NIETO
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+65
+
+=== pagina 66 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+P R O V I N C I A
+C O N S T I T U C I O N A L N
+D E L C A L L A O
+Mi Perú
+LIMA
+Ventanilla
+OCÉANO
+PACÍFICO
+Callao Carmen de
+la Legua
+Bellavista
+La Punta
+Celendín
+TABLA 18. PRINCIPALES OBRAS PARALIZADAS EN LA PROVINCIA CONSTITUCIONAL DEL CALLAO
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DEL SERVICIO DEL
+66 DESEMBARCADERO PARA EL MANEJO DE
+MUESTRAS DE INVESTIGACIÓN EN LA SEDE INSTITUTO DEL MAR Discrepancias,
+2251684 11 716 531.18 Nacional
+CENTRAL DEL IMARPE, DISTRITO DEL CALLAO, DEL PERÚ controversias y arbitraje
+PROVINCIA CONSTITUCIONAL DEL CALLAO,
+REGIÓN CALLAO
+CONSTRUCCIÓN DE INSTALACIONES
+EXTERIORES DE SERVICIOS BÁSICOS;
+ADQUISICIÓN DE INSTALACIONES EXTERIORES
+DE SERVICIOS BÁSICOS; EN EL ESTADIO GOBIERNO REGIONAL Incumplimiento de
+2471599 14 429 699.65 Regional
+MIGUEL GRAU, URBANIZACIÓN ESTELA MARIS, DEL CALLAO contrato
+ETAPA 1 DISTRITO DE BELLAVISTA, PROVINCIA
+CONSTITUCIONAL DEL CALLAO, DEPARTAMENTO
+CALLAO
+EJECUCIÓN DE LA OBRA DEL PIP
+MEJORAMIENTO DEL SERVICIO DE EDUCACION
+GOBIERNO REGIONAL Discrepancias,
+2153330 INICIAL DE LA I.E.I. N° 140 EN EL AA.HH. EL 7 719 382.15 Regional
+DEL CALLAO controversias y arbitraje
+GOLFO, DISTRITO DE VENTANILLA, PROVINCIA
+CONSTITUCIONAL DEL CALLAO, REGIÓN CALLAO
+MEJORAMIENTO DEL PARQUE JUAN PABLO II,
+UBICADO ENTRE LA AV. SANTA ROSA Y AV. JOSÉ GOBIERNO REGIONAL Discrepancias,
+2485752 1 668 080.55 Regional
+GÁLVEZ, DISTRITO DE LA PERLA - PROVINCIA DE DEL CALLAO controversias y arbitraje
+CALLAO - DEPARTAMENTO DE CALLAO
+MEJORAMIENTO DEL SERVICIO DE
+TRANSITABILIDAD PEATONAL EN LAS CALLES B,
+GOBIERNO REGIONAL Deficiencia en el
+2420291 C, D, E, F, G, Y H, AA.HH. ISRAEL ES EL MAESTRO 1 363 234.91 Regional
+DEL CALLAO Expediente Técnico
+DEL DISTRITO DE MI PERÚ - PROVINCIA DE
+CALLAO - DEPARTAMENTO DE CALLAO
+
+=== pagina 67 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DEL SERVICIO DE
+TRANSITABLIDAD EN LA ZONA 11 DEL FONDO MUNICIPAL
+CERCADO CALLAO: JR. APURÍMAC, JR. DE INVERSIONES
+2221651 WASHINGTON, JR. MARCO POLO, JR. DEL CALLAO S.A. 6 516 578.30 Local Otros
+GUISSE, JR. SALOOM, JR. COCHRANE Y CA. - FINVER CALLAO
+CONTRALMIRANTE VILLAR, PROVINCIA DE S.A.
+CALLAO - CALLAO
+MEJORAMIENTO DEL SERVICIO DE
+MUNICIPALIDAD
+DISPOSICIÓN SANITARIA LA PUNTA DEL
+2426754 DISTRITAL DE LA 192 805.95 Local Otros
+DISTRITO DE LA PUNTA - PROVINCIA DE
+PUNTA
+CALLAO - DEPARTAMENTO DE CALLAO
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+67
+
+=== pagina 68 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+P A S C O
+UCAYALÍ
+HUÁNUCO
+Oxapampa
+Daniel
+A. Carrión
+Pasco
+Cerro
+de Paaassscccooo
+JUNÍN
+LIMA N
+TABLA 19. PRINCIPALES OBRAS PARALIZADAS EN PASCO
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+INSTALACIÓN DE LOS SERVICIOS DE
+68 PROTECCIÓN DE ÁREAS AGRÍCOLAS EN EL
+PROYECTO ESPECIAL Falta de recursos
+2250850 RÓO CHOROBAMBA DE LA CC.NN. TSACHOPEN 10 064 196.54 Nacional
+PICHIS PALCAZU financieros y liquidez
+Y OTROS, PROVINCIA DE OXAPAMPA, REGIÓN
+PASCO
+MEJORAMIENTO DEL SERVICIO DE EDUCACION
+GOB. REG. DE
+SECUNDARIA EN LA I.E. BERNARDO CHACÓN
+PASCO - SUB REGION Falta de recursos
+2161466 TELLO, ASTOBAMBA - HUARAUTAMBO DEL 7 498 906.09 Regional
+DANIEL ALCIDES financieros y liquidez
+DISTRITO DE YANAHUANCA, PROVINCIA DE
+CARRION
+DANIEL ALCIDES CARRIÓN - PASCO
+SALDO DE OBRA AMPLIACIÓN DE LA
+CAPACIDAD DE LOS SERVICIOS EDUCATIVOS DE
+LOS LABORATORIOS Y TALLERES DE PRÁCTICA
+GOBIERNO REGIONAL Falta de recursos
+2226964 DE LAS CARRERAS DE ENFERMERÍA TÉCNICA, 5 247 228.67 Regional
+DE PASCO financieros y liquidez
+TÉCNICA EN FARMACIA Y GUÍA OFICIAL DE
+TURISMO DEL INSTITUTO DE EDUCACIÓN
+SUPERIOR TECNOLÓGICO PÚBLICO PASCO
+CONSTRUCCIÓN DEL CAMINO VECINAL CUEVA
+BLANCA, SANTA BÁRBARA, DISTRITO DE GOBIERNO REGIONAL
+2144478 4 120 555.80 Regional Otros
+HUANCABAMBA, PROVINCIA DE OXAPAMPA DE PASCO
+PASCO
+CONSTRUCCIÓN DEL SISTEMA DE RIEGO DE
+GOBIERNO REGIONAL
+2134952 LA ZONA BAJA DE SANTA ANA DE TUSI-PROV. 364 241.07 Regional Otros
+DE PASCO
+DANIEL CARRIÓN-PASCO
+CONSTRUCCIÓN Y MEJORAMIENTO DE LOS MUNICIPALIDAD
+Discrepancias,
+2166996 SISTEMAS DE AGUA POTABLE Y DESAGÜE DE DISTRITAL DE 38 802 537.27 Local
+controversias y arbitraje
+PUERTO BERMÚDEZ PUERTO BERMÚDEZ
+
+=== pagina 69 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+CONSTRUCCIÓN DE CARRETERA Y PUENTES
+MUNICIPALIDAD
+VILLA CORAZÓN DE JESÚS -SHALALI-PULIAJ - Discrepancias,
+2233832 DISTRITAL DE SANTA 5 639 907.12 Local
+PUENTE AMAQUILCA, DISTRITO DE SANTA ANA controversias y arbitraje
+ANA DE TUSI
+DE TUSI - DANIEL ALCIDES CARRIÓN - PASCO
+MEJORAMIENTO DEL SISTEMA DE AGUA
+POTABLE Y AGUAS SERVIDAS EN EL CENTRO MUNICIPALIDAD
+2310120 POBLADO DE PUERTO MAYRO, DISTRITO DE DISTRITAL DE 5 426 697.07 Local Otros
+PALCAZÚ, PROVINCIA DE OXAPAMPA - REGIÓN PALCAZÚ
+PASCO.
+CONSTRUCCIÓN DE CARRETERA Y PUENTES
+MUNICIPALIDAD
+VILLA CORAZÓN DE JESÚS -SHALALI-PULIAJ Incumplimiento de
+0 DISTRITAL DE SANTA 5 370 223.88 Local
+-PUENTE AMAQUILCA, DISTRITO DE SANTA ANA contrato
+ANA DE TUSI
+DE TUSI - DANIEL ALCIDES CARRIÓN - PASCO.
+AMPLIACIÓN, MEJORAMIENTO DE PISTAS Y
+VEREDAS EN EL JIRÓN TICLAHUANCA, JIRÓN
+MUNICIPALIDAD
+RIMAY MARCA, JIRÓN YARUS, CALLE EUGENIO Incumplimiento de
+2300458 DISTRITAL DE 4 541 814.72 Local
+TORRES, CALLE INDEPENDENCIA, CALLE 1, contrato
+TICLACAYAN
+CALLE 2, PASAJE 1 Y CALLE JOSÉ OLAYA DEL
+DISTRITO DE TICLACAYAN - PASCO - PASCO
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+69
+
+=== pagina 70 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+P I U R A
+N
+ECUADOR
+TUMBES
+Talara
+Sullana
+Ayabaca
+Paita
+PPiura
+MorropónHuancabamba
+Sechura
+LAMBAYEQUE
+OCÉANO
+PACÍFICO
+TABLA 20. PRINCIPALES OBRAS PARALIZADAS EN PIURA
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+PROYECTO
+REHABILITACIÓN Y MEJORAMIENTO DE LA
+70 ESPECIAL DE
+CARRETERA EMP. PE 1NJ (DV. HUANCABAMBA)
+INFRAESTRUCTURA Incumplimiento de
+2234985 BUENOS AIRES, SALITRAL CANCHAQUE EMP. 575 878 966.42 Nacional
+DE TRANSPORTE contrato
+PE 3N HUANCABAMBA, TRAMO KM 71 600
+NACIONAL - PROVÍAS
+HUANCABAMBA
+NACIONAL
+PROGRAMA
+INSTALACIÓN DE BANDA ANCHA PARA LA
+NACIONAL DE Incumplimiento de
+2250179 CONECTIVIDAD INTEGRAL Y DESARROLLO 487 719 423.00 Nacional
+TELECOMUNICACIONES contrato
+SOCIAL DE LA REGIÓN PIURA
+- PRONATEL
+PROYECTO
+ESPECIAL DE
+INFRAESTRUCTURA
+2094971 OBRA N° 02: PUENTE PICHICHACO (01 PUENTE) 337 962 988.40 Nacional Interferencias
+DE TRANSPORTE
+NACIONAL - PROVÍAS
+NACIONAL
+MINISTERIO DE
+REHABILITACIÓN DEL PUENTE SALITRAL Y Incumplimiento de
+2432687 TRANSPORTES Y 53 457 965.52 Nacional
+ACCESOS contrato
+COMUNICACIONES
+REHABILITACIÓN DEL LOCAL ESCOLAR TÉCNICO
+AUTORIDAD PARA LA
+DE APLICACIÓN CON CÓDIGO LOCAL 414444, Incumplimiento de
+2503358 RECONSTRUCCIÓN 46 657 496.30 Nacional
+DISTRITO DE LA ARENA, PROVINCIA DE PIURA, contrato
+CON CAMBIOS
+REGIÓN PIURA
+EJECUCIÓN DEL COMPONENTE I:
+PROYECTO ESPECIAL
+CONSTRUCCIÓN DE LA PRESA TRONERA SUR Y
+DE IRRIGACION E
+2040186 TÚNEL TRASANDINO DEL PROYECTO ESPECIAL 502 971 127.76 Regional Otros
+HIDROENERGÉTICO
+DE IRRIGACIÓN E HIDROENERGÉTICO DEL ALTO
+ALTO PIURA
+PIURA
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+DEL ESTABLECIMIENTO DE SALUD JESÚS
+GOBIERNO REGIONAL
+2434227 GUERRERO CRUZ DE LA RED DE SERVICIOS DE 104 577 197.09 Regional Otros
+DE PIURA
+SALUD HUANCABAMBA, DISTRITO Y PROVINCIA
+DE HUANCABAMBA, DEPARTAMENTO DE PIURA
+
+=== pagina 71 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+DEL ESTABLECIMIENTO DE SALUD AYABACA GOBIERNO REGIONAL
+2434225 91 252 533.23 Regional Otros
+DE LA PROVINCIA Y DISTRITO DE AYABACA, DE PIURA
+DEPARTAMENTO DE PIURA
+MEJORAMIENTO DE LOS SERVICIOS DE
+SALUD DEL ESTABLECIMIENTO DE SALUD GOBIERNO REGIONAL
+2434215 81 927 796.35 Regional Otros
+HUARMACA, DISTRITO HUARMACA, PROVINCIA DE PIURA
+HUANCABAMBA
+ITEM: PROYECTO DE INVERSIÓN PÚBLICA:
+MEJORAMIENTO DE LOS SERVICIOS DE
+SALUD DEL ESTABLECIMIENTO DE SALUD LOS GOBIERNO REGIONAL
+2437053 63 968 837.41 Regional Otros
+ALGARROBOS, DISTRITO Y PROVINCIA DE PIURA DE PIURA
+- DEPARTAMENTO PIURA, CON CÓDIGO DE SNIP
+Nº 2267345 (ANTES CÓDIGO SNIP Nº 318325)
+AMPLIACIÓN Y MEJORAMIENTO DE
+LOS SERVICIOS DE AGUA POTABLE Y MUNICIPALIDAD
+Incumplimiento de
+2307711 ALCANTARILLADO EN EL CENTRO POBLADO PROVINCIAL DE 60 404 253.47 Local
+contrato
+PARACHIQUE - LA BOCANA DEL DISTRITO Y SECHURA
+PROVINCIA DE SECHURA - PIURA
+AMPLIACIÓN Y REHABILITACIÓN DE LOS
+MUNICIPALIDAD
+SISTEMAS DE AGUA POTABLE Y SANEAMIENTO
+2090577 DISTRITAL DE TAMBO 58 302 488.20 Local Otros
+DE LA CIUDAD DE TAMBOGRANDE, DEL
+GRANDE
+DISTRITO DE TAMBOGRANDE - PIURA - PIURA.
+RECONSTRUCCIÓN Y REHABILITACIÓN DE
+71
+CAMINO VECINAL 44 230.00 KM EN TROCHA
+MUNICIPALIDAD
+CARROZABLE TRAMO TIERRA BLANCA - CRUZ Discrepancias,
+2432464 DISTRITAL DE 32 182 006.19 Local
+CHIQUITA - PALO BLANCO, DISTRITO DE controversias y arbitraje
+HUARMACA
+HUARMACA, PROVINCIA DE HUANCABAMBA -
+PIURA
+AMPLIACIÓN Y MEJORAMIENTO DEL SISTEMA
+MUNICIPALIDAD
+DE AGUA POTABLE Y ALCANTARILLADO DE LA Incumplimiento de
+2056438 PROVINCIAL DE 24 490 216.00 Local
+UPIS LUIS ANTONIO EGUIGUREN DEL DISTRITO contrato
+PIURA
+DE PIURA
+MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO
+DE AGUA POTABLE E INSTALACIÓN DEL MUNICIPALIDAD
+2037616 SERVICIO DE ALCANTARILLADO VILLA BATANES PROVINCIAL DE 18 364 481.28 Local Otros
+DEL DISTRITO DE CHULUCANAS, PROVINCIA DE MORROPON
+MORROPÓN - PIURA, CÓDIGO SNIP N° 34889
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 72 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+P U N O
+MADRE
+DE DIOS
+N
+CCaarraabbaayyaa SSaannddiiaa
+Azángaro
+Melgar San Anrtonio
+de Putina
+PUNO Huancané
+Lampa
+Moho
+Lago
+Titicaca
+San Román Yunguyo
+MOQUEGUA
+TACNA
+BOLIVIA
+TABLA 21. PRINCIPALES OBRAS PARALIZADAS EN PUNO
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+AMPLIACIÓN DE LOS SERVICIOS DE CONSULTA PROGRAMA
+72 EXTERNA Y TBC; Y CONSTRUCCIÓN DEL NACIONAL DE
+2088622 48 464 248.00 Nacional Otros
+ASCENSOR MONTACAMILLAS DEL CENTRO DE INVERSIONES EN
+SALUD SANDIA - ETAPA R-1 SALUD - PRONIS
+MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO
+DE AGUA POTABLE Y CREACIÓN DEL SERVICIO
+PROGRAMA
+DE DISPOSICIÓN SANITARIA DE EXCRETAS EN
+NACIONAL DE Incumplimiento de
+2302962 EL C.P. TASAPA PATACOLLO (SECTORES TASAPA 8 517 320.39 Nacional
+SANEAMIENTO contrato
+CENTRAL, PRIMER TASAPA, II TASAPA, IRUJANI
+RURAL
+Y JOCCO), DISTRITO DE ZEPITA, PROVINCIA DE
+CHUCUITO, DEPARTAMENTO DE PUNO
+MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO
+DE AGUA POTABLE Y CREACIÓN DEL SERVICIO
+PROGRAMA
+DE DISPOSICIÓN SANITARIA DE EXCRETAS EN EL
+NACIONAL DE Incumplimiento de
+2310847 DISTRITO DE ISANI, SECTORES KENTURAMAYA, 7 649 010.85 Nacional
+SANEAMIENTO contrato
+ISANI CENTRAL, AMAYSAMAHUI, MACHACAUYU,
+RURAL
+KAMAÑAPATA - KALUNAMAYA Y PATACANI,
+DISTRITO DE ZEPITA, PROVINCIA DE CHUCUITO.
+MEJORAMIENTO Y AMPLIACIÓN DEL SISTEMA PROYECTO ESPECIAL
+2215506 DE IRRIGACIÓN AZÁNGARO, PROVINCIA DE BINACIONAL LAGO 7 178 268.44 Nacional Otros
+AZÁNGARO - PUNO TITICACA - PUNO
+MEJORAMIENTO DE CANAL DE NAVEGACIÓN
+PROYECTO ESPECIAL
+LOS UROS, TRAMO II (RÍO WILLY - LAGO MENOR
+2115905 BINACIONAL LAGO 5 655 115.00 Nacional Otros
+DEL LAGO TITICACA), DISTRITO DE PUNO,
+TITICACA - PUNO
+PROVINCIA DE PUNO - PUNO
+FORTALECIMIENTO DE LA CAPACIDAD
+GOBIERNO REGIONAL Discrepancias,
+2271673 RESOLUTIVA DEL HOSPITAL REGIONAL MANUEL 393 580 587.23 Regional
+DE PUNO controversias y arbitraje
+NÚÑEZ BUTRÓN PUNO
+MEJORAMIENTO DE LA CARRETERA ARAPA-
+CHUPA (PU 114)-DV. HUANCANÉ (EMP, PE 34H), GOBIERNO REGIONAL
+2294382 60 502 645.64 Regional Eventos climáticos
+PROVINCIAS DE AZÁNGARO Y HUANCANÉ - DE PUNO
+PUNO, TRAMO I DV. HUANCANÉ - CHUPA
+
+=== pagina 73 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE LOS SERVICIOS DE
+EDUCACION INICIAL DE LA I.E.I. N° 597 DEL GOBIERNO REGIONAL Falta de recursos
+2230776 1 662 878.63 Regional
+CENTRO POBLADO DE PALCA, DISTRITO DE DE PUNO financieros y liquidez
+OLLACHEA - CARABAYA - PUNO
+MUNICIPALIDAD
+2090887 DRENAJE PLUVIAL DE LA CIUDAD DE JULIACA PROVINCIAL DE SAN 210 952 913.09 Local Disponibilidad de terreno
+ROMÁN
+MEJORAMIENTO Y AMPLIACIÓN DE
+MUNICIPALIDAD
+LOS SISTEMAS DE AGUA POTABLE Y Discrepancias,
+2128422 PROVINCIAL DE 65 154 729.23 Local
+ALCANTARILLADO DE LA LOCALIDAD DE controversias y arbitraje
+HUANCANÉ
+HUANCANÉ
+CONSTRUCCIÓN DE OBRAS COMPLEMENTARIAS
+MUNICIPALIDAD
+EN LA AV. INDEPENDENCIA TRAMO (AV.
+2216332 PROVINCIAL DE SAN 25 099 032.51 Local Otros
+CIRCUNVALACIÓN - JR. POJCRACCASI) DE LA
+ROMÁN
+CIUDAD DE JULIACA, DISTRITO DE JULIACA
+MEJORAMIENTO DEL ABASTECIMIENTO
+DE AGUA POTABLE EN LOS BARRIOS Y MUNICIPALIDAD Incumplimiento de
+2321972 24 055 187.73 Local
+URBANIZACIONES DE LA ZONA NORTE DE LA PROVINCIAL DE PUNO contrato
+CIUDAD DE PUNO
+MEJORAMIENTO Y AMPLIACIÓN INTEGRAL DEL
+MUNICIPALIDAD
+SERVICIO DE AGUA POTABLE ALCANTARILLADO
+2291955 DISTRITAL DE 20 092 001.89 Local Otros
+Y TRATAMIENTO DE AGUAS RESIDUALES EN EL
+MUÑANI
+PUEBLO DE MUÑANI
+73
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 74 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+S A N M A R T Í N
+N
+LORET O
+Moyooooobbbbbaaaaammmmmba
+Rioja
+Lamas
+AMAZONAS San Martín
+El Dorado
+Huallaga Picota
+Mariscal
+Cáceres
+Bellavista
+Tocache
+ÁNCASH
+HUÁNUCO
+TABLA 22. PRINCIPALES OBRAS PARALIZADAS EN SAN MARTÍN
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO Y AMPLIACIÓN DE
+74 LABORATORIO DE PROCESOS TECNOLÓGICOS
+AGROINDUSTRIALES DE LA FACULTAD UNIVERSIDAD
+Discrepancias,
+2195376 DE INGENIERÍA AGROINDUSTRIAL DE LA NACIONAL DE SAN 9 860 238.27 Nacional
+controversias y arbitraje
+UNIVERSIDAD NACIONAL DE SAN MARTÍN, MARTÍN - TARAPOTO
+DISTRITO DE MORALES, PROVINCIA DE SAN
+MARTÍN, REGIÓN SAN MARTÍN
+MEJORAMIENTO DEL CANAL LATERAL LA
+PROGRAMA
+CONQUISTA DEL SISTEMA DE RIEGO AVISADO Incumplimiento de
+2161835 SUBSECTORIAL DE 4 382 762.34 Nacional
+- VALLE LA CONQUISTA, DISTRITO Y PROVINCIA contrato
+IRRIGACIONES -PSI
+DE MOYOBAMBA, REGIÓN SAN MARTÍN
+MEJORAMIENTO DEL SISTEMA DE RIEGO ALTO PROGRAMA
+Incumplimiento de
+2135048 PLANTANOYACU, DISTRITO NUEVA CAJAMARCA, SUBSECTORIAL DE 3 868 687.73 Nacional
+contrato
+PROVINCIA DE RIOJA - REGIÓN SAN MARTÍN IRRIGACIONES - PSI
+MEJORAMIENTO DE LA INFRAESTRUCTURA DE
+RIEGO DEL CANAL LATERAL N 24, MARGEN PROGRAMA
+Incumplimiento de
+2134653 DERECHA IRRIGACIÓN SISA, DISTRITO DE SAN SUBSECTORIAL DE 3 512 376.80 Nacional
+contrato
+RAFAEL, PROVINCIA DE BELLAVISTA, REGIÓN IRRIGACIONES - PSI
+SAN MARTÍN
+MEJORAMIENTO DE LA INFRAESTRUCTURA
+PROGRAMA
+DE RIEGO LATERAL 22, MARGEN IZQUIERDA
+2135179 SUBSECTORIAL DE 1 755 912.81 Nacional Otros
+IRRIGACIÓN SISA, DISTRITO SAN HILARIÓN,
+IRRIGACIONES - PSI
+PROVINCIA PICOTA, REGIÓN SAN MARTÍN
+SALDO DE OBRA DEL PIP: MEJORAMIENTO
+DE LOS SERVICIOS DE SALUD EN EL
+GOBIERNO REGIONAL
+2234508 HOSPITAL RIOJA, PROVINCIA DE RIOJA- 129 541 323.91 Regional Otros
+DE SAN MARTÍN
+REGIÓN SAN MARTÍN - ITEM IV: SISTEMA DE
+COMUNICACIONES E ITEM V: EQUIPAMIENTO
+MEJORAMIENTO DEL SERVICIO DE AGUA EN
+EL SISTEMA DE RIEGO DEL CANAL PRINCIPAL
+GOBIERNO REGIONAL
+2231275 MICHUCO, DISTRITOS DE NUEVA CAJAMARCA Y 13 309 721.65 Regional Otros
+DE SAN MARTÍN
+SAN FERNANDO, PROVINCIA DE RIOJA, REGIÓN
+SAN MARTÍN
+
+=== pagina 75 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+GOBIERNO REGIONAL
+2234508 EN EL HOSPITAL RIOJA, PROVINCIA DE RIOJA - 129 541 323.91 Regional Otros
+DE SAN MARTÍN
+REGIÓN SAN MARTÍN
+AMPLIACIÓN Y MEJORAMIENTO DEL SISTEMA
+DE AGUA POTABLE Y ALCANTARILLADO EN
+VILLANUEVA-PUCACACA-CHINCHA ALTA- MUNICIPALIDAD
+2078794 SHIMBILLO-NVO CODO-PICOTA-SANTA PROVINCIAL DE 57 477 877.98 Local Otros
+ROSILLO-SAN ANTONIO-NVA UNIÓN-WINGE- PICOTA
+CASPISAPA-PTO RICO Y SAN HILARIÓN,
+PROVINCIA DE PICOTA - SAN MARTÍN
+INSTALACIÓN DEL SISTEMA DE AGUA
+POTABLE Y SANEAMIENTO MULTICOMUNAL DE
+MUNICIPALIDAD
+YANAYACU, PAMPA HERMOSA, LA PERLA, NVO Incumplimiento de
+2209371 DISTRITAL DE BAJO 21 728 700.52 Local
+TARAPOTO, NVO PROGRESO, SAN RAMON CON contrato
+BIAVO
+MEJORAMIENTO EN NVO LIMA, DISTRITO DE
+BAJO BIAVO - BELLAVISTA - SAN MARTÍN
+EMPRESA MUNICIPAL
+MEJORAMIENTO Y AMPLIACIÓN DE LOS
+DE SERVICIO DE
+SERVICIOS OPERACIONALES Y COMERCIALES
+2338547 AGUA POTABLE Y 10 979 378.00 Local Otros
+DE EMAPA SAN MARTÍN S.A EN LA REGIÓN SAN
+ALCANTARILLADO DE
+MARTÍN - II ETAPA - MORALES
+SAN MARTÍN S.A.
+MEJORAMIENTO DE LAS CONDICIONES BÁSICAS
+DEL SERVICIO EDUCATIVO EN LA INSTITUCIÓN MUNICIPALIDAD
+Incumplimiento de
+2154226 EDUCATIVA 00516 HORACIO ZEVALLOS DISTRITAL DE 8 466 887.38 Local
+contrato
+75 GAMEZ, DISTRITO DE HABANA, PROVINCIA DE HABANA
+MOYOBAMBA - SAN MARTÍN
+MEJORAMIENTO DEL CAMINO VECINAL
+MUNICIPALIDAD
+POTRERILLO ALTO RIOJA SIETE DE JUNIO -
+2221733 DISTRITAL DE 5 867 718.00 Local Otros
+JEPELACIO, PROVINCIA DE MOYOBAMBA - SAN
+JEPELACIO
+MARTÍN (II ETAPA)
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+
+=== pagina 76 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+T A C N A
+PUN O
+MOQUEGUA
+Jorge Basadre
+Candarave Tarata
+Tacna
+CHILE
+OCÉANO
+PACÍFICO
+N
+TABLA 23. PRINCIPALES OBRAS PARALIZADAS EN TACNA
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+EMPRESA REGIONAL
+CREACIÓN LT 66KV LOS HÉROES-ZOFRATACNA-
+76 DE SERVICIO
+SE YARADA Y SE ZOFRATACNA CENTRO
+2383907 PÚBLICO DE 18 573 520.28 Nacional Otros
+POBLADO DE TACNA-DISTRITO DE TACNA-
+ELECTRICIDAD S. A. -
+PROVINCIA DE TACNA-REGIÓN TACNA
+ELECTROSUR S.A.
+PROYECTO ESPECIAL
+AFIANZAMIENTO Y
+CANAL DE CONDUCCIÓN VILACHAULLANI -
+2106687 AMPLIACIÓN DE LOS 297 276 894.42 Regional Conflictos sociales
+CALACHACA - CHUAPALCA
+RECURSOS HÍDRICOS
+DE TACNA
+FORTALECIMIENTO DE LA UNIDAD DE EQUIPO
+GOBIERNO REGIONAL
+2108284 MECÁNICO DEL GOBIERNO REGIONAL DE TACNA 52 807 198.89 Regional Otros
+DE TACNA
+- SEDE CENTRAL - TACNA
+REHABILITACIÓN DE LA CARRETERA EMPALME
+PE-38 TARATA - CANDARAVE EMP. PE-36A GOBIERNO REGIONAL Discrepancias,
+2110421 10 333 638.15 Regional
+(BINACIONAL), TRAMO: CANDARAVE-EMP. TACNA controversias y arbitraje
+CARRETERA BINACIONAL KM. 143+500
+MEJORAMIENTO DE LOS SERVICIOS DE SALUD
+DEL HOSPITAL HIPÓLITO UNÁNUE DE TACNA, GOBIERNO REGIONAL Falta de recursos
+2192844 632 167 754 Regional
+DISTRITO DE TACNA, PROVINCIA TACNA - TACNA financieros y liquidez
+REGIÓN TACNA
+CONSTRUCCIÓN DE UN SISTEMA DE
+ALMACENAMIENTO Y REGULACIÓN EN EL
+MUNICIPALIDAD
+SECTOR DE LA QUEBRADA COLTANI PARA Discrepancias,
+2145971 DISTRITAL DE Local
+MEJORAMIENTO DE ÁREAS AGRÍCOLAS, controversias y arbitraje
+ILABAYA
+DISTRITO DE ILABAYA - JORGE BASADRE -
+TACNA
+CONSTRUCCIÓN DE DEFENSA RIBEREÑA Y
+ENCAUZAMIENTO DEL RÍO ILABAYA Y LOCUMBA
+MUNICIPALIDAD
+EN LOS SECTORES DE CHEJAYA, ILABAYA,
+2079627 DISTRITAL DE 69 894 111.20 Local Otros
+MIRAVE Y OCONCHAY, DISTRITO DE ILABAYA -
+ILABAYA
+JORGE BASADRE - TACNA - TRAMO III, PROG.
+(11,800 AL 14,700)
+
+=== pagina 77 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DEL SERVICIO DE LA UNIDAD MUNICIPALIDAD
+DE EQUIPO MECÁNICO Y CANTERAS, DISTRITO DISTRITAL DE
+Falta de recursos
+2235995 DE CORONEL GREGORIO ALBARRACÍN CORONEL GREGORIO 27 972 928.72 Local
+financieros y liquidez
+LANCHIPA - TACNA - TACNA. (COMPONENTE DE ALBARRACIN
+EDIFICACIÓN I ETAPA) LANCHIPA
+MEJORAMIENTO Y AMPLIACIÓN DE LOS
+SERVICIOS DE AGUA POTABLE Y TRATAMIENTO
+MUNICIPALIDAD
+DE AGUAS RESIDUALES EN LAS LOCALIDADES Falta de recursos
+2132829 DISTRITAL DE 13 700 436.96 Local
+QUE CONFORMAN EL SISTEMA 02 A NIVEL financieros y liquidez
+ILABAYA
+DISTRITAL, DISTRITO DE ILABAYA - JORGE
+BASADRE - TACNA - I ETAPA
+MEJORAMIENTO DE LA TROCHA CARROZABLE
+MUNICIPALIDAD
+TRAMO CHINTARI - BANDERANI (SECTOR
+2222395 DISTRITAL DE 13 012 275.17 Local Otros
+CURIBAYA), DISTRITO DE CURIBAYA, PROVINCIA
+CURIBAYA
+DE CANDARAVE, REGIÓN TACNA
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+77
+
+=== pagina 78 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+T U M B E S
+N
+OCÉANO
+PACÍFICO
+Zarumilla
+Tumbes
+Contralmirante
+Villar
+ECU ADOR
+PIURA
+TABLA 24. PRINCIPALES OBRAS PARALIZADAS EN TUMBES
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+PROGRAMA
+INSTALACIÓN DE BANDA ANCHA PARA LA
+78 NACIONAL DE Incumplimiento de
+2250147 CONECTIVIDAD INTEGRAL Y DESARROLLO 88 674 944.01 Nacional
+TELECOMUNICACIONES contrato
+SOCIAL DE LA REGIÓN TUMBES
+- PRONATEL
+REHABILITACIÓN DEL SISTEMA DE CAPTACIÓN
+PROGRAMA DE
+Y CANAL ROMERO DEL SECTOR ROMERO
+DESARROLLO
+(PROGRESIVA 0-000 - 4-000) DEL DISTRITO
+2484152 PRODUCTIVO 10 258 167.00 Nacional Otros
+DE TUMBES, PROVINCIA DE TUMBES,
+AGRARIO RURAL -
+DEPARTAMENTO DE TUMBES CON CÓDIGO
+AGRO RURAL
+ARCC N° 3 Y 228
+MINISTERIO
+RECONSTRUCCIÓN Y REHABILITACIÓN DE
+DE VIVIENDA, Incumplimiento de
+2431423 INFRAESTRUCTURA VIAL DE LA ZONA OESTE 7 986 055.24 Nacional
+CONSTRUCCIÓN Y contrato
+DEL DISTRITO DE TUMBES, TUMBES, TUMBES.
+SANEAMIENTO
+REHABILITACIÓN DEL SERVICIO DE AGUA
+PARA RIEGO DEL CANAL LA PEÑA, DISTRITOS PROGRAMA
+Incumplimiento de
+2425378 DE CORRALES, LA CRUZ Y SAN JACINTO, SUBSECTORIAL DE 5 475 273.86 Nacional
+contrato
+PROVINCIA DE TUMBES, DEPARTAMENTO DE IRRIGACIONES - PSI
+TUMBES
+MINISTERIO
+RECONSTRUCCIÓN Y REHABILITACIÓN DE
+DE VIVIENDA, Incumplimiento de
+2434455 INFRAESTRUCTURA VIAL DE LA ZONA ESTE DEL 4 552 215.19 Nacional
+CONSTRUCCIÓN Y contrato
+DISTRITO DE TUMBES, TUMBES, TUMBES.
+SANEAMIENTO
+REPARACIÓN DE VÍAS DEPARTAMENTALES;
+EN EL CAMINO DEPARTAMENTAL TU - 103,
+TRAMO 0.240 KM EN EMP. PE1 (DV PUERTO GOBIERNO REGIONAL Incumplimiento de
+2425400 604 121.92 Regional
+PIZARRO) EN LA LOCALIDAD PUERTO PIZARRO, TUMBES contrato
+DISTRITO DE TUMBES, PROVINCIA TUMBES,
+DEPARTAMENTO TUMBES
+
+=== pagina 79 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+MEJORAMIENTO DEL SERVICIO DE
+MUNICIPALIDAD
+ALCANTARILLADO DE LA LOCALIDAD DE
+PROVINCIAL DE
+2196622 BOCAPÁN DEL DISTRITO DE ZORRITOS, 7 828 282.88 Local Conflictos sociales
+CONTRALMIRANTE
+PROVINCIA DE CONTRALMIRANTE VILLAR -
+VILLAR
+TUMBES
+AMPLIACIÓN Y MEJORAMIENTO DEL SISTEMA
+DE ELECTRIFICACIÓN DEL CASERIO RINCÓN DEL MUNICIPALIDAD
+2204409 CISNE DEL CENTRO POBLADO DE CABUYAL, PROVINCIAL DE 382 468.63 Local Otros
+DISTRITO DE PAMPAS DE HOSPITAL, PROVINCIA TUMBES
+DE TUMBES - TUMBES
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+79
+
+=== pagina 80 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+U C A YA L I LORETO
+N
+BRA SIL
+Cnel Portillo
+Padre
+Abad
+Atalaya Purús
+JUNÍN
+CUSCO
+TABLA 25. PRINCIPALES OBRAS PARALIZADAS EN UCAYALI
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+SERVICIO NACIONAL
+IMPLEMENTACIÓN PARA LA PROTECCIÓN Y
+80 DE CAPACITACIÓN
+CUSTODIA DEL TERRENO DE PROPIEDAD DEL Incumplimiento de
+0 PARA LA 650 660.40 Nacional
+SENCICO EN LA LOCALIDAD DE CALLERÍA - contrato
+INDUSTRIA DE LA
+CORONEL PORTILLO - REGIÓN UCAYALI
+CONSTRUCCIÓN
+FORTALECIMIENTO DE LOS SERVICIOS
+GOBIERNO REGIONAL Incumplimiento de
+2260211 DE SALUD DEL HOSPITAL REGIONAL DE 488 056 290.82 Regional
+DE UCAYALI contrato
+PUCALLPA - REGIÓN UCAYALI
+AMPLIACIÓN DE LA INFRAESTRUCTURA
+Y EQUIPAMIENTO DEL CENTRO DE SALUD GOBIERNO REGIONAL
+2094506 41 894 212.10 Regional Otros
+PURUS CON FINES DE RECATEGORIZACIÓN A DE UCAYALI
+NIVEL I - 4
+CONSTRUCCIÓN DEL SISTEMA DE AGUA
+POTABLE Y ALCANTARILLADO SANITARIO GOBIERNO REGIONAL
+2056003 40 431 599.54 Regional Otros
+DE YARINACOCHA II ETAPA - SECTOR 10 - DE UCAYALI
+PUCALLPA
+MEJORAMIENTO DE LA CAPACIDAD
+RESOLUTIVA DE LOS SERVICIOS DE SALUD
+GOBIERNO REGIONAL
+2342229 DEL CENTRO DE SALUD BREU, DISTRITO DE 33 361 090.10 Regional Otros
+DE UCAYALI
+YURUA, PROVINCIA DE ATALAYA, REGIÓN
+UCAYALI
+MEJORAMIENTO DE LOS SERVICIOS DE
+SALUD DEL CENTRO DE SALUD NUEVA
+GOBIERNO REGIONAL
+2339247 REQUENA DISTRITO DE NUEVA REQUENA, 24 101 374.34 Regional Interferencias
+DE UCAYALI
+PROVINCIA DE CORONEL PORTILLO,
+DEPARTAMENTO DE UCAYALI
+
+=== pagina 81 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+Costo Causal de paralización
+Nivel de
+CUI Descripción de la obra Entidad actualizado declaración por la
+gobierno
+S/ entidad
+AMPLIACIÓN Y MEJORAMIENTO DEL SERVICIO
+DE AGUA POTABLE Y ALCANTARILLADO MUNICIPALIDAD
+Discrepancias,
+2185406 SANITARIO DE LA CIUDAD DE AGUAYTÍA Y PROVINCIAL DE 104 085 079.59 Local
+controversias y arbitraje
+CENTROS POBLADOS ALEDAÑOS, PROVINCIA DE PADRE ABAD
+PADRE ABAD - UCAYALI
+MEJORAMIENTO Y AMPLIACIÓN DEL MERCADO
+MUNICIPALIDAD
+MUNICIPAL PRINCIPAL EN LA CIUDAD DE
+2329899 PROVINCIAL DE 9 558 073.98 Local Otros
+AGUAYTÍA, DISTRITO DE PADRE ABAD,
+PADRE ABAD
+PROVINCIA DE PADRE ABAD - UCAYALI
+MEJORAMIENTO DEL SISTEMA DE AGUA
+MUNICIPALIDAD
+POTABLE Y ALCANTARILLADO DEL CENTRO Incumplimiento de
+2190137 PROVINCIAL DE 8 362 202.53 Local
+POBLADO BOQUERÓN, PROVINCIA DE PADRE contrato
+PADRE ABAD
+ABAD - UCAYALI
+FUENTE: Portal Invierte.pe del Ministerio Economía y Finanzas e Infobras de la CGR.
+ELABORACIÓN: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control / FECHA: 31/12/2022
+81
+
+=== pagina 82 ===
+CONTRALORÍA GENERAL DE LA RREEPPOÚRBTLEIC DAE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL A DICIEMBRE 2022
+82

@@ -1,0 +1,47 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+ "02": Pública de gestión privada
+ "03": Gestión privada
+(**) Código de nivel y/o modalidad
+ “A1”: Inicial Cuna  "E1": EBE - Inicial
+ “A2”: Inicial Jardín  "E2": EBE - Primaria
+ “A3”: Inicial Cuna-Jardín  "L0": CETPRO - Técnico Productiva
+ “B0”: Primaria EBR  "K0": Educación Superior Pedagógica
+ "F0": Secundaria EBR  "T0": Educación Superior Tecnológica
+ "D1": EBA - Inicial e Intermedio  "M0": Escuela de Formación Artística
+ "D2": EBA - Avanzado  "P0": Escuela de Educación Superior Pedagógica
+ "E0": PRITE - Programa de Intervención  "S0": Escuela de Educación Superior Tecnológica
+Temprana
+(*) Matriz Local_Carreras.dbf (Pregunta 102)
+Nombre de archivo: Local_Carreras.dbf
+102. LISTADO DE CARRERAS O PROGRAMAS DE ESTUDIO OFRECIDOS EN ESTE LOCAL
+EDUCATIVO POR EL INSTITUTO O ESCUELA DE EDUCACIÓN SUPERIOR
+Tabla: Local_Carreras.dbf
+Campo Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo (000001:999999)
+NROCED C (5) Número de cédula 11
+CUADRO C (6) 102. Listado de carreras o programas de estudio P102
+ofrecidos en este local educativo por el instituto o
+escuela de educación superior
+NUMERO C (2) Número de carrera (*)
+NIVEL_CAR C (2) Código de nivel de educación superior (**)
+CODCARR C (10) Código de carrera o programa de estudio (***)
+DESCRIP C (125) Nombre de la carrera o programa de estudio (A:Z)
+ofrecida por el Instituto o Escuela de Ed. Superior
+(*) Número de carrera:
+ “01”: Carrera 01  “12”: Carrera 12
+ “02”: Carrera 02  “13”: Carrera 13
+ “03”: Carrera 03  “14”: Carrera 14
+ “04”: Carrera 04  “15”: Carrera 15
+ “05”: Carrera 05  “16”: Carrera 16
+ “06”: Carrera 06  “17”: Carrera 17
+ “07”: Carrera 07  “18”: Carrera 18
+ “08”: Carrera 08  “19”: Carrera 19
+ “09”: Carrera 09  “20”: Carrera 20
+ “10”: Carrera 10  ..
+ “11”: Carrera 11  “N”: Carrera N
+Donde N=Total de programas/carreras
+(**) Código de nivel de educación superior
+ "K0": Educación Superior Pedagógica
+ "T0": Educación Superior Tecnológica
+ "M0": Escuela de Formación Artística
+19

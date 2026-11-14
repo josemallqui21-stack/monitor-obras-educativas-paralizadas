@@ -1,0 +1,37 @@
+Reporte técnico evaluaciones 2022
+2.° grado de Programados Evaluados Cobertura
+secundaria
+IE estudiantes IE estudiantes IE estudiantes
+Madre de Dios 45 2735 45 2567 100,0 93,9
+Moquegua 32 1659 32 1610 100,0 97,0
+Pasco 92 3161 92 2808 100,0 88,8
+Piura 158 8035 158 7606 100,0 94,7
+Puno 130 5414 130 5289 100,0 97,7
+San Martín 113 4902 112 4548 99,1 92,8
+Tacna 73 3183 73 3103 100,0 97,5
+Tumbes 49 2321 49 2075 100,0 89,4
+Ucayali 125 6088 125 5203 100,0 85,5
+Tabla 2.5 Cobertura de la ENLA 4P EIB 2023 a nivel de IE y estudiantes.
+Programados Evaluados Cobertura
+4.° grado de
+primaria EIB IE estudiantes IE estudiantes IE estudiantes
+Total 2587 27 403 2572 24 120 99,4 88,0
+Amazonas 221 2876 220 2342 99,5 81,4
+Áncash 257 2463 257 2363 100,0 95,9
+Apurímac 203 2101 202 2003 99,5 95,3
+Arequipa 13 129 13 123 100,0 95,3
+Ayacucho 213 2106 213 2033 100,0 96,5
+Cajamarca 11 151 11 132 100,0 87,4
+Cusco 340 3850 340 3613 100,0 93,8
+Huancavelica 182 1801 182 1745 100,0 96,9
+Huánuco 163 1613 163 1476 100,0 91,5
+Junín 131 1410 131 1181 100,0 83,8
+Lambayeque 49 525 49 485 100,0 92,4
+Loreto 339 3830 330 2946 97,3 76,9
+Madre de Dios 8 65 8 52 100,0 80,0
+Moquegua 1 6 1 6 100,0 100,0
+Pasco 31 262 30 182 96,8 69,5
+Puno 220 1918 220 1852 100,0 96,6
+San Martín 24 235 24 189 100,0 80,4
+Ucayali 181 2062 178 1397 98,3 67,7
+52

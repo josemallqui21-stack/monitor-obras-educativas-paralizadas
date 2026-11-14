@@ -1,0 +1,36 @@
+Reporte técnico evaluaciones 2022 Capítulo 4
+cortes es la siguiente: “¿Hasta qué ítem debe ser capaz de resolver un estudiante,
+como mínimo, para ser considerado parte del nivel?”. El procedimiento establece que
+los jueces, organizados en grupos pequeños, determinen los cortes para cada nivel
+de desempeño; de no llegarse a un acuerdo, se aplican procedimientos estadísticos
+para resolver la discrepancia.
+En general, un taller se conduce en tres rondas (Cizek y Bunch, 2007). En la primera
+ronda, los participantes leen las descripciones de los niveles de logro elaboradas
+por el equipo de especialistas (para el caso, de la UMC), resuelven todos los ítems
+de la prueba y analizan las razones por las cuales un ítem era más difícil que el
+anterior. Esta ronda concluye con un primer establecimiento individual de cortes.
+En la segunda ronda, los participantes exponen, en los subgrupos, las razones que
+los motivaron a colocar sus cortes. Asimismo, reciben un reporte de discrepancias
+en el que se señala qué tan distintos son sus juicios respecto de los demás grupos.
+Esta ronda finaliza con un segundo establecimiento individual de cortes. En la
+tercera ronda, los participantes tienen acceso al impacto de los datos (es decir, a
+la distribución de personas en los distintos niveles de desempeño) si los resultados
+de la segunda ronda hubiesen sido los definitivos. Con esta información, los jueces
+emiten su tercer y último corte.
+Como ha sido mencionado, el modelo Rasch estima de manera conjunta la dificultad
+de los ítems y las medidas de habilidad de las personas. Utilizando dicha información,
+es posible calcular la probabilidad de un estudiante con una habilidad específica de
+responder correctamente un ítem que posee una dificultad concreta (Pni ).
+A partir de lo trabajado en la Evaluación Nacional de 2004 (Ministerio de Educación
+[Minedu], 2005), se establece que un estudiante está en un nivel de logro si tiene una
+probabilidad mayor o igual a 0,62 de responder correctamente el ítem que marca
+el corte entre dos niveles de logro consecutivos. En este sentido, es importante
+considerar que la probabilidad de 0,62 para responder correctamente un ítem implica
+una medida de habilidad, la cual es medio logit superior a la medida de dificultad
+del ítem en cuestión. Una vez hecha esta adición para cada estudiante evaluado,
+se transforman los valores a medida 500 (M500) y se redondean a dos decimales.
+Finalmente, se asigna a cada estudiante a un determinado nivel de logro según su
+M500.
+En la tabla 4.25, se presentan los puntos de corte (en M500) de las evaluaciones
+ENLA muestral 2023.
+139

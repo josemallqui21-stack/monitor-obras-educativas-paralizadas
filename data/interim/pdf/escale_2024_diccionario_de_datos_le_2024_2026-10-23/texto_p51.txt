@@ -1,0 +1,45 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Tabla 04: Códigos de Tabla 05: Códigos de Material predominante de la
+Estado de Conservación Cobertura de los Techos
+Código Descripción
+Código Descripción Código Descripción
+01 Buen Estado 01 Concreto 06 Calaminón
+Regular
+02 02 Madera 07 Caña con barro
+Estado
+03 Mal Estado 03 Teja 08 Lata o latón
+04 No Aplica 04 Fibra de cemento 09 Otro
+No Tiene pero
+05 Calamina 10
+lo Requiere
+Tabla 06: Códigos de Tipo
+de Conexión Interna en
+No Tiene y No
+un mismo Piso 11
+Requiere
+Código Descripción
+Directo sin
+01
+desnivel
+02 Gradas Tabla 08: Códigos de Tipo de
+Entidad que elabora el
+03 Rampas Informe de Riesgo
+Código Descripción
+04 Otros
+01 CENEPRED
+Tabla 07: Códigos de Tipo 02 Gobierno Local
+de Instalación de Cableado
+03 PRONIED
+Código Descripción
+04 Otros
+Circuito
+01
+canalizado
+Circuito sin
+canalizar o sin
+02
+conductor
+adecuado
+03 No especifica
+-- 50 --

@@ -1,0 +1,47 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P501_Aulas.dbf [ Matriz 12: Aulas en el Local Educativo ]
+Variable Tipo Descripción Valor
+P501_18_3 N (5) 18. Mesas Unipersonales 99999
+- Cantidad por Estado de Conservación
+3. Requieren Mantenimiento
+P501_18_4 N (5) 18. Mesas Unipersonales 99999
+- Cantidad por Estado de Conservación
+4. Requieren Sustituirse
+P501_18_5 N (5) 18. Mesas Unipersonales 99999
+5. Cantidad de Estudiantes que No Tienen Mesas
+Unipersonales
+P501_19_1 N (5) 19. Mesas Múltiples 99999
+1. Cantidad Total
+P501_19_2 N (5) 19. Mesas Múltiples 99999
+- Cantidad por Estado de Conservación
+2. En Buen Estado
+P501_19_3 N (5) 19. Mesas Múltiples 99999
+- Cantidad por Estado de Conservación
+3. Requieren Mantenimiento
+P501_19_4 N (5) 19. Mesas Múltiples 99999
+- Cantidad por Estado de Conservación
+4. Requieren Sustituirse
+P501_19_5 N (5) 19. Mesas Múltiples 99999
+5. Cantidad de Estudiantes que No Tienen Mesas
+Múltiples
+P501_20 N (5) 20. Carpetas Unipersonales 99999
+- Cantidad Total
+P501_21 N (5) 21. Carpetas Bipersonales 99999
+- Cantidad Total
+P501_22_1 N (5) 22. Sillas 99999
+1. Cantidad Total
+P501_22_2 N (5) 22. Sillas 99999
+- Cantidad por Estado de Conservación
+2. En Buen Estado
+P501_22_3 N (5) 22. Sillas 99999
+- Cantidad por Estado de Conservación
+3. Requieren Mantenimiento
+P501_22_4 N (5) 22. Sillas 99999
+- Cantidad por Estado de Conservación
+4. Requieren Sustituirse
+P501_22_5 N (5) 22. Sillas 99999
+5. Cantidad de Estudiantes que No Tienen Sillas
+P501_23_1 N (5) 23. Pizarras 99999
+1. Cantidad Total
+-- 55 --

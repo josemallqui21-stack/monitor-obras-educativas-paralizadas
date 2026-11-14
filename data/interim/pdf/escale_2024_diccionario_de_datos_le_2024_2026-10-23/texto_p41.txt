@@ -1,0 +1,41 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P302_Cerco.dbf [ Matriz 09: Cerco Perimétrico ]
+Variable Tipo Descripción Valor
+P302_6 N (9,2) Características del cerco perimétrico del local educativo 999999.99
+6. Longitud del cerco perimétrico (m)
+P302_7 N (6,2) Características del cerco perimétrico del local educativo 999.99
+7. Altura del tramo (m)
+P302_8 C (2) Características del cerco perimétrico del local educativo Ver código en Tabla 02
+8. Material predominante del tramo
+P302_9 C (2) Características del cerco perimétrico del local educativo Ver código en Tabla 03
+9. Estado de conservación del tramo
+P302_10 C (4) Características del cerco perimétrico del local educativo 9999
+10. Año de ejecución del tramo
+P302_11 C (2) Características del cerco perimétrico del local educativo Ver código en Tabla 04
+11. Entidad ejecutora
+P302_12 C (1) Características del cerco perimétrico del local educativo 1: Sí
+12. Este tramo, ¿tiene acceso? 2: No
+P302_13 C (2) Características del cerco perimétrico del local educativo Ver código en Tabla 05
+13. Tipo de acceso en el tramo
+P302_14 C (2) Características del cerco perimétrico del local educativo Ver código en Tabla 06
+14. Estructura de portada de ingreso
+P302_15 C (1) Características del cerco perimétrico del local educativo 1: Sí
+15. ¿Tiene portón? 2: No
+P302_16 C (2) Características del cerco perimétrico del local educativo Ver código en Tabla 07
+16. Material del portón
+P302_17 C (2) Características del cerco perimétrico del local educativo Ver código en Tabla 03
+17. Estado de conservación del portón
+P302_18 C (1) Características del Muro de Contención 1: Sí
+18. ¿Cuenta con muro de contención? 2: No
+P302_19 C (1) Características del Muro de Contención 1: Sí
+19. ¿Forma parte del cerco perimétrico? 2: No
+P302_20 C (4) Características del Muro de Contención 9999
+20. Año de ejecución del muro de contención
+P302_21 C (2) Características del Muro de Contención Ver código en Tabla 04
+21. Entidad ejecutora
+P302_22 C (2) Características del Muro de Contención Ver código en Tabla 08
+22. Estructura predominante
+P302_23 C (2) Características del Muro de Contención Ver código en Tabla 03
+23. Estado de conservación
+-- 40 --

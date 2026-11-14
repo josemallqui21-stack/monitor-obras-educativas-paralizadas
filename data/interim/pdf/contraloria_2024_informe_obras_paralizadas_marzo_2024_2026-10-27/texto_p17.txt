@@ -1,0 +1,51 @@
+Por otra parte, según el artículo 3 del Ley N.º 31589, las entidades elaboran un inventario de
+obras públicas paralizadas que se encuentren a su cargo, el cual debe ser registrado por Unidad
+Ejecutora de Inversiones (UEI) en el aplicativo informático del Banco de Inversiones. En ese
+sentido, según lo informado por la Dirección General de Programación Multianual de Inversiones
+del Ministerio de Economía y Finanzas a marzo de 2024, el inventario de obras paralizadas
+contiene 668 registros, de los cuales 554 registros se mantienen paralizadas (incluidas dentro de
+las 1 365 de la tabla 14).
+Así mismo, de las 554 obras paralizadas registradas en el inventario, el 77.1% aun no cuentan
+con el informe de estado situacional, en el cual se considera el último avance de obra dado por
+el supervisor o inspector en el cuaderno de obra.
+Tabla 15. Obras paralizadas registradas en el inventario con informe de estado situacional
+N.° de
+Con Informe de estado Saldo de la
+Obras % total Costo Actualizado S/. %
+situacional Inversión S/
+Paralizadas
+NO 427 77.1% 7,123,043,888 47.4% 2,662,046,855
+SI 127 22.9% 7,915,092,157 52.6% 2,448,276,317
+Total 554 100.0% 15,038,136,045 100.0% 5,110,323,172
+Fuente: Inventario de obras públicas paralizadas del Banco de Inversiones del MEF.
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/03/2024
+2.12. Análisis comparativo de las obras paralizadas diciembre 2023 – marzo 2024
+Variación del universo de obras paralizadas en los meses evaluados
+De la revisión del estado de las obras se ha podido identificar que, a marzo 2024, 1 859 obras
+permanecen paralizadas desde el mes de diciembre 2023, y las inversiones vinculadas a estas
+obras involucran un monto de S/ 24 301 millones; asimismo, se han identificado 465 obras
+paralizadas nuevas con un monto de inversión de S/ 8 865 millones; estos dos grupos abarcan
+un total de 2 324 obras paralizadas con un monto de S/ 33 167 millones.
+Por otra parte, se identificaron 439 obras que reactivaron su ejecución desde diciembre 2023,
+las cuales involucran un monto de S/ 3 321 millones.
+A continuación, se presenta el detalle de la variación del estado de las obras por nivel de
+gobierno:
+Tabla 16. Resumen de estado de las obras paralizadas por nivel de gobierno
+Nº obras Costo Actualizado S/
+Permanecen Se
+Total a Permanecen
+Nivel de Se desde paralizaron Se Se paralizaron Total a Marzo
+Marzo desde
+Gobierno Reactivaron Diciembre a Marzo Reactivaron a Marzo 2024 2024
+2024 Diciembre 2023
+2023 2024
+G. Nacional 88 273 69 342 1,278,782,110.41 8,424,278,674.48 3,373,508,751.68 11,797,787,426.16
+G. Regional 46 177 91 268 794,055,926.32 10,113,840,538.56 2,907,827,586.04 13,021,668,124.60
+G. Local 305 1409 305 1714 1,249,084,448.79 5,763,848,130.36 2,583,854,396.41 8,347,702,526.77
+Total
+439 1859 465 2324 3,321,922,485.52 24,301,967,343.40 8,865,190,734.13 33,167,158,077.53
+general
+Fuente: Base de datos de Invierte.PE del Ministerio Economía y Finanzas e Infobras de la CGR.
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control
+Fecha: 31/03/2024

@@ -1,0 +1,19 @@
+Reporte técnico evaluaciones 2022 Capítulo 2
+ECE 2019 Muestra
+Medida Medida LI LS
+Privado Medida promedio 541 542,7 538,2 547,1
+Previo al inicio (%) 4,5 3,9 3,3 4,5
+En inicio (%) 32,3 32,51 30,87 34,16
+En proceso (%) 46,1 46,14 45,00 47,28
+Satisfactorio (%) 17,2 17,45 16,04 18,86
+Urbano Medida promedio 516 516,8 514,9 518,7
+Previo al inicio (%) 7,1 6,9 6,7 7,2
+En inicio (%) 41,2 40,78 40,08 41,47
+En proceso (%) 40,3 40,49 39,95 41,04
+Satisfactorio (%) 11,4 11,79 11,26 12,31
+Rural Medida promedio 451 454,2 451,8 456,7
+Previo al inicio (%) 21,0 19,8 19,0 20,5
+En inicio (%) 53,0 53,47 52,71 54,23
+En proceso (%) 22,3 23,02 22,20 23,84
+Satisfactorio (%) 3,7 3,75 3,38 4,12
+63

@@ -1,0 +1,40 @@
+entre los ítems que componen la escala (variables manifiestas) y la variable latente.
+En caso de que las respuestas a dichos ítems representen el efecto de la variable
+latente, se está frente a un modelo reflexivo (Bollen y Bauldry, 2011; Jarvis et al., 2003).
+Un ejemplo de este tipo de variables es la escala de ansiedad a la matemática, en la
+cual los ítems representan acciones que se dan como consecuencia de tener un alto
+o bajo nivel en dicha variable latente. Por el contrario, si las variables manifiestas son
+la causa de la variable latente, estaríamos frente a un modelo formativo, como es el
+caso del índice socioeconómico (ISE), en el cual los ítems son un componente que
+conforma la variable latente del ISE.
+Dadas las diferentes formas en que se podría conceptualizar una escala, estas son
+analizadas mediante diferentes métodos. Para el caso de los constructos reflexivos,
+se realiza un análisis factorial confirmatorio (AFC), con el fin de confirmar la estructura
+y dimensionalidad de las escalas. En caso de que el constructo sea de tipo formativo,
+las estimaciones se realizan mediante un análisis de componentes principales
+(ACP). Asimismo, debido a que todos los ítems que se utilizan para las escalas
+(independientemente de si son constructos formativos o reflexivos) son categóricas,
+se realizan los ajustes necesarios en las estimaciones para trabajar con ellos. Los
+análisis son realizados a través de diversos paquetes del lenguaje de programación
+R.
+5.3.1. Evidencias de validez basadas en la estructura interna
+a. Para constructos reflexivos
+Tal como se señaló anteriormente, las evidencias de validez para constructos
+reflexivos son recolectadas a través del AFC. Al utilizarlo, se necesita testear el
+modelo teórico de la dimensionalidad de los ítems por medio de datos empíricos4.
+Este modelo vincula las variables observables (ítems) con la variable latente a través
+de la siguiente fórmula:
+Dicha fórmula establece la relación entre las respuestas de los ítems (γ) a través de la
+variable latente (η) con una ecuación muy similar a la de una regresión. Este modelo
+considera la matriz de cargas factoriales (Λ), que vendrían a ser los coeficientes de
+la regresión, y un vector de residuos ε, que vendrían a ser las desviaciones de cada
+observación desde la línea de regresión proyectada.
+A continuación, se muestra una representación gráfica de la ecuación descrita
+anteriormente mediante un ejemplo con una de las escalas de la ENLA 2023 aplicada
+a estudiantes (figura 5.1).
+4 Como se vio en la sección anterior, todas las escalas elaboradas por el equipo de factores asociados
+tienen un objetivo específico para la medición. Además, se elaboran a partir de un proceso de revisión
+bibliográfica y de validación por otros expertos, por lo que se decide hacer dicho CFA. En algunos casos,
+también se realizan análisis factoriales exploratorios (EFA, por sus siglas en inglés), pero para escalas
+nuevas en que no se tenga mucha claridad conceptual.
+152

@@ -1,0 +1,66 @@
+name: Pipeline completo (procesa los datos ya descargados)
+
+# Corre solo cada vez que se sube un cambio al codigo, o con el boton "Run workflow" (pestana Actions).
+# Rehace TODO desde los datos crudos (sin consultar ningun portal): tablas de ESCALE y ENLA, proyecto PDF, NLP de causas,
+# CSV unico del dashboard, diccionario y las tres auditorias. Si algun paso falla o la auditoria de calidad encuentra un error, la corrida sale en rojo.
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/final/**"
+      - "docs/**"
+      - "README.md"
+      - "LEEME_PRIMERO.md"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  procesar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Instalar las librerias
+        run: pip install -r requirements.txt
+
+      - name: Bajar los datos crudos del Release «datos-crudos»
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download datos-crudos --repo "$GITHUB_REPOSITORY" --pattern "*.zip" --dir "$RUNNER_TEMP/crudos"
+          python -c "import glob, os, zipfile; [zipfile.ZipFile(z).extractall('.') for z in sorted(glob.glob(os.environ['RUNNER_TEMP'] + '/crudos/*.zip'))]"
+          echo "Archivos en data/raw: $(find data/raw -type f | wc -l)"
+
+      - name: Correr el pipeline completo (sin descarga)
+        run: python src/pipeline_completo.py --sin-descarga
+
+      - name: Guardar los resultados de esta corrida
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultados
+          path: |
+            data/final/
+            docs/validacion_final.csv
+            docs/auditoria_calidad.csv
+            docs/auditoria_datos_personales.csv
+            docs/nlp_causas_metricas.csv
+            docs/log_descargas.txt
+            docs/log_pdf.txt
+          retention-days: 30
+
+      - name: Actualizar el CSV del dashboard en el repositorio (solo si cambio)
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/final docs/validacion_final.csv docs/auditoria_calidad.csv docs/auditoria_datos_personales.csv
+          git diff --cached --quiet || (git commit -m "Actualiza el CSV del dashboard [skip ci]" && git push)

@@ -1,0 +1,33 @@
+Reporte técnico evaluaciones 2024 Capítulo 6
+respuestas que la siguiente categoría adyacente, podría obtenerse una formación de
+umbrales desordenados (Linacre, s.f.). A pesar de ello, una estructura desordenada
+de los umbrales, no implica un mal ajuste del modelo Rasch (Linacre, s.f.).
+La Tabla 6.2 presenta la estructura de umbrales de la escala de autorregulación.
+Aunque los umbrales no se encuentran ordenados de manera creciente, dicho
+hallazgo no representa necesariamente un mal ajuste del modelo.
+Tabla 6.2. Estructura de umbrales de la escala de HSE aplicada en 6.° grado de
+primaria
+Primer umbral Segundo umbral Tercer umbral Cuarto umbral
+Escala
+Medida Error Medida Error Medida Error Medida Error
+Autorregulación -0,885 0,002 -0,277 0,002 -0,343 0,002 1,505 -
+6.3.3 Evidencias de validez vinculadas a la estructura interna
+En la tabla 6.3, se presentan los resultados del análisis de componentes principales
+de los residuos del modelo Rasch. A partir de ello, se concluye que los datos
+provenientes de aplicar la escala de autorregulación utilizada en la ENLA 2024 no
+presentan serias evidencias en contra del supuesto de unidimensionalidad, por lo
+cual es posible asumir que la varianza observada se explica básicamente por la
+presencia de un rasgo latente dominante.
+Tabla 6.3. Análisis de unidimensionalidad de la medida de HSE derivada de la
+escala aplicada en 6.° grado de primaria
+Medidas Rasch ACPR
+Escala Varianza Varianza
+Autovalor Autovalor
+explicada (%) explicada (%)
+Autorregulación 9,96 31,2 2,08 6,5
+6.3.4 Confiabilidad
+La confiabilidad se calculó utilizando la estimación EAP (expected a posteriori) de las
+medidas de las personas. En relación con la escala de HSE aplicada en 6.° grado de
+primaria, esta mostró medidas con una confiabilidad de 0,89, la cual está por encima
+del punto de corte mínimo recomendable (0,70).
+137

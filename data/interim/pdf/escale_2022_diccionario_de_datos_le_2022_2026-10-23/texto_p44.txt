@@ -1,0 +1,59 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+4. Parapetos
+P401_13_1 C (2) 13. La edificación cuenta con red interna de: SI / NO
+Agua
+P401_13_2 C (2) 13. La edificación cuenta con red interna de: SI / NO
+Desagüe
+P401_13_3 C (2) 13. La edificación cuenta con red interna de: SI / NO
+Energía eléctrica
+P401_14_1 C (2) 14. Formas de acceso SI / NO
+1. ¿Tiene acceso directo sin desnivel?
+P401_14_21 C (2) 14. Formas de acceso SI / NO
+2. ¿Tiene rampa de acceso en?
+1. Primer piso
+P401_14_22 C (2) 14. Formas de acceso SI / NO
+2. ¿Tiene rampa de acceso en?
+2. Todos los pisos
+P401_14_3 C (2) 14. Formas de acceso SI / NO
+3. ¿Tiene escalera?
+P401_14_41 C (2) 14. Formas de acceso SI / NO
+4. Ascensor
+1. ¿Tiene?
+P401_14_42 C (2) 14. Formas de acceso SI / NO
+4. Ascensor
+2. ¿Está operativo?
+P401_14_43 C (4) 14. Formas de acceso 9999
+4. Ascensor
+3. ¿Último año de mantenimiento?
+P401_14_5 C (2) 14. Formas de acceso SI / NO
+5. ¿Tiene otras formas de acceso?
+P401_15_1 C (2) 15. En el caso el acceso sea mediante rampa(s), SI / NO
+indique si cuenta con las siguientes características
+1. ¿Cuenta con ancho mínimo 1.00 m?
+P401_15_2 C (2) 15. En el caso el acceso sea mediante rampa(s), SI / NO
+indique si cuenta con las siguientes características
+2. ¿Los descansos tienen una longitud mínima
+de largo de 1.50 m?
+P401_15_3 C (2) 15. En el caso el acceso sea mediante rampa(s), SI / NO
+indique si cuenta con las siguientes características
+3. ¿El piso de la rampa es estable, compacto,
+uniforme y antideslizante?
+P401_15_4 C (2) 15. En el caso el acceso sea mediante rampa(s), SI / NO
+indique si cuenta con las siguientes características
+4. ¿La longitud de las rampas es mayor 3.00 m?
+P401_15_5 C (2) 15. En el caso el acceso sea mediante rampa(s), SI / NO
+indique si cuenta con las siguientes características
+5. ¿Tiene pasamanos?
+P401_15_6 C (2) 15. En el caso el acceso sea mediante rampa(s), SI / NO
+indique si cuenta con las siguientes características
+6. ¿Los pasamanos cuentan con la altura de 0.85
+o 0.90?
+P401_15_7 C (2) 15. En el caso el acceso sea mediante rampa(s), SI / NO
+indique si cuenta con las siguientes características
+7. ¿Cuenta con señalización podotáctil al inicio
+y al final de la rampa?
+P401_16 C (2) 16. ¿Qué tipo de circulación horizontal interior Ver código en
+tiene? Tabla 07
+P401_17_1 C (2) 17. Instalaciones eléctricas Ver código en
+1. Tipo de instalación de circuito Tabla 08
+43

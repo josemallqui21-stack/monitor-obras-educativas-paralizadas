@@ -1,0 +1,46 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P601_OtEsp.dbf [ Matriz 13: Otros espacios educativos distintos al
+aula ]
+Variable Tipo Descripción Valor
+P601_21_54 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+5. Lockers
+4. Cantidad en mal estado
+P601_21_61 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+6. Exhibidores
+1. Cantidad Total
+P601_21_62 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+6. Exhibidores
+2. Cantidad en buen estado
+P601_21_63 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+6. Exhibidores
+3. Cantidad en regular estado
+P601_21_64 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+6. Exhibidores
+4. Cantidad en mal estado
+P601_21_71 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+7. Mueble de Kitchenette
+1. Cantidad Total
+P601_21_72 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+7. Mueble de Kitchenette
+2. Cantidad en buen estado
+P601_21_73 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+7. Mueble de Kitchenette
+3. Cantidad en regular estado
+P601_21_74 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+7. Mueble de Kitchenette
+4. Cantidad en mal estado
+P601_21_81 N (5) 21. Tenencia y estado de conservación del mobiliario en uso en 99999
+los otros ambientes
+8. Vitrinas y camillas para tópico
+1. Cantidad Total
+-- 66 --

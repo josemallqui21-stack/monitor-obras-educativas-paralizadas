@@ -1,0 +1,39 @@
+Reporte técnico evaluaciones 2024 Capítulo 6
+de autorregulación por parte del estudiante. Las respuestas de los estudiantes
+fueron sometidos a un análisis mediante modelos Rasch, que permitieron evaluar el
+ajuste de los ítems. Primero se aplicó el modelo de escala de valoración de Rasch
+(Rasch Rating Scale Model; Andrich, 1978) en su versión multidimensional, pero este
+no mostró un buen ajuste, habiendo correlaciones muy altas entre las tres supuestas
+dimensiones, lo cual hacía que no se las distinga con facilidad. Por ello se optó por
+una versión unidimensional.
+Como resultado de este análisis unidimensional, se identificó que 14 de los 36 ítems
+no presentaban un ajuste adecuado, por lo que fueron descartados para los análisis
+posteriores. De esta manera, la escala final estuvo compuesta por 22 ítems.
+6.3.1 Calibración final de los ítems
+En la tabla 6.1, se presentan los resultados de la calibración de los ítems de la escala
+de HSE. La columna denominada “Medida” representa la dificultad del ítem. Así, una
+menor medida implica que el ítem es más fácil de endosar (es decir, que es más fácil
+que los estudiantes respondan marcando alguna de las categorías de respuesta más
+altas), mientras que una mayor medida implica que el ítem es más difícil de endosar
+(es decir, que es más difícil que los estudiantes respondan marcando alguna de
+las categorías de respuesta más altas). Asimismo, la dificultad de cada ítem viene
+acompañada de un error que representa qué tan precisa ha sido la calibración de
+cada ítem. Así, mientras más pequeño es el error, más precisa ha sido la calibración
+de la dificultad del ítem (y viceversa).
+Como se puede observar en la tabla 6.1, los errores de calibración son muy pequeños,
+lo que indica que la calibración de la dificultad fue bastante precisa. Por último, en
+la tabla se observa que el infit y el outfit de todos los ítems de la escala de HSE
+empleada en la ENLA 2024 mostraron valores dentro del rango aceptable, por lo que
+se concluye que existe evidencia de un buen ajuste de los datos al modelo Rasch.
+Tabla 6.1. Calibración de los ítems de la escala de HSE aplicada en 6.° grado de
+primaria
+Ítem Medida Error Infit Outfit
+HSECOND_01 -0,651 0,003 0,90 0,94
+HSECOND_02 -0,660 0,003 0,91 0,94
+HSECOND_04 -0,399 0,003 1,05 1,10
+HSECOND_07 -1,515 0,004 1,10 1,02
+HSECOND_08 -0,429 0,003 1,06 1,11
+HSECOND_10 -0,232 0,003 0,99 1,08
+HSECOND_11 -0,987 0,004 0,81 0,80
+HSECOND_12 -0,450 0,003 0,99 1,03
+135

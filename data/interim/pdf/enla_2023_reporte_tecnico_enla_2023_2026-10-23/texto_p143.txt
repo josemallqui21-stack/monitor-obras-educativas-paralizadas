@@ -1,0 +1,32 @@
+Reporte técnico evaluaciones 2022 Capítulo 4
+acertar un ítem en el punto de dificultad bi se incrementa en comparación al modelo
+Rasch. Esto sucede según el valor estimado del parámetro de seudoadivinación. La
+siguiente fórmula permite calcular la probabilidad mencionada.
+Donde ci es el parámetro estimado de seudoadivinación para el ítem i.
+Asimismo, en el modelo logístico de tres parámetros, la medida de habilidad con una
+probabilidad de 0,62 de acertar el ítem u en el punto de su dificultad bu esta dado
+por la siguiente fórmula:
+Donde au , bu y cu son los valores estimados en el modelo para los parámetros del
+ítem u; este ítem es definido como umbral para pasar de un nivel a otro según los
+jueces que participaron del taller de puntos de corte.
+En la tabla 4.26, se presentan los puntos de corte (en M500) de la ENLA 2023 para
+la prueba de Lectura en castellano como segunda lengua aplicada en 4.° grado de
+primaria.
+Tabla 4.26 Medidas (en M500) que marcan los puntos de corte de los alumnos en
+la ENLA 2023 para 4.° grado de primaria EIB
+< Nivel 1 vs. Nivel 1 vs. Nivel 2 vs Nivel 3 vs
+Área
+Nivel 1 Nivel 2 Nivel 3 Nivel 4
+Lectura en castellano como segunda
+370,00 432,30 502,40 584,00
+lengua, 4.° grado de primaria
+4.8 Análisis psicométricos para habilidades socioemocionales
+En relación con el análisis psicométrico de las escalas de habilidades socioemocionales
+(HSE), se aplicó el modelo de escala de valoración de Rasch (Andrich, 1978) en su
+versión multidimensional para las escalas de toma de decisiones y resolución de
+problemas.
+Las medidas de habilidad de las personas fueron estimadas con la metodología de
+valores plausibles. Se emplearon cinco de ellos por cada persona evaluada, pues
+se ha demostrado la superioridad de esta metodología para reportar estimaciones
+de la población (Wu, 2005). La estimación de estos valores plausibles consideró una
+141

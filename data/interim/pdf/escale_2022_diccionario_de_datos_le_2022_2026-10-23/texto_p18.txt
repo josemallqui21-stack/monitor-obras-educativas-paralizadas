@@ -1,0 +1,48 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Nombre de archivo: Local_lineal_01.dbf
+SECCIÓN: 100. CARACTERÍSTICAS DEL LOCAL EDUCATIVO
+TABLA: LOCAL_LINEAL_01.DBF
+Campo Formato Descripción de variable Valor de variable
+P120_16 C (2) 120. Peligros naturales potenciales (marcar SI o SI / NO
+NO en todas las alternativas)
+16. Otro
+P120_16_1F C (10) 120. Peligros naturales potenciales (marcar SI o DD/MM/AAAA
+NO en todas las alternativas)
+16. Otro
+Última fecha de ocurrencia
+P120_16_1M C (2) 120. Peligros naturales potenciales (marcar SI o SI / NO
+NO en todas las alternativas)
+16. Otro
+¿Es mitigable?
+P120_16_E C (80) 120. Peligros naturales potenciales (marcar SI o (A:Z)
+NO en todas las alternativas)
+16. Otro--Especificar
+Nombre de archivo: Local_lineal_02.dbf
+SECCIÓN: 100. CARACTERÍSTICAS DEL LOCAL EDUCATIVO
+TABLA: LOCAL_LINEAL_02.DBF
+Campo Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo (000001:999999)
+P121_1 C (2) 121. Peligros antrópicos potenciales (marcar SI o NO SI / NO
+en todas las alternativas)
+1. Zona industrial emanación de gases y desperdicios
+tóxicos
+P121_2 C (2) 121. Peligros antrópicos potenciales (marcar SI o NO SI / NO
+en todas las alternativas)
+2. Zona minera
+P121_3 C (2) 121. Peligros antrópicos potenciales (marcar SI o NO SI / NO
+en todas las alternativas)
+3. Comercio ambulatorio intenso
+P121_4 C (2) 121. Peligros antrópicos potenciales (marcar SI o NO SI / NO
+en todas las alternativas)
+4. Microcomercialización de droga
+P121_5 C (2) 121. Peligros antrópicos potenciales (marcar SI o NO SI / NO
+en todas las alternativas)
+5. Inseguridad ciudadana
+P121_6 C (2) 121. Peligros antrópicos potenciales (marcar SI o NO SI / NO
+en todas las alternativas)
+6. Zona agrícola (quema de pastizales, abonos y agua
+de riego)
+P121_7 C (2) 121. Peligros antrópicos potenciales (marcar SI o NO SI / NO
+en todas las alternativas)
+7. Subversión
+17

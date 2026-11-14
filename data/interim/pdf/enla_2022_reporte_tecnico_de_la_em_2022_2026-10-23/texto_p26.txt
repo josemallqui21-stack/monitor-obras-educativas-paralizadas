@@ -1,0 +1,38 @@
+confiabilidad de los resultados, así como de precisión y consistencia en la clasificación
+de los estudiantes en múltiples iteraciones. De la misma manera, estos diseños de
+pruebas han posibilitado que las formas se adaptaran al nivel de habilidad de grupos
+de estudiantes diferentes. En este sentido, se han elaborado formas con un mayor
+nivel de dificultad que han sido aplicadas por estudiantes de escuelas urbanas y
+formas con menor nivel de dificultad que han sido aplicadas por estudiantes de
+escuelas rurales y por todos los estudiantes de las regiones Loreto y Ucayali.
+En concordancia con lo anterior, la organización y ensamblaje de estas formas
+contempló la presencia de bloques de ítems comunes (generalmente, en una
+posición fija), que formaran parte de las formas de mayor y menor dificultad, y de
+bloques no comunes (generalmente en diferentes posiciones), que formaran parte
+solo de las formas de mayor dificultad o solo de aquellas de menor dificultad. La
+combinación de bloques comunes y no comunes permitió el ensamblaje de formas
+que se distribuyeron aleatoriamente entre los estudiantes de cada grupo antes
+mencionado. De este modo y gracias al uso de técnicas de equiparación del modelo
+Rasch, las distintas pruebas estuvieron conformadas por una mayor cantidad de
+ítems en la misma métrica sin que ello implicara incrementar la cantidad de ítems
+a los que cada estudiante se enfrentó. Además, estas formas tenían un nivel de
+dificultad ajustado al nivel de habilidad del grupo destinatario.
+En relación con la conformación de los bloques, es preciso señalar que el bloque
+común (distribuido en pequeños bloques comunes) tenía también la finalidad de
+optimizar la equiparación de las medidas y fue construido de tal forma que los ítems
+reflejaran la tabla de especificaciones, así como la dispersión de las medidas a lo
+largo de la escala de dificultad.
+Por último, en el caso de las pruebas con adaptaciones destinadas a estudiantes
+con discapacidad, se ha considerado el diseño de prueba única. En las siguientes
+tablas, se presenta el diseño de bloques de las pruebas aplicadas. Las tablas de
+especificaciones de estos instrumentos pueden ser consultadas en los anexos.
+Diseño de bloques de las pruebas de Lectura de 2.° grado de primaria
+La prueba de Lectura de 2.° grado de primaria elaborada para la EM 2022 estuvo
+conformada por 90 ítems, de los cuales 82 se construyeron a partir de un conjunto
+de 18 textos de diferente tipo, género, formato y complejidad; mientras que 8 ítems
+fueron de lectura inicial, por lo que no están vinculados a ningún texto. Los 18 textos
+y 90 ítems se distribuyeron en 26 bloques. De ellos, 6 bloques son comunes a todas
+las formas (3 por día) y 20 bloques, no comunes (10 por día), es decir, solo se
+encuentran en un tipo de formas, pero no en el otro tipo. Las diferentes combinaciones
+de los bloques permitieron ensamblar 8 formas, 4 de mayor dificultad y otras 4 de
+24

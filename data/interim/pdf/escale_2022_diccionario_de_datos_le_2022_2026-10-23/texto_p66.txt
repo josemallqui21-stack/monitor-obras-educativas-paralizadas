@@ -1,0 +1,60 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+P701_3 C (4) 3. Detalle del ambiente usado como servicio (33:40)
+higiénico
+33: SS.HH. para estudiantes
+34: SS.HH. para docentes
+35: SS.HH. para estudiantes y docentes
+36: SS.HH. para personal administrativo
+37: SS.HH. para Adultos
+38: SS.HH. para personal de Servicio
+39: Vestidores para estudiantes
+40: Vestidores para personal de Servicio
+P701_4 C (50) 4. Niveles educativos que usan el ambiente Ver tabla 01 de la
+página 51
+P701_5_1 C (2) 5. Características de los servicios higiénicos para SI / NO
+una persona con silla de ruedas
+1. ¿El ambiente está acondicionado para una
+persona con silla de ruedas?
+P701_5_2 C (2) 5. Características de los servicios higiénicos para SI / NO
+una persona con silla de ruedas
+Baño o cubículo
+2. ¿La puerta de acceso tiene un ancho libre
+mínimo de 0,90 m.?
+P701_5_3 C (2) 5. Características de los servicios higiénicos para SI / NO
+una persona con silla de ruedas
+Baño o cubículo
+3. ¿Contempla un área con diámetro de 1,50 m.
+para el giro de una silla de ruedas en 360°?
+P701_5_4 C (2) 5. Características de los servicios higiénicos para SI / NO
+una persona con silla de ruedas
+Aparatos Sanitarios
+4. ¿Cuenta con barras de apoyo?
+P701_6 C (2) 6. El ambiente del SS.HH. es usado por: (01:05)
+01: Sólo estudiantes
+02: Docentes y administrativos
+03: Estudiantes y docentes
+04: Otros adultos
+05: Ninguno
+P701_7 C (2) 7. El ambiente del SS.HH. es usado por: (01:03)
+01: Sólo hombres
+02: Sólo mujeres
+03: Mixto
+P701_8_1 C (2) 8. Paredes Ver código de
+Material predominante tabla 01
+P701_8_2 C (2) 8. Paredes Ver código de
+Estado de conservación tabla 02
+P701_9_1 C (2) 9. Paredes Ver código de
+Material predominante tabla 03
+P701_9_2 C (2) 9. Paredes Ver código de
+Estado de conservación tabla 02
+P701_10_1 C (2) 10. Piso Ver código de
+Material predominante tabla 04
+P701_10_2 C (2) 10. Piso Ver código de
+Estado de conservación tabla 02
+P701_11_1 N (6) 11. Sobre la letrina de los SS.HH. (000001:999999)
+Cantidad de letrinas
+1. Total
+P701_11_2 N (6) 11. Sobre la letrina de los SS.HH. (000001:999999)
+Cantidad de letrinas
+2. Operativas
+65

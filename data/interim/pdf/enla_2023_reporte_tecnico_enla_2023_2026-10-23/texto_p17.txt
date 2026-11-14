@@ -1,0 +1,41 @@
+Reporte técnico evaluaciones 2022 Capítulo 1
+en la resolución de la tarea, mientras que las respuestas sin crédito evidencian una
+comprensión errada y, por lo tanto, no responden a los criterios de codificación
+establecidos.
+En las pruebas de las evaluaciones nacionales de logros de aprendizaje, hay una
+menor cantidad de ítems de respuesta construida en relación con los ítems de opción
+múltiple. Esto se debe a que el procesamiento de las respuestas de este tipo de
+ítems es complejo y, en aplicaciones masivas como la ENLA 2023, demanda muchos
+recursos y tiempo. Finalmente, se utiliza el formato tipo Likert en los instrumentos de
+habilidades socioemocionales.
+Ítem tipo Likert. Este formato de ítem se compone usualmente de un enunciado y de
+diferentes alternativas de respuesta que conforman una escala ordinal (p. ej.: nunca,
+casi nunca, a veces, casi siempre, siempre). Este tipo de ítem surge con la publicación
+de Rensis Likert en 1932, en la cual se presenta un tipo de instrumento para la
+medición de las actitudes (Likert, 1932). Estos ítems son preguntas individuales que
+pueden ser colocadas en un instrumento sin intención de combinarlas en un puntaje
+compuesto (composite score), y ser analizadas a nivel ordinal. También permiten
+diseñar escalas, en las que se combinan las respuestas de los distintos ítems para
+representar la variable o el constructo a medir. El tipo de escala usado en un ítem
+depende del constructo que se está tratando de medir, siendo las anclas aquellas
+“palabras” utilizadas para identificar cada categoría de respuesta. Es común el uso
+de escalas de acuerdo, en que las palabras ancla suelen ser Totalmente de acuerdo,
+De acuerdo, Ni de acuerdo ni en desacuerdo, En desacuerdo, Totalmente en
+desacuerdo. En la EM 2022, se propuso a los estudiantes una serie de afirmaciones
+o ítems que buscaban medir las habilidades socioemocionales seleccionadas; por
+ende, estos ítems hacen referencia a aspectos característicos de las mismas.
+1.2 Procesos de validación de los instrumentos de evaluación
+Estos procesos se realizan para obtener evidencias de validez vinculadas al contenido
+de las pruebas. Este tipo de evidencias se vincula con la necesidad de garantizar
+que la prueba sea una muestra adecuada y representativa de los contenidos que
+pretende evaluar (McGartland et al., 2003; Muñiz, 1998). En esta misma línea, Suen
+(1990) indica que los ítems en un test o prueba, constituyen supuestamente una
+muestra representativa de todos los ítems que se pueden emplear para medir el
+constructo de interés. Si este supuesto se cumple, entonces se podrá decir que
+la prueba tiene adecuadas evidencias de validez referidas a su contenido. Esta se
+definiría, entonces, como la representatividad de los ítems empleados en un test para
+medir un constructo particular. A su vez, la representatividad de un test sería definido
+como la precisión con que se puede hacer inferencias acerca de la puntuación de
+la persona en el universo de indicadores a partir de la puntuación en la muestra de
+ítems que constituyen la prueba (Paz, 1996).
+15

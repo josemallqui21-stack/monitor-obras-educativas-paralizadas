@@ -1,0 +1,47 @@
+Correlativo Cantidad por Porcentaje por
+Tipo de texto Género
+del texto tipo de texto tipo de texto
+12
+Artículo de opinión 13
+Argumentativo 4 22,2 %
+14
+Carta 15
+Artículo enciclopédico 16
+Expositivo 17 3 16,7 %
+Artículo de divulgación
+18
+TOTAL 18 100 %
+Tabla A.15 Lectura. Distribución de ítems por tipos de textos presentes en la
+prueba
+Cantidad de Cantidad de Porcentaje
+Tipo de Correlativo
+Género ítems por ítems por de ítems por
+texto del texto
+cada texto tipo de texto tipo de texto
+1 6
+Cuento
+2 6
+Narrativo 24 22,2 %
+Historieta 3 6
+Noticia 4 6
+5 6
+Manual de 16,7 %
+Instructivo 6 6 18
+procedimientos
+7 6
+8 6
+Artículo
+9 6
+enciclopédico
+Descriptivo 10 6 24 22,2 %
+Descripción de
+11 6
+personaje
+12 6
+Artículo de
+13 6 24
+opinión
+Argumentativo 22,2 %
+14 6
+Carta 15 6
+180

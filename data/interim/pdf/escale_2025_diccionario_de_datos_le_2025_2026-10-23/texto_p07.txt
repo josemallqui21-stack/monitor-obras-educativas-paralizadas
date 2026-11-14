@@ -1,0 +1,12 @@
+TIPOVIA C (1) 1.1.8. Dirección principal del Local Educativo (1:9)
+Tipo de Vía
+1: Avenida
+2: Calle
+3: Jirón
+4: Pasaje
+5: Autopista
+6: Carretera
+7: Alameda
+8: Parque
+9: Otro
+6

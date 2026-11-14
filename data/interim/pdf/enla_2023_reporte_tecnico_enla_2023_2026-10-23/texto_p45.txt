@@ -1,0 +1,39 @@
+Reporte técnico evaluaciones 2022 Capítulo 1
+Forma Bloque Ítems por forma
+B19
+B07
+29 B05 30
+B09
+B20
+B21
+B09
+30 B06 30
+B07
+B16
+De las doce formas ensambladas, cada estudiante evaluado se enfrentó a una de
+ellas. En consecuencia, de los 126 ítems que tiene esta prueba, cada estudiante
+respondió 30.
+Diseño de bloques de los cuestionarios de Habilidades Socioemocionales de 2.°
+grado de secundaria
+El cuestionario de Habilidades Socioemocionales de 2.° grado de secundaria
+elaborado para la ENLA 2023 cuenta con un total de 32 ítems distribuidos en dos
+bloques. Estos se distribuyen de la siguiente manera: B01 Toma de decisiones¹, doce
+ítems, y B02 Resolución de problemas, 20 ítems².
+Tabla 1.18 Matriz de bloques del cuestionario de Habilidades Socioemocionales
+de 2.° grado de secundaria (día 2).
+Forma Bloque Ítems por forma
+B01 - Toma de decisiones
+1 32
+B02 - Resolución de problemas
+Cada estudiante evaluado se enfrentó a los dos bloques de preguntas. En
+consecuencia, cada estudiante respondió todas las preguntas planteadas.
+1 La escala de Toma de decisiones tiene dos dimensiones: una de ellas busca indagar por estrategias
+adecuadas para la toma de decisiones (estilo vigilante), mientras que la otra busca explorar el uso de
+estrategias inadecuadas para la toma de decisiones (otros estilos). Así, si bien en el análisis se aplicó
+un modelo multidimensional para la estimación de los puntajes de los estudiantes, solo se reportan los
+resultados de los estudiantes que usan el estilo vigilante, pues estos ítems muestran directamente una
+habilidad socioemocional.
+2 La escala de resolución de problemas tiene un total de 20 ítems. Sin embargo, luego de realizar el análisis
+psicométrico, se eliminaron tres ítems debido a que no se ajustaron al modelo Rasch. Por este motivo, en el
+Capítulo 4 se presentan los resultados de los 17 ítems que se mantuvieron en el modelo final.
+43

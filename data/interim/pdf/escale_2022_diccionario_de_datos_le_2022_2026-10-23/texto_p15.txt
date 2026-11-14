@@ -1,0 +1,54 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Nombre de archivo: Local_lineal_01.dbf
+SECCIÓN: 100. CARACTERÍSTICAS DEL LOCAL EDUCATIVO
+TABLA: LOCAL_LINEAL_01.DBF
+Campo Formato Descripción de variable Valor de variable
+P120_2_1F C (10) 120. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+2. Lluvias intensas
+Última fecha de ocurrencia
+P120_2_1M C (2) 120. Peligros naturales potenciales (marcar SI o NO en SI / NO
+todas las alternativas)
+2. Lluvias intensas
+¿Es mitigable?
+P120_3 C (2) 120. Peligros naturales potenciales (marcar SI o NO en SI / NO
+todas las alternativas)
+3. Sequias
+P120_3_1F C (10) 120. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+3. Sequias
+Última fecha de ocurrencia
+P120_3_1M C (2) 120. Peligros naturales potenciales (marcar SI o NO en SI / NO
+todas las alternativas)
+3. Sequias
+¿Es mitigable?
+P120_4 C (2) 120. Peligros naturales potenciales (marcar SI o NO en SI / NO
+todas las alternativas)
+4. Actividades volcánicas
+P120_4_1F C (10) 120. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+4. Actividades volcánicas
+Última fecha de ocurrencia
+P120_4_1M C (2) 120. Peligros naturales potenciales (marcar SI o NO en SI / NO
+todas las alternativas)
+4. Actividades volcánicas
+¿Es mitigable?
+P120_5 C (2) 120. Peligros naturales potenciales (marcar SI o NO en SI / NO
+todas las alternativas)
+5. Inundaciones
+P120_5_1F C (10) 120. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+5. Inundaciones
+Última fecha de ocurrencia
+P120_5_1M C (2) 120. Peligros naturales potenciales (marcar SI o NO en SI / NO
+todas las alternativas)
+5. Inundaciones
+¿Es mitigable?
+P120_6 C (2) 120. Peligros naturales potenciales (marcar SI o NO en SI / NO
+todas las alternativas)
+6. Derrames de sustancias peligrosas
+P120_6_1F C (10) 120. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+6. Derrames de sustancias peligrosas
+Última fecha de ocurrencia
+14

@@ -1,0 +1,48 @@
+Reporte técnico evaluaciones 2024 Capítulo 5
+Código de
+Grado Actor Nombre general Sub escala Omega
+constructo
+DOC6PMAT_ Retroalimentación del Retroalimentación
+0,940
+RETIN director individual
+Docente de
+Matemática
+DOC6PMAT_ Retroalimentación del Reuniones
+0,870
+RETRG director grupales
+DOC6PHSE_ Evitacion
+Estilos de afrontamiento 0,847
+AFRONEE emocional
+DOC6PHSE_ Solución de
+Estilos de afrontamiento 0,854
+AFRONSP problemas
+Autopercepción de
+DOC6PHSE_ Claridad emocional
+la regulación de sus 0,840
+CONEMOC (compresión)
+emociones
+6.° grado
+de primaria
+Autopercepción de Atencion a las
+DOC6PHSE_
+la regulación de sus emociones 0,853
+CONEMOP
+emociones (percepción)
+Docente tutor
+Autopercepción de Reparación
+DOC6PHSE_
+la regulación de sus emocional 0,808
+CONEMOR
+emociones (regulación)
+DOC6PHSE_
+Deseabilidad social 0,681
+DESOCIAL
+Consideración por
+DOC6PHSE_ Soporte emocional al
+las perspectivas de 0,808
+SOEMOCP estudiante
+los adolescentes
+DOC6PHSE_ Soporte emocional al Sensibilidad
+0,834
+SOEMOSD estudiante docente
+125

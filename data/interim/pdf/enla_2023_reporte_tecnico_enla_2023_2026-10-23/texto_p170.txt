@@ -1,0 +1,72 @@
+Código de
+Grado Actor Nombre general Sub escala omega
+constructo
+Percepción de
+DOC2SMAT_ situaciones Relacionadas al
+0,893
+PROBIEE problemáticas en la estudiante
+escuela
+DOC2SMAT_ Enfoque de
+0,59
+APRACT Creencias sobre aprendizaje activo
+la enseñanza de la
+DOC2SMAT_ matemática Enfoque
+0,648
+APRTRA tradicional
+DOC2SMAT_ Proceso de
+0,78
+NATPROC Creencias sobre la búsqueda
+naturaleza de las
+DOC2SMAT_ matemáticas
+Reglas y procesos 0,721
+NATREG
+Percepción de
+DOC2SMAT_ situaciones
+Falta de recursos 0,759
+Docente de PROBIER problemáticas en la
+Matemática escuela
+Creencias sobre la
+DOC2SMAT_
+matemática como 0,701
+HABIN
+habilidad innata
+DOC2SMAT_
+Afectiva 0,828
+DEDUINAF
+2.° Actitudes hacia la
+grado de DOC2SMAT_ educación inclusiva
+secundaria DEDUINCG Cognitiva 0,826
+DOC2SMAT_ Criterios erróneos
+0,733
+EVFORMCR de evaluación
+Creencias sobre la
+evaluación formativa Creencias
+DOC2SMAT_
+erróneas sobre 0,647
+EVFORMRE
+retroalimentación
+DOCS2SMAT_ Actitudes hacia la
+Conductual 0,873
+DEDUINCD educación inclusiva
+EST2SGEN_ Involucramiento
+0,882
+INVHOG parental en el hogar
+EST2SGEN_ Sentido de
+0,802
+SENPER pertenencia
+EST2SGEN_ Percepción de las
+0,675
+PERNORM normas y disciplina
+Estudiante
+EST2SGEN_ Interés por los textos
+0,822
+INTEXT en la escuela
+EST2SGEN_ Motivación
+0,897
+MOTLAU autónoma
+Motivación hacia la
+lectura: tiempo libre
+EST2SGEN_ Motivación
+0,821
+MOTLCO controlada
+168

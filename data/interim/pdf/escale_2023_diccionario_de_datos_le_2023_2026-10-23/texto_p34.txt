@@ -1,0 +1,47 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_2.dbf
+Variable Formato Descripción de variable Valor de variable
+P217_1 C (1) 217. Especifique algún número de contacto que permita "X"
+comunicarse con el director de la IE
+1: Conexión Fija
+P217_1_OP C (2) 217. Especifique algún número de contacto que permita (01:05)
+comunicarse con el director de la IE
+1: Conexión fija
+- Código de operador
+01: Bitel
+02: Claro
+03: Entel
+04: Movistar
+05: Otro
+P217_1_TEL C (9) 217. Especifique algún número de contacto que permita 999999999
+comunicarse con el director de la IE
+1: Conexión fija
+- Número telefónico
+P217_2 C (1) 217. Especifique algún número de contacto que permita "X"
+comunicarse con el director de la IE
+2: Conexión móvil
+P217_2_OP C (2) 217. Especifique algún número de contacto que permita (01:05)
+comunicarse con el director de la IE
+2: Conexión móvil
+- Código de operador
+01: Bitel
+02: Claro
+03: Entel
+04: Movistar
+05: Otro
+P217_2_TEL C (9) 217. Especifique algún número de contacto que permita 999999999
+comunicarse con el director de la IE
+2: Conexión móvil
+- Número telefónico
+P218 C (1) 218. El Local Educativo, ¿cuenta con instalación del servicio de 1: Sí
+gas (natural o GLP por balón) 2: No
+P218_1 C (1) 218. El Local Educativo, ¿cuenta con instalación del servicio de 1: Sí
+gas (natural o GLP por balón) 2: No
+218.1. ¿Funciona?
+P218_1_SI C (1) 218. El Local Educativo, ¿cuenta con instalación del servicio de 1: Sí
+gas (natural o GLP por balón) 2: No
+218.1. ¿Funciona?
+- Sí --> 218.2. Funciona durante el horario de clase
+P219 C (1) 219. ¿Cuenta con el medidor? 1: Sí
+2: No
+33

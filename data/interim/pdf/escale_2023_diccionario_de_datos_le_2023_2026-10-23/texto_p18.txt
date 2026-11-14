@@ -1,0 +1,45 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_1.dbf
+Variable Formato Descripción de variable Valor de variable
+P118_7 C (1) 118. Vulnerabilidad por cercanía a factores naturales de 1: Sí
+riesgo (Marcar SI o NO en todas las alternativas) 2: No
+7. Deslizamiento de rocas
+P118_7_D N (9,2) 118. Vulnerabilidad por cercanía a factores naturales de 999999.99
+riesgo (Marcar SI o NO en todas las alternativas)
+7. Deslizamiento de rocas
+Distancia aproximada en mts.
+P118_8 C (1) 118. Vulnerabilidad por cercanía a factores naturales de 1: Sí
+riesgo (Marcar SI o NO en todas las alternativas) 2: No
+8. Otro
+P118_8_D N (9,2) 118. Vulnerabilidad por cercanía a factores naturales de 999999.99
+riesgo (Marcar SI o NO en todas las alternativas)
+8. Otro
+Distancia aproximada en mts.
+P118_8_OT C (80) 118. Vulnerabilidad por cercanía a factores naturales de Texto
+riesgo (Marcar SI o NO en todas las alternativas)
+8. Otro --- Especificar
+P119_1 C (1) 119. Características de la ubicación física (Marcar SI o NO 1: Sí
+en todas las alternativas) 2: No
+1. Cercano a zona arqueológica (MC)
+P119_1_D N (9,2) 119. Características de la ubicación física (Marcar SI o NO 999999.99
+en todas las alternativas)
+1. Cercano a zona arqueológica (MC)
+Distancia aproximada en mts.
+P119_2 C (1) 119. Características de la ubicación física (Marcar SI o NO 1: Sí
+en todas las alternativas) 2: No
+2. Cercano a faja marginal (ANA-MINAGRI)
+P119_2_D N (9,2) 119. Características de la ubicación física (Marcar SI o NO 999999.99
+en todas las alternativas)
+2. Cercano a faja marginal (ANA-MINAGRI)
+Distancia aproximada en mts.
+P119_3 C (1) 119. Características de la ubicación física (Marcar SI o NO 1: Sí
+en todas las alternativas) 2: No
+3. Cercano a líneas o torres de alta tensión
+P119_3_D N (9,2) 119. Características de la ubicación física (Marcar SI o NO 999999.99
+en todas las alternativas)
+3. Cercano a líneas o torres de alta tensión
+Distancia aproximada en mts.
+P119_4 C (1) 119. Características de la ubicación física (Marcar SI o NO 1: Sí
+en todas las alternativas) 2: No
+4. Cercano a áreas naturales protegidas (MINAM)
+17

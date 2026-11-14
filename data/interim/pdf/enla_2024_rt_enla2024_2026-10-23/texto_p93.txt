@@ -1,0 +1,39 @@
+Reporte técnico evaluaciones 2024 Capítulo 4
+Tabla 4.8 Indicadores del análisis de precisión y consistencia de la clasificación
+usando las medidas derivadas de las pruebas de 6.° grado de primaria
+Lectura Matemática
+Precisión Consistencia Precisión Consistencia
+Nacional 0,66 0,56 0,72 0,61
+Hombre 0,67 0,56 0,72 0,62
+Mujer 0,66 0,55 0,71 0,61
+Urbano 0,66 0,55 0,71 0,61
+Rural 0,68 0,58 0,72 0,63
+Estatal 0,66 0,56 0,72 0,61
+No estatal 0,66 0,56 0,71 0,60
+Polidocente Completo 0,66 0,55 0,71 0,61
+Unidocente / Multigrado 0,69 0,59 0,74 0,64
+Alta habilidad 0,65 0,55 0,71 0,60
+Baja habilidad 0,68 0,58 0,73 0,63
+4.4 Equiparación de medidas
+En el marco del análisis Rasch, las puntuaciones del rasgo latente tienen un origen
+y una escala de medición arbitrarios (Bond et al., 2021). Por ello, dos instrumentos
+que miden lo mismo, aplicados a distintas muestras de personas, no se encontrarán
+en la misma métrica. Para establecer las comparaciones necesarias, ambas pruebas
+deben equipararse; es decir, deben ser puestas en la misma escala. La conversión
+implica usar una constante aditiva y, en otras, el uso de una constante multiplicativa
+(Livingston, 2004).
+Diversas síntesis teóricas que tratan sobre la equiparación de puntuaciones (Kolen
+y Brennan, 2014; Navas, 1996) citan los trabajos de Angoff y Lord (ambos en la
+primera mitad de los años ochenta) como los pioneros. Estos autores entienden la
+equiparación como el desarrollo de un sistema de conversión de las unidades de
+una prueba a las unidades de otra de manera que sus resultados sean comparables
+o equivalentes.
+La finalidad es tener una métrica común para dos o más medidas de un mismo
+rasgo, de modo que se puedan comparar los resultados de personas a las que se
+les aplican diferentes instrumentos que miden el mismo rasgo. Por ejemplo, si se
+deseara equiparar dos pruebas distintas X e Y, el objetivo sería encontrar un sistema
+o función para convertir la métrica de X en Y.
+Considerando la literatura sobre el tema (Ho y Osborn, 2005; Kolen y Brennan, 2014;
+Livingston, 2004; Navas, 1996; y Zhu, 1998), se puede señalar que existen tres tipos
+de diseño de equiparación: de un solo grupo, de grupos equivalentes y de grupos
+91

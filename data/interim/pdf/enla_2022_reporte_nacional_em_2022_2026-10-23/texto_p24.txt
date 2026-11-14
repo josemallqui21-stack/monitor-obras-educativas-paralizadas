@@ -1,0 +1,18 @@
+24
+Evaluación Muestral de Estudiantes 2022 Factores
+Índice Introducción Primaria Primaria Primaria Secundaria asociados HSE
+Lectura
+2.˚ grado de secundaria
+Resultados por estrato según niveles de logro y medida promedio 2019 – 2022
+PPrreevviioo aall iinnicicioio EEnn iinniicciioo EEnn pprroocceessoo SSaattiissffaaccttoorrioio MMeeddiiddaa pprroommeeddioio
+2019 2022 2019 2022 2019 2022 2019 2022 2019 2022
+Nacional 17,7 13,2* 42,0 35,8* 25,8 31,9* 14,5 19,1* 567 581*
+Mujer 16,4 12,3* 40,9 34,7* 26,7 32,4* 16,0 20,7* 571 585*
+Hombre 18,9 14,2* 43,0 36,8* 25,0 31,3* 13,1 17,7* 563 578*
+Público 21,3 16,2* 45,1 39,2* 23,1 30,0* 10,6 14,6* 556 571*
+Privado 6,7 3,1* 32,4 24,1* 34,2 38,1* 26,7 34,7* 600 619*
+Urbano 11,6 7,3* 41,1 34,0* 29,6 35,6* 17,6 23,1* 580 596*
+Rural 39,1 33,8* 45,1 41,8* 12,3 19,0* 3,5 5,4* 523 532*
+Público urbano 14,1 9,1* 45,0 38,2* 27,5 34,5* 13,5 18,3* 570 586*
+Privado urbano 6,2 2,9* 32,4 23,9* 34,5 38,3* 26,9 35,0* 601 619*
+* Diferencia estadísticamente significativa al 0,05 respecto del 2019, en los niveles de logro y la medida promedio.

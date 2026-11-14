@@ -1,0 +1,46 @@
+2.7. Avance físico de las obras públicas paralizadas
+De otro lado, se presenta una clasificación de las obras públicas paralizadas en
+función al porcentaje de avance físico según la información proporcionada por el
+portal Infobras y el Banco de Inversiones, donde se aprecia que la mayor cantidad
+de obras (278) registra un avance físico entre el 60% al 70%, representando un
+monto de inversión de S/ 9 mil 410 millones, seguido de 270 registros que se
+encuentran con un avance físico entre el 80% al 90% con un monto inversión de
+S/ 3 mil 450 millones, como se detalla a continuación:
+Tabla 8. Obras públicas paralizadas por rango de avance físico
+Obras paralizadas Costo Actualizado Saldo de Inversión por ejecutar
+Rango de
+avance físico %
+N° % S/ % S/ %
+90 - 100 % 267 11.9% 6,772,848,255 9.3% 2,636,202,585 7.5%
+80 - 90 % 270 12.0% 3,450,001,073 4.7% 824,028,679 2.3%
+70 - 80 % 235 10.5% 4,436,343,743 6.1% 1,550,435,951 4.4%
+60 - 70 % 278 12.4% 9,410,215,915 12.9% 5,533,658,331 15.7%
+50 - 60 % 228 10.2% 3,627,781,654 5.0% 1,638,114,659 4.7%
+40 - 50 % 196 8.7% 22,505,598,303 30.8% 8,077,050,416 22.9%
+30 - 40 % 197 8.8% 4,220,940,448 5.8% 2,209,274,273 6.3%
+20 - 30 % 170 7.6% 6,782,487,844 9.3% 4,817,868,405 13.7%
+10 - 20 % 163 7.3% 4,570,283,198 6.2% 3,448,166,066 9.8%
+0 - 10 % 237 10.6% 7,389,503,645 10.1% 4,461,668,172 12.7%
+Total 2241 100% 73,166,004,078 100% 35,196,467,535 100%
+Fuente: Sistema Nacional de Obras Públicas – Infobras – Banco de Inversiones/MEF
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2026
+2.8. Obras públicas paralizadas según su causal u origen de paralización
+Según la información declarada oficialmente por la entidad ejecutora, el 27.6%
+del total de obras públicas paralizadas se encuentra en dicha situación por
+incumplimientos contractuales, el 24.2% por falta de recursos financieros y
+liquidez, el 9.1% por deficiencias en el expediente técnico, el 9.1% por
+discrepancias, controversias o arbitraje, entre otras causales de paralización.
+Tabla 9. Obras públicas paralizadas según causal de paralización reportado por las
+entidades públicas
+Saldo de Inversión por
+Obras paralizadas Costo Actualizado
+Causales de paralización ejecutar
+N° % S/ % S/ %
+Incumplimiento de contrato 619 27.6% 36,810,067,308 50.3% 15,046,295,052 42.7%
+Falta de recursos financieros y
+542 24.2% 5,918,143,017 8.1% 1,977,548,889 5.6%
+liquidez
+Deficiencia en el expediente
+203 9.1% 4,078,511,332 5.6% 1,918,114,755 5.4%
+técnico

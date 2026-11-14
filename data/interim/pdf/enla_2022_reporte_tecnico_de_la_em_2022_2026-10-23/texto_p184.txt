@@ -1,0 +1,49 @@
+Cantidad
+Competencia Capacidades Porcentaje
+de ítems
+Modela objetos con formas geométricas y sus
+7 7,4 %
+transformaciones.
+Resuelve
+Comunica su comprensión sobre las formas y
+problemas 7 7,4 %
+relaciones geométricas.
+de forma,
+movimiento y
+Usa estrategias y procedimientos para orientarse en el
+localización 5 5,3 %
+espacio.
+Argumenta afirmaciones sobre relaciones geométricas. 1 1,0 %
+Representa datos con gráficos y medidas estadísticas o
+1 1,0 %
+probabilísticas.
+Resuelve Comunica su comprensión de los conceptos
+9 9,6 %
+problemas estadísticos y probabilísticos.
+de gestión
+de datos e Usa estrategias y procedimientos para recopilar y
+3 3,2 %
+incertidumbre procesar datos.
+Sustenta conclusiones o decisiones con base en la
+6 6,4 %
+información obtenida.
+Total 94 100 %
+*El total ha sido redondeado a un decimal. Por ello, la suma total en esta tabla no es exactamente 100 %.
+Tabla A.18 Matemática. Distribución de ítems por contextos evaluados en la
+prueba
+Cantidad
+Contextos Porcentaje
+de ítems
+Intramatemático 7 7,4 %
+Extramatemático 87 92,6 %
+Total 94 100 %
+2.° grado de secundaria
+Tabla A.19 Lectura. Distribución de ítems por capacidades evaluadas en la prueba
+Cantidad
+Capacidades Porcentaje
+de ítems
+Obtiene información del texto escrito 25 20,5 %
+Infiere e interpreta información del texto 58 47,5 %
+Reflexiona y evalúa la forma, el contenido y el contexto del texto 39 32,0 %
+Total 122 100 %
+182

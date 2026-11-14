@@ -1,0 +1,77 @@
+Reporte técnico evaluaciones 2022 Capítulo 5
+Código de
+Grado Actor Nombre general Sub escala omega
+constructo
+EST2SMAT_ Clima del error
+0,744
+CLIMERN negativo
+Clima del error en
+Matemática
+EST2SMAT_ Clima del error
+0,614
+CLIMERP positivo
+Prácticas de
+EST2SMAT_
+evaluación formativa 0,883
+EVFORM
+en Matemática
+Ansiedad ante la
+EST2SMAT_ANSIE 0,939
+matemática
+Discusión en clases
+EST2SCSS_DISCU 0,898
+de CCSS
+EST2SCSS_
+Aplicado 0,7
+CREHISTA Pensamiento
+histórico del
+EST2SCSS_ estudiante
+Tradicional 0,626
+CREHISTT
+EST2SCSS_ Participación
+0,872
+CIUACPA como ciudadano
+Percepciones
+EST2SCSS_
+Ciudadanía activa sobre acciones 0,838
+CIUACPE
+como ciudadano
+2.°
+grado de Estudiante EST2SCSS_ Pensamiento
+0,823
+secundaria CIUACPS social
+EST2SCSS_ Centrado en las
+0,702
+ACTEVACOM competencias
+Actividades de
+evaluación en CCSS
+EST2SCSS_ Centrado en el
+0,826
+ACTEVACON conocimiento
+Activación cognitiva
+EST2SLEC_
+en clases de 0,901
+ACTCOG
+Comunicación
+EST2SLEC_ Motivación
+0,908
+MOTLAU autónoma
+Motivación hacia la
+lectura: en la escuela
+EST2SLEC_ Motivación
+0,871
+MOTLCO controlada
+EST2SHSE_ Contexto
+0,852
+CSEIMG imaginativo
+EST2SHSE_ Contexto
+0,873
+CSEINS instruccional
+Clima social escolar
+EST2SHSE_ Contexto
+0,792
+CSEINT interpersonal
+EST2SHSE_ Contexto
+0,849
+CSEREG regulatorio
+169

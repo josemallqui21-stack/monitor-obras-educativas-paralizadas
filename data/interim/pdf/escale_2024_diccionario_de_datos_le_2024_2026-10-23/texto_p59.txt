@@ -1,0 +1,45 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_P501_Aulas.dbf [ Matriz 12: Aulas en el Local Educativo ]
+Variable Tipo Descripción Valor
+P501_24_53 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+5. Lockers
+3. Cantidad en regular estado
+P501_24_54 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+5. Lockers
+4. Cantidad en mal estado
+P501_24_61 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+6. Exhibidores de Libro
+1. Cantidad Total
+P501_24_62 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+6. Exhibidores de Libro
+2. Cantidad en buen estado
+P501_24_63 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+6. Exhibidores de Libro
+3. Cantidad en regular estado
+P501_24_64 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+6. Exhibidores de Libro
+4. Cantidad en mal estado
+P501_24_71 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+7. Mueble de Kitchenette
+1. Cantidad Total
+P501_24_72 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+7. Mueble de Kitchenette
+2. Cantidad en buen estado
+P501_24_73 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+7. Mueble de Kitchenette
+3. Cantidad en regular estado
+P501_24_74 N (5) 24. Tenencia y estado de conservación del mobiliario en uso en 99999
+los ambientes usados como aula de clase
+7. Mueble de Kitchenette
+4. Cantidad en mal estado
+-- 58 --

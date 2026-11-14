@@ -1,0 +1,49 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Nombre de archivo: Local_lineal_02.dbf
+SECCIÓN: 100. CARACTERÍSTICAS DEL LOCAL EDUCATIVO
+TABLA: LOCAL_LINEAL_02.DBF
+Campo Formato Descripción de variable Valor de variable
+P121_8 C (2) 121. Peligros antrópicos potenciales (marcar SI SI / NO
+o NO en todas las alternativas)
+8. Zona de acopio de desperdicios (Relleno
+sanitario, basurales, etc.)
+P121_9 C (2) 121. Peligros antrópicos potenciales (marcar SI SI / NO
+o NO en todas las alternativas)
+9. Zona portuario (Aeropuertos, aeródromos,
+embarcaderos, ferroviarios, etc.)
+P122 C (2) 122. ¿Cree que la institución educativa debería SI / NO
+ser reubicada debido a la existencia de un peligro
+que no puede ser mitigable?
+P122_1 C (2) 122.1. ¿Cuenta con la disponibilidad de un nuevo SI / NO
+terreno que ha sido gestionada para el traslado de
+la IE?
+(*) Matriz Local_Niveles.dbf (Pregunta 101)
+Nombre de archivo: Local_Niveles.dbf
+101. SERVICIOS NIVELES/EDUCATIVOS QUE FUNCIONAN EN EL LOCAL EDUCATIVO
+Tabla: LOCAL_NIVELES.dbf
+Campo Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo (000001:999999)
+NROCED C (5) Número de cédula 11
+CUADRO C (6) 101. Servicios niveles/educativos que funcionan en P101
+el local educativo
+NUMERO N (2) Número del Servicio/Nivel Educativo que funciona (1:99)
+en el Local Educativo
+P101_1 C (7) 1. Código modular Id del servicio
+educativo
+P101_2 C (1) 2. Número de Anexo Id de anexo
+P101_3 C (100) 3. Nombre del servicio/ Nivel Educativo (A:Z)
+P101_4 C (2) 4. Código de gestión (*)
+P101_5 C (2) 5. Código de nivel y/o modalidad (**)
+P101_6_RE C (2) 6. Sobre Residencia Estudiantil (RE) SI / NO
+¿Cuenta con RE?
+P101_6_REA N (6) 6. Sobre Residencia Estudiantil (RE) (000001:999999)
+Cantidad de alumnos en la RE
+P101_7_LA C (2) 7. Sobre el(los) Local(es) Adicional SI / NO
+¿Cuenta con un Local Adicional?
+P101_7_TC C (2) 7. Sobre el(los) Local(es) Adicional SI / NO
+¿Tiene código de Local Educativo?
+P101_7_CLA C (6) 7. Sobre el(los) Local(es) Adicional (000001:999999)
+Código de Local Educativo
+(*) Código de gestión
+ "01": Pública de gestión directa
+18

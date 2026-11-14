@@ -1,0 +1,46 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P501_Aulas.dbf [ Matriz 13 : Aulas en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+P501_11_3 C (2) 11. Ventanas Ver código en Tabla
+3. Estado de Conservación del marco de la ventana 07
+P501_11_4 C (1) 11. Ventanas 1: Sí
+4. Favorecen la ventilación del ambiente (las ventanas 2: No
+de encuentran
+frente a otras ventanas)
+P501_11_5 C (2) 11. Ventanas Ver código en Tabla
+5. Estado de Conservación de los vidrios 07
+P501_12_1 C (2) 12. Paredes Ver código en Tabla
+1. Material Predominante 04
+P501_12_2 C (2) 12. Paredes Ver código en Tabla
+2. Estado de Conservación 07
+P501_13_1 C (2) 13. Techo Ver código en Tabla
+1. Material Predominante 05
+P501_13_2 C (2) 13. Techo Ver código en Tabla
+2. Estado de Conservación 07
+P501_14_1 C (2) 14. Piso Ver código en Tabla
+1. Material Predominante 06
+P501_14_2 C (2) 14. Piso Ver código en Tabla
+2. Estado de Conservación 07
+P501_15_1 C (1) 15. Instalaciones Eléctricas Internas 1: Sí
+1. ¿Tiene? 2: No
+P501_15_2 C (2) 15. Instalaciones Eléctricas Internas Ver código en Tabla
+2. Estado de Conservación 07
+P501_16 C (1) 16. ¿Cuenta con Conexión a Internet? 1: Sí
+2: No
+P501_17 C (2) 17. Este ambiente de aula de clase es: 01: Regular
+02: Funcional
+P501_18_1 N (5) 18. Mesas Unipersonales 99999
+1. Cantidad Total
+P501_18_2 N (5) 18. Mesas Unipersonales 99999
+- Cantidad por Estado de Conservación
+2. En Buen Estado
+P501_18_3 N (5) 18. Mesas Unipersonales 99999
+- Cantidad por Estado de Conservación
+3. Requiere Mantenimiento
+P501_18_4 N (5) 18. Mesas Unipersonales 99999
+- Cantidad por Estado de Conservación
+4. Requiere Sustituirse
+P501_18_5 N (5) 18. Mesas Unipersonales 99999
+5. Cantidad de Estudiantes que No Tienen Mesas
+Unipersonales
+51

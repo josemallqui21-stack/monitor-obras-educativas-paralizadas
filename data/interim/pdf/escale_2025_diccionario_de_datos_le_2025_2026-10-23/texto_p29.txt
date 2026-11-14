@@ -1,0 +1,42 @@
+Archivo: Loc_Lineal_2.dbf
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+Capítulo 4: Información general del cerco perimétrico y muros en el local educativo
+P41 C (1) 4.1. El local educativo, ¿cuenta con cerco perimétrico? (1:4)
+1: Sí, total
+2: Sí, parcial
+3: No tiene pero lo requiere
+4: No tiene y no lo requiere
+P42 N (3) 4.2. ¿Cuántos tramos tiene el cerco perimétrico del local educativo? 999
+Archivo: Loc_P43_Cerco.dbf [ Matriz 09: Cerco Perimétrico ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) 4.3. Complete información por cada tramo del cerco perimétrico del C043
+local educativo
+NUMERO C (3) Número de orden 999
+P43_1 C (3) 1. Número de tramo "T" + [Correlativo
+de 2 dígitos]
+P43_2 C (2) Características del cerco perimétrico Ver código en Tabla
+2. Tipo de Lindero 01
+P43_3 C (1) Características del cerco perimétrico 1: Sí
+3. ¿El cerco coincide con el tramo del perímetro del local educativo? 2: No
+P43_4 N Características del cerco perimétrico 99999.99
+(8,2) 4. Longitud del cerco perimétrico (m)
+P43_5 N Características del cerco perimétrico 999.99
+(6,2) 5. Altura del cerco perimétrico (m)
+P43_6 C (2) Características del cerco perimétrico Ver código en Tabla
+6. Material predominante del cerco perimétrico 02
+P43_7 C (2) Características del cerco perimétrico Ver código en Tabla
+7. Estado de conservación del cerco perimétrico 03
+P43_8 C (4) Características del cerco perimétrico 9999
+8. Año de construcción del cerco perimétrico
+P43_9 C (2) Características del cerco perimétrico Ver código en Tabla
+9. Entidad Ejecutora 04
+P43_10 C (1) Características del cerco perimétrico 1: Sí
+10. ¿Tiene acceso al local educativo? 2: No
+P43_11 C (2) Características del cerco perimétrico Ver código en Tabla
+11. Tipo de acceso del cerco perimétrico 05
+P43_12 C (2) Características del cerco perimétrico Ver código en Tabla
+12. Estructura de la portada de ingreso al local educativo 06
+28

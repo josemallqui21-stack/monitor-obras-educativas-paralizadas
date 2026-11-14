@@ -1,0 +1,47 @@
+Tabla 12. Obras paralizadas según modalidad de ejecución
+G. Nacional G. Regional G. Local Total
+Costo Costo
+Modalidad de Costo Costo
+N.° N.° actualizado N.° actualizado N.° % %
+ejecución actualizado S/. actualizado S/.
+S/ S/
+Administración directa 21 131,977,398 54 552,455,245 1097 1,723,638,834 1172 56.3% 2,408,071,477 10.8%
+Por contrata 274 10,639,539,748 151 4,474,654,385 483 4,823,287,831 908 43.7% 19,937,481,963 89.2%
+Total 295 10,771,517,145 205 5,027,109,630 1580 6,546,926,666 2080 100% 22,345,553,441 100%
+Fuente: Sistema Nacional de Obras Públicas -Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/10/2023
+Entre las obras paralizadas que se ejecutan por administración directa o por contrata
+destacan un grupo de 436 obras que tienen un avance físico significativo.
+En el siguiente cuadro, se presenta el desagregado de los sectores que tienen saldo por
+ejecutar que se encuentran en el rango de 90% a 100% de avance físico, donde se advierte
+que el mayor monto de inversión lo tiene el sector Vivienda, Construcción y Saneamiento
+con una inversión de S/ 305 millones con 48 obras paralizadas; seguido por el sector
+Transporte y Comunicaciones con una inversión de S/ 253 millones con 37 obras
+paralizadas, como se ve a continuación:
+Tabla 13. Sectores con obras paralizadas con nivel de avance físico del 90% a 100% (ejecutadas
+por administración directa o contrata)
+Rango de avance físico del 90% a 100 %
+N° de Costo Saldo
+Tipo de obra
+obras actualizado S/ inversión S/
+VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO 48 305,656,178 30,013,962
+TRANSPORTES Y COMUNICACIONES 37 253,940,347 44,596,578
+EDUCACIÓN 35 174,845,414 30,281,281
+AGRICULTURA 28 169,642,194 21,613,847
+OTRAS INFRAESTRUCTURAS 24 118,795,932 50,893,995
+ORDEN PÚBLICO/DEFENSA Y SEGURIDAD 2 22,142,667 2,272,422
+ENERGÍA Y MINAS 6 16,196,615 9,626,774
+CULTURA 1 5,459,242 135,321
+SALUD 2 1,734,662 277,495
+Total 183 1,068,413,251 189,711,675
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC)
+Fecha: 31/10/2023
+*Comprende obras de parques, instalaciones eléctricas, residuos sólidos, centros recreacionales, etc.
+A continuación, se presenta el desagregado de los sectores que tienen saldo por ejecutar de
+obras que se encuentran en el rango de 80% a 90% de avance físico, en el cual se advierte que
+el mayor monto de inversión lo tiene el sector Vivienda, Construcción y Saneamiento con 72
+obras paralizadas, con una inversión de S/ 683 millones; seguido del sector Transportes y
+Comunicaciones con 71 obras, con un importe de inversión de S/ 279 millones, como se muestra
+a continuación:

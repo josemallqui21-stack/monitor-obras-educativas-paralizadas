@@ -1,0 +1,44 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+(*) Número del predio: (**) Descripción del predio:
+ “01”: 1  Predio-01
+ “02”: 2  Predio-02
+ “03”: 3  Predio-03
+ “04”: 4  Predio-04
+ ..  ..
+ “N”: N  Predio-N
+Donde N=Total de predios Donde N=Total de predios
+Tabla 01: Códigos de Tabla 02: Códigos de Propietario del Predio
+Condición de Tenencia Según Saneamiento Físico Legal Según documento No Inscrito
+del Predio
+Código Descripción Código Descripción
+Código Descripción
+11 Gobierno Regional /
+01 Propio 01 Ministerio de Educación Provincial
+02 Alquilado 02 Institución Educativa 12 Municipalidad
+03 Prestado 03 Gobierno Nacional 13 Comunidad
+04 Cedido en uso Propiedad de
+04 Gobierno Regional 14
+05 Otro Terceros
+05 Gobierno Local 15 Otros
+06 COFOPRI
+Comunidades
+07
+Campesinas Nativas
+Propiedad de Terceros
+08
+(Privadas)
+09 No Específica
+Tabla 03: Códigos de Tipo de Título de Tabla 04: Códigos de Documento de Posesión del
+Propiedad Predio
+Código Descripción Código Descripción
+01 Escritura Pública 01 Constancia de Posesión de Juez de Paz
+02 Minuta de Compra – venta 02 Constancia de Posesión Municipal
+03 Minuta de Donación 03 Resolución Municipal
+04 Minuta de Cesión 04 Resolución de Afectación En Uso
+05 Minuta de Permuta 05 Convenio con Entidad Estatal
+06 Aporte Reglamentario 06 Convenio con Particulares
+07 Resolución Emitida por Entidad 07 Contrato de Arrendamiento
+del Estado 08 Contrato de Servidumbre
+08 Acta de Donación de CC. / CN. 09 Otro
+09 Otro
+22

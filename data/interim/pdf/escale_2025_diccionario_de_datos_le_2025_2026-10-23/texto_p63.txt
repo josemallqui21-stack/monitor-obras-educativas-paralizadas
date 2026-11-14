@@ -1,0 +1,53 @@
+Archivo: Loc_P81_SSHH.dbf [ Matriz 14: Características de los SS.HH. En el Local Educativo ]
+Variable Tipo Descripción Valor
+P81_14_12 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales
+2. Operativos
+P81_14_13 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales operativos según
+estado de conservación
+3. Buen estado
+P81_14_14 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales operativos según
+estado de conservación
+4. Regular estado
+P81_14_15 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales operativos según
+estado de conservación
+5. Mal estado
+P81_14_16 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+6. Del total de operativos, ¿Cuántos tienen función
+de descarga?
+P81_14_21 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+2. Urinarios Corridos
+- Cantidad de urinarios corridos
+1. Total
+P81_14_22 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+2. Urinarios Corridos
+- Cantidad de urinarios corridos
+2. Operativos
+P81_14_23 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+2. Urinarios Corridos
+- Cantidad de urinarios corridos según estado de
+conservación
+3. Buen estado
+P81_14_24 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+2. Urinarios Corridos
+- Cantidad de urinarios corridos según estado de
+conservación
+4. Regular estado
+P81_14_25 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+2. Urinarios Corridos
+- Cantidad de urinarios corridos según estado de
+conservación
+5. Mal estado
+P81_14_26 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+2. Urinarios Corridos
+6. Del total de operativos, ¿Cuántos tienen función
+de descarga?
+62

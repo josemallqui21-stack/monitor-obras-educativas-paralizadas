@@ -1,0 +1,33 @@
+2018 2023 EQP FDI
+Ítem Medida
+Medida Error Medida Error Medida Error
+equiparada
+CS082 0,646 0,005 0,727 0,016 0,800 -0,154 0,017
+CS085 0,600 0,005 0,637 0,016 0,706 -0,106 0,017
+CS089 0,151 0,005 0,101 0,016 0,143 0,007 0,017
+CS090 -0,390 0,005 -0,334 0,016 -0,313 -0,077 0,017
+CS092 0,138 0,005 0,378 0,016 0,434 -0,296 0,017
+CS093 0,849 0,005 0,690 0,016 0,761 0,087 0,017
+CS094 -0,160 0,005 -0,482 0,016 -0,468 0,308 0,017
+CS095 -0,368 0,005 -0,318 0,016 -0,296 -0,071 0,017
+CS097 0,869 0,005 1,068 0,016 1,158 -0,289 0,017
+CS099 0,156 0,005 0,216 0,006 0,264 -0,109 0,008
+Tabla 4.20 Constantes de equiparación de las pruebas de la ENLA muestral 2023
+Prueba a b
+Lectura, 2.° grado de primaria 0,951 1,729
+Matemática, 2.° grado de primaria 0,994 0,267
+Lectura, 4.° grado de primaria 1,067 -0,414
+Matemática, 4.° grado de primaria 1,084 -0,839
+Lectura, 2.° grado de secundaria 0,852 1,033
+Matemática, 2.° grado de secundaria 0,970 1,054
+Ciencia Sociales, 2.° grado de secundaria 1,049 0,038
+4.5 Estrategias de análisis psicométrico en educación intercultural bilingüe (EIB)
+4.5.1 Modelo TRI logístico de tres parámetros
+Para la población en IE EIB, se aplicó el modelo logístico que considera tres
+parámetros (Birnbaum, en Lord y Novick, 1968). Este modelo asume que la
+probabilidad de responder correctamente un ítem se define, además de la diferencia
+entre la habilidad latente y la dificultad del ítem, por una medida de discriminación
+del ítem y una medida asíntota inferior denominada seudoadivinación. De esta forma,
+la curva característica del ítem (probabilidad de responder correctamente un ítem)
+está dada por la siguiente función matemática:
+126

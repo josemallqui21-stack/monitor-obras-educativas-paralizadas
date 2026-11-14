@@ -1,0 +1,37 @@
+Reporte técnico evaluaciones 2022 Capítulo 2
+2.3.2 Estratificación
+Para la EM 2022, se realizó una estratificación principalmente porque, en un
+contexto de tanta diversidad como el peruano, la variable de interés (rendimiento)
+toma diferentes valores en diferentes subpoblaciones (área³ y gestión para
+todos los grados, o característica en los grados de primaria). Por tal motivo, es
+importante reportar resultados para cada una de ellas. La combinación de estas tres
+subpoblaciones permite generar estratos mutuamente excluyentes (cada elemento
+pertenece únicamente a un estrato) y colectivamente exhaustivos.
+En el caso de primaria, se conformaron los siguientes estratos:
+• Estrato 1: Urbano-Estatal-Polidocente completo.
+• Estrato 2: Urbano-Estatal-Unidocente / multigrado.
+• Estrato 3: Rural-Estatal-Polidocente completo.
+• Estrato 4: Rural-Estatal-Unidocente / multigrado.
+• Estrato 5: No estatal (Las IE no estatales, casi en su totalidad, son urbanas y
+polidocentes).
+La EM 2022, además, cuenta con 264 dominios conformados por cada Dirección
+Regional de Educación (DRE) bajo la consideración de que las IE son administradas
+por estas instancias. En cada DRE, se conforman los estratos mencionados, salvo en
+los casos de Lima Metropolitana y Callao, donde solo se consideran los estratos 1 y
+2. Por ello, el total de estratos considerados es124.
+2.4 Tamaño muestral y cobertura
+El tamaño de muestra es determinado por cada dominio. Por eso, una vez estratificado,
+se empleó en la muestra la asignación de Neyman (Lohr, 2022) para determinar
+el tamaño en cada uno de los estratos, el cual es directamente proporcional a su
+variabilidad y a su tamaño.
+En las siguientes tablas, se presenta el tamaño final de la muestra desagregada
+según gestión, área y característica para cada uno de los grados evaluados, así
+como la población evaluada y la cobertura alcanzada.
+El porcentaje de estudiantes evaluados respecto de los estudiantes programados a
+nivel nacional varía entre el 93 % y el 95 % dependiendo del grado. Esta cobertura se
+3 El marco muestral de la EM 2022 se elaboró empleando el padrón de IE, el cual adoptaba una nueva
+definición de ámbito urbano y rural (en el 2021, el Minedu adoptó la definición urbano/rural del INEI). Esta
+adopción implicó que alrededor de 3063 IE en primaria y 2405 IE en secundaria cambiara de clasificación
+de urbana a rural.
+4 La EM de 6.° grado de primaria, a diferencia de las de los otros grados, no tiene desagregación por DRE.
+49

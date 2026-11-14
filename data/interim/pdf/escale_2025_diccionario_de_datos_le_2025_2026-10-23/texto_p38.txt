@@ -1,0 +1,46 @@
+Archivo: Loc_Lineal_2.dbf
+Variable Tipo Descripción Valor
+Capítulo 6: Características de las aulas o ambientes acondicionados como aulas en el local educativo
+P61_T N (4) 501. Número de aulas o ambientes acondicionados como aulas 9999
+1. Total
+P61_B N (4) 501. Número de aulas o ambientes acondicionados como aulas 9999
+2. Bueno
+P61_R N (4) 501. Número de aulas o ambientes acondicionados como aulas 9999
+3. Regular
+P61_M N (4) 501. Número de aulas o ambientes acondicionados como aulas 9999
+4. Malo
+Archivo: Loc_P61_Aulas.dbf [ Matriz 11: Aulas en el Local Educativo ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Características de las aulas C061
+NUMERO C (3) Número de orden 999
+ID_EDIF C (3) 1. Número de edificación "E" + [Correlativo
+de 2 digitos]
+P61_2 N (3) 2. Número del piso donde se ubica el ambiente 999
+P61_3 C (1) 3.1. ¿El ambiente se encuentra en uso? 1: Sí
+2: No
+P61_4 C (2) 4. Este ambiente es de: 01: Clase regular
+02: Clase
+funcional
+P61_5_11 C (2) 5. Niveles educativos de la Educación Básica/ETP y/o Ver código en
+Carreras/Programas de la Educación Superior que usan el ambiente Tabla 01
+- Cantidad de estudiantes por aula y turno
+1. Turno Mañana
+1. Nivel
+P61_5_12 C (11) 5. Niveles educativos de la Educación Básica/ETP y/o (0:9),(A:Z)
+Carreras/Programas de la Educación Superior que usan el ambiente
+- Cantidad de estudiantes por aula y turno
+1. Turno Mañana
+2. Edad/Grado/Ciclo
+P61_5_13 C (1) 5. Niveles educativos de la Educación Básica/ETP y/o (A:Z)
+Carreras/Programas de la Educación Superior que usan el ambiente
+- Cantidad de estudiantes por aula y turno
+1. Turno Mañana
+3. Sección
+P61_5_14 N (5) 5. Niveles educativos de la Educación Básica/ETP y/o 99999
+Carreras/Programas de la Educación Superior que usan el ambiente
+- Cantidad de estudiantes por aula y turno
+1. Turno Mañana
+4. Número de estudiantes
+37

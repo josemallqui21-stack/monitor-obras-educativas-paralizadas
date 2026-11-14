@@ -1,0 +1,48 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P401_Edific.dbf [ Matriz 12 : Edificaciones en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+P401_24_5 N (5) 24. Gabinete Contra Incendios 99999
+- Según Antigüedad en el Local Educativo
+5. Menos de 1 año
+P401_24_6 N (5) 24. Gabinete Contra Incendios 99999
+- Según Antigüedad en el Local Educativo
+6. De 1 a 2 años
+P401_24_7 N (5) 24. Gabinete Contra Incendios 99999
+- Según Antigüedad en el Local Educativo
+7. Más de 2 años
+P401_25_1 N (5) 25. Detectores de Humo 99999
+1. Cantidad Total (Operativos + Inoperativos)
+P401_25_2 N (5) 25. Detectores de Humo 99999
+2. Total Operativos
+P401_25_3 N (5) 25. Detectores de Humo 99999
+- Según Estado de Conservación
+3. En Buen Estado
+P401_25_4 N (5) 25. Detectores de Humo 99999
+- Según Estado de Conservación
+4. Necesitan Reparación
+P401_25_5 N (5) 25. Detectores de Humo 99999
+- Según Antigüedad en el Local Educativo
+5. Menos de 1 año
+P401_25_6 N (5) 25. Detectores de Humo 99999
+- Según Antigüedad en el Local Educativo
+6. De 1 a 2 años
+P401_25_7 N (5) 25. Detectores de Humo 99999
+- Según Antigüedad en el Local Educativo
+7. Más de 2 años
+Tabla 01: Códigos de la Finalidad Tabla 02: Códigos de Tipo de Entidad Ejecutora
+del Uso del Módulo Prefabricado
+Código Descripción
+Código Descripción
+01 Gobierno Nacional / Proyecto Especial
+Emergencia (ante
+01
+desastres)
+02 Gobierno Regional / Local
+Temporal (durante la
+02 ejecución de una 03 APAFA / Autoconstrucción
+inversión)
+04 Entidades Cooperantes / ONG’s
+03 Permanentes
+05 Empresa Privada
+06 No Especifica
+46

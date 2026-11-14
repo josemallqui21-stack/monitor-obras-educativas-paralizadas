@@ -1,0 +1,43 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P601_OtEsp.dbf [ Matriz 14 : Otros espacios educativos distintos al aula ]
+Variable Formato Descripción de variable Valor de variable
+P601_18_84 N (5) 18. Tenencia y estado de conservación del mobiliario en 99999
+uso en los otros ambientes
+8. Mueble de Kitchenette
+4. Cantidad en mal estado
+P601_18_91 N (5) 18. Tenencia y estado de conservación del mobiliario en 99999
+uso en los otros ambientes
+9. Otros Muebles
+1. Cantidad Total
+P601_18_92 N (5) 18. Tenencia y estado de conservación del mobiliario en 99999
+uso en los otros ambientes
+9. Otros Muebles
+2. Cantidad en buen estado
+P601_18_93 N (5) 18. Tenencia y estado de conservación del mobiliario en 99999
+uso en los otros ambientes
+9. Otros Muebles
+3. Cantidad en regular estado
+P601_18_94 N (5) 18. Tenencia y estado de conservación del mobiliario en 99999
+uso en los otros ambientes
+9. Otros Muebles
+4. Cantidad en mal estado
+Ver Tabla 01 en la página 65
+Tabla 02: Códigos de Material Tabla 03: Códigos de Material predominante del
+predominante de las puertas marco de la ventana
+Código Descripción Código Descripción
+Carpintería metálica (fierro, acero, acero
+01 Madera 01
+inoxidable, aluminio, entre otros)
+02 Mallas metálicas
+02 Carpintería de madera
+03 Rejas metálicas
+03 Carpintería de PVC
+04 Planchas metálicas 04 Carpintería mixta (varios materiales)
+05 Drywall
+05 Otro
+06 Vidrio
+06 No tiene pero lo Requiere
+07 Otro 07 No tiene pero No lo Requiere
+08 No tiene pero lo Requiere
+09 No tiene pero No lo Requiere
+63

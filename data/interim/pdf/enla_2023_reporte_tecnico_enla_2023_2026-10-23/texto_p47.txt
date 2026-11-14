@@ -1,0 +1,33 @@
+Reporte técnico evaluaciones 2022 Capítulo 2
+Población a evaluar
+Capítulo 2
+2.1 Población objetivo
+La ENLA 2023 tuvo como población objetivo a los estudiantes que asistieron a clases
+en 2.° grado de primaria, 4.° grado de primaria, 4.° grado de primaria EIB y 2.° grado
+de secundaria de instituciones educativas (IE) de Educación Básica Regular (EBR).
+Se evaluó a estos estudiantes porque en sus grados se concluyen los ciclos tercero,
+cuarto y sexto de la EBR, respectivamente, lo cual permite planificar intervenciones
+en el sistema para mejorar los grados y ciclos posteriores, en que el conocimiento se
+especializa y se hace más complejo.
+Se excluyó a los estudiantes que asisten a instituciones educativas que atienden a
+menos de cinco estudiantes matriculados¹ en el grado a ser evaluado. Las razones
+se encuentran detalladas en el Marco de trabajo de la ECE (Ministerio de Educación,
+2009). A continuación, se presentan los porcentajes de estudiantes excluidos a nivel
+nacional:
+Tabla 2.1 Porcentaje de estudiantes excluidos según grado.
+Grado Porcentaje de exclusión
+2.° grado de primaria 4,1
+4.° grado de primaria 4,0
+4.° grado de primaria EIB 20,5
+2.° grado de secundaria 0,3
+2.2 Marco censal y marco muestral
+En la ENLA 2023 se llevaron a cabo evaluaciones muestrales en 2.° grado de
+primaria, 4.° grado de primaria y 2.° grado de secundaria, mientras que en 4.° grado
+de primaria EIB se llevó a cabo una evaluación censal. En este sentido, el listado
+conformado por todos los elementos que potencialmente pueden ser evaluados será
+denominado marco muestral cuando nos refiramos a las evaluaciones muestrales, y
+marco censal cuando nos refiramos a la evaluación censal de EIB. Ambos marcos se
+1 La cantidad de estudiantes matriculados tiene como fuente el dato registrado en el Sistema de Información
+de Apoyo a la Gestión de la Institución Educativa (Siagie). En caso de no contar con esta información, el
+dato proviene del Censo Educativo 2023.
+45

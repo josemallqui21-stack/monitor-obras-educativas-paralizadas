@@ -1,0 +1,54 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Nombre de archivo: Local_lineal_01.dbf
+SECCIÓN: UBICACIÓN E IDENTIFICACIÓN DEL LOCAL EDUCATIVO
+TABLA: LOCAL_LINEAL_01.DBF
+Campo Formato Descripción de variable Valor de variable
+NOMBVIA C (80) 8. Dirección principal del Local Educativo (A:Z)
+Nombre de Vía
+NUMERO C (20) Dirección principal del Local Educativo (0:9),(A:Z)
+Número de puerta
+MANZANA C (10) 8. Dirección principal del Local Educativo (0:9),(A:Z)
+Manzana
+LOTE C (15) 8. Dirección principal del Local Educativo (0:9)
+Lote
+SECTOR C (30) 8. Dirección principal del Local Educativo (0:9)
+Sector
+ZONA C (15) 8. Dirección principal del Local Educativo (0:9),(A:Z)
+Zona
+ETAPA C (15) 8. Dirección principal del Local Educativo (0:9),(A:Z)
+Etapa
+OTROS C (30) 8. Dirección principal del Local Educativo (A:Z)
+Otro
+REFERENCIA C (200) 9. Referencia de la dirección del Local Educativo (A:Z)
+LATITUD N (15,8) 10. Puntos de Georreferenciación (1:9999999)
+Latitud
+LONGITUD N (15,8) 10. Puntos de Georreferenciación (1:9999999)
+Longitud
+ALTITUD N (6) 10. Puntos de Georreferenciación (000001:999999)
+Altura
+CLIMA C (1) 11. Clima (1:9)
+1: Desértico costero / marino
+2: Desértico
+3: Interandino bajo
+4: Mesoandino
+5: Altoandino
+6: Nevado
+7: Ceja de montaña
+8: Subtropical húmedo
+9: Tropical húmedo
+12. SOBRE LA CONSTRUCCIÓN Y/O RECONSTRUCCIÓN DEL LOCAL EDUCATIVO
+ESTADOCON C (2) 12.1. El local educativo se encuentra en etapa de SI / NO
+construcción/reconstrucción?
+SITUACION C (1) 12.1. El local educativo se encuentra en etapa de 1: Total
+construcción/reconstrucción? 2: Parcial
+Situación
+AAMM_INI C (10) 12.2. Sobre la construcción/reconstrucción del AAAA-MM
+local educativo
+- ¿Cuándo inicio la construcción/reconstrucción?
+Año - Mes
+AAMM_ENT C (10) 12.2. Sobre la construcción/reconstrucción del AAAA-MM
+local educativo
+- ¿Cuándo concluirá la
+construcción/reconstrucción?
+Año - Mes
+5

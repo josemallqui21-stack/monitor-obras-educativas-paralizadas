@@ -1,0 +1,35 @@
+Reporte técnico evaluaciones 2022 Capítulo 2
+ECE 2018 Muestra
+Medida Medida LI LS
+Público Medida promedio 475 476,9 474,7 479,1
+Previo al inicio (%) 10,5 10,3 9,9 10,7
+En inicio (%) 19,9 19,38 18,88 19,88
+En proceso (%) 40,3 40,21 39,59 40,83
+Satisfactorio (%) 29,4 30,12 29,19 31,04
+Privado Medida promedio 491 490,5 485,4 495,6
+Previo al inicio (%) 6,0 6,4 5,4 7,5
+En inicio (%) 17,7 17,37 16,00 18,74
+En proceso (%) 41,9 41,85 40,53 43,16
+Satisfactorio (%) 34,4 34,37 32,19 36,55
+Urbano Medida promedio 493 492,2 489,6 494,7
+Previo al inicio (%) 6,0 6,5 6,0 7,0
+En inicio (%) 17,2 16,81 16,20 17,43
+En proceso (%) 42,1 41,76 41,07 42,44
+Satisfactorio (%) 34,7 34,92 33,82 36,02
+Rural Medida promedio 438 434,6 432,0 437,2
+Previo al inicio (%) 19,4 20,1 19,2 21,0
+En inicio (%) 26,2 26,85 26,06 27,65
+En proceso (%) 36,7 36,26 35,37 37,15
+Satisfactorio (%) 17,7 16,78 15,94 17,62
+Tabla 2.9 Resultados de 2.° grado de secundaria, Lectura
+ECE 2019 Muestra
+Medida Medida LI LS
+Nacional Medida promedio 567 568,7 567,4 569,9
+Previo al inicio (%) 17,7 17,1 16,7 17,5
+En inicio (%) 42,0 41,42 40,79 42,06
+En proceso (%) 25,8 26,42 26,00 26,84
+Satisfactorio (%) 14,5 15,04 14,42 15,67
+Hombre Medida promedio 563 565,5 564,1 566,9
+Previo al inicio (%) 18,9 18,1 17,6 18,6
+En inicio (%) 43,0 42,17 41,45 42,89
+59

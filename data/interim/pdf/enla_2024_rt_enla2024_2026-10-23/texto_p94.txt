@@ -1,0 +1,38 @@
+no equivalentes con ítems comunes. Este último diseño fue utilizado para colocar las
+medidas de las pruebas de las distintas evaluaciones de 4.° grado y 6.° grado de
+primaria en la misma métrica que el de las pruebas aplicadas en el 2016 por la UMC.
+En este diseño, se trabaja con dos muestras de personas que no necesariamente
+han sido extraídas de la misma población; en cada muestra, se aplica una única
+forma de la prueba. Lo esencial de este método es que, en cada grupo, se administra
+un conjunto de ítems común que permite establecer la equivalencia entre las pruebas
+que se quieren equiparar.
+Una vez obtenidos los datos, se utiliza la transformación lineal: se consideran
+equivalentes las puntuaciones directas que corresponden a la misma puntuación
+típica. En el contexto de la teoría de respuesta al ítem (TRI), se denomina a este
+método mean/sigma (Kolen y Brennan, 2014), e implica el cálculo de dos constantes
+de equiparación a y b, de tal manera que surge la siguiente fórmula:
+medida = b + a x medida
+equiparada actual
+Donde:
+Smedida
+a = anterior
+Smedida
+actual
+b = Xmedidaanterior - a x Xmedidaanterior
+Un requisito importante para realizar la comparación del rendimiento entre dos o
+más grupos es asegurar la invarianza de la dificultad de los ítems de la prueba a lo
+largo del tiempo (Kolen y Brennan, 2014). Esto supone que el grado de dificultad de
+cada ítem debe mantenerse constante² independientemente del grupo poblacional
+en el que se aplique. En caso de no cumplirse con este supuesto, se dice que el ítem
+presenta un funcionamiento diferencial (FDI) a lo largo del tiempo. Por ello, todos
+los ítems utilizados para el proceso de equiparación son sometidos a un análisis de
+FDI según la metodología propuesta por Bond et al. (2021). De esta manera, solo se
+utilizan en la equiparación los ítems sin FDI a lo largo del tiempo.
+Las tablas, desde 4.9 hasta 4.13, presentan los resultados del proceso de equiparación
+por ítems comunes de las pruebas aplicadas en la ENLA 2024. Dichos resultados nos
+permiten señalar que este proceso ha sido realizado siguiendo rigurosos criterios
+técnicos, que sustentan la comparación entre los resultados de las evaluaciones
+realizadas en años diferentes.
+2 En realidad, la dificultad del ítem debe mantenerse dentro de ciertos márgenes de error al comparar su
+dificultad en dos poblaciones diferentes.
+92

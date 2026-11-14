@@ -1,0 +1,48 @@
+2.10. Obras paralizadas por administración directa o por contrata
+El 98.5% (2 438) de las 2 476 obras públicas paralizadas a nivel nacional son ejecutadas
+bajo la modalidad de administración directa o por contrata, en los tres niveles de gobierno.
+El monto de inversión asciende a S/ 34 mil 273 millones, como se detalla a continuación:
+Tabla 11. Obras paralizadas según modalidad de ejecución
+G. Nacional G. Regional G. Local Total
+Modalidad de
+Ejecución Costo Costo Costo Costo
+N.° N.° N.° N.° % %
+actualizado S/ actualizado S/ actualizado S/ actualizado S/
+Administración
+27 186,687,929 74 1,543,897,686 1114 2,048,444,520 1215 49.8% 3,779,030,135 11.0%
+directa
+Por Contrata 329 15,603,349,924 233 7,256,907,497 661 7,634,015,075 1223 50.2% 30,494,272,496 89.0%
+Total 356 15,790,037,853 307 8,800,805,183 1775 9,682,459,595 2438 100% 34,273,302,631 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/12/2024
+Entre las obras paralizadas que se ejecutan por administración directa o por contratan
+destacan un grupo de 546 obras que tienen un avance físico significativo.
+En el siguiente cuadro, se presenta el desagregado de los sectores que tienen saldo por
+ejecutar que se encuentran en el rango de 90% a 100% de avance físico, donde se advierte
+que el mayor monto de inversión lo tiene el sector Vivienda, Construcción y Saneamiento
+con una inversión de S/ 1 mil 474 millones con 76 obras paralizadas; seguido por el sector
+Transportes y Comunicación con una inversión de S/ 534 millones con 51 obras, seguido del
+sector Educación con una inversión de S/ 210 millones con 42 obras paralizadas, como se
+ve a continuación:
+Tabla 12. Sectores con obras paralizadas con nivel de avance físico del 90% a 100%
+(ejecutadas por administración directa o contrata)
+Rango de avance físico del 90% a 100 %
+Sectores N.° de obras Costo actualizado S/ Saldo de la Inversión S/
+VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO 76 1,474,321,578 257,591,239
+TRANSPORTES Y COMUNICACIONES 51 534,077,285 142,473,080
+EDUCACIÓN 42 210,222,622 42,227,994
+AGRICULTURA 37 253,432,564 35,084,029
+ENERGÍA Y MINAS 10 29,906,511 19,660,919
+SALUD 8 199,129,576 16,907,377
+ORDEN PÚBLICO/DEFENSA Y SEGURIDAD 3 22,985,533 1,819,837
+CULTURA 2 37,939,468 4,685,923
+SANEAMIENTO 1 42,068 24,892
+DEFENSA 1 583,879 350,502
+OTROS SECTORES* 19 94,788,576 42,896,359
+Total 250 2,857,429,660 563,722,152
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC)
+Fecha:31/12/2024
+*Otros. - Comprende obras de parques, instalaciones eléctricas, residuos sólidos, centros recreacionales, entre otros.
+A continuación, se presenta el desagregado de los sectores que tienen saldo por ejecutar de

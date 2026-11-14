@@ -1,0 +1,52 @@
+Reporte técnico evaluaciones 2022 Anexos
+Correlativo Cantidad por Porcentaje por
+Tipo de texto Género
+del texto tipo de texto tipo de texto
+Argumentativo Artículo de opinión 22 1 1,2 %
+Expositivo Artículo de divulgación 23 1 1,2 %
+No tipificable Palabra y oración 24 - 83 60 72,3 %
+TOTAL 83 100 %
+Tabla H.3 Distribución de ítems en la prueba
+Cantidad de Cantidad de Porcentaje por
+Correlativo
+Tipo de texto Género ítems por ítems por de ítems por
+del texto
+cada texto texto tipo de texto
+1 6
+Cuento
+2 5
+Leyenda 3 5
+Noticia 4 5
+Narrativo 5 3 36 25,0 %
+6 3
+Anécdota 7 3
+8 3
+9 3
+Manual de 10 6
+Instructivo 12 8,3 %
+procedimientos 11 6
+Cuadro
+12 3
+comparativo
+13 1
+14 1
+15 1
+Descriptivo 16 1 25 17,4 %
+Artículo
+17 1
+enciclopédico
+18 1
+19 6
+20 5
+21 5
+Artículo de
+Argumentativo 22 6 6 4,2 %
+opinión
+Artículo de
+Expositivo 23 5 5 3,5 %
+divulgación
+No tipificable Palabra y oración 24 - 83 601 60 41,7 %
+TOTAL 83 144 100 %
+1 Para constructos con varias dimensiones el mínimo número que se acepta para formar una dimensión es
+tres debido a que en este tipo de modelo se pueden obtener soluciones que converjan.
+193

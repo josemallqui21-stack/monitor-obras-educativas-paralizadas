@@ -1,0 +1,34 @@
+Reporte técnico evaluaciones 2024
+4.° grado de Programados Evaluados Cobertura (%)
+primaria IE estudiantes IE estudiantes IE estudiantes
+Moquegua 79 3070 79 3019 100,0 98,3
+Pasco 226 4765 226 4537 100,0 95,2
+Piura 1372 39852 1372 38401 100,0 96,4
+Puno 574 16777 574 16516 100,0 98,4
+San Martín 728 18269 728 17614 100,0 96,4
+Tacna 149 5854 149 5758 100,0 98,4
+Tumbes 135 5279 135 4944 100,0 93,7
+Ucayali 323 12848 323 11844 100,0 92,2
+Tabla 2.3 Cobertura de la ENLA 6P 2024 a nivel de IE y estudiantes.
+6.° grado de Programado Evaluado Cobertura (%)
+primaria IE estudiantes IE estudiantes IE estudiantes
+Total 4451 110273 4442 105534 99,8 95,7
+Amazonas 210 3104 209 2994 99,5 96,5
+Áncash 205 5328 205 5138 100,0 96,4
+Apurímac 125 3177 125 3109 100,0 97,9
+Arequipa 142 4172 142 4081 100,0 97,8
+Ayacucho 169 3992 168 3855 99,4 96,6
+Cajamarca 376 5586 376 5437 100,0 97,3
+Callao 116 4630 116 4420 100,0 95,5
+Cusco 153 4263 153 4200 100,0 98,5
+Huancavelica 178 2685 178 2634 100,0 98,1
+Huánuco 220 4529 220 4311 100,0 95,2
+Ica 175 5975 175 5781 100,0 96,8
+Junín 227 4872 227 4700 100,0 96,5
+La Libertad 182 4289 182 4104 100,0 95,7
+Lambayeque 160 5067 160 4823 100,0 95,2
+Lima Metropolitana 94 3437 94 3294 100,0 95,8
+Lima Provincias 144 3807 144 3665 100,0 96,3
+Loreto 246 5869 241 5174 98,0 88,2
+Madre de Dios 79 2550 79 2414 100,0 94,7
+38

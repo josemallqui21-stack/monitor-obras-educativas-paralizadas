@@ -1,0 +1,49 @@
+estos índices de ajuste, se tomaron en cuenta las cargas factoriales estandarizadas
+de los ítems, pues estas brindan información adicional de la educación del
+modelo a los datos del cuestionario. En este sentido, se consideran como cargas
+“adecuadas” aquellas que superen 0,4 como valor (Ford et al., 1986).
+Todas estas estimaciones se realizaron utilizando el paquete lavaan (Rosseel,
+2012) del lenguaje R (R Core Team). Los resultados de las escalas se muestran
+en la tabla 5.1.
+Tabla 5.1. Indicadores de ajuste para constructos reflexivos según grado y actor
+Código de
+Grado Actor Nombre CFI TLI SRMR
+constructo
+DIRP_ Colaboración entre
+0,995 0,992 0,035
+COLABDOC docentes
+Situaciones
+DIRPGEN_
+problemáticas en la 0,989 0,988 0,068
+SITPROBR
+escuela
+Autonomía para
+DIRP_AUTIE realizar mejoras en la 0,996 0,995 0,036
+escuela
+Satisfacción con el
+DIRP_
+apoyo recibido por la 0,998 0,997 0,033
+SATUGEL
+UGEL
+Liderazgo educativo de
+4.° y 6.° DIRP_LIDUG 0,997 0,996 0,036
+la UGEL
+grado de Director
+primaria
+DIRP_ Creencias sobre la
+0,991 0,986 0,047
+ENSHSE enseñanza de las HSE
+DIRP_ Creencias sobre la
+0,996 0,991 0,050
+CREAUTO autorregulación
+Percepción de
+DIRP_ utilidad de materiales
+0,998 0,993 0,024
+UTILLEC educativos de
+Comunicación
+Percepción de
+DIRP_ utilidad de materiales
+0,999 0,997 0,019
+UTILMAT educativos de
+Matemática
+108

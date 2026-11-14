@@ -1,0 +1,56 @@
+"Año de la unidad, la paz y el desarrollo"
+Tabla 04: Códigos de
+Tabla 03: Códigos de estados de conservación
+Entidad Ejecutora
+Numerales 7 (del tramo) y 21(del
+Numeral 15 (del portón)
+muro de contención) Código Descripción
+Código Descripción Código Descripción
+01 Gobierno Nacional
+01 Sin daño 01 Buen estado
+02 Gobierno Regional
+02 Fisuras leves 02 Regular estado
+Fisuras moderadas 03 APAFA
+03 03 Mal estado
+o ataques de sales
+Agrietamiento o Entidades
+04 04
+colapso Cooperantes
+05 Empresa Privada
+06 Otro
+Tabla 05: Códigos de Tabla 06: Códigos de Estructura
+Tipo de Acceso en el de la portada
+Tramo Código Descripción
+Código Descripción 01 Concreto armado
+01 Acceso plano
+02 Metálico
+Sólo escalera y
+02 03 Concreto Simple
+rampa
+Sólo rampa (con 04 Madera
+03 una pequeña 05 Piedra
+inclinación) 06 otro
+Tabla 07: Códigos de Tabla 08: Códigos de Sistema Estructural
+Material del Portón predominante del Muro de Contención
+Código Descripción
+Código Descripción
+01 Madera
+01 Concreto reforzado
+02 Mallas Metálicas
+02 Concreto Simple
+03 Rejas Metálicas
+03 Concreto Ciclópeo
+04 Planchas Metálicas Concreto Ciclópeo con columnas
+04
+de refuerzo
+05 Drywall
+Mampostería o bloques de roca
+06 Otro 05
+pegados con concreto
+Muros de gravedad flexible
+(gaviones, prefabricados o criba,
+06
+llantas o neusol, enrocado o
+pedraplén, bolsacreto)
+07 Otro
+39

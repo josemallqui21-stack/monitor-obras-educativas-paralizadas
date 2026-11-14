@@ -1,0 +1,46 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P701_SSHH.dbf [ Matriz 16 : Características de los SS.HH. en el Local Educativo ]
+Variable Formato Descripción de variable Valor de variable
+P701_13_22 N (5) 13. Sobre los lavatorios o lavamanos en los SS.HH. 99999
+2. Corridos
+- Cantidad de lavatorios/lavamanos corridos
+2. Operativos
+P701_13_23 N (5) 13. Sobre los lavatorios o lavamanos en los SS.HH. 99999
+2. Corridos
+- Cantidad de lavatorios/lavamanos corridos según
+estado de
+conservación
+3. Buen estado
+P701_13_24 N (5) 13. Sobre los lavatorios o lavamanos en los SS.HH. 99999
+2. Corridos
+- Cantidad de lavatorios/lavamanos corridos según
+estado de
+conservación
+4. Regular estado
+P701_13_25 N (5) 13. Sobre los lavatorios o lavamanos en los SS.HH. 99999
+2. Corridos
+- Cantidad de lavatorios/lavamanos corridos según
+estado de
+conservación
+5. Mal estado
+P701_14_11 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales
+1. Total
+P701_14_12 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales
+2. Operativos
+P701_14_13 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales operativos según
+estado de
+conservación
+3. Buen estado
+P701_14_14 N (5) 14. Sobre los urinarios en los SS.HH. 99999
+1. Urinarios Individuales
+- Cantidad de urinarios individuales operativos según
+estado de
+conservación
+4. Regular estado
+72

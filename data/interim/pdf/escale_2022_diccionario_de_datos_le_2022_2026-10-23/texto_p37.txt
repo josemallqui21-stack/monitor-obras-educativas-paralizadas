@@ -1,0 +1,47 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+(*) Matriz Local_Internet.dbf (Pregunta 222.3)
+Nombre de archivo: Local_Internet.dbf
+222.3 LÍNEAS CONTRATADAS EN EL LOCAL EDUCATIVO
+Tabla: Local_Internet.dbf
+Campo Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo (000001:999999)
+NROCED N (2) Número de cédula 11
+CUADRO C (5) 222.3 Líneas contratadas en el local educativo C2223
+NUMERO N (1) Nro (1:4)
+P222_3_1 C (9) 1. Número de Línea (*)
+P222_3_2 C (2) 2. ¿La línea se encuentra activa? SI / NO
+P222_3_3 C (2) 3. Tipo de conexión Ver código en
+Tabla 01
+P222_3_4 C (2) 4. Empresa operadora que brinda el servicio Ver código en
+Tabla 02
+P222_3_5 C (2) 5. Entidad que financia el Servicio Ver código en
+Tabla 03
+P222_3_6 N (5) 6. Velocidad contratada Mbps (considere según (00001:99999)
+recibo o contrato)
+(*) Número de línea
+ 1: Línea 01
+ 2: Línea 02
+ 3: Línea 03
+ 4: Línea 04
+Tabla 01: Códigos de Tipo de Conexión a Internet
+Código Descripción
+01 Red Cableada - ADSL-P (Cable telefónico)
+02 Red Cableada - FTTH (Fibra óptica)
+03 Red Cableada - HFC (Híbrido de fibra+coaxial)
+04 Red Cableada - Cable (Cable coaxial)
+05 Internet Satelital
+06 Red Inalámbrica por WIFI
+07 Red Inalámbrica por Internet Portátil / USB Modem
+08 Red Inalámbrica por Radioenlace
+09 Otro
+Tabla 02: Códigos de Empresa Operadora
+Código Descripción
+01 Movistar / Telefónica Movistar del Perú S.A.A.
+02 Claro
+03 Entel
+04 BITEL / VIETTEL PERU S.A.C
+05 VSAT / MINEDU
+06 LEVEL3
+07 WIN
+08 Otro
+36

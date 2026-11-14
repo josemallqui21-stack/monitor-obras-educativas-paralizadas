@@ -1,0 +1,48 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_1.dbf
+Variable Formato Descripción de variable Valor de variable
+P109 C (1) 109. Topografía predominante del terreno (1:4)
+1: Llano (Pendiente 0-8%)
+2: Inclinado (Pendiente 9-25%)
+3: Muy inclinado o desnivelado (Pendiente 26-50%)
+4: Accidentado, irregular o quebrada (Pendiente 51% a
+más)
+P110 C (1) 110. Tipo de suelo predominante del terreno (1:4)
+1: Arena
+2: Arcilla
+3: Grava
+4: Otro
+P111 C (1) 111. El local educativo ¿cuenta con un plan de gestión 1: Sí
+de riesgo de desastres vigente ante un evento 2: No
+adverso? (emergencia o desastre)
+P111_DOC C (1) 111. El local educativo ¿cuenta con un plan de gestión 1: Resolución
+de riesgo de desastres vigente ante un evento 2: Otro
+adverso? (emergencia o desastre)
+- Documento que lo aprueba
+P111_OTRO C (80) 111. El local educativo ¿cuenta con un plan de gestión Texto
+de riesgo de desastres vigente ante un evento
+adverso? (emergencia o desastre)
+- Documento que lo aprueba
+2: Otro --- Especificar
+P111_NDOC C (10) 111. El local educativo ¿cuenta con un plan de gestión 9999999999
+de riesgo de desastres vigente ante un evento
+adverso? (emergencia o desastre)
+- Documento que lo aprueba
+Número de documento
+P111_DESDE C (10) 111. El local educativo ¿cuenta con un plan de gestión DD/MM/AAAA
+de riesgo de desastres vigente ante un evento
+adverso? (emergencia o desastre)
+- Vigencia del plan
+Desde
+P111_HASTA C (10) 111. El local educativo ¿cuenta con un plan de gestión DD/MM/AAAA
+de riesgo de desastres vigente ante un evento
+adverso? (emergencia o desastre)
+- Vigencia del plan
+Hasta
+P112 C (1) 112. ¿Cuenta con Plan de Seguridad del 1: Sí
+Establecimiento? 2: No
+P113 C (1) 113. ¿Cuenta con Plan para la vigilancia, prevención y 1: Sí
+control de la COVID-19? 2: No
+P114 N (2) 114. ¿Con cuántos tramos cuenta el perímetro del 99
+terreno o área asignada al local educativo?
+11

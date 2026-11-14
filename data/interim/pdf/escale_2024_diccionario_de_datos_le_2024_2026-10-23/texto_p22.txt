@@ -1,0 +1,44 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P116_13_OT C (80) 116. Características de la ubicación física (Marcar SI o Texto
+NO en todas las alternativas)
+13. Otro --- Especifique
+P117_1 C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+1. Sismos
+P117_1_F C (10) 117. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+1. Sismos
+Última fecha de ocurrencia
+P117_1_M C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+1. Sismos
+¿Es mitigable?
+P117_2 C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+2. Lluvias intensas
+P117_2_F C (10) 117. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+2. Lluvias intensas
+Última fecha de ocurrencia
+P117_2_M C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+2. Lluvias intensas
+¿Es mitigable?
+P117_3 C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+3. Sequias
+P117_3_F C (10) 117. Peligros naturales potenciales (marcar SI o NO en DD/MM/AAAA
+todas las alternativas)
+3. Sequias
+Última fecha de ocurrencia
+P117_3_M C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+3. Sequias
+¿Es mitigable?
+P117_4 C (1) 117. Peligros naturales potenciales (marcar SI o NO en 1: Sí
+todas las alternativas) 2: No
+4. Actividades volcánicas
+-- 21 --

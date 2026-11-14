@@ -1,0 +1,37 @@
+Ítem Medida Error Infit Outfit
+HSECOND_13 -0,358 0,003 1,04 1,10
+HSECOND_14 -0,264 0,003 1,05 1,11
+HSECONS_01 -0,729 0,004 0,84 0,82
+HSECONS_03 -0,596 0,003 0,95 0,95
+HSECONS_04 -0,700 0,004 0,92 0,91
+HSECONS_05 -0,684 0,003 0,99 1,00
+HSECONS_06 -0,448 0,003 1,23 1,27
+HSECONS_08 -0,919 0,004 1,14 1,10
+HSEREG_01 -0,725 0,004 0,90 0,89
+HSEREG_02 -0,469 0,003 1,13 1,17
+HSEREG_04 -0,649 0,003 1,21 1,22
+HSEREG_05 -0,489 0,003 1,06 1,07
+HSEREG_08 -0,460 0,003 1,09 1,11
+HSEREG_09 -0,894 0,004 1,13 1,10
+6.3.2 Estructura de umbrales
+Una característica adicional del modelo de escala de valoración de Rasch (respecto
+del modelo para datos dicotómicos) es que, además de reportar las estimaciones
+de habilidad de las personas y de dificultad de cada ítem, provee una estructura
+de umbrales que es común para todos los ítems. Los umbrales, también conocidos
+como umbrales de Andrich, se definen como los puntos en los que dos categorías de
+respuesta adyacentes tienen la misma probabilidad de ser elegidas. De esta manera,
+cuando el nivel de habilidad de un estudiante se ubica justo en el punto de un umbral,
+tiene la misma probabilidad de elegir una u otra de las dos categorías adyacentes.
+En ese sentido, si su nivel de habilidad supera ese umbral, es más probable que
+seleccione la categoría superior. Por ello, los umbrales marcan el punto en el que
+cambia la probabilidad de pasar de una categoría a otra. Es importante señalar que
+los umbrales deberían estar ordenados de menor a mayor, ya que se espera que las
+categorías más altas reflejen niveles más elevados en la medida, mientras que las
+más bajas correspondan a niveles más bajos³ (Linacre, 1999).
+Por último, es relevante considerar que el orden de la estructura de los umbrales
+depende de las frecuencias observadas en cada categoría de respuesta. De manera
+que, por ejemplo, cuando una categoría intermedia tiene una mayor proporción de
+3 Se recomienda que la distancia mínima entre los umbrales sea de por lo menos 1,4 logits, aunque esto no
+necesariamente es un requerimiento para construir medidas válidas e inferencialmente útiles a partir de las
+observaciones de una escala de valoración (Linacre, 1999).
+136

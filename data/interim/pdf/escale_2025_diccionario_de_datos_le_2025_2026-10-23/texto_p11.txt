@@ -1,0 +1,38 @@
+Archivo: Loc_Lineal_1.dbf
+Variable Tipo Descripción Valor
+P213 C (1) 2.1.3. ¿Qué entidad financia la obra del local educativo? (1:6)
+1: MINEDU
+2: Gobierno regional
+3: Gobierno local
+4: Otro sector del estado
+5: Empresa privada
+6: Otro
+P213_4_OT C (80) 2.1.3. ¿Qué entidad financia la obra del local educativo? Texto
+4: Otro sector del estado
+---Especifique
+P213_6_OT C (80) 2.1.3. ¿Qué entidad financia la obra del local educativo? Texto
+6: Otro
+---Especifique
+Archivo: Loc_214_InfObra.dbf [ Matriz 03: Información de la obra parcial ]
+Variable Tipo Descripción Valor
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) 2.1.4. Sobre la construcción/reconstrucción parcial del local educativo, P214
+indique:
+N_ORD N (2) Número de orden 99
+COD_MOD C (7) 1. Código modular del Servicio Educativo Id del Servicio
+Educativo
+MMAA_INI C (10) 2. Fecha de inicio de la obra (mes y año) MM-AAAA
+MMAA_CON C (10) 3. Fecha en que concluirá la obra (mes y año) MM-AAAA
+ENTI_FINA C (1) 4. Entidad que financia la obra (1:6)
+1: MINEDU
+2: Gobierno Regional
+3: Gobierno Local
+4: Otro sector del estado
+5: Empresa privada
+6: Otro
+ESP_OTROS C (80) 4. Entidad que financia la obra Texto
+--> 4: Otro sector del estado / 6: Otro
+--- Especifique
+CUI C (7) 5. Código Único de Inversión (CUI) de la obra 9999999
+10

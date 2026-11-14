@@ -1,0 +1,60 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+P401_17_2Q N (6) 17. Instalaciones eléctricas (000001:999999)
+2. Tablero
+Cantidad
+P401_17_2C C (2) 17. Instalaciones eléctricas Ver código en
+2. Tablero Tabla 05
+Estado de conservación
+P401_17_3Q N (6) 17. Instalaciones eléctricas (000001:999999)
+3. Gabinete protección de circuitos
+Cantidad
+P401_17_3C C (2) 17. Instalaciones eléctricas Ver código en
+3. Gabinete protección de circuitos Tabla 05
+Estado de conservación
+P401_17_4Q N (6) 17. Instalaciones eléctricas (000001:999999)
+4. Sistema de puesta a tierra
+Cantidad
+P401_17_4C C (2) 17. Instalaciones eléctricas Ver código en
+4. Sistema de puesta a tierra Tabla 05
+Estado de conservación
+P401_17_4A C (10) 17. Instalaciones eléctricas AAAA
+3. Sistema de puesta a tierra
+Último año de mantenimiento
+P401_18_1 C (2) 18. Instalaciones sanitarias Ver código en
+Estado de conservación Tabla 05
+1. Sistema de captación de aguas pluviales
+P401_18_2 C (2) 18. Instalaciones sanitarias Ver código en
+Estado de conservación Tabla 05
+2. Sistema de evacuación de aguas pluviales
+P401_19_1 C (2) 19. Comunicaciones Ver código en
+Estado de conservación Tabla 05
+1. Sistema de voz y data
+P401_20 C (2) 20. La edificación ¿Se encuentra en riesgo de SI / NO
+colapso o presenta riesgo estructural?
+P401_21 C (2) 19. ¿Cuenta con un informe o certificado que SI / NO
+diagnostique esta situación?
+P401_22 C (2) 20. La edificación cuenta con alguna protección SI / NO
+emitida por el INC
+P401_23_1 C (2) 23. La edificación cuenta con: SI / NO
+1. Señalética de seguridad
+P401_23_2 C (2) 23. La edificación cuenta con: SI / NO
+2. Alarmas y pulsadores de emergencia
+P401_23_3 C (2) 23. La edificación cuenta con: SI / NO
+3. Botiquín debidamente equipado
+P401_23_4 C (2) 23. La edificación cuenta con: SI / NO
+4. Luces de emergencia operativas
+P401_24_1 N (6) 24. Extintores (000001:999999)
+1. Cantidad total (operativos + inoperativos)
+P401_24_2 N (6) 24. Extintores (000001:999999)
+2. Total operativos
+P401_24_3 N (6) 24. Extintores (000001:999999)
+Según estado de conservación
+3. En buen estado
+P401_24_4 N (6) 24. Extintores (000001:999999)
+Según estado de conservación
+4. Necesitan reparación
+P401_24_5 N (6) 24. Extintores (000001:999999)
+Según antigüedad en el Local Educativo
+5. Menos de 1 año
+P401_24_6 N (6) 24. Extintores (000001:999999)
+44

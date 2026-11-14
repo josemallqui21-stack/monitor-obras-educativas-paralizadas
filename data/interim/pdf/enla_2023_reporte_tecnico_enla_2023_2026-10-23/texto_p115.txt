@@ -1,0 +1,40 @@
+Reporte técnico evaluaciones 2022 Capítulo 4
+Ítem Bloque Posición Medida Error Infit Outfit PTME p Nivel
+CS125 B18 3 - - - - - - -
+CS126 B21 5 0,652 0,022 1,19 1,33 0,20 0,36 3
+Los ítems CT002 CT057 y CT068 de la prueba de Lectura, así como MA003, MA035,
+MA055, MA064, MA089, MA090 y MA091 de la prueba de Matemática no presentaron
+un buen ajuste al modelo Rasch. Por ello, dichos ítems no fueron incluidos en la
+estimación de las medidas de habilidad de los estudiantes evaluados en 4.° grado
+de primaria.
+4.3.2 Evidencias de validez vinculadas a la estructura interna
+Para la ENLA muestral 2023, como se precisó con atenrioridad, luego de ajustar el
+modelo Rasch unidimensional se realizó un análisis de componentes principales de
+los residuos estandarizados. Los resultados se presentan en la tabla 4.8.
+Tabla 4.8 Análisis de unidimensionalidad de las medidas derivadas de las pruebas
+de la ENLA muestral 2023
+Varianza de Primer
+Varianza Primer
+Prueba la dimensión autovalor
+modelada (%) autovalor
+principal (%) (%)
+Lectura, 2.° grado de primaria 29,7 29,9 2,61 2,1
+Matemática, 2.° grado de primaria 35,5 34,9 1,97 1,4
+Lectura, 4.° grado de primaria 27,2 27,2 2,08 1,6
+Matemática, 4.° grado de primaria 32,5 32,2 1,76 1,2
+Lectura, 2.° grado de secundaria 24,1 24,3 1,43 0,9
+Matemática, 2.° grado de secundaria 31,1 30,8 1,77 1,0
+Ciencia Sociales, 2.° grado de
+22,9 22,7 1,50 0,9
+secundaria
+Linacre (2024) afirma que, aunque no existen parámetros absolutos para interpretar
+los resultados del análisis de componentes principales de los residuos, si el primer
+autovalor contiene menos del 5 % de varianza o si su valor es menor que 3, entonces
+no existen evidencias serias que atenten contra el supuesto de unidimensionalidad;
+por tanto, los datos se pueden analizar adecuadamente utilizando modelos Rasch.
+Además, se está frente a datos unidimensionales cuando la cantidad de varianza
+empírica es similar a la cantidad de varianza predicha por el modelo. Todas estas
+condiciones se cumplen en las pruebas analizadas. Por ende, no hay evidencias
+contundentes en contra del supuesto de unidimensionalidad del conjunto de ítems
+incluidos en estos instrumentos de medición.
+113

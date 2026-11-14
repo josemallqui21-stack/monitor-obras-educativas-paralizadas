@@ -1,0 +1,46 @@
+"Año del bicentenario, de la consolidación de nuestra independencia y
+de la conmemoración de las heroicas batallas de Junín y Ayacucho"
+Archivo: Loc_Lineal_2.dbf
+Variable Tipo Descripción Valor
+P602 C (1) 602. ¿Los talleres para el área de educación para el trabajo 1: Sí
+cuentan con el equipamiento básico para el desarrollo de la 2: No
+especialidad que oferta?
+P603 C (1) 603. El equipamiento de los talleres para el área de educación 1: Sí
+para el trabajo, ¿se encuentran operativos y en funcionamiento? 2: No
+P604 C (1) 604. ¿Su inventario se encuentra registrado en la UGEL? 1: Sí
+2: No
+P605 C (1) 605. ¿En el local educativo se brinda el servicio de alimentación 1: Sí
+escolar provisto por el PNAE Qali Warma? 2: No
+P606 C (1) 606. ¿El local educativo cuenta con espacio de cocina y de 1: Sí
+almacén provisto por el PNAE Qali Warma? 2: No
+P607_1 C (1) 607. Sobre el espacio de cocina, especificar: 1: Sí
+1. ¿La cocina cuenta con zona previa (descongelación, 2: No
+corte, desinfección de alimentos, etc.)?
+P607_2 C (1) 607. Sobre el espacio de cocina, especificar: 1: Sí
+2. ¿La cocina cuenta con zona de preparación del 2: No
+alimento (cocina caliente, cocina fría)?
+P607_3 C (1) 607. Sobre el espacio de cocina, especificar: 1: Sí
+3. ¿La cocina cuenta con zona de servicio (servido en 2: No
+platos)?
+P607_4 C (1) 607. Sobre el espacio de cocina, especificar: 1: Sí
+4. ¿La cocina cuenta con zona de lavado de vajilla? 2: No
+P608 C (1) 608. Sobre el espacio de almacén especificar si ¿cuenta un espacio 1: Sí
+para la recepción e inspección de los alimentos e insumos, 2: No
+previamente al ingreso del almacén?
+P609 C (1) 609. ¿El local educativo cuenta con un espacio designado como 1: Sí
+biblioteca, que no ha sido construido para uso exclusivo de 2: No
+biblioteca?
+P610 C (1) 610. ¿La biblioteca está funcionando? 1: Sí
+2: No
+P610_NO C (1) 610. ¿La biblioteca está funcionando? (1:4)
+--> No
+¿Indique el motivo principal?
+1: Por estar en reparación y/o mantenimiento
+2: Por falta de libros y/o mobiliario
+3: En Proyecto
+4: Otro
+P610_NO_OT C (80) 610. ¿La biblioteca está funcionando? Texto
+--> No
+¿Indique el motivo principal?
+4: Otro --- Especifique
+-- 71 --

@@ -1,0 +1,51 @@
+"Año de la unidad, la paz y el desarrollo"
+Tabla 01: Códigos de Material Tabla 02: Códigos de Estado de Tabla 03: Códigos de Material
+predominante de las paredes conservación predominante de los techos
+Código Descripción Código Descripción Código Descripción
+01 Ladrillo o concreto 01 Buen estado 01 Concreto armado
+02 Adobe o tapial
+02 Regular estado 02 Madera
+03 Quincha
+03 Mal estado 03 Teja
+Piedra con barro, cal o
+04
+cemento 04 No Aplica 04 Fibra de cemento
+05 Madera 05 Calamina
+06 Triplay 06 Calaminón
+Eternit o fibra de
+07 07 Eternit
+concreto
+08 Caña con barro
+08 Estera, cartón o plástico
+09 Lata o latón
+09 Otro
+10 Otro
+No tiene pero lo
+10
+Requiere No tiene pero lo
+11
+Requiere
+No tiene pero No lo
+11 No tiene pero No lo
+Requiere
+12
+Requiere
+Tabla 04: Códigos de Material
+predominante de los pisos
+Código Descripción
+01 Parquet o madera pulida
+02 Vinílico, pisopak o similar
+Loseta, cerámico o
+03
+similar
+04 Cemento
+05 Madera entablada
+06 Tierra
+07 Otro
+No tiene pero lo
+08
+Requiere
+No tiene pero No lo
+09
+Requiere
+74

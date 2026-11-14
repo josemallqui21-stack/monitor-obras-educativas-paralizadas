@@ -1,0 +1,49 @@
+LORETO 593,306,946 2.6% 44 2.4% 278,073,594
+APURIMAC 573,153,538 2.5% 80 4.9% 206,428,616
+JUNIN 438,097,816 1.9% 54 3.0% 225,652,684
+AYACUCHO 432,724,261 1.9% 87 4.7% 206,579,126
+AMAZONAS 398,477,732 1.7% 34 1.6% 92,362,592
+SAN MARTIN 273,704,973 1.2% 25 1.4% 45,253,474
+LAMBAYEQUE 253,817,817 1.1% 50 3.1% 118,597,070
+ICA 168,628,873 0.7% 28 1.1% 32,339,401
+TUMBES 135,054,465 0.6% 11 0.8% 94,559,937
+PASCO 128,432,717 0.6% 33 1.9% 54,127,362
+MADRE DE DIOS 85,892,802 0.4% 14 0.8% 33,163,480
+P. C. DEL CALLAO 35,886,931 0.2% 6 0.5% 15,090,198
+Total 22,778,095,110 100% 1751 100% 11,421,449,617
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 28/02/2023
+2.3. Obras paralizadas por nivel de gobierno
+El mayor número de obras paralizadas corresponde a entidades a nivel de Gobierno Local
+con 1230 obras paralizadas por S/ 5 mil 171 millones; seguido de entidades pertenecientes
+al Gobierno Nacional con 338 obras, con monto de inversión de S/ 11 mil 878 millones; en
+tanto que las entidades a nivel de Gobierno Regional cuentan con 183 obras, cuyo monto de
+inversión asciende a S/ 5 mil 727 millones, tal como se muestra en el siguiente cuadro.
+Tabla 4. Obras paralizadas por nivel de gobierno
+Costo actualizado de la
+Obras paralizadas Saldo de inversión por ejecutar*
+inversión
+Nivel de gobierno
+S/. % N.° % S/ %
+Gobierno Nacional 11,878,404,760 52.1% 338 19.9% 7,010,846,620 61.4%
+Gobierno Regional 5,727,693,637 25.1% 183 10.4% 2,175,997,749 19.1%
+Gobierno Local 5,171,996,713 22.7% 1230 69.7% 2,234,605,249 19.6%
+Total 22,778,095,110 100% 1751 100% 11,421,449,617 100%
+*El cálculo del estimado de saldo de inversión por ejecutar se toma de referencia los devengados efectuados
+a la inversión.
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 28/02/2023
+2.4. Obras paralizadas por sector de gobierno
+Las obras paralizadas se encuentran relacionadas con diversos sectores de gobierno y a su
+vez con los niveles de Gobierno Nacional, Regional y Local, como se detalla a continuación:
+Tabla 5. Obras paralizadas por sector de gobierno
+Nivel de gobierno
+Sector G. Nacional G. Regional G. Local Total general Costo actualizado
+Cant. Cant. Cant. Cant. % S/ %
+TRANSPORTES Y
+49 48 369 466 26.6% 8,192,174,942 36.0%
+COMUNICACIONES
+8
+REPORTE DE OBRAS PARALIZADAS EN EL TERRITORIO NACIONAL

@@ -1,0 +1,37 @@
+regresión latente, usando como covariables el sexo de los estudiantes, el tipo de
+gestión de la IE y el área geográfica en la cual se ubica cada IE.
+4.8.1 Calibración de los ítems
+En las tablas 1 y 2 se presentan los resultados de la calibración de los ítems de
+cada una de las escalas de HSE. La columna denominada “Medida” representa
+la dificultad del ítem. Así, una menor medida implica que el ítem es más fácil de
+endosar (es decir, es más fácil que los estudiantes respondan marcando alguna
+de las categorías de respuesta más altas), mientras que una mayor medida implica
+que el ítem es más difícil de endosar (es decir, es más difícil que los estudiantes
+respondan marcando alguna de las categorías de respuesta más altas). Asimismo,
+la dificultad de cada ítem viene acompañada de un error que representa qué tan
+precisa ha sido la calibración de cada ítem. Así, mientras más pequeño es el error,
+más precisa ha sido la calibración de la dificultad del ítem (y viceversa). Como se
+puede observar en ambas tablas, los errores de calibración son muy pequeños, lo
+que indica que la calibración de la dificultad fue bastante precisa. Por último, en las
+tablas mencionadas se observa que el infit y el outfit de todos los ítems de las escalas
+de HSE utilizadas en la ENLA 2023 mostraron valores dentro del rango aceptable, por
+lo que se concluye que existe evidencia de un buen ajuste de los datos al modelo
+Rasch.
+Tabla 4.27 Calibración de los ítems de las escalas de HSE aplicadas en 2.° grado
+de secundaria
+Escala Subescala Ítem Medida Error Infit Outfit
+HSETDD2S001 0,198 0,003 1,02 1,03
+HSETDD2S007 0,273 0,003 1,00 1,01
+HSETDD2S015 0,075 0,003 0,94 0,94
+HSETDD2S004 -0,128 0,003 0,89 0,90
+Otros estilos
+HSETDD2S016 0,596 0,003 0,90 0,89
+Toma de HSETDD2S014 0,756 0,003 1,12 1,10
+decisiones HSETDD2S017 0,703 0,003 1,17 1,17
+HSETDD2S010 0,753 0,003 1,18 1,21
+HSETDD2S003 -0,653 0,003 0,99 1,00
+HSETDD2S011 -0,385 0,003 0,95 0,95
+Estilo vigilante
+HSETDD2S013 -0,739 0,003 0,84 0,83
+HSETDD2S012 -0,893 0,003 1,05 1,04
+142

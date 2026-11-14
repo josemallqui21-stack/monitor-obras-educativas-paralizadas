@@ -1,0 +1,39 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_Lineal_1.dbf
+Variable Formato Descripción de variable Valor de variable
+P103 N (5) 103. Cantidad de Terrenos que tiene el Local Educativo 99999
+P104 N (5) 104. Cantidad de Edificaciones que tiene el Local Educativo 99999
+P105_QE N (6) 105. Área Total Del Terreno - parte entera 9999999
+P105_QD C (2) 105. Área Total Del Terreno - parte decimal 99
+P106_QE N (6) 106. Área Techada Total - parte entera 9999999
+P106_QD C (2) 106. Área Techada Total - parte decimal 99
+Archivo Loc_P106_ATech.dbf [ Matriz 03 : Área Techada por Terreno, Edificación y Piso ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de la Pregunta C106
+ID_TERR C (4) 1. Código de Terreno "TE" +
+[Correlativo a 2
+dígitos]
+ID_EDIF C (3) 2. Código de Edificación "E" + [Correlativo
+a 2 dígitos]
+P106_3 N (2) 3. Número de Piso 99
+P106_4_1 N (6) 4. Área Techada 999999
+Parte Entera
+P106_4_2 C (2) 4. Área Techada 99
+Parte Decimal
+Archivo : Loc_P107_Topog.dbf [ Matriz 04 : Levantamiento Topográfico ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (4) Número de la Pregunta C107
+ID_TERR C (4) Código del Terreno "TE" +
+[Correlativo a 2
+dígitos]
+P107_1 C (1) ¿Se cuenta con Estudio Topográfico? 1: Sí
+2: No
+P107_2 N (9,2) Área del terreno según Estudio Topográfico (m2) 999999.99
+P107_3 C (1) El local educativo, ¿ocupa toda el área del terreno? 1: Sí
+2: No
+P107_4 N (9,2) Área que ocupa el local educativo por terreno (m2) 999999.99
+9

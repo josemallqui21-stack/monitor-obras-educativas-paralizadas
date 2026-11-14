@@ -1,0 +1,57 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Nombre de archivo: Local_lineal_01.dbf
+SECCIÓN: 100. CARACTERÍSTICAS DEL LOCAL EDUCATIVO
+TABLA: LOCAL_LINEAL_01.DBF
+Campo Formato Descripción de variable Valor de variable
+P112 C (2) 112. ¿Cuenta con plan de seguridad del SI / NO
+establecimiento?
+P113 C (2) 113. ¿Cuenta con plan para la vigilancia, SI / NO
+prevención y control de la COVID-19?
+P114 N (4) 114. ¿Con cuántos tramos cuenta el perímetro del (0001:9999)
+terreno o área asignada al Local Educativo?
+C114 Matriz 114. ¿Con cuántos tramos cuenta el perímetro del Local_Tramos (*)
+terreno o área asignada al Local Educativo? (Ubicado después de este
+Anote la longitud del tramo según el estudio de cuadro de preguntas)
+levantamiento topográfico o la medición hecha
+en campo
+OTROS (SEÑALIZACIÓN, ACCESIBILIDAD, ETC)
+P115_1 C (1) 115. ¿Con qué formas de accesibilidad para “X”
+personas con discapacidad cuenta el local
+educativo? (¿Norma A. 120 - accesibilidad para
+personas con discapacidad)
+1: Un acceso plano, sin escaleras o con rampa
+P115_2 C (1) 115. ¿Con qué formas de accesibilidad para “X”
+personas con discapacidad cuenta el local
+educativo? (¿Norma A. 120 - accesibilidad para
+personas con discapacidad)
+2: La rampa cuenta con pasamanos o barandas de
+seguridad
+P115_3 C (1) 115. ¿Con qué formas de accesibilidad para “X”
+personas con discapacidad cuenta el local
+educativo? (¿Norma A. 120 - accesibilidad para
+personas con discapacidad)
+3: Al menos un servicio higiénico que disponga
+de barandas de apoyo
+P115_4 C (1) 115. ¿Con qué formas de accesibilidad para “X”
+personas con discapacidad cuenta el local
+educativo? (¿Norma A. 120 - accesibilidad para
+personas con discapacidad)
+4: Al menos un servicio higiénico que tenga un
+espacio libre de obstáculos donde pueda girar una
+silla de ruedas
+P115_5 C (1) 115. ¿Con qué formas de accesibilidad para “X”
+personas con discapacidad cuenta el local
+educativo? (¿Norma A. 120 - accesibilidad para
+personas con discapacidad)
+5: Ninguna
+P115_6 C (1) 115. ¿Con qué formas de accesibilidad para “X”
+personas con discapacidad cuenta el local
+educativo? (¿Norma A. 120 - accesibilidad para
+personas con discapacidad)
+6: Otros
+P115_Otro C (80) 115. ¿Con qué formas de accesibilidad para (A:Z)
+personas con discapacidad cuenta el local
+educativo? (¿Norma A. 120 - accesibilidad para
+personas con discapacidad)
+6: Otros --- Especificar
+8

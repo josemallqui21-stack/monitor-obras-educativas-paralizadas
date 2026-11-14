@@ -1,0 +1,70 @@
+Reporte técnico evaluaciones 2022 Capítulo 5
+Código de
+Grado Actor Nombre CFI TLI SRMR RMSEA
+constructo
+DOC4PEIB_ Creencias sobre la
+1 0,99 0,02 0,035
+LECCOMAP lectura
+Docente
+DOC4PEIB_ Motivación para la
+0,99 0,99 0,055 0,063
+MOTDOC docencia
+Acompañamiento
+FAM4P_
+familiar en los 0,99 0,99 0,037 0,027
+ACOMPFAM
+4.° grado aprendizajes
+de primaria
+EIB FAM4P_ Convocatoria de la
+0,99 0,98 0,031 0,029
+CONESFAM escuela a la familia
+Familia
+Involucramiento
+FAM4P_
+parental en la 0,99 0,97 0,053 0,064
+INVFAM
+escuela
+FAM4P_ Valoración social de
+0,97 0,96 0,063 0,039
+VALSOC la LO
+Creencias sobre
+DOC2SHSE_
+el aprendizaje 0,99 0,98 0,08 0,098
+CRAS
+socioemocional
+Interés por el
+DOC2SHSE_INT bienestar de los 0,98 0,97 0,054 0,063
+estudiantes
+DOC2SHSE_ Empatía cognitiva
+0,99 0,99 0,039 0,06
+Docente tutor EMP docente
+DOC2SHSE_
+Autoeficacia docente 0,99 0,99 0,053 0,086
+AUT
+DOC2SHSE_ Relación docente-
+1 0,99 0,035 0,065
+RDE estudiante
+2.° Regulación
+DOC2SHSE_RE 0,99 0,99 0,05 0,068
+grado de emocional
+secundaria
+Prácticas que
+DOC2SCSS_
+promueven la 0,97 0,96 0,071 0,078
+CIUAC
+Ciudadanía activa
+DOC2SCSS_ Actividades de
+0,95 0,94 0,097 0,082
+ACTEVA evaluación
+Docente de Percepción de
+Ciencias DOC2SCSS_ situaciones
+0,99 0,99 0,053 0,076
+Sociales PROBIE problemáticas en la
+escuela
+DOC2SCSS_ Actitudes hacia la
+1 1 0,023 0,036
+EDUIN educación inclusiva
+DOC2SCSS_ Creencias sobre la
+0,97 0,96 0,056 0,083
+EVFORM evaluación formativa
+157

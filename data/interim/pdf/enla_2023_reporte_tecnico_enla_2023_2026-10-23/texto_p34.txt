@@ -1,0 +1,44 @@
+Forma Bloque Ítems por forma
+B16
+B03
+13 25
+B04
+B17
+B17
+B03
+14 25
+B04
+B13
+B13
+B03
+15 25
+B04
+B18
+B18
+B03
+16 25
+B04
+B19
+B19
+B03
+17 25
+B04
+B20
+B20
+B03
+18 25
+B04
+B17
+De las 18 formas ensambladas, cada estudiante evaluado se enfrentó a dos de
+ellas (una por día de aplicación). En consecuencia, de los 122 ítems que tiene esta
+prueba, cada estudiante respondió 50.
+Diseño de bloques de las pruebas de Matemática de 2.° grado de primaria
+La prueba de Matemática de 2.° grado de primaria elaborada para la ENLA 2023
+estuvo conformada por un total de 92 ítems distribuidos en ocho formas. Cada
+forma contiene 23 ítems: 11 ítems comunes organizados en dos bloques comunes
+en posición fija y doce ítems no comunes organizados en dos bloques rotados que
+varían de una forma a otra. Las diferentes combinaciones de los bloques permitieron
+ensamblar cuatro formas para escuelas con estudiantes de mayor habilidad o
+zona A y cuatro para escuelas con estudiantes de menor habilidad o zona B.
+De acuerdo con esta distribución, cada forma y el conjunto de estas reflejan los
+32

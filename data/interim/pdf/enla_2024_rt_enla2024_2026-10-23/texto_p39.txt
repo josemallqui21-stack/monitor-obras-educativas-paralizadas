@@ -1,0 +1,35 @@
+Reporte técnico evaluaciones 2024 Capítulo 2
+2.4 Cobertura en la ENLA 2024
+En las siguientes tablas se presenta el tamaño final de la muestra desagregado
+según gestión, área y característica para cada uno de los grados evaluados, así
+como la población evaluada y la cobertura alcanzada. En el 2024, la ENLA tenía
+programado evaluar 22 589 IE y aproximadamente 667 402 estudiantes entre todos
+los grados programados.
+El porcentaje de estudiantes evaluados respecto de los programados a nivel nacional
+en la evaluaciones censales y muestrales varía entre 88% y 98% dependiendo del
+grado. Dicha cobertura se calculó considerando la cantidad de estudiantes que
+llegan a la evaluación final del año escolar en cada IE, según la información del
+Siagie para el 2024.
+Tabla 2.2 Cobertura de la ENLA 4P 2024 a nivel de IE y estudiantes.
+4.° grado de Programados Evaluados Cobertura (%)
+primaria IE estudiantes IE estudiantes IE estudiantes
+Total 18138 557129 18112 532203 99,9 95,5
+Amazonas 355 5841 355 5661 100,0 96,9
+Áncash 597 17821 597 17247 100,0 96,8
+Apurímac 180 5686 180 5595 100,0 98,4
+Arequipa 920 26697 920 25971 100,0 97,3
+Ayacucho 350 9598 348 9183 99,4 95,7
+Cajamarca 1538 24984 1538 24339 100,0 97,4
+Callao 444 18717 444 17668 100,0 94,4
+Cusco 606 20314 606 19973 100,0 98,3
+Huancavelica 217 3955 217 3878 100,0 98,1
+Huánuco 557 13157 557 12664 100,0 96,3
+Ica 479 18764 479 18000 100,0 95,9
+Junín 909 23176 909 22365 100,0 96,5
+La Libertad 1345 37202 1345 35641 100,0 95,8
+Lambayeque 731 24993 730 23665 99,9 94,7
+Lima Metropolitana 3758 153770 3751 145398 99,8 94,6
+Lima Provincias 616 19538 616 18770 100,0 96,1
+Loreto 841 21461 825 19084 98,1 88,9
+Madre de Dios 109 4741 109 4468 100,0 94,2
+37

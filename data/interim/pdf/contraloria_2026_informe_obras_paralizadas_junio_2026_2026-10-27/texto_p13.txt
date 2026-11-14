@@ -1,0 +1,58 @@
+Obras paralizadas Costo Actualizado Saldo de Inversión por ejecutar
+Rango de
+avance físico %
+N° % S/ % S/ %
+20 - 30 % 170 7.5% 2,669,793,050 4.2% 1,800,482,083 6.5%
+10 - 20 % 156 6.9% 4,446,128,247 7.1% 3,613,737,841 13.1%
+0 - 10 % 269 11.9% 7,579,154,772 12.1% 5,284,851,583 19.2%
+Total 2262 100.0% 62,828,613,846 100.0% 27,548,021,051 100.0%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 301/06/2026
+2.8. Obras públicas paralizadas según su causal u origen de paralización
+Según la información declarada por la entidad ejecutora en los distintos sistemas
+consultados como Infobras y el portal Invierte.pe, el 27.6% del total de obras
+públicas paralizadas se encuentra en dicha situación por falta de recursos
+financieros y liquidez, el 26.2% por incumplimiento contractual, el 8.2% por
+discrepancias, controversias y arbitraje, entre otras causales de paralización.
+Tabla 9. Obras públicas paralizadas según causal de paralización reportado por las
+entidades públicas
+Saldo de Inversión por
+Obras paralizadas Costo Actualizado
+Causales de paralización ejecutar
+N° % S/ % S/ %
+Falta de recursos financieros y
+625 27.6% 2,941,250,084 4.7% 1,392,996,509 5.1%
+liquidez
+Incumplimiento de contrato 592 26.2% 39,337,514,710 62.6% 15,452,691,208 56.1%
+Discrepancias, controversias y
+185 8.2% 6,141,362,098 9.8% 2,704,300,819 9.8%
+arbitraje
+Deficiencia en el expediente
+164 7.3% 5,585,199,405 8.9% 3,615,955,593 13.1%
+técnico
+Abandono de obra 104 4.6% 1,210,229,377 1.9% 968,714,016 3.5%
+Eventos climáticos 81 3.6% 853,521,818 1.4% 293,644,404 1.1%
+Conflictos sociales 74 3.3% 812,208,846 1.3% 388,406,393 1.4%
+Incumplimiento del pago de
+72 3.2% 597,785,798 1.0% 359,100,544 1.3%
+valorizaciones u otros
+Desabastecimiento sostenido de
+65 2.9% 180,060,258 0.3% 62,932,048 0.2%
+materiales
+Disponibilidad de terreno 58 2.6% 1,225,293,208 2.0% 811,257,159 2.9%
+Falta de permisos, licencias y
+48 2.1% 813,035,847 1.3% 550,113,834 2.0%
+autorizaciones
+Interferencias 30 1.3% 683,721,511 1.1% 333,197,227 1.2%
+Otras situaciones imprevisibles
+posteriores al perfeccionamiento 4 0.2% 2,440,673 0.0% 900,189 0.0%
+del contrato
+Falta de personal clave 2 0.1% 18,998,468 0.0% 9,559,820 0.0%
+Otros 158 7.0% 2,425,991,745 3.9% 604,251,288 2.2%
+Total 2262 100.0% 62,828,613,846 100.0% 27,548,021,051 100.0%
+(*) Comprende causas no imprevistas, no atribuibles a ambas partes, entre otros.
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 30/06/2026
+13

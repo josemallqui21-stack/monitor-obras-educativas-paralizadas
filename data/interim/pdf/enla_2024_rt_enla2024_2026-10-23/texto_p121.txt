@@ -1,0 +1,45 @@
+Reporte técnico evaluaciones 2024 Capítulo 5
+Código de Varianza
+Grado Actor Nombre
+constructo explicada
+EST6PHSE_
+Conductas de riesgo 65,93
+RIESGO
+EST6PHSE_
+Relaciones intrafamiliares: dificultades 57,39
+RIFDIF
+6°
+EST6PHSE_
+grado de Estudiante Relaciones intrafamiliares: expresión 74,73
+RIFEX
+primaria
+EST6PHSE_
+Relaciones intrafamiliares: unión y apoyo 70,92
+RIFUN
+EST6PHSE_
+Violencia escolar 79,95
+VIOLE
+Para el caso particular del índice socioeconómico, este se construyó a
+partir de los siguientes indicadores:
+1) materiales de la vivienda,
+2) servicios básicos en el hogar,
+3) activos en el hogar,
+4) acceso a otros servicios y
+5) el máximo nivel educativo de los padres.
+Los cuatro primeros fueron derivados de un análisis de componentes principales,
+mientras que el último se construyó a partir de los años de estudio promedio
+que implicaría cada uno de los niveles educativos. Un mayor detalle de este
+procedimiento se puede encontrar en Minedu (2018). Para el cálculo de las
+variables que conforman el índice socioeconómico se utilizaron en conjunto las
+bases de datos de las familias de 4.° grado de primaria y 6.° grado de primaria.
+5.3.2 Evidencias de Confiabilidad
+Para el caso de las escalas de factores asociados, se usa el índice de
+confiabilidad omega ( ) de McDonald. Este coeficiente atiende los supuestos de
+unidimensionalidad de la escala y supone algunas ventajas sobre el tradicional alfa
+de Cronbach. En primeωr lugar, no supone la tau-equivalencia, la cual rara vez se da
+en la práctica ya que los ítems suelen tener diferentes cargas factoriales; en segundo
+lugar, no asume que las variables son continuas cuando en realidad cada ítem es
+una variable categórica, como fue mencionado en el apartado acerca de los AFC. La
+fórmula general de es la siguiente:
+ω
+119

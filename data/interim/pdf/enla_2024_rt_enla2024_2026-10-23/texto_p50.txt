@@ -1,0 +1,42 @@
+6P
+4P 2S Total
+Sede Regional Muestral
+Censal MEF general
+regional
+LIMA-HUACHO 358 76 9 443
+LORETO 618 171 32 821
+MADRE DE DIOS 108 78 8 194
+MOQUEGUA 79 57 6 142
+PASCO 222 131 -- 353
+PIURA 1402 249 50 1701
+PUNO 597 204 -- 801
+SAN MARTIN-MOYOBAMBA 341 120 7 468
+SAN MARTIN-TARAPOTO 569 180 21 770
+TACNA 153 75 21 249
+TUMBES 132 90 10 232
+UCAYALI 454 245 35 734
+Total general 18603 4471 817 23891
+3.2 Conformación de la Red Administrativa de campo
+El personal necesario para ejecutar el operativo estuvo organizado en una Red
+Administrativa (RA) de campo conformada por los cargos mostrados en la tabla 3.2.
+Tabla 3.2 Red Administrativa de campo
+Total RA
+Nivel Cargo en la RA de campo
+2024
+Nivel IA Supervisores nacionales 60
+Nivel IB Coordinadores regionales (CR) 37
+Nivel IB-1 Asistente administrativo regional 37
+Nivel IB-2 Coordinador de seguridad regional 37
+Nivel IC Coordinadores de sede 267
+Técnicos administrativos
+Nivel IC-1 267
+(incluye todas las sedes jurisdiccionales)
+Nivel IIB Supervisores de almacén y soporte informático (SAS) 267
+Nivel IIA Supervisor de procesos de aplicación (SPA) 376
+Nivel III APA 2406
+Aplicadores 4P 38519
+Aplicadores 6P 7732
+Nivel IV
+Aplicadores 2S 817
+Aplicadores de apoyo a estudiantes con discapacidad (aplicador ED) 2460
+48

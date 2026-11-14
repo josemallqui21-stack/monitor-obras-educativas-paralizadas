@@ -1,0 +1,44 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+(*) Número del tramo: (**) Descripción del tramo:
+ “01”: 1  Tramo-01
+ “02”: 2  Tramo-02
+ “03”: 3  Tramo-03
+ “04”: 4  Tramo-04
+ ..  ..
+ “N”: N  Tramo-N
+Donde N=Total de tramos Donde N=Total de tramos
+(*) Matriz Local_Trayectos.dbf (Pregunta 117.1C, 117.3C)
+Nombre de archivo: Local_Trayectos.dbf
+117.1. TRASLADO DESDE LA UGEL AL LOCAL EDUCATIVO
+¿CUÁNTOS TRAYECTOS TIENE LA RUTA QUE UTILIZA HABITUALMENTE PARA
+TRASLADARSE DESDE LA UGEL DE SU JURISDICCIÓN HASTA EL LOCAL EDUCATIVO?
+Tabla: LOCAL_TRAYECTOS.dbf
+Campo Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo (000001:999999)
+CODUGEL C (6) Código de Dependencia Administrativa (000001:999999)
+NROCED C (5) Número de cédula 11
+CUADRO C (6) 117.1. Traslado desde la UGEL al local educativo 1171
+¿Cuántos trayectos tiene la ruta que utiliza
+habitualmente para trasladarse desde la UGEL de
+su jurisdicción hasta el Local Educativo?
+NUMERO C (2) Número de trayecto (*)
+HORAS N (6) Tiempo aproximado de recorrido de cada trayecto (0:999)
+Horas
+MINUTOS N (6) Longitud del tramo (mts) (0:59)
+Minutos
+MEDIO C (2) Medio de transporte y vía utilizado (**)
+(*) Número de trayecto:
+ “01”: 1
+ “02”: 2
+ “03”: 3
+ “04”: 4
+ ..
+ “10”: 10
+(**) Medio de transporte y vía utilizada:
+ “01”: Vehicular por vía asfaltada
+ “02”: Vehicular por vía afirmada
+ “03”: Vehicular por trocha carrozable
+ “04”: Peatonal
+ “05”: Fluvial
+ “06”: Otro
+24

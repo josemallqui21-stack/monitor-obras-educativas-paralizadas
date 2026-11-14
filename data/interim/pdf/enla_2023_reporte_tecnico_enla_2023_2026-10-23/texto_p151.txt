@@ -1,0 +1,39 @@
+Reporte técnico evaluaciones 2022 Capítulo 5
+f. Organizar los temas o ejes temáticos en categorías de análisis. Así, en la ENLA
+2023 se emplearon las siguientes categorías: a) antecedentes del estudiante y su
+hogar; b) motivación, creencias, actitudes, sentimientos y comportamientos de los
+estudiantes; c) creencias, prácticas pedagógicas y oportunidades de aprendizaje;
+d) prácticas y políticas escolares, y antecedentes del docente y del director; y, e)
+políticas y prácticas a nivel de sistema educativo.
+Tanto la revisión bibliográfica como la organización de la propuesta fueron los
+primeros pasos para tener mayor claridad conceptual con respecto a las diferentes
+variables que se evaluaron en los cuestionarios.
+Asimismo, Furr (2013) señala la importancia de definir algunos aspectos de la
+naturaleza del constructo. Por ejemplo: la importancia de identificar si el constructo
+es más cercano a una actitud, una percepción, una atribución, una disposición,
+una respuesta emocional o una respuesta conductual. Por otro lado, es importante
+identificar las diferencias y similitudes con otros constructos relevantes, y si el
+constructo tiene subdimensiones que tendrían que ser diferenciadas.
+Finalmente, la información recogida fue sistematizada en una propuesta preliminar,
+empleada luego como punto de partida para la discusión y elaboración de una
+propuesta consensuada por los equipos de la UMC y, posteriormente, aprobada por
+la jefatura.
+B. Elaboración de ítems y escalas de respuesta
+Para la redacción de los ítems, se tomaron en cuenta los criterios de Stehr et al.
+(2003), así como de Maholtra (2016), los cuales señalan que estos deben incluir una
+idea clara y sin ambigüedad. Asimismo, se usó un vocabulario simple, evitando el
+lenguaje técnico, las abreviaturas, las negaciones y las dobles negaciones, por lo
+que los ítems debían ser concretos respecto al tiempo y a los eventos de referencia.
+Asimismo, para evitar el sesgo en la formulación de preguntas o ítems se prescindió
+de colocar palabras o textos que direccionen la respuesta de los participantes
+(Malhotra, 2016).
+Con respecto a la longitud de las escalas y la cantidad de ítems por cada una de
+estas, se esperaba contar con un mínimo de cuatro ítems para el caso de constructos
+unidimensionales, ya que esta cantidad produce soluciones convergentes en el
+análisis factorial confirmatorio. Sin embargo, dado que se suelen eliminar ítems
+problemáticos, es recomendable incluir un ítem adicional, por lo que un mínimo de
+cinco ítems en una escala fue considerado lo ideal¹. Más allá de esto, el número
+máximo de ítems por escala dependerá de la complejidad de la variable que se
+1 Para constructos con varias dimensiones el mínimo número que se acepta para formar una dimensión es
+tres debido a que en este tipo de modelo se pueden obtener soluciones que converjan.
+149

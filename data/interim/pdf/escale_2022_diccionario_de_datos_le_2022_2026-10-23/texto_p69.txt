@@ -1,0 +1,64 @@
+"Año del Fortalecimiento de la Soberanía Nacional"
+Cantidad de urinarios corridos operativos
+según estado de conservación
+3. Buen estado
+P701_14_24 N (6) 14. Sobre los urinarios en los SS.HH. (00001:99999)
+2. Urinarios Corridos
+Cantidad de urinarios corridos operativos
+según estado de conservación
+4. Regular estado
+P701_14_25 N (6) 14. Sobre los urinarios en los SS.HH. (00001:99999)
+2. Urinarios Corridos
+Cantidad de urinarios corridos operativos
+según estado de conservación
+5. Mal estado
+P701_14_26 N (6) 14. Sobre los urinarios en los SS.HH. (00001:99999)
+2. Urinarios Corridos
+6. del total de operativos ¿Cuántos tienen
+función de descarga?
+P701_15 C (2) 15. El espacio de SSHH o vestidor, ¿Se encuentra SI / NO
+habilitado con duchas operativas?
+P701_16 C (2) 16. ¿Se dispone de agua caliente en el espacio de SI / NO
+SSHH o vestidor?
+(*) Número de Edificación:
+ E01
+ E02
+ E03
+ ..
+ EN
+Donde N= Total de edificaciones
+Tabla 01: Códigos de Material
+Tabla 02: Códigos de Estado de
+predominante de las paredes
+conservación
+Código Descripción
+Código Descripción
+01 Ladrillo o concreto
+01 Buen estado
+02 Adobe o tapial
+02 Regular estado
+03 Quincha
+03 Mal estado
+04 Piedra con barro, cal o cemento
+04 No tiene, pero lo requiere
+05 Madera
+05 No tiene y no lo requiere
+06 Triplay
+07 Eternit o fibra de concreto Tabla 03: Códigos de Material
+08 Estera, cartón o plástico predominante de los techos
+09 Otro Código Descripción
+01 Concreto armado
+02 Madera
+Tabla 04: Códigos de Material
+03 Teja
+predominante de los pisos
+04 Fibra de cemento
+Código Descripción
+01 Parquet o madera pulida 05 Calamina
+02 Vinilico, pisopak o similar 06 Calaminon
+03 Loseta, cerámico o similar 07 Eternit
+04 Cemento 08 Caña con barro
+05 Madera entablada 09 Lata o latón
+06 Tierra 10 Otro
+07 Otro
+68

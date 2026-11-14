@@ -1,0 +1,40 @@
+Reporte técnico evaluaciones 2024 Capítulo 5
+pasaron por un proceso de revisión, en el cual se recodificaron todas las opciones
+de respuesta en formato numérico, se asignó las etiquetas a cada valor y se
+añadió información adicional sobre la pregunta (lo que comúnmente se denomina
+metadata). Una vez que se contó con las bases completamente revisadas, se
+procedió con el análisis, el cual, consiste principalmente en la elaboración de
+reportes descriptivos, así como en el recojo de evidencias de validez y confiabilidad
+de las escalas de factores asociados.
+5.2 Elaboración de análisis descriptivo
+Se calcularon los porcentajes de respuesta en cada una de las opciones de marcado,
+de cada uno de los ítems incluidos en el cuestionario. Después, las distribuciones de
+respuesta fueron representadas en gráficos de barras, lo cual fue útil para identificar
+los patrones de respuesta en las diferentes preguntas.
+El análisis descriptivo también ayuda a identificar el porcentaje de valores perdidos
+en cada pregunta, con el fin de detectar posibles problemas para su posterior uso.
+Cuando los valores perdidos superan un porcentaje mayor al 10 %, se considera
+revisar dicho ítem e identificar si existen patrones en el marcado que podrían explicar
+dicha distribución (por ejemplo: si es que hay un mayor porcentaje de valores
+perdidos en estudiantes mujeres que en estudiantes hombres). De encontrar algún
+patrón irregular, se establece una alerta para el uso de dichas preguntas.
+5.3 Validez y confiabilidad de los índices y escalas de factores asociados
+Luego de la generación del reporte de análisis descriptivo, se procedió con la
+obtención de evidencias de validez y confiabilidad, así como de los puntajes de las
+escalas que se elaboraron.
+Los análisis estadísticos para producir las variables de factores asociados dependen
+del enfoque que se ha utilizado para conceptualizarlas. Así, se distinguen medidas
+reflexivas y formativas (Bollen y Bauldry, 2011; Bollen y Diamantopoulos, 2017; Jarvis
+et al., 2003). En caso de que las respuestas a los ítems representen el efecto de
+la variable latente, se está frente a un modelo reflexivo. Un ejemplo de este tipo
+de variables es la escala de ansiedad ante la matemática, en la cual los ítems
+representan acciones que se dan como consecuencia de tener un alto o bajo nivel
+en dicha variable latente. Por el contrario, si las variables manifiestas son la causa
+de la variable latente, estaríamos frente a un modelo formativo, como es el caso del
+índice socioeconómico (ISE), en el cual los ítems son un componente que conforma
+la variable latente del ISE.
+Dadas las diferentes formas en que se podría conceptualizar una escala, estas son
+analizadas mediante diferentes métodos. Para el caso de los constructos reflexivos,
+se realiza un análisis factorial confirmatorio (AFC), con el fin de confirmar la estructura
+y dimensionalidad de las escalas. En caso de que el constructo sea de tipo formativo,
+105

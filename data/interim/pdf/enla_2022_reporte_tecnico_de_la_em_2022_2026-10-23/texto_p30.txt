@@ -1,0 +1,42 @@
+Tabla 1.6 Matriz de bloques de la prueba de Lectura de 4.° grado de primaria. Día 2
+Forma Bloque Ítems por forma
+B11
+B03
+7 24
+B04
+B12
+B12
+B03
+8 24
+B04
+B16
+B13
+B03
+9 24
+B04
+B14
+B11
+B03
+10 24
+B04
+B15
+B15
+B03
+11 24
+B04
+B16
+B16
+B03
+12 24
+B04
+B14
+De las 12 formas ensambladas, cada estudiante evaluado se enfrentó a dos de ellas
+(una por cada día de aplicación). En consecuencia, de los 96 ítems que tiene esta
+prueba, cada estudiante respondió 48.
+Diseño de bloques de las pruebas de Lectura de 6.° grado de primaria
+La prueba de Lectura de 6.° grado de primaria elaborada para la EM 2022 estuvo
+conformada por 18 textos de diferente tipo, género, formato y complejidad, a partir
+de los cuales se elaboraron 108 ítems. Dichos textos e ítems se distribuyeron en
+18 bloques. De ellos, 11 bloques son comunes y 7, no comunes. Las diferentes
+combinaciones de los bloques permitieron ensamblar 10 formas, 6 de mayor
+28

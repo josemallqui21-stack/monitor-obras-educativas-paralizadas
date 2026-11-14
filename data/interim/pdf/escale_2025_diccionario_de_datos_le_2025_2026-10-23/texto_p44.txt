@@ -1,0 +1,51 @@
+Archivo: Loc_P61_Aulas.dbf [ Matriz 11: Aulas en el Local Educativo ]
+Variable Tipo Descripción Valor
+P61_22_52 N (5) 22. Tenencia y estado de conservación del mobiliario en uso en los 99999
+ambientes usados como aula de clase
+5. Lockers
+2. Cantidad en regular estado
+P61_22_53 N (5) 22. Tenencia y estado de conservación del mobiliario en uso en los 99999
+ambientes usados como aula de clase
+5. Lockers
+3. Cantidad en mal estado
+P61_22_61 N (5) 22. Tenencia y estado de conservación del mobiliario en uso en los 99999
+ambientes usados como aula de clase
+6. Exhibidores de Libro
+1. Cantidad en buen estado
+P61_22_62 N (5) 22. Tenencia y estado de conservación del mobiliario en uso en los 99999
+ambientes usados como aula de clase
+6. Exhibidores de Libro
+2. Cantidad en regular estado
+P61_22_63 N (5) 22. Tenencia y estado de conservación del mobiliario en uso en los 99999
+ambientes usados como aula de clase
+6. Exhibidores de Libro
+3. Cantidad en mal estado
+P61_22_71 N (5) 22. Tenencia y estado de conservación del mobiliario en uso en los 99999
+ambientes usados como aula de clase
+7. Mueble de Kitchenette
+1. Cantidad en buen estado
+P61_22_72 N (5) 22. Tenencia y estado de conservación del mobiliario en uso en los 99999
+ambientes usados como aula de clase
+7. Mueble de Kitchenette
+2. Cantidad en regular estado
+P61_22_73 N (5) 22. Tenencia y estado de conservación del mobiliario en uso en los 99999
+ambientes usados como aula de clase
+7. Mueble de Kitchenette
+3. Cantidad en mal estado
+P61_22_81 N (5) 22. Tenencia y estado de conservación del mobiliario en uso en los 99999
+ambientes usados como aula de clase
+8. Cambiador
+1. Cantidad en buen estado
+P61_22_82 N (5) 22. Tenencia y estado de conservación del mobiliario en uso en los 99999
+ambientes usados como aula de clase
+8. Cambiador
+2. Cantidad en regular estado
+P61_22_83 N (5) 22. Tenencia y estado de conservación del mobiliario en uso en los 99999
+ambientes usados como aula de clase
+8. Cambiador
+3. Cantidad en mal estado
+P61_22_91 N (5) 22. Tenencia y estado de conservación del mobiliario en uso en los 99999
+ambientes usados como aula de clase
+9. Cuna
+1. Cantidad en buen estado
+43

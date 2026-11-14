@@ -1,0 +1,41 @@
+"Año de la unidad, la paz y el desarrollo"
+Archivo : Loc_P117_Trayec.dbf [ Matriz 07 : Trayectos - UGEL-LE ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (5) Número de la Pregunta C1171
+N_TRAYECTO C (2) Número de Trayecto 99
+HORAS N (3) Tiempo aproximado de recorrido de cada trayecto 999
+- Horas
+MINUTOS N (2) Tiempo aproximado de recorrido de cada trayecto 99
+- Minutos
+MEDIO C (2) Medio de transporte y vía utilizado 01: Vehícular por
+vía asfaltada
+02: Vehícular por
+vía afirmada
+03: Vehícular por
+trocha carrozable
+04: Peatonal
+05: Fluvial
+06: Otro
+Archivo Loc_P117_Trayec.dbf [ Matriz 07 : Trayectos - Capital-LE ]
+Variable Formato Descripción de variable Valor de variable
+CODLOCAL C (6) Código de Local Educativo 999999
+NROCED C (2) Número de cedula 11
+CUADRO C (5) Número de la Pregunta C1173
+N_TRAYECTO C (2) Número de Trayecto 99
+HORAS N (3) Tiempo aproximado de recorrido de cada trayecto 999
+- Horas
+MINUTOS N (2) Tiempo aproximado de recorrido de cada trayecto 99
+- Minutos
+MEDIO C (2) Medio de transporte y vía utilizado 01: Vehícular por
+vía asfaltada
+02: Vehícular por
+vía afirmada
+03: Vehícular por
+trocha
+carrozable
+04: Peatonal
+05: Fluvial
+06: Otro
+15

@@ -1,0 +1,39 @@
+Reporte técnico evaluaciones 2024 Capítulo 5
+Código de
+Grado Actor Nombre CFI TLI SRMR
+constructo
+DOC6PLEC_ Confianza director-
+0,999 0,999 0,017
+CONFDD docente
+DOC6PLEC_
+Deseabilidad social 0,982 0,977 0,053
+DESSOC
+DOC6PLEC_ Actitudes hacia la
+1,000 1,000 0,005
+EDUIN educación inclusiva
+DOC6PLEC_ Creencias sobre la
+0,985 0,981 0,049
+EVFORM evaluación formativa
+6.° grado Docente de
+de primaria Comunicación
+Escuela orientada
+DOC6PLEC_
+al desarrollo de 0,998 0,996 0,027
+IEAPRE
+aprendizajes
+Prácticas docentes
+DOC6PLEC_
+en la enseñanza de la 0,991 0,989 0,060
+PRACLECT
+lectura
+Percepción de
+situaciones
+DOC6PLEC_
+problemáticas en la 0,991 0,986 0,048
+PROBIE
+escuela relacionadas
+al estudiante
+DOC6PLEC_ Promoción de la
+0,994 0,991 0,039
+PROMAU autonomía
+111

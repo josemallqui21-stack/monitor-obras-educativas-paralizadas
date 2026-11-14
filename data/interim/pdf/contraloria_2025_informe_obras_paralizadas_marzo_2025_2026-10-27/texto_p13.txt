@@ -1,0 +1,61 @@
+Tabla 9. Obras paralizadas según causal de paralización reportado por las entidades públicas
+Saldo de Inversión por
+Obras paralizadas Costo Actualizado
+Causales de paralización ejecutar
+N° % S/ % S/ %
+INCUMPLIMIENTO DE CONTRATO 600 23.3% 15,358,918,528 35.6% 6,610,389,355 29.4%
+FALTA DE RECURSOS FINANCIEROS Y
+537 20.9% 2,160,479,718 5.0% 1,095,382,786 4.9%
+LIQUIDEZ
+DEFICIENCIA EN EL EXPEDIENTE TÉCNICO 255 9.9% 2,528,395,958 5.9% 1,470,942,252 6.5%
+ABANDONO DE OBRA 245 9.5% 712,615,867 1.7% 301,021,289 1.3%
+DISCREPANCIAS, CONTROVERSIAS Y
+212 8.2% 14,980,277,594 34.7% 9,254,341,484 41.1%
+ARBITRAJE
+INCUMPLIMIENTO DEL PAGO DE
+65 2.5% 946,025,910 2.2% 466,502,621 2.1%
+VALORIZACIONES U OTROS
+EVENTOS CLIMÁTICOS 82 3.2% 1,151,050,431 2.7% 671,069,659 3.0%
+CONFLICTOS SOCIALES 76 3.0% 726,737,229 1.7% 383,736,912 1.7%
+DISPONIBILIDAD DE TERRENO 56 2.2% 1,036,470,832 2.4% 677,189,759 3.0%
+FALTA DE PERMISOS, LICENCIAS Y
+47 1.8% 325,580,105 0.8% 117,838,200 0.5%
+AUTORIZACIONES
+INTERFERENCIAS 26 1.0% 281,653,777 0.7% 200,217,760 0.9%
+DESABASTECIMIENTO SOSTENIDO DE
+37 1.4% 472,240,137 1.1% 160,475,060 0.7%
+MATERIALES
+OTROS* 334 13.0% 2,482,921,220 5.8% 1,102,950,963 4.9%
+Total 2572 100% 43,163,367,307 100% 22,512,058,100 100%
+(*) Comprende causas no imprevistas, no atribuibles a ambas partes, entre otros.
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2025
+Cabe precisar que, las causales de paralización son reportadas por las entidades públicas
+en los distintos sistemas consultados como Infobras y el portal Invierte.pe.
+2.9. Obras paralizadas según evento asociado
+A continuación, se presenta el desagregado de las obras paralizadas según el evento
+asociado y nivel de gobierno. Cabe señalar que, en el caso de la Reconstrucción con
+Cambios, existen 233 obras paralizadas con un importe de inversión de S/ 3 mil 840 millones.
+Tabla 10. Obras paralizadas según el evento registrado en el sistema Infobras, por nivel de gobierno
+y costo actualizado
+G. Nacional G. Regional G. Local Total
+Evento Costo Costo actualizado Costo actualizado Costo %
+N.° N.° N.° N.°
+actualizado S/ S/ S/ actualizado S/ Costo
+Proceso Normal 263 13,541,676,310 312 16,594,592,625 1749 8,978,197,312 2324 39,114,466,248 90.6%
+Reconstrucción
+124 2,388,591,945 22 819,987,355 87 632,390,567 233 3,840,969,867 8.9%
+con Cambios
+Reactivación
+5 104,266,204 10 103,664,988 15 207,931,192 0.5%
+Económica
+Total 387 15,930,268,255 339 17,518,846,184 1846 9,714,252,867 2572 43,163,367,307 100%
+Fuente: Sistema Nacional de Obras Públicas - Infobras
+Elaboración: Subgerencia de Seguimiento y Evaluación del Sistema Nacional de Control (SESNC).
+Fecha: 31/03/2025
+2.10. Obras paralizadas por administración directa o por contrata
+El 98.6% (2 536) de las 2 572 obras públicas paralizadas a nivel nacional son ejecutadas
+bajo la modalidad de administración directa o por contrata, en los tres niveles de gobierno.
+El monto de inversión asciende a S/ 34 mil 302 millones, como se detalla a continuación:
+12

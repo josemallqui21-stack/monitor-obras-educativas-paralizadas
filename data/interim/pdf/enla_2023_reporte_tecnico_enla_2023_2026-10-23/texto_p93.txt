@@ -1,0 +1,39 @@
+Reporte técnico evaluaciones 2022 Capítulo 4
+0,95. A pesar de esta gran variabilidad, un estándar mínimo aceptable que aparece
+con frecuencia en la literatura es el de 0,70, señalado por Nunnally y Bernstein (1995).
+Estos coeficientes también pueden ser expresados como índices de separación de
+personas. Estos índices se refieren a la dispersión de los datos medidos como el
+número de errores estándar que separan a las personas (Schumacker y Smith, 2007).
+Otros indicadores importantes para el análisis son los de consistencia y precisión
+de la clasificación. Por un lado, la consistencia de la clasificación es el grado de
+acuerdo en dos aplicaciones independientes o paralelas de un instrumento de
+medición. Se espera que el alumno sea clasificado en la misma categoría al repetirse
+la evaluación. Por su parte, la precisión de la clasificación implica el grado en el cual
+la clasificación observada coincide con la clasificación verdadera (Kim et al., 2006).
+En las evaluaciones realizadas, se utilizó el método de Rudner (una aproximación
+de tipo individual) pues calcula la consistencia de clasificación para cada persona
+y luego las promedia (Lee, 2010). Además, asume que los errores de estimación
+se distribuyen normalmente. A medida que aumenta el número de ítems, dadas las
+propiedades del estimador θ ̂basado en un método de máxima verosimilitud, este
+supuesto es más plausible.
+4.3 Resultados del análisis psicométrico en Lectura, Matemática, y Ciencias
+Sociales
+4.3.1 Calibración de los ítems
+En las tablas 4.1 a la 4.7, se presenta los bloques, la posición por bloques, medida de
+dificultad, indicadores de ajuste, tasa de acierto (p) y nivel de desempeño para cada
+uno de los ítems que conforman las distintas pruebas aplicadas en la ENLA muestral
+2023. En el caso de los ítems de créditos parciales, se presenta los resultados para
+cada umbral. Las tablas 4.1, 4.2, 4.3 y 4.4 presentan las medidas para los ítems
+de las pruebas de 2.° y 4.° grados de primaria, y las tablas 4.5, 4.6 y 4.7 contienen
+información para los ítems de las pruebas de 2.° grado de secundaria.
+Tabla 4.1 Dificultad y ajuste de los ítems al modelo Rasch, Lectura – 2.° grado de
+primaria
+Ítem Bloque Posición Medida Error Infit Outfit PTME p Nivel
+CT001 B13 1 0,760 0,077 0,78 0,70 0,59 0,68 3
+CT002 B13 3 1,021 0,075 0,80 0,73 0,59 0,62 3
+CT003 B13 4 1,793 0,074 0,95 0,93 0,48 0,47 3
+CT004 B26 2 1,126 0,074 0,96 0,91 0,47 0,60 3
+CT005 B26 3 2,290 0,076 1,12 1,20 0,32 0,36 4
+CT006 B07 4 1,429 0,023 1,01 1,09 0,41 0,67 3
+CT007 B07 2 1,768 0,023 1,02 1,05 0,42 0,60 3
+91
