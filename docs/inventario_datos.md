@@ -1,6 +1,6 @@
 # Inventario de datos del proyecto
 
-Generado automaticamente por `src/inventario_datos.py` (2026-11-13). Cifras leidas de los archivos.
+Generado automaticamente por `src/inventario_datos.py` (2026-11-14). Cifras leidas de los archivos.
 
 ## Tablas finales (data/processed)
 

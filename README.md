@@ -82,7 +82,8 @@ La segunda no descarga nada: consulta los portales, recalcula las tablas y tarda
 | `data/processed/enla_regiones.csv` | Una fila por región, año, grado y evaluación: % de estudiantes en nivel Satisfactorio en Lectura y Matemática (4.° primaria y 2.° secundaria) |
 | `data/processed/*.xlsx` | Las mismas dos tablas en Excel, con la hoja `datos` (números como números, ubigeo como texto) y la hoja `diccionario` |
 | `notebooks/proyecto_completo.ipynb` | **El cuaderno único**: lleva adentro el código de los 30 módulos (celdas `%%modulo`) y reproduce todo el proyecto (los 9 pasos) con los resultados. Es el que se corre en VS Code |
-| `generar_cuaderno.py` | Arma ese cuaderno copiando el código de `src` (`--ejecutar` lo corre y guarda los resultados) |
+| `proyecto_completo.py` | **El mismo flujo de inicio a fin, solo código** (sin explicaciones): `python proyecto_completo.py`, o en VS Code *Run Cell* en cada bloque `# %%`. El código de cada módulo está en `src/` |
+| `generar_cuaderno.py` | Arma el cuaderno copiando el código de `src` y también `proyecto_completo.py` (`--ejecutar` corre el cuaderno y guarda los resultados) |
 | `docs/leer_en_R.R` | Para R: lee `dashboard_obras.csv` con los tipos correctos y la descripción de cada columna (atributo `label`) |
 | `data/raw/escale/{año}`, `data/raw/enla/{año}` | Archivos tal cual se descargan (nunca se modifican). Nombre: `{fuente}_{año}_{descripción}_{AAAA-MM-DD}.{ext}` |
 | `data/interim/` | Archivos descomprimidos, solo para la extracción |

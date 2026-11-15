@@ -4,8 +4,8 @@ El cuaderno no necesita la carpeta src: cada modulo (config, utils, nlp_causas, 
 al ejecutarla, el codigo queda cargado en memoria como un modulo mas, y las celdas siguientes lo importan con `import nombre`. Asi se puede leer,
 editar y ejecutar todo desde Jupyter / VS Code.
 
-  python generar_cuaderno.py              arma el cuaderno (sin ejecutarlo)
-  python generar_cuaderno.py --ejecutar   lo arma y lo ejecuta para guardar los resultados dentro (tarda unos 8 minutos)
+  python generar_cuaderno.py              arma el cuaderno (sin ejecutarlo) y el script proyecto_completo.py (el mismo flujo, solo codigo)
+  python generar_cuaderno.py --ejecutar   ademas ejecuta el cuaderno para guardar los resultados dentro (tarda unos 8 minutos)
 
 La fuente del codigo es la carpeta src; este programa la copia al cuaderno cada vez que se ejecuta (el cuaderno y src nunca se desfasan).
 """
@@ -183,7 +183,7 @@ ampliado = escale_ampliado.construir()
 ampliado.head(3)'''),
     codigo('''for nombre in ("escale_infraestructura", "escale_distrito_ampliado", "enla_regiones", "enla_niveles_logro"):
     t = pd.read_csv(config.PROCESSED / f"{nombre}.csv", dtype={"ubigeo": str}, encoding="utf-8-sig")
-    print(f"{nombre}: {t.shape[0]} filas x {t.shape[1]} columnas | años: {sorted(t.anio.unique())}")
+    print(f"{nombre}: {t.shape[0]} filas x {t.shape[1]} columnas | años: {sorted(int(a) for a in t.anio.unique())}")
 niveles = pd.read_csv(config.PROCESSED / "enla_niveles_logro.csv", encoding="utf-8-sig")
 niveles.groupby(["anio", "evaluacion", "grado"]).size().rename("regiones x 2 áreas").reset_index()'''),
     texto("""## 3. Datos personales
@@ -222,7 +222,7 @@ pd.read_csv(config.DOCS / "validacion_infobras.csv", encoding="utf-8-sig")'''),
 `texto_nlp.frecuencia_terminos` cuenta palabras y pares de palabras por año y los ordena por **TF-IDF**: frecuencia relativa en el año × log(años / años en que aparece).
 Así suben los términos propios de un informe y bajan los que aparecen siempre («gobierno», «inversión»)."""),
     codigo('''terminos = pd.read_csv(config.PROCESSED / "frecuencia_terminos.csv", encoding="utf-8-sig")
-print("Años:", sorted(terminos.anio.unique()))
+print("Años:", sorted(int(a) for a in terminos.anio.unique()))
 terminos[(terminos.anio == terminos.anio.max()) & (terminos.tipo == "par")].head(8)'''),
     texto("""## 5. NLP de las causas de paralización
 
@@ -370,6 +370,63 @@ Este texto también está en `docs/limites_y_calidad.md`."""),
 ]
 
 
+CABECERA_SCRIPT = """\"\"\"Proyecto completo, de inicio a fin, en un solo script (solo codigo, sin explicaciones).
+
+Es el mismo flujo del cuaderno notebooks/proyecto_completo.ipynb (que si trae las explicaciones): descarga, tablas de ESCALE y ENLA,
+datos personales, proyecto PDF, NLP de las causas, producto final, CSV unico del dashboard, diccionario y auditorias.
+El codigo de cada modulo esta en src/ (config.py, utils.py, nlp_causas.py, producto_final.py, ...).
+
+  python proyecto_completo.py        (o en VS Code: «Run Cell» en cada bloque «# %%»)
+
+Este archivo lo genera generar_cuaderno.py desde el cuaderno: no se edita a mano.
+\"\"\"
+import sys
+from pathlib import Path
+
+RAIZ_PROYECTO = Path(__file__).resolve().parent
+sys.path.insert(0, str(RAIZ_PROYECTO / "src"))
+
+
+def ver(valor):
+    \"\"\"Muestra un resultado como lo haria el cuaderno (tablas completas hasta 40 filas); no imprime None.\"\"\"
+    if valor is None:
+        return
+    if hasattr(valor, "columns"):
+        print(valor.to_string(max_rows=40, max_cols=30))
+    elif hasattr(valor, "to_string"):
+        print(valor.to_string(max_rows=40))
+    else:
+        print(valor)
+
+"""
+
+
+def convertir_celda(fuente):
+    """Deja el codigo de una celda de la Parte B como script: el ultimo resultado se imprime con ver(...)."""
+    arbol = ast.parse(fuente)
+    if not arbol.body or not isinstance(arbol.body[-1], ast.Expr):
+        return fuente
+    ultimo = arbol.body[-1]
+    lineas = fuente.split("\n")
+    if isinstance(ultimo.value, ast.Call) and isinstance(ultimo.value.func, ast.Name) and ultimo.value.func.id == "print":
+        return fuente
+    lineas[ultimo.lineno - 1:ultimo.end_lineno] = ["ver(" + "\n".join(lineas[ultimo.lineno - 1:ultimo.end_lineno]) + ")"]
+    return "\n".join(lineas)
+
+
+def armar_script():
+    """proyecto_completo.py: las celdas de codigo de la Parte B en orden, con un «# %% titulo» por bloque y sin texto explicativo."""
+    bloques, titulo = [], "Preparacion"
+    for celda in PARTE_B:
+        if celda.cell_type == "markdown":
+            primera = celda.source.strip().splitlines()[0].lstrip("# ").strip()
+            if primera:
+                titulo = primera
+        else:
+            bloques.append(f"# %% {titulo}\n" + convertir_celda(celda.source))
+    return CABECERA_SCRIPT + "\n\n".join(bloques) + "\n"
+
+
 def armar():
     celdas = [texto(PRESENTACION), texto("## Preparación (ejecutar primero)"), codigo(PREPARACION),
               texto("# Parte A — El código del proyecto\nUna celda por módulo, en orden de dependencias. Se ejecutan una vez y quedan cargados; después la Parte B los usa.")]
@@ -386,6 +443,8 @@ if __name__ == "__main__":
     nb = armar()
     SALIDA.parent.mkdir(exist_ok=True)
     nbformat.write(nb, SALIDA)
+    (RAIZ / "proyecto_completo.py").write_text(armar_script(), encoding="utf-8")
+    print("script armado: proyecto_completo.py (solo codigo)")
     print(f"cuaderno armado: {SALIDA.name} con {len(nb.cells)} celdas ({sum(1 for c in nb.cells if c.cell_type == 'code' and c.source.startswith('%%modulo'))} módulos)")
     if "--ejecutar" in sys.argv:
         from nbclient import NotebookClient
