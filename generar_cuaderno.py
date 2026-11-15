@@ -76,6 +76,11 @@ Cada script también existe **por separado en la carpeta `src/`** (por ejemplo `
 Este cuaderno es **autosuficiente**: lleva adentro **todo el código** del proyecto (descarga, extracción, PDF, NLP de causas, producto final, CSV del dashboard,
 diccionario y auditorías) y lo ejecuta de principio a fin. Termina escribiendo **un solo CSV para el dashboard: `data/final/dashboard_obras.csv`** (se carga directo en Power BI).
 
+**Cómo ejecutarlo (para quien revise): no hay que cambiar ninguna ruta ni editar código; solo ejecutar.** Instalar una vez con `pip install -r requirements.txt` (Python 3.10 o superior) y, en VS Code, *Seleccionar kernel* → *Run All*.
+* **Rápido (menos de 1 minuto):** *Run All* tal como está. Si no hay datos crudos (como al bajar el repositorio de GitHub), el cuaderno parte solo de las tablas ya procesadas y rehace el NLP, el CSV final y las auditorías.
+* **Todo desde cero (alrededor de 1 hora):** poner `DESCARGAR = True` en la celda «0. Opciones» y *Run All*. Se abre Chrome y baja ESCALE, ENLA, Contraloría y MEF (≈ 450 MB); no hay que cerrarlo ni usarlo. INFOBRAS no se vuelve a leer (es una foto de noviembre de 2026).
+* Si un portal no responde, volver a ejecutar: lo ya descargado se salta. Guía completa en el `README.md`.
+
 **Cómo usarlo en VS Code:** abrir la carpeta del proyecto → abrir este archivo → *Seleccionar kernel* → *Python Environments* → **`.venv`** → *Run All*.
 Con la configuración por defecto **no descarga nada**: usa lo que ya está en `data/raw` (unos 8 minutos) y, si no hay datos crudos (como al bajar el repositorio de GitHub, que no los incluye), parte de las tablas ya procesadas y corre los pasos 5 a 7 (menos de 1 minuto). Todas las rutas son relativas a la carpeta del proyecto.
 Para instalar las librerías: `pip install -r requirements.txt` (o doble clic en `ejecutar.bat`, que crea el entorno `.venv`).
