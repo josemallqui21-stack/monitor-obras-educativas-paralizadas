@@ -67,27 +67,52 @@ def primera_linea_docstring(nombre):
 
 PRESENTACION = """# Resumen de todo lo que se hizo: extracción, limpieza, NLP y dashboard (todos los scripts juntos)
 
-**Monitor de obras de infraestructura educativa paralizadas.**
+Monitor de obras de infraestructura educativa paralizadas.
 
-**Por qué este cuaderno es tan extenso:** reúne **todos los scripts del proyecto en un solo archivo** (la Parte A trae el código completo de cada módulo).
-Cada script también existe **por separado en la carpeta `src/`** (por ejemplo `src/nlp_causas.py` o `src/scraper_infobras.py`), por si se quiere revisar por partes.
-`proyecto_completo.py` es la misma ejecución, pero solo con código.
+Por qué este cuaderno es tan extenso: reúne todos los scripts del proyecto en un solo archivo (la Parte A trae el código completo de cada módulo). Cada script también existe por separado en la carpeta src (por ejemplo src/nlp_causas.py o src/scraper_infobras.py), por si se quiere revisar por partes. El archivo proyecto_completo.py es la misma ejecución, pero solo con código.
 
-Este cuaderno es **autosuficiente**: lleva adentro **todo el código** del proyecto (descarga, extracción, PDF, NLP de causas, producto final, CSV del dashboard,
-diccionario y auditorías) y lo ejecuta de principio a fin. Termina escribiendo **un solo CSV para el dashboard: `data/final/dashboard_obras.csv`** (se carga directo en Power BI).
+Este cuaderno es autosuficiente: lleva adentro todo el código del proyecto (descarga, extracción, PDF, NLP de causas, producto final, CSV del dashboard, diccionario y auditorías) y lo ejecuta de principio a fin. Termina escribiendo un solo CSV para el dashboard: data/final/dashboard_obras.csv (se carga directo en Power BI).
 
-**Cómo ejecutarlo (para quien revise): no hay que cambiar ninguna ruta ni editar código; solo ejecutar.** Instalar una vez con `pip install -r requirements.txt` (Python 3.10 o superior) y, en VS Code, *Seleccionar kernel* → *Run All*.
-* **Rápido (menos de 1 minuto):** *Run All* tal como está. Si no hay datos crudos (como al bajar el repositorio de GitHub), el cuaderno parte solo de las tablas ya procesadas y rehace el NLP, el CSV final y las auditorías.
-* **Todo desde cero (alrededor de 1 hora):** poner `DESCARGAR = True` en la celda «0. Opciones» y *Run All*. Se abre Chrome y baja ESCALE, ENLA, Contraloría y MEF (≈ 450 MB); no hay que cerrarlo ni usarlo. INFOBRAS no se vuelve a leer (es una foto de noviembre de 2026).
-* Si un portal no responde, volver a ejecutar: lo ya descargado se salta. Guía completa en el `README.md`.
+## Cómo ejecutarlo (guía para quien revise)
 
-**Cómo usarlo en VS Code:** abrir la carpeta del proyecto → abrir este archivo → *Seleccionar kernel* → *Python Environments* → **`.venv`** → *Run All*.
-Con la configuración por defecto **no descarga nada**: usa lo que ya está en `data/raw` (unos 8 minutos) y, si no hay datos crudos (como al bajar el repositorio de GitHub, que no los incluye), parte de las tablas ya procesadas y corre los pasos 5 a 7 (menos de 1 minuto). Todas las rutas son relativas a la carpeta del proyecto.
-Para instalar las librerías: `pip install -r requirements.txt` (o doble clic en `ejecutar.bat`, que crea el entorno `.venv`).
+No hay que cambiar ninguna ruta ni editar código: el programa encuentra solo la carpeta del proyecto, esté donde esté. Solo hay que instalar y ejecutar. Hay dos opciones: la rápida (menos de 1 minuto) y la larga (alrededor de 1 hora). Basta con elegir una.
 
-**Estructura**
-* **Parte A — el código** (una celda por módulo, `%%modulo nombre`): se ejecuta una vez y deja los módulos cargados. Cada celda se puede leer y editar.
-* **Parte B — la ejecución paso a paso**: solo el código que corre el proyecto, un paso por celda: 1 descarga · 2 ESCALE y ENLA · 3 datos personales · 4 proyecto PDF · 5 producto final (**NLP de causas** y CSV del dashboard) · 6 diccionario, datos personales e inventario · 7 auditoría de calidad."""
+### Antes de empezar (una sola vez)
+
+1. Tener Python 3.10 o superior y VS Code con la extensión Jupyter.
+2. Descargar el repositorio completo de GitHub (botón verde "Code", opción "Download ZIP") y abrir esa carpeta en VS Code. Conviene bajarlo completo, porque el cuaderno necesita la carpeta data/processed, que ya viene incluida.
+3. Instalar las librerías una sola vez, escribiendo en la terminal: pip install -r requirements.txt
+4. Arriba a la derecha, elegir Seleccionar kernel y luego el entorno de Python donde se instalaron las librerías.
+5. Solo para la opción larga: tener Google Chrome, internet y unos 3 GB de espacio libre.
+
+### Opción rápida (menos de 1 minuto): rehacer el producto final
+
+Qué hace: parte de las tablas ya procesadas que vienen en data/processed (no necesita datos crudos ni internet) y rehace la clasificación de causas con NLP, el CSV final para el dashboard, el diccionario y las tres auditorías.
+
+Cómo hacerlo: pulsar Run All sin cambiar nada. Al no encontrar datos crudos, el cuaderno omite las descargas y los PDF, y corre solo los pasos 5 a 7. El resultado queda en data/final/dashboard_obras.csv.
+
+Si prefiere la terminal, el mismo flujo se ejecuta con: python proyecto_completo.py (necesita la carpeta src al lado).
+
+### Opción larga (alrededor de 1 hora): correr todo desde cero
+
+Qué hace: abre Chrome y descarga ESCALE, ENLA, Contraloría y MEF (unos 450 MB); arma las tablas; lee los 39 PDF; clasifica las causas con NLP; y genera el CSV final, el diccionario y las tres auditorías.
+
+Cómo hacerlo: en la celda "0. Opciones" poner DESCARGAR = True y pulsar Run All. En Windows también se puede hacer con doble clic en ejecutar.bat.
+
+Durante la ejecución: Chrome se abre y se maneja solo; no hay que cerrarlo ni usarlo hasta que termine. Las descargas tardan unos 40 minutos y la lectura de los PDF unos 20. Si un portal no responde, se vuelve a ejecutar y sigue donde quedó, porque lo ya descargado se salta.
+
+Sobre INFOBRAS: no se vuelve a leer por defecto, porque es una foto de noviembre de 2026, leerlo tarda unas 2,5 horas y cambiaría los números. Sus datos ya están en data/processed.
+
+### Si solo quiere ver o revisar
+
+- Ver el resultado sin ejecutar nada: abrir data/final/dashboard_obras.csv.
+- Revisar el código por partes: cada módulo está por separado en la carpeta src.
+- Leer qué se hizo y cuáles son sus límites: docs/producto_final.md y docs/limites_y_calidad.md.
+
+## Estructura del cuaderno
+
+- Parte A, el código: una celda por módulo (empieza con %%modulo y el nombre). Se ejecuta una vez y deja los módulos cargados. Cada celda se puede leer y editar.
+- Parte B, la ejecución paso a paso: solo el código que corre el proyecto, un paso por celda: 1 descarga, 2 ESCALE y ENLA, 3 datos personales, 4 proyecto PDF, 5 producto final (NLP de causas y CSV del dashboard), 6 diccionario, datos personales e inventario, 7 auditoría de calidad."""
 
 PREPARACION = '''import sys
 import types

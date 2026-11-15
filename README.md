@@ -3,35 +3,76 @@
 Proyecto académico "Monitor de obras de infraestructura educativa paralizadas" (USMP, Data Analytics).
 Con **un solo comando** abre Chrome (visible), entra a los portales del MINEDU, descarga lo necesario, lo registra y deja dos tablas limpias en CSV.
 
-## Cómo ejecutarlo (guía rápida para quien revise)
+## Cómo ejecutarlo (guía para quien revise)
 
-**No hay que cambiar ninguna ruta ni editar código.** El programa encuentra solo la carpeta del proyecto, esté donde esté. Solo hay que instalar y ejecutar.
+No hay que cambiar ninguna ruta ni editar código: el programa encuentra solo la carpeta del proyecto, esté donde esté. Solo hay que instalar y ejecutar. Hay dos opciones: la rápida (menos de 1 minuto) y la larga (alrededor de 1 hora). Basta con elegir una.
 
-**Requisitos (una sola vez):** Python 3.10 o superior (en Windows, marcar *Add Python to PATH* al instalar), Google Chrome (solo si se va a descargar de los portales) e internet.
+### Antes de empezar (una sola vez)
 
-**Instalación (una sola vez):** abrir una terminal en la carpeta del proyecto y escribir
+1. Tener Python 3.10 o superior (en Windows, marcar "Add Python to PATH" al instalarlo).
+2. Descargar el repositorio completo de GitHub (botón verde "Code", opción "Download ZIP") y descomprimirlo en cualquier carpeta. Conviene bajarlo completo y no archivos sueltos, porque la opción rápida necesita las carpetas src y data/processed, que ya vienen incluidas.
+3. Abrir una terminal en esa carpeta e instalar las librerías:
 
 ```
 pip install -r requirements.txt
 ```
 
-(En Windows, `ejecutar.bat` hace este paso solo.) Después, según lo que se quiera, hay tres formas:
+4. Solo para la opción larga: tener Google Chrome, internet y unos 3 GB de espacio libre.
 
-| Quiero… | Qué hago | Qué pasa | Tarda |
-|---|---|---|---|
-| **Ver el resultado ya hecho** | Abrir `data/final/dashboard_obras.csv` (su diccionario está al lado) | No hay nada que ejecutar: es el CSV final para el dashboard | — |
-| **Rehacer el producto final** (NLP de causas, CSV, diccionario y auditorías) | `python proyecto_completo.py`, o abrir `notebooks/proyecto_completo.ipynb` y pulsar *Run All* | Detecta que no hay datos crudos y parte de las tablas ya procesadas (`data/processed`) | menos de 1 minuto |
-| **Correr TODO desde cero, descargando de los portales** | En Windows, doble clic en **`ejecutar.bat`**; en cualquier sistema, `python src/pipeline_completo.py` | Abre Chrome, descarga ESCALE, ENLA, Contraloría y MEF (≈ 450 MB), arma las tablas, lee los PDF, clasifica las causas con NLP, genera el CSV final, el diccionario y las tres auditorías | alrededor de 1 hora (≈ 40 min de descargas y ≈ 20 min de lectura de PDF) |
+### Opción rápida (menos de 1 minuto): rehacer el producto final
 
-**Si se corre todo desde cero, tener en cuenta:**
-* Chrome se abre y se maneja solo: **no cerrarlo ni usarlo** hasta que termine.
-* Terminó bien cuando la última línea dice `PIPELINE COMPLETO: terminado sin fallos`. Todo queda registrado en `docs/log_descargas.txt`.
-* Si un portal no responde, **volver a ejecutar el mismo comando**: lo ya descargado se salta y sigue donde quedó.
-* **INFOBRAS no se vuelve a leer** por defecto: es una foto de noviembre de 2026, leerlo tarda unas 2,5 horas y cambiaría los números; sus datos ya están en `data/processed`. Para releerlo (una sola persona a la vez): `python src/pipeline_completo.py --fuentes escale,enla,contraloria,mef,infobras`.
-* En el cuaderno, para descargar, poner `DESCARGAR = True` en la primera celda de opciones.
-* Resultado: `data/final/dashboard_obras.csv`. Comprobaciones: `docs/validacion_final.csv`, `docs/auditoria_calidad.csv` y `docs/auditoria_datos_personales.csv`.
-* Los datos crudos **no están en el repositorio** (algunos traen nombres de personas; ver más abajo), por eso la descarga los vuelve a bajar de los portales.
-* La descarga con Chrome se probó en Windows; el procesamiento también corre en Linux (lo ejecuta GitHub Actions).
+Qué hace: parte de las tablas ya procesadas que vienen en data/processed (no necesita datos crudos ni internet) y rehace la clasificación de causas con NLP, el CSV final para el dashboard, el diccionario y las tres auditorías.
+
+Qué necesita: la carpeta src (con el código de cada módulo) y la carpeta data/processed. Con ellas todo corre mucho más rápido, porque no descarga nada ni lee los PDF.
+
+Cómo hacerlo con el script, escribiendo en la terminal:
+
+```
+python proyecto_completo.py
+```
+
+Cómo hacerlo con el cuaderno: abrir notebooks/proyecto_completo.ipynb en VS Code, elegir el kernel de Python y pulsar Run All. El cuaderno lleva todo el código adentro y, al no encontrar datos crudos, usa solo las tablas procesadas.
+
+Cómo saber que terminó bien: no aparece ningún error y se ven las líneas "PRODUCTO FINAL ... (0 fallan)" y "AUDITORIA DE CALIDAD ... 0 errores".
+
+Qué genera: data/final/dashboard_obras.csv con su diccionario, y los resultados de las auditorías en la carpeta docs.
+
+### Opción larga (alrededor de 1 hora): correr todo desde cero
+
+Qué hace: abre Chrome y descarga ESCALE, ENLA, Contraloría y MEF (unos 450 MB); arma las tablas; lee los 39 PDF; clasifica las causas con NLP; y genera el CSV final, el diccionario y las tres auditorías.
+
+Qué necesita: Google Chrome, internet y unos 3 GB de espacio libre.
+
+Cómo hacerlo en Windows: doble clic en ejecutar.bat. La primera vez crea el entorno e instala las librerías.
+
+Cómo hacerlo en cualquier sistema, escribiendo en la terminal:
+
+```
+python src/pipeline_completo.py
+```
+
+Cómo hacerlo con el cuaderno: poner DESCARGAR = True en la celda "0. Opciones" y pulsar Run All.
+
+Durante la ejecución: Chrome se abre y se maneja solo; no hay que cerrarlo ni usarlo hasta que termine. Las descargas tardan unos 40 minutos y la lectura de los PDF unos 20.
+
+Cómo saber que terminó bien: la última línea dice "PIPELINE COMPLETO: terminado sin fallos". Todo queda registrado en docs/log_descargas.txt.
+
+Si algo falla: a veces un portal no responde. Se vuelve a ejecutar el mismo comando y sigue donde quedó, porque lo ya descargado se salta.
+
+Sobre INFOBRAS: no se vuelve a leer por defecto, porque es una foto de noviembre de 2026, leerlo tarda unas 2,5 horas y cambiaría los números. Sus datos ya están en data/processed. Para releerlo (una sola persona a la vez):
+
+```
+python src/pipeline_completo.py --fuentes escale,enla,contraloria,mef,infobras
+```
+
+### Si solo quiere ver o revisar
+
+- Ver el resultado sin ejecutar nada: abrir data/final/dashboard_obras.csv (su diccionario está al lado, en dashboard_obras_diccionario.csv).
+- Revisar el código por partes: cada módulo está por separado en la carpeta src (por ejemplo src/nlp_causas.py para el NLP o src/scraper_infobras.py para INFOBRAS). El cuaderno notebooks/proyecto_completo.ipynb los reúne todos en un solo archivo, por eso es extenso.
+- Leer qué se hizo y cuáles son sus límites: docs/producto_final.md y docs/limites_y_calidad.md.
+- Ver las comprobaciones: docs/validacion_final.csv y docs/auditoria_calidad.csv.
+
+Los datos crudos no están en el repositorio porque algunos traen nombres de personas; por eso la opción larga los vuelve a descargar de los portales. La descarga con Chrome se probó en Windows; el procesamiento también corre en Linux (lo ejecuta GitHub Actions).
 
 ---
 
