@@ -65,15 +65,19 @@ def primera_linea_docstring(nombre):
     return doc.strip().splitlines()[0] if doc.strip() else ""
 
 
-PRESENTACION = """# Proyecto completo: de los portales al dashboard (un solo cuaderno)
+PRESENTACION = """# Resumen de todo lo que se hizo: extracción, limpieza, NLP y dashboard (todos los scripts juntos)
 
-**Monitor de obras de infraestructura educativa paralizadas** (USMP, Data Analytics).
+**Monitor de obras de infraestructura educativa paralizadas.**
+
+**Por qué este cuaderno es tan extenso:** reúne **todos los scripts del proyecto en un solo archivo** (la Parte A trae el código completo de cada módulo).
+Cada script también existe **por separado en la carpeta `src/`** (por ejemplo `src/nlp_causas.py` o `src/scraper_infobras.py`), por si se quiere revisar por partes.
+`proyecto_completo.py` es la misma ejecución, pero solo con código.
 
 Este cuaderno es **autosuficiente**: lleva adentro **todo el código** del proyecto (descarga, extracción, PDF, NLP de causas, producto final, CSV del dashboard,
 diccionario y auditorías) y lo ejecuta de principio a fin. Termina escribiendo **un solo CSV para el dashboard: `data/final/dashboard_obras.csv`** (se carga directo en Power BI).
 
 **Cómo usarlo en VS Code:** abrir la carpeta del proyecto → abrir este archivo → *Seleccionar kernel* → *Python Environments* → **`.venv`** → *Run All*.
-Con la configuración por defecto **no descarga nada** (usa lo que ya está en `data/raw`) y tarda unos 8 minutos. Todas las rutas son relativas a la carpeta del proyecto.
+Con la configuración por defecto **no descarga nada**: usa lo que ya está en `data/raw` (unos 8 minutos) y, si no hay datos crudos (como al bajar el repositorio de GitHub, que no los incluye), parte de las tablas ya procesadas y corre los pasos 5 a 7 (menos de 1 minuto). Todas las rutas son relativas a la carpeta del proyecto.
 Para instalar las librerías: `pip install -r requirements.txt` (o doble clic en `ejecutar.bat`, que crea el entorno `.venv`).
 
 **Estructura**
@@ -147,30 +151,39 @@ DESCARGAR = False          # True: consulta ESCALE, ENLA, Contraloría y MEF (Ch
 INCLUIR_INFOBRAS = False   # True: ADEMAS vuelve a leer INFOBRAS. Cambia el listado (hay obras que dejaron de estar paralizadas) y mueve los números
 FORZAR = False             # True: rehace todo aunque ya esté hecho (muy lento)
 
+# Sin datos crudos (por ejemplo, al bajar el repositorio de GitHub) y sin descargar: se parte de las tablas ya procesadas (solo los pasos 5 a 7)
+DESDE_TABLAS = not (DESCARGAR or pipeline_completo.hay_datos_crudos())
+
 FUENTES = list(pipeline_completo.FUENTES_POR_DEFECTO) + (["infobras"] if INCLUIR_INFOBRAS else [])
 ARGS = SimpleNamespace(anio_inicio=config.ANIO_INICIO, solo=None, forzar=FORZAR, headless=False, fuentes=FUENTES)
 print("Carpeta del proyecto:", config.RAIZ.name)
-print("Descargar:", DESCARGAR, "| fuentes:", FUENTES)'''),
+print("Descargar:", DESCARGAR, "| fuentes:", FUENTES)
+print("Modo:", "desde las tablas ya procesadas (pasos 5 a 7)" if DESDE_TABLAS else "completo (pasos 1 a 7)")'''),
     texto("""## 1. Descarga de las fuentes
 ESCALE, ENLA y Contraloría se descargan con Chrome visible (Selenium); el MEF con una petición HTTP. INFOBRAS solo si se pide: es una foto (27-oct y 11-nov-2026) y leerlo de nuevo cambia los números.
 Reglas de cortesía: pausa de 2 a 5 s, 3 reintentos, nada en paralelo, y **lo ya descargado se salta**. Los archivos de `data/raw` nunca se modifican."""),
     codigo('''if DESCARGAR:
     main.descargar(ARGS)
+elif DESDE_TABLAS:
+    print("No hay datos crudos en data/raw y DESCARGAR = False: se parte de las tablas ya procesadas (pasos 5 a 7). Para repetir desde los portales: DESCARGAR = True")
 else:
     print("DESCARGAR = False: no se consulta ningún portal; se usa lo que hay en data/raw")'''),
     texto("""## 2. Tablas de ESCALE y ENLA
 `extraccion` convierte los archivos crudos en las tablas de ESCALE (por distrito y año) y de ENLA (por región y grado); `escale_ampliado` calcula 16 indicadores más de infraestructura (Censo 2025);
 `catalogo_escale` lista las 331 variables de ESCALE con su descripción oficial."""),
-    codigo('''main.extraer(SimpleNamespace(anio_inicio=config.ANIO_INICIO, solo=None, forzar=FORZAR, headless=False, fuentes=FUENTES))
-catalogo_escale.construir()
-escale_ampliado.construir()'''),
+    codigo('''if not DESDE_TABLAS:
+    main.extraer(SimpleNamespace(anio_inicio=config.ANIO_INICIO, solo=None, forzar=FORZAR, headless=False, fuentes=FUENTES))
+    catalogo_escale.construir()
+    escale_ampliado.construir()'''),
     texto("""## 3. Datos personales
 **La regla del proyecto es no guardar nombres de personas.** `utils.omitir_nombres` los reemplaza por `[NOMBRE OMITIDO]` apenas se lee un comentario; este paso vuelve a pasar el filtro por lo ya guardado (se puede repetir sin cambiar nada)."""),
-    codigo("datos_personales.limpiar()"),
+    codigo('''if not DESDE_TABLAS:
+    datos_personales.limpiar()'''),
     texto("""## 4. Proyecto PDF (fases 1 a 4) y anexos Excel
 Texto y tablas de los PDF (pdfplumber/pypdf), cifras oficiales, causales, panel por obra de los anexos Excel de la Contraloría (incluido el anexo 03), citas y términos de los informes, ubigeo de cada obra
 y tablas ampliadas de INFOBRAS. Un PDF ya procesado no se vuelve a procesar."""),
-    codigo("main_pdf.ejecutar(4, FORZAR)"),
+    codigo('''if not DESDE_TABLAS:
+    main_pdf.ejecutar(4, FORZAR)'''),
     texto("""## 5. Producto final: NLP de las causas, tablas y CSV único
 `producto_final.construir()` clasifica la causa de cada obra con `nlp_causas` y arma las tablas del producto final y el **CSV único** `data/final/dashboard_obras.csv`.
 

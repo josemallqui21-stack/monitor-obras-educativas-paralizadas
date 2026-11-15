@@ -34,27 +34,36 @@ DESCARGAR = False          # True: consulta ESCALE, ENLA, Contraloría y MEF (Ch
 INCLUIR_INFOBRAS = False   # True: ADEMAS vuelve a leer INFOBRAS. Cambia el listado (hay obras que dejaron de estar paralizadas) y mueve los números
 FORZAR = False             # True: rehace todo aunque ya esté hecho (muy lento)
 
+# Sin datos crudos (por ejemplo, al bajar el repositorio de GitHub) y sin descargar: se parte de las tablas ya procesadas (solo los pasos 5 a 7)
+DESDE_TABLAS = not (DESCARGAR or pipeline_completo.hay_datos_crudos())
+
 FUENTES = list(pipeline_completo.FUENTES_POR_DEFECTO) + (["infobras"] if INCLUIR_INFOBRAS else [])
 ARGS = SimpleNamespace(anio_inicio=config.ANIO_INICIO, solo=None, forzar=FORZAR, headless=False, fuentes=FUENTES)
 print("Carpeta del proyecto:", config.RAIZ.name)
 print("Descargar:", DESCARGAR, "| fuentes:", FUENTES)
+print("Modo:", "desde las tablas ya procesadas (pasos 5 a 7)" if DESDE_TABLAS else "completo (pasos 1 a 7)")
 
 # %% 1. Descarga de las fuentes
 if DESCARGAR:
     main.descargar(ARGS)
+elif DESDE_TABLAS:
+    print("No hay datos crudos en data/raw y DESCARGAR = False: se parte de las tablas ya procesadas (pasos 5 a 7). Para repetir desde los portales: DESCARGAR = True")
 else:
     print("DESCARGAR = False: no se consulta ningún portal; se usa lo que hay en data/raw")
 
 # %% 2. Tablas de ESCALE y ENLA
-main.extraer(SimpleNamespace(anio_inicio=config.ANIO_INICIO, solo=None, forzar=FORZAR, headless=False, fuentes=FUENTES))
-catalogo_escale.construir()
-escale_ampliado.construir()
+if not DESDE_TABLAS:
+    main.extraer(SimpleNamespace(anio_inicio=config.ANIO_INICIO, solo=None, forzar=FORZAR, headless=False, fuentes=FUENTES))
+    catalogo_escale.construir()
+    escale_ampliado.construir()
 
 # %% 3. Datos personales
-datos_personales.limpiar()
+if not DESDE_TABLAS:
+    datos_personales.limpiar()
 
 # %% 4. Proyecto PDF (fases 1 a 4) y anexos Excel
-main_pdf.ejecutar(4, FORZAR)
+if not DESDE_TABLAS:
+    main_pdf.ejecutar(4, FORZAR)
 
 # %% 5. Producto final: NLP de las causas, tablas y CSV único
 tablas, validacion = producto_final.construir()

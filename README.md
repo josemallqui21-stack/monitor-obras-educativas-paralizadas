@@ -23,6 +23,8 @@ Si el CSV cambió, el flujo lo guarda en `data/final`.
 (el archivo del MEF tiene nombres de ingenieros en sus textos y el padrón de ESCALE el nombre, teléfono y correo del director de cada colegio), y el del MEF supera el límite de GitHub.
 Las tablas de `data/processed` y `data/final` sí están y fueron auditadas: no tienen nombres de personas.
 
+**Al bajar el repositorio** el cuaderno, `proyecto_completo.py` y `ejecutar.bat --sin-descarga` detectan que no hay datos crudos y parten solos de las tablas procesadas (pasos 5 a 9, menos de 1 minuto); no hace falta ninguna opción.
+
 **Para repetir todo desde los portales (en la computadora, con Chrome):** `ejecutar.bat` (hace los 9 pasos: descarga, tablas, PDF, NLP, CSV único, auditorías) o abrir
 `notebooks/proyecto_completo.ipynb` / `python proyecto_completo.py`. Con datos ya descargados: `ejecutar.bat --sin-descarga`.
 

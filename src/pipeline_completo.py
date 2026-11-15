@@ -56,6 +56,11 @@ def leer_argumentos():
     return args
 
 
+def hay_datos_crudos():
+    """True si data/raw existe y tiene archivos (el repositorio de GitHub no los trae: algunos contienen datos personales)."""
+    return config.RAW.exists() and any(p.is_file() for p in config.RAW.rglob("*"))
+
+
 def paso(numero, nombre, funcion):
     """Ejecuta un paso; si falla lo registra y devuelve False, para seguir con el siguiente."""
     utils.log(f"=== PASO {numero}: {nombre} ===")
@@ -75,6 +80,9 @@ def ejecutar(fuentes=FUENTES_POR_DEFECTO, sin_descarga=False, forzar=False, head
     # el mismo objeto de argumentos que usa main.py (solo=None significa «todas las fuentes elegidas»)
     a = SimpleNamespace(anio_inicio=anio_inicio, solo=None, forzar=forzar, headless=headless, fuentes=list(fuentes))
     resultados = {}
+    if sin_descarga and not desde_tablas and not hay_datos_crudos():
+        utils.log("AVISO: no hay datos crudos en data/raw y se pidio no descargar: se usa el modo --desde-tablas (pasos 5 a 9)")
+        desde_tablas = True
     if desde_tablas:
         utils.log("MODO DESDE TABLAS: se omiten los pasos 1 a 4 (descarga y datos crudos); se parte de data/processed")
     else:
