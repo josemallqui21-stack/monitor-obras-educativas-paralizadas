@@ -68,6 +68,12 @@ DICCIONARIO_ESCALE_AMPLIADO = [("escale_" + c, t, d + " (distrito, Censo 2025)",
 DICCIONARIO_FINAL = {
     "dashboard_obras": dashboard.DICCIONARIO,
     "escale_distrito_ampliado": escale_ampliado.DICCIONARIO,
+    "escale_coordenadas_apoyo": [
+        ("tipo", "texto", "local_obra (coordenada del local de ESCALE 2025 que declara el CUI de una obra) o centro_distrito (mediana de las coordenadas de los colegios del distrito, Padrón 2025).", "categoría"),
+        ("clave", "texto", "CUI de la obra (si tipo = local_obra) o ubigeo de 6 dígitos del distrito (si tipo = centro_distrito).", "código"),
+        ("lat", "decimal", "Latitud (grados decimales).", "grados"),
+        ("lon", "decimal", "Longitud (grados decimales).", "grados"),
+    ],
     "contraloria_servicios_control_obra": contraloria_anexo03.DICCIONARIO,
     "obras_maestra": [
         ("codigo_infobras", "texto", "Código de la obra en INFOBRAS (llave de la tabla).", "código"),
@@ -231,9 +237,20 @@ def coordenadas_mapa(m, con_cui):
         loc = con_cui.merge(loc, left_on="codlocal", right_on="CODLOCAL").groupby("cui")[["lat", "lon"]].median()
         pad = utils.leer_dbf(extraccion.dbf_de_zip("escale", 2025, config.ESCALE_ZIP_PADRON), columnas=["CODGEO", "NLAT_IE", "NLONG_IE"])
         cen = dentro(pad.assign(lat=num(pad.NLAT_IE), lon=num(pad.NLONG_IE))).groupby("CODGEO")[["lat", "lon"]].median()
+        apoyo = pd.concat([loc.reset_index().rename(columns={"cui": "clave"}).assign(tipo="local_obra"),
+                           cen.reset_index().rename(columns={"CODGEO": "clave"}).assign(tipo="centro_distrito")])[["tipo", "clave", "lat", "lon"]]
+        apoyo[["lat", "lon"]] = apoyo[["lat", "lon"]].round(6)
+        apoyo.to_csv(config.PROCESSED / "escale_coordenadas_apoyo.csv", index=False, encoding="utf-8-sig")   # se reusa si no hay datos crudos
     except (FileNotFoundError, KeyError, ValueError) as e:
-        utils.log(f"AVISO COORDENADAS: no se pudo leer ESCALE ({type(e).__name__}: {e}); el mapa usa solo las coordenadas de INFOBRAS")
-        loc = cen = pd.DataFrame(columns=["lat", "lon"])
+        ruta_apoyo = config.PROCESSED / "escale_coordenadas_apoyo.csv"
+        if ruta_apoyo.exists():
+            utils.log(f"COORDENADAS: no hay datos crudos de ESCALE ({type(e).__name__}); se usa escale_coordenadas_apoyo.csv ya calculado")
+            apoyo = pd.read_csv(ruta_apoyo, dtype={"tipo": str, "clave": str}, encoding="utf-8-sig")
+            loc = apoyo[apoyo.tipo == "local_obra"].set_index("clave")[["lat", "lon"]]
+            cen = apoyo[apoyo.tipo == "centro_distrito"].set_index("clave")[["lat", "lon"]]
+        else:
+            utils.log(f"AVISO COORDENADAS: no se pudo leer ESCALE ({type(e).__name__}: {e}); el mapa usa solo las coordenadas de INFOBRAS")
+            loc = cen = pd.DataFrame(columns=["lat", "lon"])
     for nombre, tabla, clave in (("escale_local_obra", loc, "cui"), ("centro_distrito_escale", cen, "ubigeo")):
         la2, lo2 = m[clave].map(tabla.lat), m[clave].map(tabla.lon)
         usar = (la.isna() | lo.isna()) & la2.notna() & lo2.notna()

@@ -303,9 +303,9 @@ def validar(d, m, serie_pais, serie_dep):
 def escribir(d):
     config.FINAL.mkdir(parents=True, exist_ok=True)
     ruta = config.FINAL / "dashboard_obras.csv"
-    d.to_csv(ruta, index=False, encoding="utf-8-sig", na_rep="")
+    d.to_csv(ruta, index=False, encoding="utf-8-sig", na_rep="", lineterminator="\n")
     diccionario = pd.DataFrame(DICCIONARIO, columns=["columna", "tipo", "descripcion", "unidad"])
     diccionario["rellena_en"] = [", ".join(sorted(d.loc[d[c].notna(), "tipo_registro"].unique())) for c in diccionario.columna]
-    diccionario.to_csv(config.FINAL / "dashboard_obras_diccionario.csv", index=False, encoding="utf-8-sig")
+    diccionario.to_csv(config.FINAL / "dashboard_obras_diccionario.csv", index=False, encoding="utf-8-sig", lineterminator="\n")
     utils.log(f"DASHBOARD: {ruta.name} con {len(d)} filas y {d.shape[1]} columnas; filas por tipo: {d.tipo_registro.value_counts().to_dict()}")
     return ruta

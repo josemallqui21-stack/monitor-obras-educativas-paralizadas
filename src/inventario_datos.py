@@ -104,6 +104,8 @@ def inventario_tablas():
 def inventario_raw():
     """Archivos descargados por fuente (data/raw)."""
     filas = []
+    if not config.RAW.exists():   # modo --desde-tablas (por ejemplo en GitHub): los datos crudos no se publican
+        return pd.DataFrame(columns=["fuente", "archivos", "mb", "anios"])
     for carpeta in sorted(p for p in config.RAW.iterdir() if p.is_dir()):
         archivos = [a for a in carpeta.rglob("*") if a.is_file()]
         anios = sorted({a.parent.name for a in archivos if a.parent.name.isdigit()})

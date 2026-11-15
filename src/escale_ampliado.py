@@ -57,7 +57,11 @@ def _pct_por_distrito(df, columna, validos_si, validos_no):
 
 def construir():
     """Calcula y guarda escale_distrito_ampliado.csv; devuelve la tabla."""
-    publicos = extraccion.cargar_locales_padron(ANIO)
+    try:
+        publicos = extraccion.cargar_locales_padron(ANIO)
+    except FileNotFoundError:
+        utils.log("ESCALE AMPLIADO: no hay datos crudos de ESCALE; se usa escale_distrito_ampliado.csv ya calculado")
+        return pd.read_csv(config.PROCESSED / "escale_distrito_ampliado.csv", dtype={"ubigeo": str}, encoding="utf-8-sig")
     publicos = publicos[publicos.publico].index
     lineal = utils.leer_dbf(extraccion.dbf_de_zip("escale", ANIO, config.ESCALE_ZIP_LINEAL), columnas=COLUMNAS_LINEAL)
     lineal = lineal.drop_duplicates("CODLOCAL")

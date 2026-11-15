@@ -47,6 +47,7 @@ def leer_argumentos():
     p.add_argument("--anio-inicio", type=int, default=config.ANIO_INICIO, help="primer año a descargar")
     p.add_argument("--forzar", action="store_true", help="descargar y procesar de nuevo aunque ya este hecho")
     p.add_argument("--headless", action="store_true", help="navegador sin ventana")
+    p.add_argument("--desde-tablas", action="store_true", help="solo los pasos 5 a 9 (producto final, diccionario y auditorias) con las tablas ya procesadas; no necesita data/raw (es lo que corre GitHub)")
     args = p.parse_args()
     args.fuentes = [f.strip() for f in args.fuentes.split(",") if f.strip()]
     desconocidas = [f for f in args.fuentes if f not in FUENTES]
@@ -68,17 +69,20 @@ def paso(numero, nombre, funcion):
         return False
 
 
-def ejecutar(fuentes=FUENTES_POR_DEFECTO, sin_descarga=False, forzar=False, headless=False, anio_inicio=config.ANIO_INICIO):
+def ejecutar(fuentes=FUENTES_POR_DEFECTO, sin_descarga=False, forzar=False, headless=False, anio_inicio=config.ANIO_INICIO, desde_tablas=False):
     """Corre los 9 pasos. Devuelve la lista de pasos que fallaron (vacia si todo salio bien). Tambien se usa desde Jupyter."""
     utils.log(f"PIPELINE COMPLETO: fuentes={list(fuentes)}, sin_descarga={sin_descarga}, forzar={forzar}, anio_inicio={anio_inicio}")
     # el mismo objeto de argumentos que usa main.py (solo=None significa «todas las fuentes elegidas»)
     a = SimpleNamespace(anio_inicio=anio_inicio, solo=None, forzar=forzar, headless=headless, fuentes=list(fuentes))
     resultados = {}
-    if not sin_descarga:
-        resultados["descarga"] = paso(1, "descarga de las fuentes", lambda: main.descargar(a))
-    resultados["escale_enla"] = paso(2, "tablas de ESCALE y ENLA", lambda: (main.extraer(a), catalogo_escale.construir()))
-    resultados["datos_personales"] = paso(3, "limpieza de datos personales en lo ya guardado", datos_personales.limpiar)
-    resultados["pdf"] = paso(4, "proyecto PDF (fases 1 a 4; el diccionario de la fase 5 se escribe en el paso 6)", lambda: main_pdf.ejecutar(4, forzar))
+    if desde_tablas:
+        utils.log("MODO DESDE TABLAS: se omiten los pasos 1 a 4 (descarga y datos crudos); se parte de data/processed")
+    else:
+        if not sin_descarga:
+            resultados["descarga"] = paso(1, "descarga de las fuentes", lambda: main.descargar(a))
+        resultados["escale_enla"] = paso(2, "tablas de ESCALE y ENLA", lambda: (main.extraer(a), catalogo_escale.construir()))
+        resultados["datos_personales"] = paso(3, "limpieza de datos personales en lo ya guardado", datos_personales.limpiar)
+        resultados["pdf"] = paso(4, "proyecto PDF (fases 1 a 4; el diccionario de la fase 5 se escribe en el paso 6)", lambda: main_pdf.ejecutar(4, forzar))
     resultados["producto_final"] = paso(5, "producto final (data/final)", producto_final.construir)
     resultados["diccionario"] = paso(6, "diccionario de todas las tablas", diccionario.escribir_diccionario)
     resultados["auditoria"] = paso(7, "auditoria de datos personales", datos_personales.auditoria_o_falla)
@@ -91,7 +95,7 @@ def ejecutar(fuentes=FUENTES_POR_DEFECTO, sin_descarga=False, forzar=False, head
 
 def main_completo():
     args = leer_argumentos()
-    return ejecutar(args.fuentes, args.sin_descarga, args.forzar, args.headless, args.anio_inicio)
+    return ejecutar(args.fuentes, args.sin_descarga, args.forzar, args.headless, args.anio_inicio, args.desde_tablas)
 
 
 if __name__ == "__main__":

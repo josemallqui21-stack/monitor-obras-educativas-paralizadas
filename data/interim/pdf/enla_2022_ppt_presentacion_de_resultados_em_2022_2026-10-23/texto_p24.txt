@@ -1,6 +1,0 @@
-Matemática 2.° grado de primaria: medida de promedio y niveles de
-logro según nivel socioeconómico
-Nota: Los niveles socioeconómicos (NSE) se establecen a partir del índice socioeconómico (ISE), el cual ha sido construido por la UMC utilizando información reportada en los cuestionarios de factores
-asociados dirigidos a los padres de familia en primaria y estudiantes en secundaria. El ISE se calcula con cinco indicadores: 1) años de educación de los padres; 2) material de construcción de la vivienda (en
-paredes, techos y pisos); 3) acceso a servicios básicos (luz, agua y desagüe); 4) activos en el hogar (licuadora, refrigeradora, entre otros) y 5) otros servicios en el hogar (internet, servicio de televisión por
-cable, entre otros). De acuerdo al ISE, la población de estudiantes se clasifica en cuatro niveles socioeconómicos: NSE muy bajo (35 %), NSE bajo (25 %), NSE medio (25 %) y NSE alto (15 %).

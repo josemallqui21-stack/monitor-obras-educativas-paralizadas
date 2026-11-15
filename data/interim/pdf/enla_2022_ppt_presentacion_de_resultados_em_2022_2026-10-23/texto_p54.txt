@@ -1,6 +1,0 @@
-Lectura 6.° grado de primaria: medida promedio y niveles de logro según
-desagregación de estrato rural y privado
-* Diferencias estadísticamente significativas (p < 0,05) al comparar los diferentes estratos con las IE públicas urbanas.
-Nota: El gráfico presenta dos tipos de estratificación para clasificar a las escuelas: la estratificación de IE rurales, que se basa en el tamaño de la población y la cercanía a una ciudad capital, y la estratificación
-de IE privadas, que se basa en el costo de las pensiones y el ingreso promedio de la región. Aunque estas estratificaciones no formaron parte del diseño muestral de la EM 2022, la proporción de estudiantes
-de cada subgrupo en la muestra es similar a la de la población, y los logros de aprendizaje de cada subgrupo siguen la tendencia encontrada en evaluaciones censales hasta el 2019.

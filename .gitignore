@@ -8,16 +8,15 @@ __pycache__/
 .vscode/
 .ipynb_checkpoints/
 
-# --- respaldos y entregas comprimidas (los datos crudos van en el Release "datos-crudos", no en el repositorio) ---
+# --- respaldos y entregas comprimidas ---
 _respaldo_antes_de_la_corrida_limpia/
 *.zip
 *.rar
 *.7z
 
-# --- datos crudos y temporales (se bajan de los portales o del Release) ---
+# --- datos crudos y temporales: NO se publican (traen nombres de directores de colegios y de ingenieros; pesan ~450 MB). Se bajan de los portales ---
 data/raw/
-data/interim/escale/
-data/interim/infobras_navegador.lock
+data/interim/
 
 # --- copias derivadas que se regeneran solas ---
 data/processed/*.rds

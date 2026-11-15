@@ -14,15 +14,20 @@ Con **un solo comando** abre Chrome (visible), entra a los portales del MINEDU, 
 
 [![Pipeline](https://github.com/ochaccachavez-crypto/monitor-obras-educativas-paralizadas/actions/workflows/procesar.yml/badge.svg)](https://github.com/ochaccachavez-crypto/monitor-obras-educativas-paralizadas/actions/workflows/procesar.yml)
 
-| Flujo (pestaña **Actions**) | Cuándo corre | Qué hace |
-|---|---|---|
-| **Pipeline completo** (`procesar.yml`) | Solo, cada vez que se sube un cambio al código; o con el botón *Run workflow* | Baja los datos crudos del *Release* `datos-crudos`, rehace todo (tablas, PDF, NLP, CSV único, diccionario y auditorías) y guarda el CSV actualizado en `data/final`. Sale en rojo si algún paso falla o la auditoría de calidad encuentra un error |
-| **Ejecutar el cuaderno** (`cuaderno.yml`) | Botón *Run workflow* | Arma y ejecuta `notebooks/proyecto_completo.ipynb` de punta a punta y deja el cuaderno con resultados |
-| **Descargar de los portales** (`descargar.yml`) | Botón *Run workflow* (experimental) | Vuelve a consultar ESCALE, ENLA, Contraloría y MEF; INFOBRAS no se incluye |
+**Flujo `procesar.yml`** (pestaña **Actions**): corre solo cada vez que se sube un cambio al código, o con el botón *Run workflow*. Instala Python y las librerías y ejecuta
+`python src/pipeline_completo.py --desde-tablas`, que rehace el **producto final** desde las tablas ya procesadas (`data/processed`): NLP de causas, tablas, **CSV único del dashboard**,
+diccionario y las tres auditorías (datos personales, comprobaciones y calidad). Si algún paso falla o la auditoría de calidad encuentra un error, la corrida sale en rojo.
+Si el CSV cambió, el flujo lo guarda en `data/final`.
 
-* **Los datos crudos no están en el repositorio** (pesan unos 450 MB y el archivo del MEF supera el límite de GitHub): van como archivos adjuntos del *Release* `datos-crudos` (`proyecto_datos_raw.zip` y `proyecto_datos_raw_mef.zip`).
-* **El resultado** es `data/final/dashboard_obras.csv`. Power BI lo puede leer directo desde GitHub: *Obtener datos → Web →* `https://raw.githubusercontent.com/ochaccachavez-crypto/monitor-obras-educativas-paralizadas/main/data/final/dashboard_obras.csv`.
-* **Para correrlo en la computadora:** `ejecutar.bat --sin-descarga` (Windows) o abrir `notebooks/proyecto_completo.ipynb` en VS Code.
+**Qué NO está en el repositorio y por qué:** los datos crudos (`data/raw`, ~450 MB) y los archivos temporales (`data/interim`). Algunos crudos traen datos personales
+(el archivo del MEF tiene nombres de ingenieros en sus textos y el padrón de ESCALE el nombre, teléfono y correo del director de cada colegio), y el del MEF supera el límite de GitHub.
+Las tablas de `data/processed` y `data/final` sí están y fueron auditadas: no tienen nombres de personas.
+
+**Para repetir todo desde los portales (en la computadora, con Chrome):** `ejecutar.bat` (hace los 9 pasos: descarga, tablas, PDF, NLP, CSV único, auditorías) o abrir
+`notebooks/proyecto_completo.ipynb` / `python proyecto_completo.py`. Con datos ya descargados: `ejecutar.bat --sin-descarga`.
+
+**El resultado** es `data/final/dashboard_obras.csv`. Power BI lo lee directo desde GitHub: *Obtener datos → Web →*
+`https://raw.githubusercontent.com/ochaccachavez-crypto/monitor-obras-educativas-paralizadas/main/data/final/dashboard_obras.csv`.
 
 ## Qué hace
 
