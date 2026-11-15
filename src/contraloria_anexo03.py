@@ -36,10 +36,11 @@ def _archivo_mas_reciente():
 
 def construir():
     """Cuenta los servicios de control por obra y guarda contraloria_servicios_control_obra.csv; devuelve la tabla."""
-    (anio, mes), ruta = _archivo_mas_reciente()
+    clave, ruta = _archivo_mas_reciente()
     if ruta is None:
         utils.log("ANEXO 03: no hay archivos de anexo 03 en data/raw/contraloria; se omite")
         return None
+    anio, mes = clave
     t = pd.read_excel(ruta, dtype=str).rename(columns=lambda c: re.sub(r"\s+", "_", str(c).strip().upper().replace("Ñ", "N")))
     columna = lambda *opciones: next(c for c in opciones if c in t.columns)
     codigo, tipo = columna("CODIGO_INFOBRAS"), columna("TIPO_CONTROL")
